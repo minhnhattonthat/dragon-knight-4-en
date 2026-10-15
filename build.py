@@ -205,7 +205,12 @@ def build(mode):
                 if (r['prev_op'] is None or r['prev_op'] in FALLTHROUGH_OPS) and r['off'] in prev_end.get(r['boff'], {}):
                     start_line = prev_end[r['boff']][r['off']]
                 trailing = bool(toks) and toks[-1][0] == 'nl'
-                first = layout.CELLS - MIDLINE_LEAD if (r['boff'], r['off']) in midline else layout.CELLS
+                first = layout.CELLS
+                if (r['boff'], r['off']) in midline:
+                    # "<name>, ..." attaches to the name; other continuations ("<the blue notebook> to write...")
+                    # follow English text of unknown length on that line, so they start on the next line
+                    t0 = next((t for t in texts if t), '')
+                    first = layout.CELLS - MIDLINE_LEAD if t0[:1] in ',.!?;:' else 0
                 body, end_line = layout.dlg_region(segs, start_line, trailing, first)
                 # the Japanese region filled its last page exactly (its last newline cleared the box): the next
                 # region may draw a speaker name assuming a fresh page, so the English must end on a page edge too

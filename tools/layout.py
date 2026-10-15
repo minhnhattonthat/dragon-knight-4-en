@@ -149,6 +149,9 @@ def dlg_region(segs, start_line=0, trailing_nl=False, first_budget=CELLS):
         elif portrait is not None:
             box.raw(bytes([0x10, 0x05, portrait]), used=False)
         fb = first_budget if si == 0 and not name else CELLS
+        if fb == 0 and text:   # mid-line with unknown room left: continue on the next line
+            box.nl()
+            fb = CELLS
         lines = wrap(text, fb) if text else []
         for j, ln in enumerate(lines):
             if box.line == 0 and not box.col_used and name and j > 0:
