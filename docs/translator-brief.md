@@ -46,6 +46,8 @@ Run `python -X utf8 tools/batches.py check <batch>` and fix every reported id un
 ## Notes from earlier batches
 - レイモンド王国 = "the Kingdom of Raymond"; レイモンド王 = "the King of Raymond". The checker now tells them apart.
 - Name checks are case-insensitive and allow drawn-out shouts ("SEEEIL!!", "Torhes!!").
+- 〜隊 after a name = "Cartas's Squad" style ("the X Squad"), never "Unit". ヴェルトー = Verto (Hardis's dragon).
+  魔導師 = sorcerer, 魔導師学校 = the School of Sorcery. Japanese typos (運ばう = 運ぼう) are read as intended.
 - Deliberate name mix-ups in the Japanese (e.g. Kakeru calling Torhes "Hortes") stay mix-ups.
 - 殿 from guards/servants to Kakeru -> "Master Kakeru". おじさん to a stranger -> "mister" (keep jokes about
   おじさん vs おにいさん as "mister" vs "big brother"/"old man" vs "young man").

@@ -12,7 +12,7 @@
   "speaker": "トーマス",
   "form": "dlg",
   "nlines": 2,
-  "jp": "ばうず、見かけない顔だな。 / ひとりでこの街にきたのか？",
+  "jp": "ぼうず、見かけない顔だな。 / ひとりでこの街にきたのか？",
   "en": "Kid, I don't recognize your face. Did you come to this town alone?"
  },
  {
@@ -36,7 +36,7 @@
   "speaker": "トーマス",
   "form": "dlg",
   "nlines": 2,
-  "jp": "さてと、これから仕事だ。 / じゃあな、ばうず。",
+  "jp": "さてと、これから仕事だ。 / じゃあな、ぼうず。",
   "en": "Well then, time to get to work. See ya, kid."
  },
  {
@@ -165,7 +165,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "「レイモンド王国」から、 / バーン様に手紙が届いたんだ…… / いったいどんな内容だったんだろ？",
-  "en": "A letter came for Lord Bahn from the King of Raymond... I wonder what it said?"
+  "en": "A letter came for Lord Bahn from the Kingdom of Raymond... I wonder what it said?"
  },
  {
   "id": "2FB86E_0425.0",
@@ -525,7 +525,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "『タケルとバーン、永遠の友』……。",
-  "en": "\"Takeru and Bahn, Friends Forever\"..."
+  "en": "'Takeru and Bahn, Friends Forever'..."
  },
  {
   "id": "2FB86E_095E.0",
@@ -613,7 +613,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よーし……。",
-  "en": "Right then......"
+  "en": "Right, then..."
  },
  {
   "id": "2FB86E_0AF6.0",
@@ -1261,7 +1261,7 @@
   "speaker": "セイル",
   "form": "dlg",
   "nlines": 1,
-  "jp": "ば、僕が旅に出る！？　き、きいてないよー！！",
+  "jp": "ぼ、僕が旅に出る！？　き、きいてないよー！！",
   "en": "Wh-what, I'm going on a journey?! N-nobody told me that!!"
  },
  {
@@ -1601,7 +1601,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はあはあはあ……。",
-  "en": "Huff huff huff......"
+  "en": "Huff huff huff..."
  },
  {
   "id": "2FB86E_1A66.0",
@@ -1753,7 +1753,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ライナスちゃん、 / 食べ物の中にしびれ薬を入れて…… / 私以外のみんなをひどいめに / あわせようとしたんです。",
-  "en": "Linus put paralysis medicine in the food... and tried to do horrible things to everyone except me."
+  "en": "Linus put a paralyzing drug in the food... and tried to do horrible things to everyone except me."
  },
  {
   "id": "2FB86E_1D17.0",
@@ -2016,7 +2016,7 @@
   "speaker": "マリアン",
   "form": "dlg",
   "nlines": 3,
-  "jp": "悲しいわ。 / 私はお姉さんではありません。 / ……遠庫せずにお母さんとお呼びなさい。",
+  "jp": "悲しいわ。 / 私はお姉さんではありません。 / ……遠慮せずにお母さんとお呼びなさい。",
   "en": "How sad. I am not \"Miss.\" ...Don't be shy, call me Mother."
  },
  {
@@ -2121,7 +2121,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "見てのとおりだよ、ただ話をしてるだけさ。",
-  "en": "Like you can see, we're just talking."
+  "en": "As you can see, we're just talking."
  },
  {
   "id": "2FB86E_228B.0",
@@ -2200,7 +2200,7 @@
   "speaker": "",
   "form": "dlg",
   "nlines": 3,
-  "jp": "ライナスちゃんに注ぐはずの愛は、 / このカケルちゃんに最後の一滴まで / しばりとられてしまいました。",
+  "jp": "ライナスちゃんに注ぐはずの愛は、 / このカケルちゃんに最後の一滴まで / しぼりとられてしまいました。",
   "en": "The love meant for Linus has been squeezed out of me, down to the last drop, by little Kakeru here."
  },
  {

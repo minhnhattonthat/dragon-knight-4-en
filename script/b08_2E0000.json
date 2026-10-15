@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ここがロンボニ大陸の最西端、カラープだあ！！",
-  "en": ""
+  "en": "This is the westernmost tip of the Romboni continent: Karap!!"
  },
  {
   "id": "2E0000_010C.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、ルシフォンの軍隊がいないよ。",
-  "en": ""
+  "en": "Eto, there's no sign of Lushifon's army."
  },
  {
   "id": "2E0000_011F.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きっと逃げ出したんだろ？",
-  "en": ""
+  "en": "They must've run off, right?"
  },
  {
   "id": "2E0000_012F.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうかなあ……。",
-  "en": ""
+  "en": "I wonder..."
  },
  {
   "id": "2E0000_013A.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "３週間ぶりの地面だが…… / 少し休んで、すぐに東に行くぞ！！",
-  "en": ""
+  "en": "First solid ground in 3 weeks... We'll rest a bit, then head straight east!!"
  },
  {
   "id": "2E0000_0162.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、隣にいるおにーさんはね、 / 小説家の卵なんだって。",
-  "en": ""
+  "en": "Kakeru, the big brother next to me is a budding novelist."
  },
  {
   "id": "2E0000_0162.1",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "話がすっごく面白いんだ。 / きっとこの人、有名な小説家になるよ。",
-  "en": ""
+  "en": "His stories are super interesting. I bet he'll be a famous novelist someday."
  },
  {
   "id": "2E0000_01B0.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕は隣のおにーさんと話してるんだ。 / 悪いけど邪魔しないで。",
-  "en": ""
+  "en": "I'm talking with the big brother next to me. Sorry, but don't interrupt."
  },
  {
   "id": "2E0000_01D6.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あれれれっ！？）",
-  "en": ""
+  "en": "(Huh-whaaat?!)"
  },
  {
   "id": "2E0000_01E3.0",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すうすう……。",
-  "en": ""
+  "en": "Zzz... zzz..."
  },
  {
   "id": "2E0000_01EF.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（メイフェアってすっごく寝相が悪いんだなあ、 / なんか意外だなあ……）",
-  "en": ""
+  "en": "(Wow, Mayfair sure tosses and turns in her sleep... Didn't expect that...)"
  },
  {
   "id": "2E0000_021B.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あれれれれ……）",
-  "en": ""
+  "en": "(Whoa whoa whoa...)"
  },
  {
   "id": "2E0000_0237.0",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ごろごろごろごろごろ……。",
-  "en": ""
+  "en": "Roll roll roll roll roll..."
  },
  {
   "id": "2E0000_0262.0",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あ、エトだ）",
-  "en": ""
+  "en": "(Oh, it's Eto.)"
  },
  {
   "id": "2E0000_026E.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おやおや、風邪をひいたらたいヘんだ…… / ベッドに運んでやろう。",
-  "en": ""
+  "en": "Well, well, it'd be terrible if she caught a cold... I'll carry her to bed."
  },
  {
   "id": "2E0000_02A7.0",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う……うん……。",
-  "en": ""
+  "en": "Mm... mmn..."
  },
  {
   "id": "2E0000_02B3.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お、目を覚ましたか。",
-  "en": ""
+  "en": "Oh, you're awake."
  },
  {
   "id": "2E0000_02C3.0",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん……？ / ……きゃあああああああっ！！",
-  "en": ""
+  "en": "Eto...? ...KYAAAAAAAH!!"
  },
  {
   "id": "2E0000_02C3.1",
@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どわわわわわっ！？",
-  "en": ""
+  "en": "Whoa-whoa-whoaaa?!"
  },
  {
   "id": "2E0000_02E7.0",
@@ -157,7 +157,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え、え、エトさん！",
-  "en": ""
+  "en": "E-E-Eto!"
  },
  {
   "id": "2E0000_02F6.0",
@@ -1457,7 +1457,7 @@
   "speaker": "ライナス",
   "form": "dlg",
   "nlines": 2,
-  "jp": "ロンボニ王国に行ったら……うっぷ…… / おばえてろよっ……うえっぷ！！",
+  "jp": "ロンボニ王国に行ったら……うっぷ…… / おぼえてろよっ……うえっぷ！！",
   "en": ""
  },
  {
@@ -1827,7 +1827,7 @@
   "speaker": "",
   "form": "dlg",
   "nlines": 2,
-  "jp": "ルシフォンの目的が、 / おばろげながらわかったからな……。",
+  "jp": "ルシフォンの目的が、 / おぼろげながらわかったからな……。",
   "en": ""
  },
  {

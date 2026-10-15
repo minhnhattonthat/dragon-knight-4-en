@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ハーディス。 / そろそろ貴様に働いてもらおう。",
-  "en": ""
+  "en": "Hardis. The time has come for you to do some work."
  },
  {
   "id": "2F7891_000E.1",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はっ、人間の勇者一行の始末……ですね。",
-  "en": ""
+  "en": "Yes, sir. Disposing of the human hero and his party... correct?"
  },
  {
   "id": "2F7891_0045.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだ。",
-  "en": ""
+  "en": "Indeed."
  },
  {
   "id": "2F7891_004F.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この世界で集めた即席の軍隊で / 遊んでやっていたのだが……",
-  "en": ""
+  "en": "I have been amusing myself with them using a makeshift army gathered in this world..."
  },
  {
   "id": "2F7891_0073.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "勇者様のご活躍というのも / そろそろ見飽きてきたので、な。",
-  "en": ""
+  "en": "but I have grown rather weary of watching the heroes' glorious exploits."
  },
  {
   "id": "2F7891_0097.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2F7891_009F.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "フフフ、私が自ら出てもかまわんが……？",
-  "en": ""
+  "en": "Heh heh heh, I would not mind going out myself, though...?"
  },
  {
   "id": "2F7891_00B8.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いえっ！",
-  "en": ""
+  "en": "No, sir!"
  },
  {
   "id": "2F7891_00C2.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "人間ごときを相手にするのに、 / ルシフォン様がわざわざ / 出向くことはありません！",
-  "en": ""
+  "en": "There is no need for you to trouble yourself, Lord Lushifon, over mere humans!"
  },
  {
   "id": "2F7891_00C2.1",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "フ、そのとおりだ。 / せいぜい楽しく遊んでくるがいい。 / 貴様が手こずるようなことは / ……まさかあるまいな？",
-  "en": ""
+  "en": "Heh, quite right. Go and enjoy your little game. Surely you will not find yourself struggling with them... will you?"
  },
  {
   "id": "2F7891_012A.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もちろんです。 / まあ、見ていてください。",
-  "en": ""
+  "en": "Of course not. Just watch me."
  },
  {
   "id": "2F7891_012A.1",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "フフフ、その言葉、忘れるな。",
-  "en": ""
+  "en": "Heh heh heh, do not forget those words."
  },
  {
   "id": "2F7891_0159.0",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "我がために……我が愛するマノのために / 力をつくすのだ！ / 貴様だってマノを救ってやりたいだろう？",
-  "en": ""
+  "en": "For my sake... for the sake of my beloved Mano, give it your all! Surely you, too, wish to save Mano?"
  },
  {
   "id": "2F7891_0159.1",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "当然です！",
-  "en": ""
+  "en": "Of course I do!"
  },
  {
   "id": "2F7891_019A.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "魔界の王・ミナクス様のご息女ともあろう方を、 / いつまでもあのような苦しい立場に / 置いておくわけにはまいりませんっ！",
-  "en": ""
+  "en": "The daughter of Lord Minax, King of the Demon World, cannot be left in such a painful position forever!"
  },
  {
   "id": "2F7891_019A.1",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ハハハ、おもしろい。 / マノのことになると貴様はいつも熱くなる。",
-  "en": ""
+  "en": "Hahaha, how amusing. You always grow so heated where Mano is concerned."
  },
  {
   "id": "2F7891_019A.2",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "貴様はマノに特別な感情を持っているのだな？",
-  "en": ""
+  "en": "You harbor special feelings for Mano, do you not?"
  },
  {
   "id": "2F7891_0224.0",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……そ、そんなことはけっして！　私は……！！",
-  "en": ""
+  "en": "...N-no, never! I would never...!!"
  },
  {
   "id": "2F7891_0240.0",
@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まあ、どうでもいいがな。",
-  "en": ""
+  "en": "Well, it matters little to me."
  },
  {
   "id": "2F7891_0252.0",
@@ -157,7 +157,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "とにかく人間どもを消し去って未来の魔界ヘ戻り / 私はマノと契りをかわす。 / さすれば私は魔界の王の……後継者だ。",
-  "en": ""
+  "en": "In any case, once the humans are wiped out, I shall return to the Demon World of the future and pledge myself to Mano. Then I shall be... heir to the King of the Demon World."
  },
  {
   "id": "2F7891_0252.1",
@@ -174,7 +174,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みごと任務をはたせば…… / 貴様にも私とマノのことを祝わせてやろう。",
-  "en": ""
+  "en": "Carry out your mission well... and I shall even allow you to celebrate Mano and me."
  },
  {
   "id": "2F7891_0299.1",
@@ -191,7 +191,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "では行け、ハーディス！ / 魔界の未来のため……私とマノのために！",
-  "en": ""
+  "en": "Now go, Hardis! For the future of the Demon World... for Mano and me!"
  },
  {
   "id": "2F7891_02CC.1",
@@ -208,7 +208,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ハーディス、我がしもべのドラゴン / ヴェルトーと共に……出撃します！",
-  "en": ""
+  "en": "...Hardis, together with my servant dragon Verto... moving out!"
  },
  {
   "id": "2F7891_0328.0",
@@ -216,7 +216,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "みなのもの、聞けぃ！",
-  "en": ""
+  "en": "All of you, hear me!"
  },
  {
   "id": "2F7891_0339.0",
@@ -224,7 +224,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "人間の勇者ども一行はラビニアを抜け、 / トリアノンに向かったらしい！",
-  "en": ""
+  "en": "It seems the human heroes have passed through Lavinia and are headed for Trianon!"
  },
  {
   "id": "2F7891_035B.0",
@@ -232,7 +232,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "我々はこれよりトリアノンの村を急襲し、 / 勇者どもを一気にせんめつする！",
-  "en": ""
+  "en": "We will now launch a surprise attack on the village of Trianon and annihilate those heroes in one stroke!"
  },
  {
   "id": "2F7891_035B.1",
@@ -240,7 +240,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……おう！",
-  "en": ""
+  "en": "...Yeah!"
  },
  {
   "id": "2F7891_038D.0",
@@ -257,7 +257,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……マノ様。",
-  "en": ""
+  "en": "...Lady Mano."
  },
  {
   "id": "2F7891_03A6.0",
@@ -265,7 +265,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ハーディス！",
-  "en": ""
+  "en": "...Hardis!"
  },
  {
   "id": "2F7891_03B1.0",
@@ -273,7 +273,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "あなたって…… / いつも私の側についていてくれるのですね。 / そしていつも護ってくれる。",
-  "en": ""
+  "en": "You... are always at my side, aren't you? And you always protect me."
  },
  {
   "id": "2F7891_03E1.0",
@@ -281,7 +281,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はい。",
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "2F7891_03EA.0",
@@ -289,7 +289,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それは……どうして？",
-  "en": ""
+  "en": "Why is that...?"
  },
  {
   "id": "2F7891_03FA.0",
@@ -306,7 +306,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、それは……。",
-  "en": ""
+  "en": "W-well, that's..."
  },
  {
   "id": "2F7891_040F.0",
@@ -314,7 +314,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おれ……いや、私は……マノ様を……。",
-  "en": ""
+  "en": "I... I mean, I... for you, Lady Mano..."
  },
  {
   "id": "2F7891_0426.0",
@@ -322,7 +322,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2F7891_042E.0",
@@ -330,7 +330,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……私は魔界の王の娘なのですよ。",
-  "en": ""
+  "en": "...I am the daughter of the King of the Demon World, you know."
  },
  {
   "id": "2F7891_0445.0",
@@ -338,7 +338,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "み、身分がちがいすぎるのは / 理解しているつもりです！ / た、ただ私は純粋に貴女に…… / そう、あこがれている……だけです！ / そんなやましいことはけっして……その……っ！",
-  "en": ""
+  "en": "I-I understand all too well that our stations are worlds apart! I-I simply... I simply admire you... that's all! It's nothing improper, I swear... it's... um...!"
  },
  {
   "id": "2F7891_0445.1",
@@ -346,7 +346,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それに私には心に決めた方が…… / ルシフォン様がいます。",
-  "en": ""
+  "en": "Besides, there is already someone I have given my heart to... Lord Lushifon."
  },
  {
   "id": "2F7891_0445.2",
@@ -354,7 +354,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わ、私は……！",
-  "en": ""
+  "en": "I-I...!"
  },
  {
   "id": "2F7891_04CF.0",
@@ -362,7 +362,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふふ、そんなにあわてないで。",
-  "en": ""
+  "en": "Hee hee, don't get so flustered."
  },
  {
   "id": "2F7891_04E3.0",
@@ -370,7 +370,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ごめんなさい、 / ちょっといじわるなことを言ったわね。",
-  "en": ""
+  "en": "I'm sorry, that was a little mean of me."
  },
  {
   "id": "2F7891_04FB.0",
@@ -378,7 +378,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "い、いえ！",
-  "en": ""
+  "en": "N-not at all!"
  },
  {
   "id": "2F7891_0506.0",
@@ -386,7 +386,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……しかし魔界の掟はきびしいもの。",
-  "en": ""
+  "en": "...But the laws of the Demon World are harsh."
  },
  {
   "id": "2F7891_051E.0",
@@ -394,7 +394,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたのその感情、 / けっして他では見せてはいけません。",
-  "en": ""
+  "en": "Those feelings of yours... you must never show them anywhere else."
  },
  {
   "id": "2F7891_053E.0",
@@ -402,7 +402,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……特にお父様の前では、ね。",
-  "en": ""
+  "en": "...Especially not in front of Father."
  },
  {
   "id": "2F7891_0552.0",
@@ -410,7 +410,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……はい！",
-  "en": ""
+  "en": "...Yes!"
  },
  {
   "id": "2F7891_055D.0",
@@ -418,7 +418,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゃあハーディス、ひとつだけ約束して。",
-  "en": ""
+  "en": "Then, Hardis, promise me just one thing."
  },
  {
   "id": "2F7891_0575.0",
@@ -426,7 +426,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "あなたはいつ、 / いかなる時でもこの私を護ってくれると。 / 私の騎士となってくれると。",
-  "en": ""
+  "en": "That you will protect me always, at any time. That you will be my knight."
  },
  {
   "id": "2F7891_0575.1",
@@ -434,7 +434,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私は、いつ、いかなる時も / あなたを護ることを……誓います。",
-  "en": ""
+  "en": "I swear... to protect you always, at any time."
  },
  {
   "id": "2F7891_0575.2",
@@ -442,7 +442,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふふ……。",
-  "en": ""
+  "en": "Hee hee..."
  },
  {
   "id": "2F7891_05CF.0",
@@ -450,7 +450,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "では、これをあなたに……。",
-  "en": ""
+  "en": "Then I give this to you..."
  },
  {
   "id": "2F7891_05E1.0",
@@ -458,7 +458,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "？　これは……ペンダント？",
-  "en": ""
+  "en": "? What's this... a pendant?"
  },
  {
   "id": "2F7891_05F6.0",
@@ -466,7 +466,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……そう。 / 私の騎士たる証と思ってください。",
-  "en": ""
+  "en": "...Yes. Think of it as proof that you are my knight."
  },
  {
   "id": "2F7891_05F6.1",
@@ -474,7 +474,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……は、はいっ！",
-  "en": ""
+  "en": "...Y-yes, my lady!"
  },
  {
   "id": "2F7891_0622.0",
@@ -482,7 +482,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "このハーディス、命をかけて / あなたをお護りすることを……誓います！",
-  "en": ""
+  "en": "I, Hardis, swear to protect you... with my very life!"
  },
  {
   "id": "2F7891_0646.0",
@@ -490,7 +490,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……あ。",
-  "en": ""
+  "en": "...Oh."
  },
  {
   "id": "2F7891_0650.0",
@@ -498,7 +498,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "は？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "2F7891_0658.0",
@@ -506,7 +506,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ペンダントあげたこと…… / ルシフォン様には内緒よ。",
-  "en": ""
+  "en": "...That I gave you the pendant... keep it a secret from Lord Lushifon."
  },
  {
   "id": "2F7891_0658.1",
@@ -523,7 +523,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……はい。",
-  "en": ""
+  "en": "...Yes."
  },
  {
   "id": "2F7891_068D.0",
@@ -531,7 +531,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それと……。",
-  "en": ""
+  "en": "And also..."
  },
  {
   "id": "2F7891_0698.0",
@@ -539,7 +539,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あなたの気持ちはとっても……。",
-  "en": ""
+  "en": "Your feelings... made me very..."
  },
  {
   "id": "2F7891_06AC.0",
@@ -547,7 +547,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……うれしかった。",
-  "en": ""
+  "en": "...happy."
  },
  {
   "id": "2F7891_06C2.0",
@@ -555,7 +555,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……マノ様……。",
-  "en": ""
+  "en": "...Lady Mano..."
  },
  {
   "id": "2F7891_06D3.0",
@@ -563,6 +563,6 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……必ずっ！",
-  "en": ""
+  "en": "...I will, without fail!"
  }
 ]

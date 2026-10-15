@@ -469,7 +469,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "西の空からは黒い霧が迫り、 / 東からはルシフォンの軍隊が迫ってくる…… / つまり俺たち、いや、すべての人間たちは / はさみ打ちにされてるんだ。",
-  "en": "From the western sky the Black Mist closes in, and from the east Lushifon's army is closing in... In other words, we, no, all humans, are caught in a pincer."
+  "en": "From the western sky the Black Mist closes in, and from the east Lushifon's army is closing in... In other words, we, no, all humans, are caught between two forces."
  },
  {
   "id": "2F0269_0719.0",
@@ -493,7 +493,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おにーさんだ。",
-  "en": "That's \"big brother.\""
+  "en": "It's \"young man,\" not \"mister.\""
  },
  {
   "id": "2F0269_0772.0",
@@ -501,7 +501,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おにーさん…… / あの黒い霧って、どこから出てきたの？",
-  "en": "Big brother... where did that Black Mist come from?"
+  "en": "Young man... where did that Black Mist come from?"
  },
  {
   "id": "2F0269_0772.1",
@@ -612,7 +612,7 @@
   "speaker": "カケル",
   "form": "dlg",
   "nlines": 1,
-  "jp": "ば、僕は……強い男だい！！",
+  "jp": "ぼ、僕は……強い男だい！！",
   "en": "I-I'm... a strong man!!"
  },
  {
@@ -724,7 +724,7 @@
   "speaker": "セイル",
   "form": "dlg",
   "nlines": 1,
-  "jp": "ば、僕はいやだ……パパに怒られる。",
+  "jp": "ぼ、僕はいやだ……パパに怒られる。",
   "en": "I-I don't want to... Papa will get mad at me."
  },
  {
@@ -788,7 +788,7 @@
   "speaker": "セイル",
   "form": "dlg",
   "nlines": 1,
-  "jp": "ば、僕が！？",
+  "jp": "ぼ、僕が！？",
   "en": "M-me?!"
  },
  {
@@ -1302,7 +1302,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "相棒、ようするにこいつは / パパの代理人ってことだ…… / 入れないわけにはいかないだろう。",
-  "en": "Partner, basically this kid is standing in for his papa... We can't very well not let him in."
+  "en": "Partner, basically this kid is standing in for his old man... We can't very well not let him in."
  },
  {
   "id": "2F0269_12B7.0",
@@ -1489,7 +1489,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "相棒、ようするにこいつは / パパの代理人ってことだ…… / 入れないわけにはいかないだろう。",
-  "en": "Partner, basically this kid is standing in for his papa... We can't very well not let him in."
+  "en": "Partner, basically this kid is standing in for his old man... We can't very well not let him in."
  },
  {
   "id": "2F0269_154E.0",
@@ -1934,7 +1934,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここでじっとしてれば、助かるかもしれないわ… / 私、ここにいる！！",
-  "en": ""
+  "en": "If I just stay put right here, maybe I'll be saved... I'm staying here!!"
  },
  {
   "id": "2F0269_1C92.0",
@@ -1942,7 +1942,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "に、逃げた方がいいぞ。 / 俺は西の大陸からきた商人なんだが。",
-  "en": ""
+  "en": "Y-you'd better get away from here. I'm a merchant from the western continent, see."
  },
  {
   "id": "2F0269_1C92.1",
@@ -1950,7 +1950,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "気味の悪い黒霧が、俺たちの乗ってた船の / うしろ半分を包み込んじまった。 / そうしたら、 / そこにいた人間が石になっちまったんだぜ！！",
-  "en": ""
+  "en": "A creepy black mist swallowed up the back half of the ship we were sailing on. And then the people who were back there turned to stone!!"
  },
  {
   "id": "2F0269_1D05.0",
@@ -1958,7 +1958,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "船は全速力で逃げたから、 / どうにか命は助かったけど…… / あの霧はそのうちこの国にもくるぜ、 / みんな俺の言うことを信じてくれよう！！",
-  "en": ""
+  "en": "The ship fled at full speed, so we somehow escaped with our lives... but that mist is gonna reach this kingdom sooner or later. Everybody, please believe me!!"
  },
  {
   "id": "2F0269_1D53.0",
@@ -1966,7 +1966,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうして俺はすぐに逃げないのかって？",
-  "en": ""
+  "en": "Why don't I run away right now, you ask?"
  },
  {
   "id": "2F0269_1D6B.0",
@@ -1974,7 +1974,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "実は、この街で商談が残ってるんだ…… / 見上げたもんだろ、この商人根性。",
-  "en": ""
+  "en": "Truth is, I've still got a business deal to close in this town... Admirable, huh? That's a true merchant's spirit for you."
  },
  {
   "id": "2F0269_1D9B.0",
@@ -1990,7 +1990,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ……まだ王様に会ってないよ。",
-  "en": ""
+  "en": "Huh... I haven't met the king yet."
  },
  {
   "id": "2F0269_1DB4.0",
@@ -2006,7 +2006,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "僕がここにきた目的は、 / レイモンドの王様に会うためだよ…… / 忘れちゃったの？",
-  "en": ""
+  "en": "The reason I came here is to meet the King of Raymond... Did you forget?"
  },
  {
   "id": "2F0269_1DEF.0",
@@ -2014,7 +2014,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そういえば、 / 王様と話の途中だったような気がする……。",
-  "en": ""
+  "en": "Come to think of it, I feel like I was in the middle of talking with the king..."
  },
  {
   "id": "2F0269_1E0E.0",
@@ -2022,7 +2022,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだな……黒い霧を見物しに行こうっと。",
-  "en": ""
+  "en": "Let's see... I'll go have a look at the Black Mist."
  },
  {
   "id": "2F0269_1E24.0",
@@ -2030,7 +2030,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうせだったら、 / セイルも連れてってあげよーっと。",
-  "en": ""
+  "en": "While I'm at it, I'll take Seil along too."
  },
  {
   "id": "2F0269_1E43.0",
@@ -2046,7 +2046,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やだなあ……僕はまだ王様に会ってないよ。",
-  "en": ""
+  "en": "Aw, c'mon... I haven't met the king yet."
  },
  {
   "id": "2F0269_1E62.0",
@@ -2062,7 +2062,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "王様に会わないと、バーンおじさんとの約束を / 守ったことにならないな……。",
-  "en": ""
+  "en": "If I don't meet the king, I won't have kept my promise to Uncle Bahn..."
  },
  {
   "id": "2F0269_1E6B.1",
@@ -2070,7 +2070,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そういえば、ライナスはどうしたんだろ？",
-  "en": ""
+  "en": "Come to think of it, what happened to Linus?"
  },
  {
   "id": "2F0269_1EAA.0",
@@ -2086,7 +2086,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だめだよ、王様に会わないと……。",
-  "en": ""
+  "en": "No good, I've gotta meet the king..."
  },
  {
   "id": "2F0269_1EC9.0",
@@ -2103,7 +2103,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わくわくするなあ……東に行けば、 / ルシフォンの軍隊と会うことができるんだ。",
-  "en": ""
+  "en": "This is so exciting... If I go east, I'll get to meet Lushifon's army."
  },
  {
   "id": "2F0269_1EE8.1",
@@ -2111,7 +2111,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いっけない……セイルのことを忘れてた、 / いっしょに連れてってあげないと。",
-  "en": ""
+  "en": "Oops... I forgot about Seil. I've gotta take him along with me."
  },
  {
   "id": "2F0269_1F3A.0",
@@ -2119,7 +2119,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは力の種を１個見つけた！！",
-  "en": ""
+  "en": "Kakeru found 1 Seed of Power!!"
  },
  {
   "id": "2F0269_1F4A.0",
@@ -2127,7 +2127,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは守りの種を１個見つけた！！",
-  "en": ""
+  "en": "Kakeru found 1 Seed of Defense!!"
  },
  {
   "id": "2F0269_1F52.0",
@@ -2135,7 +2135,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "むう……だれじゃ？",
-  "en": ""
+  "en": "Hmm... Who goes there?"
  },
  {
   "id": "2F0269_1F61.0",
@@ -2143,7 +2143,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕はカケル。「ヤマト・タケル」の息子だよ。",
-  "en": ""
+  "en": "I'm Kakeru. The son of \"Yamato Takeru.\""
  },
  {
   "id": "2F0269_1F7F.0",
@@ -2151,7 +2151,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "な、なんと！？　……バーン殿に手紙を出したら / タケル殿の息子が我が国にきおった！？",
-  "en": ""
+  "en": "Wh-what?! ...I sent a letter to Lord Bahn, and Lord Takeru's son came to our kingdom?!"
  },
  {
   "id": "2F0269_1F7F.1",
@@ -2159,7 +2159,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バーンおじさんの息子、 / セイルもこの国にきてるんだ。",
-  "en": ""
+  "en": "Uncle Bahn's son, Seil, came to this kingdom too."
  },
  {
   "id": "2F0269_1F7F.2",
@@ -2167,7 +2167,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "再びな、なんと！？",
-  "en": ""
+  "en": "Wh-what?! Again?!"
  },
  {
   "id": "2F0269_1FE0.0",
@@ -2175,7 +2175,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……バーン殿の息子も我が国に / きていると申すか！？",
-  "en": ""
+  "en": "...You say Lord Bahn's son has come to our kingdom as well?!"
  },
  {
   "id": "2F0269_1FFF.0",
@@ -2183,7 +2183,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……して、 / タケル殿とバーン殿はどこにおるのじゃ？",
-  "en": ""
+  "en": "...And so, where are Lord Takeru and Lord Bahn?"
  },
  {
   "id": "2F0269_1FFF.1",
@@ -2200,7 +2200,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "家におると申したのか？ / ……冗談を言っとる場合ではないぞ。",
-  "en": ""
+  "en": "You say they're at home? ...This is no time for jokes."
  },
  {
   "id": "2F0269_202B.1",
@@ -2208,7 +2208,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "冗談じゃないよ……本当だもの。",
-  "en": ""
+  "en": "I'm not joking... It's the truth."
  },
  {
   "id": "2F0269_2067.0",
@@ -2216,7 +2216,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あああ、なんてことじゃ……",
-  "en": ""
+  "en": "Ahhh, what a disaster..."
  },
  {
   "id": "2F0269_207A.0",
@@ -2224,7 +2224,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "タケル殿の行方がわからないゆえ、 / バーン殿に手紙を出せば、必ずやおふたりが / この国にまいってくれると信じておったのに。",
-  "en": ""
+  "en": "Since Lord Takeru's whereabouts were unknown, I believed that if I sent a letter to Lord Bahn, the two of them would surely come to this kingdom."
  },
  {
   "id": "2F0269_207A.1",
@@ -2232,7 +2232,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕じゃ……だめ？",
-  "en": ""
+  "en": "Won't... I do?"
  },
  {
   "id": "2F0269_20CA.0",
@@ -2240,15 +2240,15 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ、頭が痛くなってきたわい…… / 残された時間はわずかだと言うに。",
-  "en": ""
+  "en": "Ahh, I'm getting a headache... And so little time remains, too."
  },
  {
   "id": "2F0269_20F8.0",
   "speaker": "カケル",
   "form": "dlg",
   "nlines": 2,
-  "jp": "ねえ、どうしてお父さんたちを / この国に呼ばうとしたの？",
-  "en": ""
+  "jp": "ねえ、どうしてお父さんたちを / この国に呼ぼうとしたの？",
+  "en": "Hey, why did you try to call Dad and the others to this kingdom?"
  },
  {
   "id": "2F0269_20F8.1",
@@ -2256,7 +2256,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よいかカケル……とにかく時間がないのじゃ。",
-  "en": ""
+  "en": "Listen well, Kakeru... In any case, there's no time."
  },
  {
   "id": "2F0269_2135.0",
@@ -2264,7 +2264,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "私がこれから話すことを、 / タケル殿とバーン殿に伝えてくれ…… / そうすればことの重大さに気づき、 / 必ずやこの国にきてくれることであろう。",
-  "en": ""
+  "en": "Pass on what I am about to tell you to Lord Takeru and Lord Bahn... Then they will realize how grave the matter is, and they will surely come to this kingdom."
  },
  {
   "id": "2F0269_2184.0",
@@ -2272,7 +2272,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしてそんなに急いでるの？",
-  "en": ""
+  "en": "Why are you in such a hurry?"
  },
  {
   "id": "2F0269_2199.0",
@@ -2280,7 +2280,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "これが急がずにいられるか、手紙に書いた / ドラゴンナイトのうわさは本当なのじゃ。 / はるか東にある王国、 / ライムリンにその悪いやつらの親玉がおる。",
-  "en": ""
+  "en": "How could I not hurry? The rumors of the Dragon Knight I wrote of in my letter are true. In Limerin, a kingdom far to the east, is the boss of those villains."
  },
  {
   "id": "2F0269_21E9.0",
@@ -2288,7 +2288,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンナイトを名乗る男は、 / 『ルシフォン』というらしい。",
-  "en": ""
+  "en": "The man calling himself a Dragon Knight goes by the name of \"Lushifon,\" it seems."
  },
  {
   "id": "2F0269_2207.0",
@@ -2296,7 +2296,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンは、国王の娘と王妃を人質にとり、 / 軍隊をも制圧して海を渡って…… / 西の大陸に移動してきておるのじゃ。",
-  "en": ""
+  "en": "Lushifon took the king's daughter and the queen hostage, subdued the army as well, crossed the sea... and has moved onto the western continent."
  },
  {
   "id": "2F0269_224E.0",
@@ -2304,7 +2304,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "そして次々と国を奪い取り、 / 勢力を増大させているんじゃよ。 / ドラゴンナイト一族を復活させ、 / 我々が住む世界を、 / 再び闘いに明け暮れる世界にしようとしておる。",
-  "en": ""
+  "en": "And he's seizing one country after another, growing ever stronger. He intends to revive the Dragon Knight clan and turn the world we live in back into a world of endless battle."
  },
  {
   "id": "2F0269_224E.1",
@@ -2312,7 +2312,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ドラゴンナイトって……いい一族なんでしょ？",
-  "en": ""
+  "en": "Dragon Knights... they're a good clan, right?"
  },
  {
   "id": "2F0269_22C8.0",
@@ -2320,7 +2320,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バーン殿はいいドラゴンナイト一族じゃが…… / ルシフォンは悪いドラゴンナイト一族なんじゃ。",
-  "en": ""
+  "en": "Lord Bahn is of the good Dragon Knight clan... but Lushifon is of the evil Dragon Knight clan."
  },
  {
   "id": "2F0269_22C8.1",
@@ -2328,7 +2328,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それだけではない。",
-  "en": ""
+  "en": "And that's not all."
  },
  {
   "id": "2F0269_2304.0",
@@ -2336,7 +2336,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンは悪しきドラゴンどもと / 手を組んでいるのじゃ。",
-  "en": ""
+  "en": "Lushifon has joined hands with wicked dragons."
  },
  {
   "id": "2F0269_2320.0",
@@ -2344,7 +2344,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "人間相手なら、まだ勝ち目はあるが…… / 相手がドラゴンではのう。",
-  "en": ""
+  "en": "Against humans, we'd still have a chance of winning... but against dragons..."
  },
  {
   "id": "2F0269_2320.1",
@@ -2352,7 +2352,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うーん、そうか！　ドラゴンって強いんだね！ / 楽しみだなあ！！",
-  "en": ""
+  "en": "Hmm, I see! Dragons are strong, huh! I can't wait!!"
  },
  {
   "id": "2F0269_2320.2",
@@ -2360,7 +2360,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "とほほほほ……",
-  "en": ""
+  "en": "Woe is me..."
  },
  {
   "id": "2F0269_2371.0",
@@ -2368,7 +2368,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ドラゴンナイト一族の血を受け継ぐバーン殿が / きてくれたら、なんとかなるかも知れん…… / と思っておったのに。",
-  "en": ""
+  "en": "And here I thought that if Lord Bahn, who carries the blood of the Dragon Knight clan, came, we might somehow manage..."
  },
  {
   "id": "2F0269_2371.1",
@@ -2376,7 +2376,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "大丈夫だよ、セイルだっているし！……僕たちが / ライムリンってところに行ってあげる。",
-  "en": ""
+  "en": "It'll be fine, we've got Seil too! ...We'll go to that Limerin place for you."
  },
  {
   "id": "2F0269_2371.2",
@@ -2384,7 +2384,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ライムリン王国は東の果てじゃ……",
-  "en": ""
+  "en": "The Kingdom of Limerin lies at the far end of the east..."
  },
  {
   "id": "2F0269_23E8.0",
@@ -2392,7 +2392,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "行くと言っても、船を乗り継ぎ / １年はかかるじゃろう。",
-  "en": ""
+  "en": "Even if you say you'll go, changing ships along the way, it would take a year."
  },
  {
   "id": "2F0269_2409.0",
@@ -2400,7 +2400,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え！？　……そんなにかかるの！？",
-  "en": ""
+  "en": "Huh?! ...It takes that long?!"
  },
  {
   "id": "2F0269_241F.0",
@@ -2408,7 +2408,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "それに、わざわざライムリン王国に / 行く必要はないわい…… / もう隣街のユリシーズに、ルシフォンの先鋒隊が / 攻めてきておるといううわさじゃ。",
-  "en": ""
+  "en": "Besides, there's no need to go all the way to the Kingdom of Limerin... Rumor has it Lushifon's vanguard is already attacking the neighboring town of Ulysses."
  },
  {
   "id": "2F0269_2467.0",
@@ -2416,7 +2416,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "でも……ずいぶんとくるのが早いね。",
-  "en": ""
+  "en": "But... they sure got here fast."
  },
  {
   "id": "2F0269_247E.0",
@@ -2424,7 +2424,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "当たり前じゃよ、 / やつらはドラゴンを船がわりにしておるからな。",
-  "en": ""
+  "en": "Of course they did, the scoundrels are using dragons in place of ships."
  },
  {
   "id": "2F0269_247E.1",
@@ -2432,7 +2432,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "それにカケルとやら、 / さらに言わせてもらえれば……。 / ルシフォンというやつは、 / あやしい魔術を使うようなのじゃ…… / 西の空から怪しげな黒霧が迫ってきておるのを。",
-  "en": ""
+  "en": "And Kakeru, was it? If I may say more... this Lushifon fellow seems to use sinister sorcery... A sinister black mist is closing in from the western sky."
  },
  {
   "id": "2F0269_247E.2",
@@ -2440,7 +2440,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "かわいい国民たちにはまだ言っとらんが、",
-  "en": ""
+  "en": "I haven't told my dear subjects yet, but..."
  },
  {
   "id": "2F0269_2517.0",
@@ -2448,7 +2448,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あの黒霧に包まれるとたちどころに / 石になってしまうという話じゃ……。",
-  "en": ""
+  "en": "They say anyone engulfed by that black mist turns to stone on the spot..."
  },
  {
   "id": "2F0269_253F.0",
@@ -2456,7 +2456,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "みんなに言った方がいいよ……",
-  "en": ""
+  "en": "You'd better tell everybody..."
  },
  {
   "id": "2F0269_2553.0",
@@ -2464,7 +2464,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "西からくるんだったら、 / 東に逃げればいいじゃない？",
-  "en": ""
+  "en": "If it's coming from the west, can't they just run east?"
  },
  {
   "id": "2F0269_256F.0",
@@ -2472,7 +2472,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "ばっかもん、 / 東にはルシフォンの先鋒隊がおるわいっ / ……石になるかわりに / ルシフォンの軍勢に加わるか、 / あるいは殺されるかじゃ。",
-  "en": ""
+  "en": "You fool, Lushifon's vanguard is in the east! ...Instead of turning to stone, they'd join Lushifon's forces, or else be killed."
  },
  {
   "id": "2F0269_256F.1",
@@ -2480,7 +2480,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……だから手紙を送ったのじゃよ、",
-  "en": ""
+  "en": "...That's why I sent the letter."
  },
  {
   "id": "2F0269_25CD.0",
@@ -2488,7 +2488,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "唯一の望みがディードを倒した / タケル殿とバーン殿じゃったのじゃ……。",
-  "en": ""
+  "en": "Our only hope was Lord Takeru and Lord Bahn, who defeated Deed..."
  },
  {
   "id": "2F0269_25F6.0",
@@ -2496,7 +2496,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん、わくわくしてきたなあ。",
-  "en": ""
+  "en": "Wow, this is getting exciting."
  },
  {
   "id": "2F0269_2608.0",
@@ -2504,7 +2504,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わくわくしてきたじゃとっ！？……カケルっ！！ / ライムリンには、我が娘が嫁いでおるのじゃ！！",
-  "en": ""
+  "en": "Getting exciting, you say?! ...Kakeru!! My daughter is married into the royal family of Limerin!!"
  },
  {
   "id": "2F0269_2608.1",
@@ -2512,7 +2512,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "とってもかわいい孫も / 当然ライムリンの国におるっ！！ / ……しかし今となっては、 / どうなっとることやら。",
-  "en": ""
+  "en": "And my oh-so-adorable grandchild is naturally in Limerin too!! ...But now, who knows what's become of them."
  },
  {
   "id": "2F0269_2675.0",
@@ -2520,7 +2520,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "西の大陸に住んでおるお前の父タケルもすでに / 黒霧に包まれ、石になっとるかも知れんし……。",
-  "en": ""
+  "en": "Your father Takeru, who lives on the western continent, may already have been engulfed by the black mist and turned to stone..."
  },
  {
   "id": "2F0269_2675.1",
@@ -2528,7 +2528,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お父さんは平気だよ…… / 石になっても、きっと元気だよ。",
-  "en": ""
+  "en": "Dad'll be fine... Even if he turns to stone, I bet he'll be full of energy."
  },
  {
   "id": "2F0269_2675.2",
@@ -2536,7 +2536,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "はあはあはあっ……まったくお前は、 / どーゆー性格をしとるんじゃっ！？",
-  "en": ""
+  "en": "Huff huff huff... Honestly, what kind of personality do you have?!"
  },
  {
   "id": "2F0269_2675.3",
@@ -2544,7 +2544,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お父さんがね、いつも言うんだ。 / 「男は常に前向きに明るく生きろ」って。",
-  "en": ""
+  "en": "See, Dad always says, \"A man should always live looking forward, with a smile.\""
  },
  {
   "id": "2F0269_2729.0",
@@ -2552,7 +2552,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おーさまー！！　大変だあ、とうとう黒い霧が、 / 我が国に迫ってきましたあ！！",
-  "en": ""
+  "en": "Your Majestyyy!! We're in trouble, the black mist is finally closing in on our kingdom!!"
  },
  {
   "id": "2F0269_2729.1",
@@ -2560,7 +2560,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "仕方ない。",
-  "en": ""
+  "en": "It can't be helped."
  },
  {
   "id": "2F0269_275E.0",
@@ -2568,7 +2568,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こうなったらお前らの / 血筋にかけるしかないわいっ！！",
-  "en": ""
+  "en": "Now all I can do is bet on your bloodlines!!"
  },
  {
   "id": "2F0269_277E.0",
@@ -2576,7 +2576,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……我が軍隊を引き連れて、 / 見事ルシフォンの先鋒隊を打ち負かしてみい！！",
-  "en": ""
+  "en": "...Take my army with you and show me you can defeat Lushifon's vanguard!!"
  },
  {
   "id": "2F0269_27A8.0",
@@ -2584,7 +2584,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え！？　僕でいいの！？",
-  "en": ""
+  "en": "Huh?! Is it really okay to pick me?!"
  },
  {
   "id": "2F0269_27B9.0",
@@ -2592,7 +2592,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "選択の余地など、もうないわい！！",
-  "en": ""
+  "en": "I've no choice left anymore!!"
  },
  {
   "id": "2F0269_27D2.0",
@@ -2600,7 +2600,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……どうせワシは石になる身じゃ、 / あとはもう勝手にせい！！",
-  "en": ""
+  "en": "...I'm doomed to turn to stone anyway, so do as you please!!"
  },
  {
   "id": "2F0269_27F5.0",
@@ -2608,7 +2608,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ひえーーっ！！ / い、石になんかなりたくなーいっ！！ / ……に、逃げようっ！！",
-  "en": ""
+  "en": "Eeeek!! I-I don't wanna turn to stone!! ...R-run for it!!"
  },
  {
   "id": "2F0269_282A.0",
@@ -2616,7 +2616,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふん……ルシフォンの軍隊に殺されるより、 / 石になった方がマシじゃよ。",
-  "en": ""
+  "en": "Hmph... Better to turn to stone than be killed by Lushifon's army."
  },
  {
   "id": "2F0269_2851.0",
@@ -2632,7 +2632,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "レイモンド王は悩んでおります。 / あまり刺激をせぬように。",
-  "en": ""
+  "en": "The King of Raymond is troubled. Please try not to upset him."
  },
  {
   "id": "2F0269_2880.0",
@@ -2640,7 +2640,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "い、石になりたくない。 / 殺されたくもない。",
-  "en": ""
+  "en": "I-I don't want to turn to stone. I don't want to be killed, either."
  },
  {
   "id": "2F0269_2899.0",
@@ -2656,7 +2656,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "レイモンド王の為なら、 / 命など措しくありません。",
-  "en": ""
+  "en": "For the King of Raymond's sake, I would gladly give my life."
  },
  {
   "id": "2F0269_28C2.0",
@@ -2664,6 +2664,6 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "い、いやだあ。 / 死にたくなあい。",
-  "en": ""
+  "en": "N-no way. I don't wanna diiie."
  }
 ]

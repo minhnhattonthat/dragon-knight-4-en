@@ -253,6 +253,18 @@ def pairs(name):
     print(os.path.join(TL, name + '.pairs.txt'))
 
 
+def mkfix(name, ids):
+    """Fix batch: work/tl/<name>.tsv with the given ids (write <name>.out.tsv by hand, then check/merge)."""
+    names = load_names()
+    want = set(ids)
+    with open(os.path.join(TL, name + '.tsv'), 'w', encoding='utf-8', newline='\n') as f:
+        for fn, e in all_entries():
+            if e['id'] in want:
+                sp = names.get(e['speaker'], e['speaker']) if e['speaker'] else '-'
+                f.write('%s\t%s\t%s\t%s\t%s\n' % (e['id'], sp, e['form'], limit_of(e), e['jp']))
+                print('%s\t%s\t%s\n   EN: %s' % (e['id'], sp, e['jp'], e.get('en', '')))
+
+
 def status():
     tot = done = 0
     for fn, e in all_entries():
@@ -274,5 +286,7 @@ if __name__ == '__main__':
         merge(sys.argv[2:])
     elif cmd == 'pairs':
         pairs(sys.argv[2])
+    elif cmd == 'mkfix':
+        mkfix(sys.argv[2], sys.argv[3:])
     elif cmd == 'status':
         status()
