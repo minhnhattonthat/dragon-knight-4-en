@@ -6,3 +6,4 @@ release/
 tools/mesen/
 __pycache__/
 *.mss
+tools/asar/
