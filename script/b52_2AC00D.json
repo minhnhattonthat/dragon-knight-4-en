@@ -1781,7 +1781,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なにがだ！？",
-  "en": ""
+  "en": "W-what is?!"
  },
  {
   "id": "2AC00D_1701.0",
@@ -1789,7 +1789,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんとなくお礼を言いたい気分なの……",
-  "en": ""
+  "en": "I just sort of feel like thanking you..."
  },
  {
   "id": "2AC00D_171A.0",
@@ -1797,7 +1797,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたの軍隊に入れて、 / 本当によかったと思うわ。",
-  "en": ""
+  "en": "I'm really glad I joined your army."
  },
  {
   "id": "2AC00D_1736.0",
@@ -1805,7 +1805,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ネプチューン、私の軍隊ではない…… / みんなで作った軍隊なんだ。",
-  "en": ""
+  "en": "Neptune, it isn't my army... It's an army we all built together."
  },
  {
   "id": "2AC00D_1758.0",
@@ -1813,7 +1813,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォンを絶対にやっつけましょうね。",
-  "en": ""
+  "en": "Let's make sure we beat Lushifon, okay?"
  },
  {
   "id": "2AC00D_176E.0",
@@ -1830,7 +1830,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ゴロンゴン、バナナと話ができるのか？",
-  "en": ""
+  "en": "Gorongon, can you talk with bananas?"
  },
  {
   "id": "2AC00D_179C.0",
@@ -1838,7 +1838,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "はっはっは！！ / 以心伝心というやつだ…… / こうやってバナナを耳の穴に入れると。",
-  "en": ""
+  "en": "Hahaha!! It's what you call telepathy... You stick a banana in your ear hole like this, and..."
  },
  {
   "id": "2AC00D_17CE.0",
@@ -1846,7 +1846,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうなるんだ？",
-  "en": ""
+  "en": "And what happens?"
  },
  {
   "id": "2AC00D_17DB.0",
@@ -1854,7 +1854,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……どうなるんだろう……教えてくれ。",
-  "en": ""
+  "en": "...What does happen, I wonder... Tell me."
  },
  {
   "id": "2AC00D_17F4.0",
@@ -1862,7 +1862,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "たのむ、教えてくれ。",
-  "en": ""
+  "en": "Please, tell me."
  },
  {
   "id": "2AC00D_1805.0",
@@ -1870,7 +1870,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "エト…… / この港街に住んでいた人たちも、 / みんなルシフォン軍に / 連れて行かれちゃったのかしら？",
-  "en": ""
+  "en": "Eto... Do you think the people who lived in this port town were all taken away by Lushifon's army too?"
  },
  {
   "id": "2AC00D_1838.0",
@@ -1878,7 +1878,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "たぶんそうだな……",
-  "en": ""
+  "en": "Probably..."
  },
  {
   "id": "2AC00D_1847.0",
@@ -1886,7 +1886,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この港街はライムリン大陸に近い街だから、 / ルシフォン軍が攻めてきたのも / ずっと前なんじゃないか？",
-  "en": ""
+  "en": "This port town is close to the Limerin continent, so Lushifon's army probably attacked it long ago, don't you think?"
  },
  {
   "id": "2AC00D_1873.0",
@@ -1894,7 +1894,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なんか私たちって、 / 世界中の人を相手に闘ってるみたい。",
-  "en": ""
+  "en": "It feels like we're fighting against the whole world."
  },
  {
   "id": "2AC00D_1873.1",
@@ -1902,7 +1902,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "私たちの軍隊以外は、 / 全部ルシフォン軍なわけでしょ？ / ……自分でも、よく勝ち進んでこられたって / 感心しちゃうわ。",
-  "en": ""
+  "en": "Everyone except our army is part of Lushifon's army, right? ...Even I'm impressed we've managed to keep winning this far."
  },
  {
   "id": "2AC00D_18D3.0",
@@ -1910,7 +1910,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト……ライムリン大陸って、 / どんなところなのかしら？",
-  "en": ""
+  "en": "Eto... I wonder what the Limerin continent is like?"
  },
  {
   "id": "2AC00D_18EF.0",
@@ -1918,7 +1918,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん、また船旅ですね。",
-  "en": ""
+  "en": "Eto, another voyage, isn't it?"
  },
  {
   "id": "2AC00D_1902.0",
@@ -1926,7 +1926,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "次の大陸はライムリン大陸……",
-  "en": ""
+  "en": "The next continent is the Limerin continent..."
  },
  {
   "id": "2AC00D_1910.0",
@@ -1934,7 +1934,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンがいる、 / ライムリン王国がある大陸ですよね。",
-  "en": ""
+  "en": "It's the continent where Lushifon is, with the Kingdom of Limerin on it, right?"
  },
  {
   "id": "2AC00D_1927.0",
@@ -1942,7 +1942,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私たち以外の軍隊は、 / みんな負けてしまったのかしら？",
-  "en": ""
+  "en": "I wonder if all the armies besides ours have been defeated?"
  },
  {
   "id": "2AC00D_1927.1",
@@ -1950,7 +1950,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たぶん、ルシフォン軍に殺されたか / 捕廟にされたか……どちらかだろうな。",
-  "en": ""
+  "en": "Probably either killed by Lushifon's army or taken prisoner... one or the other."
  },
  {
   "id": "2AC00D_1927.2",
@@ -1958,7 +1958,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "クラリスのことが心配です…… / 無事でいてくれればいいのですけど。",
-  "en": ""
+  "en": "I'm worried about Clarice... I hope she's safe."
  },
  {
   "id": "2AC00D_1996.0",
@@ -1966,7 +1966,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "クラリスの無事をたしかめるには…… / ルシフォンを倒すのが一番早い方法ですね。",
-  "en": ""
+  "en": "The quickest way to make sure Clarice is safe... is to defeat Lushifon."
  },
  {
   "id": "2AC00D_19C0.0",
@@ -1974,7 +1974,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……また船旅だね。",
-  "en": ""
+  "en": "Eto... another voyage, huh?"
  },
  {
   "id": "2AC00D_19D0.0",
@@ -1982,7 +1982,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "次の大陸はライムリン大陸かあ…… / やっとたどり着けるんだね、エト。",
-  "en": ""
+  "en": "The next continent is the Limerin continent... We're finally getting there, aren't we, Eto?"
  },
  {
   "id": "2AC00D_19F2.0",
@@ -1990,7 +1990,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なあエト……マルレーネのことなんだけどさ。",
-  "en": ""
+  "en": "Hey, Eto... it's about Marlene."
  },
  {
   "id": "2AC00D_1A0A.0",
@@ -1998,7 +1998,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（どきっ！！）",
-  "en": ""
+  "en": "(Gulp!!)"
  },
  {
   "id": "2AC00D_1A16.0",
@@ -2006,7 +2006,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "彼女、耳は私たちに似てるけど…… / 色が黒いんだよな。",
-  "en": ""
+  "en": "Her ears look like ours... but her skin is dark, isn't it?"
  },
  {
   "id": "2AC00D_1A16.1",
@@ -2014,7 +2014,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "た、たぶん南国生まれなんだよ、うん。",
-  "en": ""
+  "en": "M-maybe she was born somewhere down south, yeah."
  },
  {
   "id": "2AC00D_1A53.0",
@@ -2022,7 +2022,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか……彼女は南国生まれなんだ。",
-  "en": ""
+  "en": "I see... so she was born down south."
  },
  {
   "id": "2AC00D_1A69.0",
@@ -2030,7 +2030,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンを倒したら、 / トリアノンの村に戻って…… / それからどうしようかな？",
-  "en": ""
+  "en": "Once we beat Lushifon, I'll go back to Trianon... and then what should I do?"
  },
  {
   "id": "2AC00D_1A8F.0",
@@ -2038,7 +2038,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "トリアノンの村を復興させるのはどうだ？",
-  "en": ""
+  "en": "How about rebuilding Trianon?"
  },
  {
   "id": "2AC00D_1AA5.0",
@@ -2055,7 +2055,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "たまにはいいことを言うじゃないか……",
-  "en": ""
+  "en": "You say something smart once in a while, huh..."
  },
  {
   "id": "2AC00D_1AC3.0",
@@ -2063,7 +2063,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだよ、ルシフォンを倒したら / トリアノンの村を復興させなきゃいけないんだ。",
-  "en": ""
+  "en": "That's right, once we beat Lushifon, I've got to rebuild Trianon."
  },
  {
   "id": "2AC00D_1AE7.0",
@@ -2071,7 +2071,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よーしっ……がんばるぞっ！！",
-  "en": ""
+  "en": "All riiight... I'll do my best!!"
  },
  {
   "id": "2AC00D_1AFB.0",
@@ -2079,7 +2079,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なあエト、 / 最近マルレーネの様子がおかしくないか？",
-  "en": ""
+  "en": "Hey, Eto, doesn't Marlene seem kind of off lately?"
  },
  {
   "id": "2AC00D_1AFB.1",
@@ -2105,7 +2105,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネってさあ…… / ほっとけないタイプなんだよな。",
-  "en": ""
+  "en": "Marlene, you know... she's the type you just can't leave alone."
  },
  {
   "id": "2AC00D_1B46.1",
@@ -2113,7 +2113,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "彼女の憂いを帯びた瞳を見ていると、 / それだけで心臓が飛び上がりそうに / なっちまうんだ。",
-  "en": ""
+  "en": "Just looking into those sorrowful eyes of hers makes my heart feel like it's about to leap out of my chest."
  },
  {
   "id": "2AC00D_1B9D.0",
@@ -2121,7 +2121,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネは俺の理想の女性さ…… / 美人で、知的でさ。",
-  "en": ""
+  "en": "Marlene is my ideal woman... Beautiful, and smart too."
  },
  {
   "id": "2AC00D_1BC0.0",
@@ -2129,7 +2129,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネに愛の告白をして、 / そしてふたりで、新たな冒険の旅に出るんだ。",
-  "en": ""
+  "en": "I'm gonna confess my love to Marlene, and then the two of us will set off on a new adventure."
  },
  {
   "id": "2AC00D_1BEB.0",
@@ -2137,7 +2137,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト殿……ここは酒場なのに、 / どうして酒がないのだぞい？",
-  "en": ""
+  "en": "Master Eto... this is a tavern, so why is there no booze, I tell ye?"
  },
  {
   "id": "2AC00D_1BEB.1",
@@ -2145,7 +2145,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン軍が、 / すべて持っていったのだろう。",
-  "en": ""
+  "en": "Lushifon's army must have taken it all."
  },
  {
   "id": "2AC00D_1BEB.2",
@@ -2162,7 +2162,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト殿……船旅が終れば、 / そこはもうライムリン大陸だぞい。",
-  "en": ""
+  "en": "Master Eto... once this voyage is over, we'll be on the Limerin continent, I tell ye."
  },
  {
   "id": "2AC00D_1C6F.0",
@@ -2170,7 +2170,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん、とうとうライムリン大陸ですわね。",
-  "en": ""
+  "en": "Eto, at last it's the Limerin continent."
  },
  {
   "id": "2AC00D_1C82.0",
@@ -2178,7 +2178,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ、ルシフォンがいる大陸だ。",
-  "en": ""
+  "en": "Yes, the continent where Lushifon is."
  },
  {
   "id": "2AC00D_1C95.0",
@@ -2186,7 +2186,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォンがいる大陸……",
-  "en": ""
+  "en": "The continent where Lushifon is..."
  },
  {
   "id": "2AC00D_1CA5.0",
@@ -2194,7 +2194,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ、とうとう目的を / 果たすことができるのですね。",
-  "en": ""
+  "en": "Ah, at last we can achieve our goal."
  },
  {
   "id": "2AC00D_1CC1.0",
@@ -2202,7 +2202,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "目的が果たせるかどうかは彼女しだいだろう。",
-  "en": ""
+  "en": "Whether we achieve it or not depends on her."
  },
  {
   "id": "2AC00D_1CDE.0",
@@ -2210,7 +2210,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "彼女？",
-  "en": ""
+  "en": "Her?"
  },
  {
   "id": "2AC00D_1CE7.0",
@@ -2218,7 +2218,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "い、いや……こっちの話だ。",
-  "en": ""
+  "en": "N-no... never mind, just talking to myself."
  },
  {
   "id": "2AC00D_1CFA.0",
@@ -2235,7 +2235,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンを倒したら、 / ロンボニ王国に戻るんだったな……ビアンカは。",
-  "en": ""
+  "en": "Once we beat Lushifon, you're going back to the Kingdom of Romboni, aren't you, Bianca?"
  },
  {
   "id": "2AC00D_1CFA.2",
@@ -2243,7 +2243,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いやですわエトさん、 / 他人ごとみたいな言い方をしないでください。",
-  "en": ""
+  "en": "Oh, don't, Eto. Please don't talk as if it has nothing to do with you."
  },
  {
   "id": "2AC00D_1D60.0",
@@ -2251,7 +2251,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぶつぶつぶつぶつ……エト、また船旅なのか？",
-  "en": ""
+  "en": "Mutter mutter mutter... Eto, another voyage?"
  },
  {
   "id": "2AC00D_1D77.0",
@@ -2259,7 +2259,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ、また船旅だ。",
-  "en": ""
+  "en": "Yes, another voyage."
  },
  {
   "id": "2AC00D_1D86.0",
@@ -2267,7 +2267,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私は船が嫌いなのだ……",
-  "en": ""
+  "en": "I hate ships..."
  },
  {
   "id": "2AC00D_1D97.0",
@@ -2275,7 +2275,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "船が揺れるたびに、 / 私の繊細な感性がピリピリと刺激される。",
-  "en": ""
+  "en": "Every time the ship rocks, my delicate sensibilities are set on edge."
  },
  {
   "id": "2AC00D_1DC0.0",
@@ -2283,7 +2283,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネクラマンサーって、デリケートなんだな。",
-  "en": ""
+  "en": "So the Necromancer is the sensitive type."
  },
  {
   "id": "2AC00D_1DD6.0",
@@ -2291,7 +2291,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふん……魔導師はデリケートでなければ / つとまらないのだよ。",
-  "en": ""
+  "en": "Hmph... A sorcerer cannot do his job unless he is sensitive."
  },
  {
   "id": "2AC00D_1DFD.0",
@@ -2308,7 +2308,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ねえねえ、ロイドンを知らない？",
-  "en": ""
+  "en": "Hey, hey, have you seen Roydon?"
  },
  {
   "id": "2AC00D_1E22.0",
@@ -2316,7 +2316,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしてそんなにロイドンを気にするんだ？",
-  "en": ""
+  "en": "Why do you care so much about Roydon?"
  },
  {
   "id": "2AC00D_1E3A.0",
@@ -2324,7 +2324,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "決まってるじゃない…… / 私たち、つき合ってるからよ。",
-  "en": ""
+  "en": "Isn't it obvious...? Because we're going out."
  },
  {
   "id": "2AC00D_1E3A.1",
@@ -2332,7 +2332,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "つき合ってる！？",
-  "en": ""
+  "en": "Going out?!"
  },
  {
   "id": "2AC00D_1E66.0",
@@ -2349,7 +2349,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちくしょう……知らなかった。",
-  "en": ""
+  "en": "Damn it... I had no idea."
  },
  {
   "id": "2AC00D_1E89.0",
@@ -2357,7 +2357,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんなことよりロイドンのことよ…… / どこでなにをしてるのかしら？",
-  "en": ""
+  "en": "Never mind that, it's Roydon I'm talking about... Where is he, and what is he doing?"
  },
  {
   "id": "2AC00D_1EAF.0",
@@ -2365,7 +2365,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうせロイドンのことだ…… / 机にかじりついてるんじゃないか？",
-  "en": ""
+  "en": "Knowing Roydon... isn't he glued to his desk?"
  },
  {
   "id": "2AC00D_1EAF.1",
@@ -2373,7 +2373,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もう、たまには私といっしょにいて欲しいわ。",
-  "en": ""
+  "en": "Honestly, I wish he'd spend time with me once in a while."
  },
  {
   "id": "2AC00D_1EEC.0",
@@ -2381,7 +2381,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いっしょにいればいいじゃないか。",
-  "en": ""
+  "en": "Then just stay with him."
  },
  {
   "id": "2AC00D_1F00.0",
@@ -2389,7 +2389,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だめよ……彼ったら、 / 私が横にいると気が散るって言うんですもの。",
-  "en": ""
+  "en": "I can't... He says having me beside him distracts him."
  },
  {
   "id": "2AC00D_1F29.0",
@@ -2397,7 +2397,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あーあ……たまにはロイドンと、 / ゆっくり話がしたいなあ。",
-  "en": ""
+  "en": "Haaah... I'd like to have a nice long talk with Roydon once in a while."
  },
  {
   "id": "2AC00D_1F49.0",
@@ -2405,7 +2405,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ロイドンとゆっくり話ができるのは、 / ルシフォンを倒したあとになりそうね。",
-  "en": ""
+  "en": "Looks like I won't get a nice long talk with Roydon until after we beat Lushifon."
  },
  {
   "id": "2AC00D_1F6F.0",
@@ -2440,7 +2440,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "まさか……また黒い霧が / 動き出したんじゃないだろうな？",
-  "en": ""
+  "en": "Don't tell me... the Black Mist is on the move again?"
  },
  {
   "id": "2AC00D_1FF6.0",
@@ -2448,7 +2448,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "この港に停泊してる船に、見おぼえがあるの。",
-  "en": ""
+  "en": "I recognize the ship anchored in this port."
  },
  {
   "id": "2AC00D_2014.0",
@@ -2465,7 +2465,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もしかして、黒い霧が動き出したとか？",
-  "en": ""
+  "en": "Could it be that the Black Mist is on the move?"
  },
  {
   "id": "2AC00D_206B.0",
@@ -2473,7 +2473,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "女の子って……変なの。",
-  "en": ""
+  "en": "Girls are... weird."
  },
  {
   "id": "2AC00D_207B.0",
@@ -2481,7 +2481,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "すっごく好きな男の人じゃなくても、 / ちょっとキスなんかしちゃうと、 / 妙に気になるのよね。",
-  "en": ""
+  "en": "Even if he isn't a guy you really, really like, once you've kissed him a little, you just can't stop thinking about him."
  },
  {
   "id": "2AC00D_207B.1",
@@ -2498,7 +2498,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもあの人には、ナターシャがいるし。 / あきらめるしかないのかなあ……。",
-  "en": ""
+  "en": "But he's got Natasha. I guess I'll just have to give up..."
  },
  {
   "id": "2AC00D_20B1.1",
@@ -2506,7 +2506,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "2AC00D_20DC.0",
@@ -2514,7 +2514,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ありがとうエト…… / 話を聞いてもらったら、気分が楽になったわ。",
-  "en": ""
+  "en": "Thanks, Eto... Having you listen to me made me feel better."
  },
  {
   "id": "2AC00D_20DC.1",
@@ -2522,7 +2522,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どういたしまして。",
-  "en": ""
+  "en": "You're welcome."
  },
  {
   "id": "2AC00D_2111.0",
@@ -2548,7 +2548,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "よく寝てるな。 / 船に乗り遅れなければいいが。",
-  "en": ""
+  "en": "Sound asleep. I hope we don't miss the ship."
  },
  {
   "id": "2AC00D_2174.0",
@@ -2556,7 +2556,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ラビットは疲れてるんだ、寝かせてあげよう。",
-  "en": ""
+  "en": "Rabbit is tired. Let's let her sleep."
  },
  {
   "id": "2AC00D_218E.0",
@@ -2573,7 +2573,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "パウエルは寝ている…… / そっとしておいてあげよう。",
-  "en": ""
+  "en": "Powell is asleep... Let's leave him be."
  },
  {
   "id": "2AC00D_21BE.0",
@@ -2581,7 +2581,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "にゃんにゃん、船は苦手だにゃん…… / 乗りたくないにゃん。",
-  "en": ""
+  "en": "Nya nya, I hate ships, nya... I don't wanna get on, nya."
  },
  {
   "id": "2AC00D_21BE.1",
@@ -2598,7 +2598,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今度の船旅が最後だと聞いたにゃん…… / ウソだったら、承知しないにゃん。",
-  "en": ""
+  "en": "I heard this voyage is the last one, nya... If that's a lie, I won't forgive you, nya."
  },
  {
   "id": "2AC00D_2203.1",
@@ -2606,7 +2606,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私が保証しよう、これが最後の船旅だ…… / もっともカケルはそうでないかも知れないが。",
-  "en": ""
+  "en": "I guarantee it, this is the last voyage... Though for Kakeru, perhaps not."
  },
  {
   "id": "2AC00D_2203.2",
@@ -2614,7 +2614,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……意味不明のことを言うにゃん。",
-  "en": ""
+  "en": "...You're talking nonsense, nya."
  },
  {
   "id": "2AC00D_2270.0",
@@ -2622,7 +2622,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いやなことは先にすませたいにゃんっ……",
-  "en": ""
+  "en": "I wanna get the nasty stuff over with first, nya..."
  },
  {
   "id": "2AC00D_2289.0",
@@ -2630,7 +2630,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "早くいやな船に乗って、 / いやな船旅をするにゃん。",
-  "en": ""
+  "en": "Let's hurry and get on the nasty ship and take the nasty voyage, nya."
  },
  {
   "id": "2AC00D_22A3.0",
@@ -2638,7 +2638,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "むむむっ……。",
-  "en": ""
+  "en": "Mmmgh..."
  },
  {
   "id": "2AC00D_22AF.0",
@@ -2646,7 +2646,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ど、どうしたんだ？",
-  "en": ""
+  "en": "W-what's wrong?"
  },
  {
   "id": "2AC00D_22BE.0",
@@ -2654,7 +2654,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "甲板に立っていたマルレーネに / 話しかけたんだが…… / まったく相手にしてもらえんのだ。",
-  "en": ""
+  "en": "I spoke to Marlene while she was standing on the deck... and she completely ignored me."
  },
  {
   "id": "2AC00D_22F0.0",
@@ -2671,7 +2671,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "たしかにあの女は美人だ、 / しかもとびきりの美人だ…… / それにスタイルもいい。",
-  "en": ""
+  "en": "That woman is certainly beautiful, extraordinarily beautiful... and she has a fine figure."
  },
  {
   "id": "2AC00D_2349.0",
@@ -2679,7 +2679,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "おっぱいも大きいし、 / 小麦色の肌だって魅力的だ…… / 長い髪はプラチナのように輝いているし、 / まつ毛だって長いだろう。",
-  "en": ""
+  "en": "Her bust is ample, her sun-kissed skin is enchanting... her long hair shines like platinum, and her eyelashes are long too."
  },
  {
   "id": "2AC00D_2395.0",
@@ -2687,7 +2687,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だ、だめだ……いくら冷たくされても、 / 忘れることができそうにないっ！！",
-  "en": ""
+  "en": "I-it's no use... No matter how coldly she treats me, I don't think I can ever forget her!!"
  },
  {
   "id": "2AC00D_23C0.0",
@@ -2704,7 +2704,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "むずかしい問題だな……見当もつかないぞ。",
-  "en": ""
+  "en": "That's a tough problem... I haven't the faintest idea."
  },
  {
   "id": "2AC00D_23FA.0",
@@ -2712,7 +2712,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……それは私だからか？",
-  "en": ""
+  "en": "Eto... is that because it's me?"
  },
  {
   "id": "2AC00D_240D.0",
@@ -2720,7 +2720,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "い、いいや……そういう意味で言ったんだ。",
-  "en": ""
+  "en": "N-no... I meant it in general."
  },
  {
   "id": "2AC00D_2425.0",
@@ -2728,7 +2728,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだろう、そうだろう……",
-  "en": ""
+  "en": "Of course, of course..."
  },
  {
   "id": "2AC00D_2438.0",
@@ -2736,7 +2736,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私に限らず、だれだってマルレーネを落とすのは / 難しいからな。",
-  "en": ""
+  "en": "Not just me, anyone would find Marlene hard to win over."
  },
  {
   "id": "2AC00D_245A.0",
@@ -2744,7 +2744,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……あれ？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "2AC00D_2465.0",
@@ -2752,7 +2752,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "思い切って、告白してしまおうか。",
-  "en": ""
+  "en": "Maybe I should just take the plunge and confess."
  },
  {
   "id": "2AC00D_247E.0",
@@ -2760,7 +2760,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "トルルは……船に乗らなくていいんだよな。",
-  "en": ""
+  "en": "Torul... you don't need to get on the ship, do you?"
  },
  {
   "id": "2AC00D_2497.0",
@@ -2768,7 +2768,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "当たり前だよ、僕にはサイレスがいるからね。",
-  "en": ""
+  "en": "Of course not, I've got Cyres."
  },
  {
   "id": "2AC00D_24B4.0",
@@ -2776,7 +2776,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "そんなことよりエト、 / ルシフォンってどんなやつなんだい？ / ……みんな、ルシフォン、ルシフォンって、 / やたら意識してるけどさ。",
-  "en": ""
+  "en": "More importantly, Eto, what kind of guy is this Lushifon? ...Everyone's always going \"Lushifon, Lushifon,\" like he's such a big deal."
  },
  {
   "id": "2AC00D_24F3.0",
@@ -2784,7 +2784,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンだろうがサイフォンだろうが、 / サイレスと僕のコンビにはかなわないよ…… / たとえ魔法を使ってきたってヘっちゃらさ。",
-  "en": ""
+  "en": "Lushifon or Syphon or whatever, he's no match for the combo of Cyres and me... Even if he uses magic, no sweat."
  },
  {
   "id": "2AC00D_253B.0",
@@ -2792,7 +2792,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルにも言ったんだけどさ、",
-  "en": ""
+  "en": "I told Kakeru too,"
  },
  {
   "id": "2AC00D_254E.0",
@@ -2800,7 +2800,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "サイレスに頼んで船の早さに合わせて / 飛んであげるよ……",
-  "en": ""
+  "en": "I'll have Cyres fly alongside at the ship's speed..."
  },
  {
   "id": "2AC00D_2571.0",
@@ -2808,7 +2808,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "敵のドラゴンナイトに攻撃されないように、 / 見張りにもなるしさ。",
-  "en": ""
+  "en": "That way we can keep watch too, so the enemy Dragon Knights can't attack."
  },
  {
   "id": "2AC00D_2595.0",
@@ -2816,7 +2816,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "助かるぞ、トルル。",
-  "en": ""
+  "en": "That's a big help, Torul."
  },
  {
   "id": "2AC00D_25A3.0",
@@ -2842,7 +2842,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レア……海を見ているのか？",
-  "en": ""
+  "en": "Rhea... are you looking at the sea?"
  },
  {
   "id": "2AC00D_25F1.0",
@@ -2850,7 +2850,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん、この港街に停泊してる船は…… / 私たちがタスタの港街に残してきた船ですね。",
-  "en": ""
+  "en": "Eto, the ship anchored in this port town... it's the one we left behind at the port town of Tasta, isn't it?"
  },
  {
   "id": "2AC00D_25F1.1",
@@ -2858,7 +2858,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "黒い霧が……また動きだしたのでしょうか。",
-  "en": ""
+  "en": "Could the Black Mist... be on the move again?"
  },
  {
   "id": "2AC00D_2636.0",
@@ -2866,7 +2866,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん、早く出航しましょう。",
-  "en": ""
+  "en": "Eto, let's set sail soon."
  },
  {
   "id": "2AC00D_264C.0",
@@ -2874,7 +2874,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンを倒せば、石になった人たちは / 本当に元に戻るんでしょうか？",
-  "en": ""
+  "en": "If we defeat Lushifon, will the people who were turned to stone really go back to normal?"
  },
  {
   "id": "2AC00D_264C.1",
@@ -2882,7 +2882,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……そう信じるんだ / ……いまはそれしかできないだろう？",
-  "en": ""
+  "en": "...Believe it will. ...That's all we can do for now, isn't it?"
  },
  {
   "id": "2AC00D_2691.0",
@@ -2899,7 +2899,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いや知らんな。 / なにかあったのか？",
-  "en": ""
+  "en": "No, I don't know. Did something happen?"
  },
  {
   "id": "2AC00D_26A9.1",
@@ -2907,7 +2907,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "セイルのやつ、ドワラルの村で / あたしのお風呂をのぞいていたのよっ！ / あそこまで軟弱なやつとは思わなかったわっ！！",
-  "en": ""
+  "en": "That Seil was peeping on me in the bath in Dwaral! I never thought he was such a lowlife!!"
  },
  {
   "id": "2AC00D_26FF.0",
@@ -2915,7 +2915,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ほう、そんなことがあったのか。",
-  "en": ""
+  "en": "Oh? So that happened, did it?"
  },
  {
   "id": "2AC00D_2714.0",
@@ -2923,7 +2923,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ゆるせなーいっ！ / 乙女の入浴姿をのぞくなんてっ！",
-  "en": ""
+  "en": "Unforgivable! Peeping on a maiden in the bath!"
  },
  {
   "id": "2AC00D_2714.1",
@@ -2940,7 +2940,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ、がんばれよ。",
-  "en": ""
+  "en": "Yes, good luck."
  },
  {
   "id": "2AC00D_2776.0",
@@ -2948,7 +2948,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル……この試練に耐えて成長しろよ……。",
-  "en": ""
+  "en": "Seil... endure this trial and grow stronger..."
  },
  {
   "id": "2AC00D_2793.0",
@@ -2956,7 +2956,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、あんたものぞいたら殺すわよ。",
-  "en": ""
+  "en": "Eto, if you peek too, I'll kill you."
  },
  {
   "id": "2AC00D_27AA.0",
@@ -2964,7 +2964,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ、もうそんなおそろしいことは / しないようにしよう。",
-  "en": ""
+  "en": "Yes, I'll try not to do anything that frightening anymore."
  },
  {
   "id": "2AC00D_27AA.1",
@@ -2972,7 +2972,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……もう、ってなによ。",
-  "en": ""
+  "en": "...What do you mean, \"anymore\"?"
  },
  {
   "id": "2AC00D_27E7.0",
@@ -2980,7 +2980,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあエト君、ドラゴニア大陸ともお別れだね。",
-  "en": ""
+  "en": "Hey, Eto, so it's goodbye to the Dragonia continent."
  },
  {
   "id": "2AC00D_27FC.0",
@@ -2988,7 +2988,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……しかしこれからが大事な時だ、",
-  "en": ""
+  "en": "Yes... but now comes the crucial time."
  },
  {
   "id": "2AC00D_2812.0",
@@ -2996,7 +2996,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここまできて負けてしまったら、 / 今までの苦労が水の泡だからな。",
-  "en": ""
+  "en": "If we lose after coming this far, all our hard work up to now will have been for nothing."
  },
  {
   "id": "2AC00D_283A.0",
@@ -3013,7 +3013,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロイドンもライムリン大陸に渡るんだろう？",
-  "en": ""
+  "en": "You're crossing over to the Limerin continent too, aren't you, Roydon?"
  },
  {
   "id": "2AC00D_2871.0",
@@ -3021,7 +3021,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "当たり前じゃないか…… / 僕だって、これからが大事なんだよ。",
-  "en": ""
+  "en": "Of course I am... Now's the crucial time for me too."
  },
  {
   "id": "2AC00D_2871.1",
@@ -3029,7 +3029,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ここまで書き上げた小説を、 / 途中でやめるわけにはいかないからね…… / だれがなんと言おうと、 / 僕は君たちといっしょに行動するつもりさ。",
-  "en": ""
+  "en": "I can't quit the novel I've written this far halfway through... No matter what anyone says, I intend to stick with you all."
  },
  {
   "id": "2AC00D_28DE.0",
@@ -3037,7 +3037,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "しかし……危険すぎると思うんだが。",
-  "en": ""
+  "en": "But... I think it's too dangerous."
  },
  {
   "id": "2AC00D_28F6.0",
@@ -3045,7 +3045,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル君にも同じことを言われたよ…… / でも、僕が書いてる冒険小説はどうなるんだい？",
-  "en": ""
+  "en": "Kakeru told me the same thing... But then what happens to the adventure novel I'm writing?"
  },
  {
   "id": "2AC00D_28F6.1",
@@ -3053,7 +3053,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わかった、ロイドンも男だからな…… / 自分の命は自分で守るわけだ。",
-  "en": ""
+  "en": "All right, Roydon, you're a man too... So you'll protect your own life yourself."
  },
  {
   "id": "2AC00D_28F6.2",
@@ -3061,7 +3061,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もちろんさ。",
-  "en": ""
+  "en": "Of course."
  },
  {
   "id": "2AC00D_2954.0",
@@ -3069,7 +3069,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だれかに助けてもらうつもりだったら、 / 僕だってライムリン大陸にはいかないさ。",
-  "en": ""
+  "en": "If I were planning on having someone save me, I wouldn't be going to the Limerin continent."
  },
  {
   "id": "2AC00D_2979.0",
@@ -3077,7 +3077,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト、この話はもうよそう…… / とにかく僕はこの小説に命をかけているんだ。",
-  "en": ""
+  "en": "Eto, let's drop this... Anyway, I'm staking my life on this novel."
  },
  {
   "id": "2AC00D_2979.1",
@@ -3085,7 +3085,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……わかったよ、ロイドン。",
-  "en": ""
+  "en": "Yes... I understand, Roydon."
  },
  {
   "id": "2AC00D_29B4.0",
@@ -3093,7 +3093,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ありがとうエト、",
-  "en": ""
+  "en": "Thanks, Eto,"
  },
  {
   "id": "2AC00D_29C2.0",
@@ -3101,7 +3101,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わかってもらったついでに、 / さっそく君の話が聞きたいんだが……",
-  "en": ""
+  "en": "and since you understand, I'd like to hear your story right away..."
  },
  {
   "id": "2AC00D_29F3.0",
@@ -3253,7 +3253,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "けっけっけっ……あの子だよ、 / そう、あの子がナターシャなんだ。",
-  "en": ""
+  "en": "Kekeke... That girl, yeah, that girl is Natasha."
  },
  {
   "id": "2AC00D_2B86.1",
@@ -3261,7 +3261,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どう見ても、カケルが好きな女はあいつだな。",
-  "en": ""
+  "en": "Any way you look at it, she's the girl Kakeru likes."
  },
  {
   "id": "2AC00D_2BC2.0",

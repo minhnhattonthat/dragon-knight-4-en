@@ -158,7 +158,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル、お城の中に入ったら私のそばにいて！！",
-  "en": ""
+  "en": "Seil, stay by my side once we're inside the castle!!"
  },
  {
   "id": "293A3A_025A.0",
@@ -228,7 +228,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネ、いくわよ。",
-  "en": ""
+  "en": "Helene, let's go."
  },
  {
   "id": "293A3A_0335.0",
@@ -236,7 +236,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネ、かたきはとってあげるわ……。",
-  "en": ""
+  "en": "Helene, I'll avenge you..."
  },
  {
   "id": "293A3A_034D.0",
@@ -297,7 +297,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……こわくなんか……ないわ……。",
-  "en": ""
+  "en": "...I'm not... scared... at all..."
  },
  {
   "id": "293A3A_0422.0",
@@ -305,7 +305,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レア、かたきはとってあげるわ……。",
-  "en": ""
+  "en": "Rhea, I'll avenge you..."
  },
  {
   "id": "293A3A_043A.0",
@@ -313,7 +313,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マノ…… / おまえをルシフォンにわたしはしないぞ……。",
-  "en": ""
+  "en": "Mano... I won't let Lushifon have you..."
  },
  {
   "id": "293A3A_0457.0",
@@ -411,7 +411,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "らららら～～…… / 歌をうたえば、ルシフォンが出てくるとか？",
-  "en": ""
+  "en": "La la la la~~... Maybe if I sing a song, Lushifon will come out?"
  },
  {
   "id": "293A3A_0590.0",
@@ -428,7 +428,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "メイフェア……待っていろよ。",
-  "en": ""
+  "en": "Mayfair... just you wait."
  },
  {
   "id": "293A3A_05BC.0",
@@ -472,7 +472,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私がルシフォンのまわりをぐるぐる走るから、 / その陥にみんなでやっつけちゃいましょう！",
-  "en": ""
+  "en": "I'll run around and around Lushifon, so while he's distracted, let's all beat him up!"
  },
  {
   "id": "293A3A_0661.0",
@@ -551,7 +551,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネ、私から離れないで……。",
-  "en": ""
+  "en": "Helene, don't leave my side..."
  },
  {
   "id": "293A3A_077A.0",
@@ -559,7 +559,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネ……かたきは討ってあげるからね。",
-  "en": ""
+  "en": "Helene... I'll avenge you, I promise."
  },
  {
   "id": "293A3A_0795.0",
@@ -585,7 +585,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "とうとう小説も最終章に入るわけだ。うーん。",
-  "en": ""
+  "en": "So my novel's finally entering its final chapter. Hmmm."
  },
  {
   "id": "293A3A_0800.0",
@@ -601,7 +601,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やっぱり、ちょっとこわい……。",
-  "en": ""
+  "en": "I'm... a little scared after all..."
  },
  {
   "id": "293A3A_081A.0",
@@ -609,7 +609,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こわいけど、レアのかたきを……。",
-  "en": ""
+  "en": "I'm scared, but for Rhea's sake..."
  },
  {
   "id": "293A3A_0831.0",
@@ -617,7 +617,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "待っていろ、ルシフォン……！！",
-  "en": ""
+  "en": "Just you wait, Lushifon...!!"
  },
  {
   "id": "293A3A_0845.0",
@@ -652,7 +652,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……中に入るんだね。",
-  "en": ""
+  "en": "Eto... we're going in, huh?"
  },
  {
   "id": "293A3A_08AA.0",
@@ -678,7 +678,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よーし……行くぞ！！",
-  "en": ""
+  "en": "All right... let's go!!"
  },
  {
   "id": "293A3A_08D2.0",
@@ -686,7 +686,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "みんな！！　城の中に入るって！！",
-  "en": ""
+  "en": "Everyone!! We're going into the castle!!"
  },
  {
   "id": "293A3A_08E9.0",
@@ -694,7 +694,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どきどきどき……き、緊張するなあ。",
-  "en": ""
+  "en": "Ba-dump ba-dump ba-dump... I-I'm so nervous."
  },
  {
   "id": "293A3A_0933.0",
@@ -738,7 +738,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ま、待てカケル……動くんじゃない。",
-  "en": ""
+  "en": "W-wait, Kakeru... don't move."
  },
  {
   "id": "293A3A_09AC.0",
@@ -755,7 +755,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンの魔力は、半端ではないっ…… / 安易に近づくのは危険だ！",
-  "en": ""
+  "en": "Lushifon's magic is no joke... It's dangerous to get close carelessly!"
  },
  {
   "id": "293A3A_09C3.1",
@@ -763,7 +763,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そこでなにを相談しているかね？ / ……ここまできて臆したのか！？",
-  "en": ""
+  "en": "What are you all whispering about over there? ...Have you lost your nerve after coming this far?!"
  },
  {
   "id": "293A3A_09C3.2",
@@ -807,7 +807,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ほほう、私のことを知ってるのか…… / それは光栄だな。",
-  "en": ""
+  "en": "Oho, so you know who I am... How flattering."
  },
  {
   "id": "293A3A_0A65.1",
@@ -815,7 +815,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エ、エト、どうするの？ / ……ルシフォンとカケルが話してるみたいだよ。",
-  "en": ""
+  "en": "E-Eto, what do we do? ...Looks like Lushifon and Kakeru are talking."
  },
  {
   "id": "293A3A_0A65.2",
@@ -823,7 +823,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、私たちも行きましょう！！",
-  "en": ""
+  "en": "Eto, let's go too!!"
  },
  {
   "id": "293A3A_0AC5.0",
@@ -3001,7 +3001,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "泣いても笑っても、ここが最後の闘いですね。",
-  "en": ""
+  "en": "Win or lose, this is the final battle, isn't it?"
  },
  {
   "id": "293A3A_2B18.0",
@@ -3009,7 +3009,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みなさん、がんばってください…… / 私も力の限り援護します。",
-  "en": ""
+  "en": "Everyone, please do your best... I'll support you with all my strength too."
  },
  {
   "id": "293A3A_2B3F.0",
@@ -3017,7 +3017,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォンは、必ず倒します……！！",
-  "en": ""
+  "en": "We will defeat Lushifon, no matter what...!!"
  },
  {
   "id": "293A3A_2B51.0",
@@ -3034,7 +3034,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "このお城に入ってからも、心の中の声が / みなさんをはげましているのが聞こえます。",
-  "en": ""
+  "en": "Even since we entered this castle, I can hear the voice in my heart encouraging all of you."
  },
  {
   "id": "293A3A_2B74.1",
@@ -3042,7 +3042,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "恐れるな……希望を信じて、前に進め……と。",
-  "en": ""
+  "en": "\"Do not fear... believe in hope, and go forward...\" it says."
  },
  {
   "id": "293A3A_2BC2.0",
@@ -3050,7 +3050,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺をさんざんこけにしやがったルシフォンに、 / ようやく報復できるぜ。",
-  "en": ""
+  "en": "Lushifon made a total fool of me, and now I finally get my payback."
  },
  {
   "id": "293A3A_2BE8.0",
@@ -3058,7 +3058,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネが……いる気配はない。",
-  "en": ""
+  "en": "No sign... of Marlene being here."
  },
  {
   "id": "293A3A_2BFC.0",
@@ -3066,7 +3066,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトはタンスの引き出しから、 / 力の種を１０個見つけた！！",
-  "en": ""
+  "en": "Eto found 10 Seeds of Power in a dresser drawer!!"
  },
  {
   "id": "293A3A_2C15.0",
@@ -3074,7 +3074,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトはベッドの中から / 力の種を１０個見つけた！！",
-  "en": ""
+  "en": "Eto found 10 Seeds of Power inside the bed!!"
  },
  {
   "id": "293A3A_2C39.0",
@@ -3091,7 +3091,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトは守りの種を１０個手に入れた！！",
-  "en": ""
+  "en": "Eto obtained 10 Seeds of Defense!!"
  },
  {
   "id": "293A3A_2C77.0",
@@ -3108,6 +3108,6 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトはベッドの中から、 / 守りの種を１０個手に入れた！！",
-  "en": ""
+  "en": "Eto found 10 Seeds of Defense inside the bed!!"
  }
 ]
