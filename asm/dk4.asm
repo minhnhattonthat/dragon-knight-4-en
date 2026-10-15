@@ -45,6 +45,10 @@ org $80C3F0             ; unit-info box string printer (op 21): CMP #$06CC / BCS
     JML c3f0_hook
     NOP
 
+org $80C253             ; unit-info box: LDY #defense_label / STY $00 right after a digit print left $02 = #$80
+    JSL c253_fix
+    NOP
+
 org $81F0E5             ; menu-string upload buffer 7E:B312: flush every 64 cells instead of 56 (the English
     CPY #$C312          ; party-name pool is 60 cells; 7E:C112-C312 is unused, zero in every RAM dump)
 
@@ -200,6 +204,15 @@ c3f0_hook:              ; M=16, A = 2-byte code: precomposed cells are glyphs, n
     BCS +
     JML $80C3F5
 +   JML $80C40F
+
+c253_fix:               ; M=8: [$00] = relocated "{Defense}" label ($E1, pointer word written by tools/ui.py)
+    LDA #$E1
+    STA $02
+    LDA.l $E1DFFE
+    STA $00
+    LDA.l $E1DFFF
+    STA $01
+    RTL
 
 b160_hook:              ; M=16, A = code. Precomposed cells take the single-glyph path.
     CMP #!PRE_FIRST

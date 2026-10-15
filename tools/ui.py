@@ -423,6 +423,10 @@ def build_strset(e, rom, img, pre, reloc):
             r = int(r, 16)
             assert img[r - 1] == 0xA0, (e['id'], hex(r))
             img[r:r + 2] = (new[int(a_hex, 16)] & 0xFFFF).to_bytes(2, 'little')
+    for a_hex, offs in e.get('ptr_words', {}).items():   # plain 16-bit pointer words read by asm stubs
+        for r in offs:
+            r = int(r, 16)
+            img[r:r + 2] = (new[int(a_hex, 16)] & 0xFFFF).to_bytes(2, 'little')
     for r in e.get('bank_refs', []):
         r = int(r, 16)
         assert img[r - 1] == 0xA9, (e['id'], hex(r))

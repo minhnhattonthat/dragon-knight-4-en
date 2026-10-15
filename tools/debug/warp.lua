@@ -20,6 +20,19 @@ L.on_exec(0x818EF1, 0x818EF1, function()
   emu.write(0x7E0834, target, mem)
   L.log(string.format("warp: scene %d at frame %d", target, L.frame))
 end)
+-- START: optional script start offset inside the block (an id's hex part, e.g. --var START=0x00F7 for 2FB86E_00F7):
+-- after 81:9615 copies the block to 7F:0000, the header's first word (script entry) is overwritten, so the scene
+-- runs from that page (no speaker line if START is a text run). Reaches town NPC lines without walking.
+if START then
+  local startDone = false
+  L.on_exec(0x819652, 0x819652, function()
+    if not done or startDone then return end
+    startDone = true
+    emu.write(0x7F0000, START & 0xFF, mem)
+    emu.write(0x7F0001, START >> 8, mem)
+    L.log(string.format("start: 7F:0000 = %04X at frame %d", START, L.frame))
+  end)
+end
 -- MODE: optional module switch some frames after the scene loaded ($A2 = module, $B6 = 0):
 --   --var "MODE='battle'"  -> $A2=$09 (84:800F battle on the scene's map $0C00; deployment screen first)
 --   --var "MODE='menu'"    -> $A2=$12 (81:D5AB field menu: items / status / load / options)
