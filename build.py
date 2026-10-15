@@ -207,6 +207,12 @@ def build(mode):
                 trailing = bool(toks) and toks[-1][0] == 'nl'
                 first = layout.CELLS - MIDLINE_LEAD if (r['boff'], r['off']) in midline else layout.CELLS
                 body, end_line = layout.dlg_region(segs, start_line, trailing, first)
+                # the Japanese region filled its last page exactly (its last newline cleared the box): the next
+                # region may draw a speaker name assuming a fresh page, so the English must end on a page edge too
+                jp_end = (start_line + sum(1 for t in toks if t[0] == 'nl')) % layout.LINES
+                if trailing and jp_end == 0 and end_line != 0:
+                    body += bytes([layout.BLANK, layout.NL]) * (layout.LINES - end_line)
+                    end_line = 0
         except layout.LayoutError as ex:
             stats['errors'] += 1
             errors.append('%s: %s' % (r['id'], ex))
