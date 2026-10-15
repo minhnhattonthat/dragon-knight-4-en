@@ -37,5 +37,6 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Layout fixes from QA: MAX_PX, mid-line continuations (build.midline_targets), conditional-jump line carry
   (FALLTHROUGH_OPS), page-edge padding when the JP region ends on a page edge.
 - Not reached: battle animation screen (End-turn panel button ignores the scripted cursor).
-- Next: phase 9 release (`python -X utf8 tools/release.py`).
+- Phase 9 done: release/dragon-knight-4_en.zip (Dragon_Knight_4_EN_v1.0.bps, patch SHA-1
+  9792210694820442e865bdeb6f760d546d05645d, patched CRC32 BFB1E659). Never publish. Next: user playtest.
 - Open bugs: none known. Region 2C0000_0BC1 (lone 。, 1 byte) stays Japanese.
