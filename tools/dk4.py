@@ -77,7 +77,14 @@ def dict_entries(rom):
     for i in range(DICT_COUNT):
         p = rom[DICT_TABLE + 2 * i] | rom[DICT_TABLE + 2 * i + 1] << 8
         a = lorom(0x850000 | p)
-        e = rom.index(b'\x00', a)
+        e = a
+        while rom[e] != 0:  # 00 terminates only at a code position (10 op arg may be 00)
+            if rom[e] == 0x10:
+                e += 2 + ARGS[rom[e + 1]]
+            elif rom[e] < 0x10:
+                e += 2
+            else:
+                e += 1
         out.append((DICT_FIRST + i, a, rom[a:e + 1]))
     return out
 
