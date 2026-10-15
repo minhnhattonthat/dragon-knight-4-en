@@ -1,0 +1,34 @@
+# romdiff allowed ranges (file offsets, inclusive). Anything the build writes outside these fails tests/test_build.py.
+2EAE-2EB1     hook 80:AEAE glyph routine -> vwf_hook
+3169-316D     hook 80:B169 menu string renderer
+31B0-31B3     hook 80:B1B0 menu glyph draw
+3318-331B     hook 80:B318 dictionary call -> far_hook
+4214-4283     op 21 unit info box: string pointer/bank refs + tables
+43F0-43F4     hook 80:C3F0 unit info box printer
+D600-DDFF     81: party name pools, name table, menu pools (ui.json party_list, item_stat_box)
+DEAF-DEB5     81:DEAF item count string
+E130-E135     81:E12F party pool ref
+E426-E42B     options pool ref
+E54B-E559     options strings
+E740-E774     item names: bank + pointer refs
+EB03-EB08     main menu pool ref
+ECEC-ECF1     main menu pool ref
+EE86-EEB6     main menu strings
+F0E7          menu upload buffer limit (81:F0E5 CPY)
+F2B6-F2BB     status tilemap bank/pointer refs
+F322-F327     status label pool ref
+F47D          bank-84 string table bank byte -> $E2
+21303         bank-84 string table bank byte -> $E2
+22CF8         bank-84 string table bank byte -> $E2
+259A7-259AC   combat label pool ref
+25A94         bank-84 string table bank byte -> $E2
+28187-2818C   party pool ref
+281E6-281EB   party pool ref
+28ED0-2A000   dictionary (85:8ED0): relocated name entries
+2A331-2A336   notebook/title menu pool ref
+2A47B-2A48B   no-save / blank-notebook refs
+2A53C-2A599   notebook/title strings
+290000-2FFFFF script blocks (patched in place with far-call tokens)
+3028C-320C7   ending epilogue stream (86:828C)
+4DABC-4E2BB   battle command button graphics
+300000-3FFFFF expansion banks E0-FF (engine, font, English text)

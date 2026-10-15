@@ -1,0 +1,12 @@
+# cold boot -> title -> notebook menu (New Game / Continue)
+600 -
+4 start
+200 -
+4 start
+200 -
+4 a
+200 -
+4 down
+60 -
+4 a
+300 -
