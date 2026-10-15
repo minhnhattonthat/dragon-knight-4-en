@@ -29,6 +29,9 @@ PRE_OFF, PRE_FIRST, PRE_END = 0x308000, 0xB00, 0xE00   # $E1:8000: precomposed E
 TEXT_START, TEXT_END = 0x318000, 0x400000   # banks $E3-$FF ($E2 = UI copy of bank $84, see tools/ui.py)
 SHORT_FIRST, SHORT_LAST = 0x833, 0xAFF
 PAGE_RESET_OPS = {0x01, 0x13, 0x15, 0x16, 0x0C, 0x3A}
+# conditional jumps between two text regions leave the box as it is (seen: 2D4417_0EBE drew its speaker name on the
+# last line of the previous page because its start line was assumed 0)
+FALLTHROUGH_OPS = {0x0A, 0x35}   # (0x12/0x14 take no condition: unconditional jump/call, nothing falls through)
 PANGRAM = 'The quick brown fox jumps over the lazy dog. Pack my box with five dozen liquor jugs. '
 
 
@@ -199,7 +202,7 @@ def build(mode):
                     segs.append((names.get(sp, sp) if sp else '', portrait, t))
                 start_line = 0
                 key = (r['boff'], r['off'])
-                if r['prev_op'] is None and r['off'] in prev_end.get(r['boff'], {}):
+                if (r['prev_op'] is None or r['prev_op'] in FALLTHROUGH_OPS) and r['off'] in prev_end.get(r['boff'], {}):
                     start_line = prev_end[r['boff']][r['off']]
                 trailing = bool(toks) and toks[-1][0] == 'nl'
                 first = layout.CELLS - MIDLINE_LEAD if (r['boff'], r['off']) in midline else layout.CELLS
@@ -210,6 +213,8 @@ def build(mode):
             continue
         if r['next_op'] is None or r['next_op'] not in PAGE_RESET_OPS:
             prev_end.setdefault(r['boff'], {})[r['off'] + r['len']] = end_line
+        if r['next_op'] in FALLTHROUGH_OPS:   # conditional jump: the next region continues on the same page
+            prev_end.setdefault(r['boff'], {})[r['off'] + r['len'] + len(r['next_raw'])] = end_line
         if r['len'] < 2:
             stats['japanese'] += 1
             continue
