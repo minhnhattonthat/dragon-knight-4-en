@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "戻ったか、ハーディス。",
-  "en": ""
+  "en": "So you have returned, Hardis."
  },
  {
   "id": "2F72F1_001C.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はっ……。",
-  "en": ""
+  "en": "Yes, my lord..."
  },
  {
   "id": "2F72F1_0026.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これでやつらは…… / このドラゴニア大陸に渡る体勢を整えたわけだ。",
-  "en": ""
+  "en": "So now they... have readied themselves to cross over to this Dragonia continent."
  },
  {
   "id": "2F72F1_0026.1",
@@ -38,7 +38,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "フ、まあよい…… / 楽しみが少し先に伸びただけのことだ。 / ご苦労だったな。 / 貴様は全力をつくしたのだろう？ / 少し休養するがよい。",
-  "en": ""
+  "en": "Heh, very well... My amusement has merely been postponed a little. You have done well. You gave it your all, did you not? Rest for a while."
  },
  {
   "id": "2F72F1_0052.1",
@@ -46,7 +46,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "は、ははっ、ありがとうございます。 / 今度こそはカケルの首を持って帰って……。",
-  "en": ""
+  "en": "Th-thank you, my lord. Next time I will surely return with Kakeru's head..."
  },
  {
   "id": "2F72F1_0052.2",
@@ -54,7 +54,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "フ……それにはおよばぬ。",
-  "en": ""
+  "en": "Heh... that will not be necessary."
  },
  {
   "id": "2F72F1_00E0.0",
@@ -62,7 +62,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……は？ / そ、それはどういう……。",
-  "en": ""
+  "en": "......Huh? W-what do you mean by..."
  },
  {
   "id": "2F72F1_00E0.1",
@@ -70,7 +70,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "貴様は全力をつくしてなお、 / カケルを破ることができなかった。 / それは……もはやお前の力では / カケルを殺すことはできない、ということだ。",
-  "en": ""
+  "en": "Even giving it your all, you could not defeat Kakeru. That means... your power is no longer enough to kill Kakeru."
  },
  {
   "id": "2F72F1_0142.0",
@@ -78,7 +78,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今後、カケルと闘う軍の指揮は、 / このリディアに取らせる。",
-  "en": ""
+  "en": "From now on, command of the army fighting Kakeru shall be given to Lydia here."
  },
  {
   "id": "2F72F1_0142.1",
@@ -86,7 +86,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はっ……。",
-  "en": ""
+  "en": "Yes, my lord..."
  },
  {
   "id": "2F72F1_0172.0",
@@ -94,7 +94,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お、おのれ……そこまで私をなぶるか！",
-  "en": ""
+  "en": "Wh-why you... You would humiliate me this far?!"
  },
  {
   "id": "2F72F1_018A.0",
@@ -102,7 +102,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "待て、ハーディス、どこヘ行く。",
-  "en": ""
+  "en": "Wait, Hardis. Where are you going?"
  },
  {
   "id": "2F72F1_019C.0",
@@ -110,7 +110,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "……軍が敗れたとはいえ、 / 私が敗れたわけではないっ！ / 今度こそカケル一行の息の根を / 止めてごらんにいれる。 / それでいいのでしょう！！",
-  "en": ""
+  "en": "...My army may have been defeated, but I myself have not been! This time I will put an end to Kakeru and his band, I swear it. That should satisfy you!!"
  },
  {
   "id": "2F72F1_019C.1",
@@ -118,7 +118,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ハーディス、私の命にそむくか！",
-  "en": ""
+  "en": "Hardis, you would defy my orders?!"
  },
  {
   "id": "2F72F1_01FC.0",
@@ -126,7 +126,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "く……。",
-  "en": ""
+  "en": "Ngh..."
  },
  {
   "id": "2F72F1_0205.0",
@@ -134,7 +134,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "次の作戦ではリディアに協力して / カケルたちを追いつめるのだ。 / リディアはハーディスの戦力を有効に利用して、 / 今度こそやつらにとどめをさす……よいな？",
-  "en": ""
+  "en": "In the next operation, you will cooperate with Lydia and corner Kakeru and his friends. Lydia will make good use of Hardis's forces and finish them off this time... Is that clear?"
  },
  {
   "id": "2F72F1_025F.0",
@@ -142,7 +142,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "く……はっ！",
-  "en": ""
+  "en": "Ngh... Yes, my lord!"
  },
  {
   "id": "2F72F1_026B.0",
@@ -150,7 +150,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ご命令とあれば。",
-  "en": ""
+  "en": "...If that is your command."
  },
  {
   "id": "2F72F1_028C.0",
@@ -158,7 +158,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "静かですね……カケルさん。",
-  "en": ""
+  "en": "It's so quiet... isn't it, Kakeru?"
  },
  {
   "id": "2F72F1_029F.0",
@@ -166,7 +166,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うん。 / ついでにまっくらでなにも見えないや。",
-  "en": ""
+  "en": "Yeah. And it's so pitch-dark I can't see a thing."
  },
  {
   "id": "2F72F1_029F.1",
@@ -174,7 +174,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルさんは…… / ナターシャさんが好きなんですか？",
-  "en": ""
+  "en": "Kakeru... do you like Natasha?"
  },
  {
   "id": "2F72F1_029F.2",
@@ -182,7 +182,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "嫌いだよ……あんなやつ。",
-  "en": ""
+  "en": "I hate her... that brat."
  },
  {
   "id": "2F72F1_02E8.0",
@@ -190,7 +190,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あんなやつだなんて……ふふふ…… / ケンカでもしたんですか？",
-  "en": ""
+  "en": "\"That brat,\" you say... hee hee... Did you two have a fight?"
  },
  {
   "id": "2F72F1_02E8.1",
@@ -198,7 +198,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "し、してないよ、別に。",
-  "en": ""
+  "en": "N-no, we didn't. Not really."
  },
  {
   "id": "2F72F1_031B.0",
@@ -206,7 +206,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "女の子って、男の子を好きになると…… / 自分の思ったとおりの行動が / とれないものですよ。",
-  "en": ""
+  "en": "When a girl falls for a boy... she can't act the way she wants to."
  },
  {
   "id": "2F72F1_034D.0",
@@ -214,7 +214,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "本当は自分のいいところを / いっぱい見てもらいたいのに…… / その人の前にいると、 / ついつい惜まれ口を言ってしまう。",
-  "en": ""
+  "en": "Deep down she wants him to see all her good points... but when she's in front of him, she ends up saying mean things anyway."
  },
  {
   "id": "2F72F1_038E.0",
@@ -222,7 +222,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャが……そうだって言うの？",
-  "en": ""
+  "en": "You mean... Natasha's like that?"
  },
  {
   "id": "2F72F1_03A2.0",
@@ -230,7 +230,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふふふ……どうなんでしょうね。",
-  "en": ""
+  "en": "Hee hee... Who knows?"
  },
  {
   "id": "2F72F1_03B7.0",
@@ -238,7 +238,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャが好きなのは / 僕じゃなくて、エトなんだ。",
-  "en": ""
+  "en": "The one Natasha likes isn't me. It's Eto."
  },
  {
   "id": "2F72F1_03B7.1",
@@ -246,7 +246,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……さん？",
-  "en": ""
+  "en": "Eto...?"
  },
  {
   "id": "2F72F1_03E0.0",
@@ -254,7 +254,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、絶対にそうだよ……。",
-  "en": ""
+  "en": "Yeah, I'm sure of it..."
  },
  {
   "id": "2F72F1_03F2.0",
@@ -262,7 +262,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさんも…… / ナターシャさんが好きなんでしょうか？",
-  "en": ""
+  "en": "Does Eto... like Natasha too, I wonder?"
  },
  {
   "id": "2F72F1_03F2.1",
@@ -270,7 +270,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "たぶん。",
-  "en": ""
+  "en": "Probably."
  },
  {
   "id": "2F72F1_0416.0",
@@ -278,7 +278,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルさん。 / 私のことは……好きですか？",
-  "en": ""
+  "en": "Kakeru. Do you... like me?"
  },
  {
   "id": "2F72F1_0416.1",
@@ -286,7 +286,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もちろん好きだよ…… / マルレーネはきれいだし、優しいし。",
-  "en": ""
+  "en": "Of course I like you... You're pretty, Marlene, and you're kind."
  },
  {
   "id": "2F72F1_0416.2",
@@ -294,7 +294,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゃあ、ナターシャさんと私、どっちが好き？",
-  "en": ""
+  "en": "Then who do you like more, Natasha or me?"
  },
  {
   "id": "2F72F1_0467.0",
@@ -302,7 +302,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……マルレーネ、 / 僕のこと、からかってなあい？",
-  "en": ""
+  "en": "...Marlene, you're not teasing me, are you?"
  },
  {
   "id": "2F72F1_0467.1",
@@ -310,7 +310,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふふっ……。",
-  "en": ""
+  "en": "Hee hee..."
  },
  {
   "id": "2F72F1_0497.0",
@@ -318,7 +318,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なんの音！？",
-  "en": ""
+  "en": "Wh-what was that noise?!"
  },
  {
   "id": "2F72F1_04A6.0",
@@ -326,7 +326,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "た、大変だあっ！！",
-  "en": ""
+  "en": "W-we're in trouble!!"
  },
  {
   "id": "2F72F1_04B5.0",
@@ -334,7 +334,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンナイトの攻撃だあっ！！ / このままじゃ船を沈められちまうぞっ！！",
-  "en": ""
+  "en": "A Dragon Knight is attacking!! At this rate they'll sink the ship!!"
  },
  {
   "id": "2F72F1_04B5.1",
@@ -342,7 +342,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "た、大変！！",
-  "en": ""
+  "en": "Oh no!!"
  },
  {
   "id": "2F72F1_04F1.0",
@@ -350,7 +350,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃああっ！！",
-  "en": ""
+  "en": "Kyaaah!!"
  },
  {
   "id": "2F72F1_04FE.0",
@@ -358,7 +358,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みんな海に飛び込めっっ！！ / このままでは船といっしょに心中だぞ！！",
-  "en": ""
+  "en": "Everyone, jump into the sea!! If we stay here, we'll go down with the ship!!"
  },
  {
   "id": "2F72F1_04FE.1",
@@ -366,7 +366,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "と、飛び込めって、僕は泳げないんだ。",
-  "en": ""
+  "en": "J-jump?! But I can't swim!"
  },
  {
   "id": "2F72F1_0541.0",
@@ -374,7 +374,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル、私といっしょに飛び込むんだ！！",
-  "en": ""
+  "en": "Seil, you jump in with me!!"
  },
  {
   "id": "2F72F1_055A.0",
@@ -382,7 +382,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カ、カケル！！",
-  "en": ""
+  "en": "K-Kakeru!!"
  },
  {
   "id": "2F72F1_0566.0",
@@ -390,7 +390,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャ！！　僕につかまって！！",
-  "en": ""
+  "en": "Natasha!! Hold on to me!!"
  },
  {
   "id": "2F72F1_057A.0",
@@ -398,7 +398,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うん。",
-  "en": ""
+  "en": "O-okay."
  },
  {
   "id": "2F72F1_0585.0",
@@ -406,6 +406,6 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それっ！！　みんな飛び込めっ！！",
-  "en": ""
+  "en": "Now!! Everyone, jump!!"
  }
 ]

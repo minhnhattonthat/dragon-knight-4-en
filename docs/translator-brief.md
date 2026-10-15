@@ -48,6 +48,21 @@ Run `python -X utf8 tools/batches.py check <batch>` and fix every reported id un
 - Name checks are case-insensitive and allow drawn-out shouts ("SEEEIL!!", "Torhes!!").
 - 〜隊 after a name = "Cartas's Squad" style ("the X Squad"), never "Unit". ヴェルトー = Verto (Hardis's dragon).
   魔導師 = sorcerer, 魔導師学校 = the School of Sorcery. Japanese typos (運ばう = 運ぼう) are read as intended.
+- 様 from townsfolk/soldiers to the legendary heroes (Takeru, Bahn) -> "Lord Takeru"/"Lord Bahn" is accepted.
+  おにーさん (Eto insisting he is not old) -> "young man" (vs "mister"/"old man" for おじさん).
+- Squad names: 剣士隊 = Swordsman Squad, 弓術隊 = Archery Squad, 砲術隊 = Gunnery Squad, 騎馬隊 = Cavalry Squad,
+  魔導師隊 = Sorcerer Squad; a person's squad: ゴロンゴン隊 = "Gorongon's Squad" (choice menus too).
+- The Japanese text was read from the font by eye; a few kanji may be look-alikes (惜 for 憎, 曉 for 眺,
+  遠庫 for 遠慮). If a word makes no sense, read the look-alike that fits.
+- Rabbit's にょ -> ", nyo" at sentence end ("I'm fine, nyo..."). Powell's ござる -> stiff archaic speech
+  ("good sir", "pray tell"). Charon's カケル殿 -> "Master Kakeru".
+- Seil is a boy (Bahn's son, Kakeru's friend). 工作隊 = Sapper Squad, 忍者隊 = Ninja Squad.
+  Spell ハリタ・ハリティ・ブラスティ = "Harita Haritee Blastee". 乙乙乙 = snoring "Zzz...".
+  If the checker wants a name you dropped, rephrase with the Write tool (never sed).
+- 闇の世界 = the World of Darkness, 闇の扉 = the Door of Darkness. Speech tics: Galivan だぞい -> "I tell ye";
+  Linus baby talk -> w-for-r lisp. Puzzle passwords in kana (ちぬたたぬち) are romanized letter for letter.
+- Six dots "......" only for a silent beat on its own; trailing dots in speech are "...".
+- 『』 -> single quotes.
 - Deliberate name mix-ups in the Japanese (e.g. Kakeru calling Torhes "Hortes") stay mix-ups.
 - 殿 from guards/servants to Kakeru -> "Master Kakeru". おじさん to a stranger -> "mister" (keep jokes about
   おじさん vs おにいさん as "mister" vs "big brother"/"old man" vs "young man").

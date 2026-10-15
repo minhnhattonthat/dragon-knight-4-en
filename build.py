@@ -22,8 +22,9 @@ SIZE = 0x400000
 FARSHORT_OFF = 0x300000          # $E0:8000
 FONT_OFF = 0x304000              # $E0:C000
 FONTW_OFF = 0x304C00             # $E0:CC00
-TEXT_START, TEXT_END = 0x308000, 0x400000   # banks $E1-$FF
-SHORT_FIRST, SHORT_LAST = 0x833, 0xEFE
+PRE_OFF, PRE_FIRST, PRE_END = 0x308000, 0xB00, 0xE00   # $E1:8000: precomposed English UI cells
+TEXT_START, TEXT_END = 0x310000, 0x400000   # banks $E2-$FF
+SHORT_FIRST, SHORT_LAST = 0x833, 0xAFF
 PAGE_RESET_OPS = {0x01, 0x13, 0x15, 0x16, 0x0C, 0x3A}
 PANGRAM = 'The quick brown fox jumps over the lazy dog. Pack my box with five dozen liquor jugs. '
 

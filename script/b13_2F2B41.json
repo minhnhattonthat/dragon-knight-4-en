@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よーし、ここがブレイズの港街だ！！",
-  "en": ""
+  "en": "All right, this is the port town of Blaze!!"
  },
  {
   "id": "2F2B41_0158.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれ？　だれかくるよ。",
-  "en": ""
+  "en": "Huh? Someone's coming."
  },
  {
   "id": "2F2B41_016D.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ヘっヘっヘっ、ドラゴニア大陸に行って / ソドムの村から色々と仕入れてきたんだ。",
-  "en": ""
+  "en": "Heh heh heh, I went over to the Dragonia continent and stocked up on all sorts of stuff from the village of Sodom."
  },
  {
   "id": "2F2B41_016D.1",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おや？　みんな疲れてるみたいだから、 / 『元気が出る薬』がおすすめだな。",
-  "en": ""
+  "en": "Oh? You all look tired, so I recommend this 'Pep-Up Potion.'"
  },
  {
   "id": "2F2B41_016D.2",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "買うかい？　その気があるなら特別サービスで / タダでいいぜ。もう残り１個だしな。",
-  "en": ""
+  "en": "Wanna buy it? If you're interested, I'll give you a special deal: it's free. It's my last one anyway."
  },
  {
   "id": "2F2B41_016D.3",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ホント！？　買う買う！",
-  "en": ""
+  "en": "Really?! I'll buy it, I'll buy it!"
  },
  {
   "id": "2F2B41_0209.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おいおい、カケル。",
-  "en": ""
+  "en": "Hey, hey, Kakeru."
  },
  {
   "id": "2F2B41_0217.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "まいどあり。ナマモノだから、 / すぐに飲んだ方がいいぞ…… / ヘっヘっヘっ。じゃあな。",
-  "en": ""
+  "en": "Pleasure doing business. It's perishable, so you'd better drink it right away... Heh heh heh. See ya."
  },
  {
   "id": "2F2B41_0254.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ごっくん……に、苦いなあ。",
-  "en": ""
+  "en": "Gulp... B-bitter..."
  },
  {
   "id": "2F2B41_0266.0",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前な。そんなあやしいものを買うなよ。",
-  "en": ""
+  "en": "Honestly, you. Don't buy such shady things."
  },
  {
   "id": "2F2B41_0280.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしたの？",
-  "en": ""
+  "en": "What's wrong?"
  },
  {
   "id": "2F2B41_028C.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれ……見てよ。",
-  "en": ""
+  "en": "Look... over there."
  },
  {
   "id": "2F2B41_029A.0",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ、エトとマルレーネが話してるね。",
-  "en": ""
+  "en": "Oh, Eto and Marlene are talking."
  },
  {
   "id": "2F2B41_02AF.0",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なにを話してるんだろ？",
-  "en": ""
+  "en": "I wonder what they're talking about?"
  },
  {
   "id": "2F2B41_02BE.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "聞いてみたら？",
-  "en": ""
+  "en": "Why not go ask?"
  },
  {
   "id": "2F2B41_02CB.0",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなことできるわけないでしょっ！！",
-  "en": ""
+  "en": "As if I could do that!!"
  },
  {
   "id": "2F2B41_02E8.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（エトと……マルレーネだ）",
-  "en": ""
+  "en": "(It's Eto... and Marlene.)"
  },
  {
   "id": "2F2B41_030B.0",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（マルレーネは、ウェンディの魔の手から / 逃れられたみたいだな……）",
-  "en": ""
+  "en": "(Looks like Marlene got away from Wendy's evil clutches...)"
  },
  {
   "id": "2F2B41_0330.0",
@@ -185,7 +185,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、いつになったら出発するの？",
-  "en": ""
+  "en": "Eto, when are we leaving?"
  },
  {
   "id": "2F2B41_0381.0",
@@ -193,7 +193,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "船の準備ができしだい、すぐに出発だ。",
-  "en": ""
+  "en": "As soon as the ship is ready, we set out."
  },
  {
   "id": "2F2B41_039B.0",
@@ -201,7 +201,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（他の場所に行こっと……）",
-  "en": ""
+  "en": "(Guess I'll go somewhere else...)"
  },
  {
   "id": "2F2B41_03AE.0",
@@ -209,7 +209,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ、ナターシャ。",
-  "en": ""
+  "en": "Hi, Natasha."
  },
  {
   "id": "2F2B41_03B9.0",
@@ -217,7 +217,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……よかったら、すわって話をしない？",
-  "en": ""
+  "en": "Kakeru... if you'd like, why don't we sit and talk?"
  },
  {
   "id": "2F2B41_03DC.0",
@@ -225,7 +225,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いい天気ね……。",
-  "en": ""
+  "en": "Nice weather, isn't it..."
  },
  {
   "id": "2F2B41_03EA.0",
@@ -233,7 +233,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなことで、僕にすわれって言ったの？",
-  "en": ""
+  "en": "You told me to sit down just for that?"
  },
  {
   "id": "2F2B41_0403.0",
@@ -241,7 +241,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルって……ムードがないわね。",
-  "en": ""
+  "en": "Kakeru... you've got no sense of romance."
  },
  {
   "id": "2F2B41_0419.0",
@@ -249,7 +249,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "最近、なんだか大人っぽくなったなあって / 思ってたのに。",
-  "en": ""
+  "en": "And here I thought you'd gotten kind of grown-up lately."
  },
  {
   "id": "2F2B41_0439.0",
@@ -257,7 +257,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕はとっくに大人だい。",
-  "en": ""
+  "en": "I've been a grown-up for ages."
  },
  {
   "id": "2F2B41_044A.0",
@@ -265,7 +265,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "じゃあ、こうやってふたりでいると / ……なにか感じる？",
-  "en": ""
+  "en": "Then, being here like this, just the two of us... do you feel anything?"
  },
  {
   "id": "2F2B41_044A.1",
@@ -273,7 +273,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャなんかより、 / きっとマルレーネなら感じるな。",
-  "en": ""
+  "en": "I bet I'd feel something with Marlene instead of you, Natasha."
  },
  {
   "id": "2F2B41_048A.0",
@@ -281,7 +281,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "じゃあ、マルレーネさんのところに / 行けばいいでしょっ！！ / 私の気持ちも知らないで…… / カケルの大馬鹿っ！！",
-  "en": ""
+  "en": "Then go see Marlene, why don't you!! You don't even know how I feel... Kakeru, you big idiot!!"
  },
  {
   "id": "2F2B41_04C6.0",
@@ -289,7 +289,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お、大馬鹿あ！？",
-  "en": ""
+  "en": "B-big idiot?!"
  },
  {
   "id": "2F2B41_04D6.0",
@@ -297,7 +297,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あっちに行って！！ / もう顔も見たくないわ！！",
-  "en": ""
+  "en": "Go away!! I don't even want to see your face anymore!!"
  },
  {
   "id": "2F2B41_04F7.0",
@@ -305,7 +305,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネさんのところに行きなさいよ！！",
-  "en": ""
+  "en": "Go on, go to Marlene!!"
  },
  {
   "id": "2F2B41_0514.0",
@@ -367,7 +367,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネ、なにをしてるの？",
-  "en": ""
+  "en": "Marlene, what are you doing?"
  },
  {
   "id": "2F2B41_05AA.0",
@@ -375,7 +375,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "見てのとおり、エトさんと話をしてるのよ。",
-  "en": ""
+  "en": "Just what it looks like. I'm talking with Eto."
  },
  {
   "id": "2F2B41_05C4.0",
@@ -383,7 +383,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト？　……どこにいるの？",
-  "en": ""
+  "en": "Eto? ...Where is he?"
  },
  {
   "id": "2F2B41_05D7.0",
@@ -391,7 +391,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こいつ……俺のことを無視してるな。",
-  "en": ""
+  "en": "This brat... he's ignoring me."
  },
  {
   "id": "2F2B41_05EF.0",
@@ -399,7 +399,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（やめた……他の場所に行こっと）",
-  "en": ""
+  "en": "(Forget it... I'll go somewhere else.)"
  },
  {
   "id": "2F2B41_0605.0",
@@ -407,7 +407,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、見ちゃいました…… / エトさんがマルレーネさんと一緒にいるのを。",
-  "en": ""
+  "en": "I saw it... Eto was together with Marlene."
  },
  {
   "id": "2F2B41_0605.1",
@@ -415,7 +415,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャさんとは別れて……",
-  "en": ""
+  "en": "He split up with Natasha..."
  },
  {
   "id": "2F2B41_063A.0",
@@ -423,7 +423,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今度はマルレーネさんと / つき合い始めたのかしら？",
-  "en": ""
+  "en": "...and now I wonder if he's started going out with Marlene?"
  },
  {
   "id": "2F2B41_0653.0",
@@ -431,7 +431,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん…… / まだマルレーネさんと話してましたか？",
-  "en": ""
+  "en": "Eto... Is he still talking with Marlene?"
  },
  {
   "id": "2F2B41_066F.0",
@@ -439,7 +439,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あのよう、エトとマルレーネが / 船着場で話してたんだけど……ふたりきりで。",
-  "en": ""
+  "en": "Say, Eto and Marlene were talking down at the dock... just the two of them."
  },
  {
   "id": "2F2B41_066F.1",
@@ -447,7 +447,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いったいなにを話してるんだろうな？",
-  "en": ""
+  "en": "What on earth are they talking about, I wonder?"
  },
  {
   "id": "2F2B41_06AD.0",
@@ -455,7 +455,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ……マルレーネさんと / 清らかなおつきあいがしたいなあ。",
-  "en": ""
+  "en": "Ahh... I'd love to have a nice, pure relationship with Marlene."
  },
  {
   "id": "2F2B41_06AD.1",
@@ -463,7 +463,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カルタス、眼がいやらしいよ。",
-  "en": ""
+  "en": "Cartas, your eyes look pervy."
  },
  {
   "id": "2F2B41_06DD.0",
@@ -471,7 +471,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この海原の先には、ドラゴニア大陸があるのだぞ / ……私は一度も行ったことはないが、 / なんでもドラゴンが住んでいる砦があるそうだ。",
-  "en": ""
+  "en": "Beyond this ocean lies the Dragonia continent... I have never been there myself, but they say there is a fortress where dragons live."
  },
  {
   "id": "2F2B41_0722.0",
@@ -479,7 +479,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "大丈夫。みんなで闘えば平気だよ。",
-  "en": ""
+  "en": "Don't worry. If we all fight together, we'll be fine."
  },
  {
   "id": "2F2B41_0737.0",
@@ -487,7 +487,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル殿といっしょに…… / 闘いの旅はいつまで続くのだろうなあ。",
-  "en": ""
+  "en": "Together with Master Kakeru... I wonder how long this journey of battle will go on."
  },
  {
   "id": "2F2B41_075C.0",
@@ -495,7 +495,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……海風がいい気持ち。",
-  "en": ""
+  "en": "Ahh... the sea breeze feels so nice."
  },
  {
   "id": "2F2B41_076F.0",
@@ -503,7 +503,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そう言えばネプチューンって、 / 港街の生まれなんだよね。",
-  "en": ""
+  "en": "Come to think of it, Neptune, you were born in a port town, right?"
  },
  {
   "id": "2F2B41_076F.1",
@@ -511,7 +511,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "シーボーズのね…… / 今頃は黒い霧に包まれてるだろうけど……。",
-  "en": ""
+  "en": "In Seaboze... though it's probably wrapped in the Black Mist by now..."
  },
  {
   "id": "2F2B41_07AE.0",
@@ -519,7 +519,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャとはうまくいってるの？ / もらったお守り、ちゃんと持ってる？",
-  "en": ""
+  "en": "Are things going well with Natasha? Do you still have the charm she gave you?"
  },
  {
   "id": "2F2B41_07D7.0",
@@ -527,7 +527,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "持ってるよ……。",
-  "en": ""
+  "en": "Yeah, I have it..."
  },
  {
   "id": "2F2B41_07E4.0",
@@ -535,7 +535,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "女の子が男の子にお守りを渡す時の気持ちって / ……わかる？",
-  "en": ""
+  "en": "Do you understand... how a girl feels when she gives a boy a charm?"
  },
  {
   "id": "2F2B41_07E4.1",
@@ -552,7 +552,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "とにかく仲良くしてあげて……いいわね？",
-  "en": ""
+  "en": "Anyway, be nice to her... okay?"
  },
  {
   "id": "2F2B41_082B.0",
@@ -560,7 +560,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "持ってるけど、もう捨てちゃおうかな。",
-  "en": ""
+  "en": "I have it, but maybe I'll just throw it away."
  },
  {
   "id": "2F2B41_0844.0",
@@ -568,7 +568,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だめよ、そんなことをしたら。",
-  "en": ""
+  "en": "No, don't you dare do that."
  },
  {
   "id": "2F2B41_0858.0",
@@ -576,7 +576,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ライムリン大陸って、まだまだ先なのかしら？",
-  "en": ""
+  "en": "I wonder if the Limerin continent is still a long way off?"
  },
  {
   "id": "2F2B41_086E.0",
@@ -584,7 +584,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もぐもぐもぐ……やあ、カケル。",
-  "en": ""
+  "en": "Munch munch munch... Hey, Kakeru."
  },
  {
   "id": "2F2B41_087D.0",
@@ -592,7 +592,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こんなところでお店を開いても…… / だれも買う人なんかいないよ。",
-  "en": ""
+  "en": "Even if you open a shop in a place like this... nobody's gonna buy anything."
  },
  {
   "id": "2F2B41_087D.1",
@@ -600,7 +600,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "結果は問題じゃないんだよ……",
-  "en": ""
+  "en": "Results aren't the point..."
  },
  {
   "id": "2F2B41_08BA.0",
@@ -608,7 +608,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たとえ売れなくても、 / 店を開くことがだいじなのさ。",
-  "en": ""
+  "en": "Even if nothing sells, what matters is opening the shop."
  },
  {
   "id": "2F2B41_08DA.0",
@@ -616,7 +616,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もぐもぐもぐ……潮の香りに甘いバナナの味。 / べすと・おぶ・ていすてぃ、だな……まったく。",
-  "en": ""
+  "en": "Munch munch munch... The smell of the sea and the taste of sweet bananas. Best of tasty, that's what it is... really."
  },
  {
   "id": "2F2B41_090E.0",
@@ -624,7 +624,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "らー、らららーっ…… / カケル、いっしょに踊らない？　楽しいわよ。",
-  "en": ""
+  "en": "La, la-la-laa... Kakeru, won't you dance with me? It's fun."
  },
  {
   "id": "2F2B41_094A.0",
@@ -632,7 +632,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あーっ！！",
-  "en": ""
+  "en": "Ahh!!"
  },
  {
   "id": "2F2B41_0955.0",
@@ -640,7 +640,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……メイフェアの顔に / いたずら書きをしてるっ！！",
-  "en": ""
+  "en": "...He's scribbling on Mayfair's face!!"
  },
  {
   "id": "2F2B41_096E.0",
@@ -648,7 +648,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うるさいなっ！！",
-  "en": ""
+  "en": "Sh-shut up!!"
  },
  {
   "id": "2F2B41_097E.0",
@@ -656,7 +656,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺はな、お前のおかげで / ひどい目に合ってるんだ！！",
-  "en": ""
+  "en": "I've been thwough a wotten time because of you!!"
  },
  {
   "id": "2F2B41_099B.0",
@@ -664,7 +664,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "このペンは、あやしげな商人から買った / 魔法のペンなんだぞ！！ / 消せるもんなら消してみなっ！！",
-  "en": ""
+  "en": "This pen is a magic pen I bought fwom a shady mewchant!! Twy and wub it off if you can!!"
  },
  {
   "id": "2F2B41_09DC.0",
@@ -672,7 +672,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ありゃりゃ……。 / ライナスーっ……魔法のペンを忘れてるよ！！",
-  "en": ""
+  "en": "Whoops... Linuuus... you forgot your magic pen!!"
  },
  {
   "id": "2F2B41_0A07.0",
@@ -680,7 +680,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "かきかきかきかき。",
-  "en": ""
+  "en": "Scribble scribble scribble scribble."
  },
  {
   "id": "2F2B41_0A16.0",
@@ -688,7 +688,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううーん……エトさあん。",
-  "en": ""
+  "en": "Mmmn... Etooo..."
  },
  {
   "id": "2F2B41_0A25.0",
@@ -696,7 +696,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さてと……ペンを置いて、僕も逃げよっと。",
-  "en": ""
+  "en": "Okay then... I'll put the pen down and run away too."
  },
  {
   "id": "2F2B41_0A41.0",
@@ -704,7 +704,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うう……ん。",
-  "en": ""
+  "en": "Mmm... nn."
  },
  {
   "id": "2F2B41_0A4D.0",
@@ -712,7 +712,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ここにいると……まずい気がする。",
-  "en": ""
+  "en": "I've got a feeling... staying here is bad news."
  },
  {
   "id": "2F2B41_0A6F.0",
@@ -729,7 +729,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……クラリスの顔に / いたずら書きをしてるっ！！",
-  "en": ""
+  "en": "...He's scribbling on Clarice's face!!"
  },
  {
   "id": "2F2B41_0A93.0",
@@ -782,7 +782,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううーん……エトぉ。",
-  "en": ""
+  "en": "Mmmn... Etooo."
  },
  {
   "id": "2F2B41_0B48.0",
@@ -799,7 +799,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うう……ん。",
-  "en": ""
+  "en": "Mmm... nn."
  },
  {
   "id": "2F2B41_0B70.0",
@@ -816,7 +816,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "かきかきかきかき……。",
-  "en": ""
+  "en": "Scribble scribble scribble scribble..."
  },
  {
   "id": "2F2B41_0B98.0",
@@ -824,7 +824,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ……サントスがなにか描いてる。",
-  "en": ""
+  "en": "Huh... Santos is drawing something."
  },
  {
   "id": "2F2B41_0BAC.0",
@@ -832,7 +832,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "この街にいた商人からペンを買ったもんでな。",
-  "en": ""
+  "en": "I bought a pen off a merchant who was in this town, see."
  },
  {
   "id": "2F2B41_0BC8.0",
@@ -840,7 +840,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンの顔って、こんな感じじゃないかなー / と思って描いてるんだ。",
-  "en": ""
+  "en": "I'm drawing what I figure Lushifon's face looks like."
  },
  {
   "id": "2F2B41_0BEA.0",
@@ -848,7 +848,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "鼻がふたつに口が……三つと。",
-  "en": ""
+  "en": "Two noses, and mouths... three of 'em."
  },
  {
   "id": "2F2B41_0C01.0",
@@ -856,7 +856,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それじゃモンスターだよ。",
-  "en": ""
+  "en": "That's a monster."
  },
  {
   "id": "2F2B41_0C14.0",
@@ -864,7 +864,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "悪いヤツなんてのは、 / だいたいそんな顔をしてるもんだ。",
-  "en": ""
+  "en": "Bad guys mostly have faces like this."
  },
  {
   "id": "2F2B41_0C38.0",
@@ -872,7 +872,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "しかしさ……ルシフォンがこんな顔してたら、 / 逆におっかないよな。",
-  "en": ""
+  "en": "Still... if Lushifon really had a face like this, that'd be even scarier, huh."
  },
  {
   "id": "2F2B41_0C5C.0",
@@ -880,7 +880,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "東のドラゴニア大陸には、 / 変な街ばかりあるって話だぞい。",
-  "en": ""
+  "en": "They say the eastern Dragonia continent is full of nothing but strange towns, I tell ye."
  },
  {
   "id": "2F2B41_0C5C.1",
@@ -888,7 +888,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だれに聞いたの？",
-  "en": ""
+  "en": "Who told you that?"
  },
  {
   "id": "2F2B41_0C87.0",
@@ -896,7 +896,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトだぞい……彼はドラゴニア大陸にも / 行ったことがあると言ってたぞい。",
-  "en": ""
+  "en": "Eto, I tell ye... He said he's been to the Dragonia continent too, I tell ye."
  },
  {
   "id": "2F2B41_0CAC.0",
@@ -904,7 +904,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル殿、いつになったら出航するんだぞい？",
-  "en": ""
+  "en": "Master Kakeru, when are we setting sail, I tell ye?"
  },
  {
   "id": "2F2B41_0CC7.0",
@@ -912,7 +912,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すうすう……すうすう……。",
-  "en": ""
+  "en": "Zzz... zzz..."
  },
  {
   "id": "2F2B41_0CD9.0",
@@ -920,7 +920,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ビアンカは寝てる。そっとしておこう。",
-  "en": ""
+  "en": "Bianca's asleep. Let's leave her be."
  },
  {
   "id": "2F2B41_0CEF.0",
@@ -928,7 +928,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぶつぶつぶつぶつ……。",
-  "en": ""
+  "en": "Mutter mutter mutter mutter..."
  },
  {
   "id": "2F2B41_0CFB.0",
@@ -945,7 +945,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、ライムリン大陸ってどこにあるの？",
-  "en": ""
+  "en": "Kakeru, where is the Limerin continent?"
  },
  {
   "id": "2F2B41_0D17.0",
@@ -953,7 +953,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "東の果てにある大陸だから…… / 東の果てにあるんだよ、きっと。",
-  "en": ""
+  "en": "It's a continent at the far end of the east, so... it's at the far end of the east, I bet."
  },
  {
   "id": "2F2B41_0D3F.0",
@@ -961,7 +961,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "すらりと伸びた脚は、 / 船の中でも休ませることができるわね。 / カケル、いつ出発するの？",
-  "en": ""
+  "en": "At least my long, slender legs can rest even on the ship. Kakeru, when are we leaving?"
  },
  {
   "id": "2F2B41_0D67.0",
@@ -969,7 +969,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロザリンド、なにをしてるの？",
-  "en": ""
+  "en": "Rosalind, what are you doing?"
  },
  {
   "id": "2F2B41_0D78.0",
@@ -977,7 +977,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "大砲の手入れをしてるの。",
-  "en": ""
+  "en": "I'm cleaning the cannon."
  },
  {
   "id": "2F2B41_0D8B.0",
@@ -985,7 +985,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルはどこにいるのかなあ……ごしごし。",
-  "en": ""
+  "en": "I wonder where Seil is... Scrub scrub."
  },
  {
   "id": "2F2B41_0DA1.0",
@@ -993,7 +993,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ごしごしごし…… / カケル、セイルによけいなことを言わないでね。",
-  "en": ""
+  "en": "Scrub scrub scrub... Kakeru, don't go telling Seil anything you shouldn't, okay?"
  },
  {
   "id": "2F2B41_0DC5.0",
@@ -1001,7 +1001,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "乙乙乙……乙乙乙……。",
-  "en": ""
+  "en": "Zzz... zzz..."
  },
  {
   "id": "2F2B41_0DD5.0",
@@ -1009,7 +1009,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ピエールは……寝てるな。",
-  "en": ""
+  "en": "Pierre's... asleep."
  },
  {
   "id": "2F2B41_0DE5.0",
@@ -1017,7 +1017,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なれない旅で疲れたんだね。 / そっとしといてあげよう。",
-  "en": ""
+  "en": "He must be worn out from a journey he's not used to. Let's leave him be."
  },
  {
   "id": "2F2B41_0E06.0",
@@ -1025,7 +1025,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すうすう……すうすう……。",
-  "en": ""
+  "en": "Zzz... zzz..."
  },
  {
   "id": "2F2B41_0E18.0",
@@ -1033,7 +1033,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ジーナは……寝てるな。",
-  "en": ""
+  "en": "Gina's... asleep."
  },
  {
   "id": "2F2B41_0E28.0",
@@ -1239,7 +1239,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やあ、また船旅だねえ…… / 僕もいっしょの船に乗せてもらうつもりさ。",
-  "en": ""
+  "en": "Hey, another sea voyage, huh... I'm planning to ride on the same ship too."
  },
  {
   "id": "2F2B41_0F35.1",
@@ -1247,7 +1247,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ねえねえ…… / おにーさんが書いてる冒険小説を読ませてよ。",
-  "en": ""
+  "en": "Hey, hey... let me read that adventure novel you're writing, mister."
  },
  {
   "id": "2F2B41_0F35.2",
@@ -1255,7 +1255,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ははは、ちゃんと最後まで書けたらね。",
-  "en": ""
+  "en": "Hahaha, once I've actually written it all the way to the end."
  },
  {
   "id": "2F2B41_0F90.0",
@@ -1263,7 +1263,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "黒い霧の動きが止まったそうだね…… / いったいだれが止めたんだろう？",
-  "en": ""
+  "en": "I hear the Black Mist has stopped moving... I wonder who on earth stopped it?"
  },
  {
   "id": "2F2B41_0F90.1",
@@ -1271,7 +1271,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん……僕たちじゃないことはたしかだよ。",
-  "en": ""
+  "en": "Yeah... it sure wasn't us, that's for certain."
  },
  {
   "id": "2F2B41_0FCE.0",
@@ -1279,7 +1279,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ちょうど今、そのことを書いてたんだ…… / 黒い霧がなに者かによって止められたってね。",
-  "en": ""
+  "en": "I was just writing about that... how the Black Mist was stopped by someone."
  },
  {
   "id": "2F2B41_0FCE.1",
@@ -1287,7 +1287,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもそれだけじゃつまらないな…… / ぜひまた君の話を聞かせて欲しいんだが。",
-  "en": ""
+  "en": "But that alone is kind of dull... I'd really love to hear your story again."
  },
  {
   "id": "2F2B41_0FCE.2",
@@ -1304,7 +1304,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今度はどのノートに書くかな。",
-  "en": ""
+  "en": "Which notebook should I write in this time..."
  },
  {
   "id": "2F2B41_1053.0",
@@ -1456,7 +1456,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "登録してる部隊はふたつだけだ…… / 勝手に選んで、とっととどこかに行ってくれ。",
-  "en": ""
+  "en": "There are only two units registered... Pick whichever you like and get lost already."
  },
  {
   "id": "2F2B41_11F5.1",
@@ -1464,7 +1464,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんなことを言って…… / また僕たちのあとをついてくるくせに。",
-  "en": ""
+  "en": "Saying that... when you're just gonna follow us around again anyway."
  },
  {
   "id": "2F2B41_11F5.2",
@@ -1472,7 +1472,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前、ほんっとにやなやつだな。",
-  "en": ""
+  "en": "You really are a nasty little brat, you know that?"
  },
  {
   "id": "2F2B41_1262.0",
@@ -1480,7 +1480,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今度こそ絶対に選べよ。",
-  "en": ""
+  "en": "This time you'd better pick one for sure."
  },
  {
   "id": "2F2B41_1273.0",
@@ -1488,7 +1488,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "ラビット隊",
-  "en": ""
+  "en": "Rabbit's Squad"
  },
  {
   "id": "2F2B41_127B.0",
@@ -1496,7 +1496,7 @@
   "form": "choice",
   "nlines": 2,
   "jp": "パウエル隊 / やめる",
-  "en": ""
+  "en": "Powell's Squad / Cancel"
  },
  {
   "id": "2F2B41_1293.0",
@@ -1504,7 +1504,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ラビット隊は……工作隊の集団だな。 / こいつはホビットの村の出身だそうだ。",
-  "en": ""
+  "en": "Rabbit's Squad is... a group of engineers. This guy says he's from the Hobbit village."
  },
  {
   "id": "2F2B41_1293.1",
@@ -1512,7 +1512,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ホビットの村の連中は、 / 爆薬を使うのがすごくうまいんだ…… / きっと役に立つぜ。",
-  "en": ""
+  "en": "The folks from the Hobbit village are really good with explosives... He'll come in handy for sure."
  },
  {
   "id": "2F2B41_12E8.0",
@@ -1547,7 +1547,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、ラビット隊に決めるんだな…… / やつには俺から連絡しておくぜ！！",
-  "en": ""
+  "en": "So, you're going with Rabbit's Squad... I'll get in touch with him myself!!"
  },
  {
   "id": "2F2B41_1313.0",
@@ -1555,7 +1555,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ラビットが仲間に加わった！！",
-  "en": ""
+  "en": "Rabbit joined the party!!"
  },
  {
   "id": "2F2B41_1327.0",
@@ -1563,7 +1563,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……ラビット隊にしないのか？",
-  "en": ""
+  "en": "What... you're not going with Rabbit's Squad?"
  },
  {
   "id": "2F2B41_1333.0",
@@ -1571,7 +1571,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ひやかしはごめんだぜ。",
-  "en": ""
+  "en": "I've got no time for window-shoppers."
  },
  {
   "id": "2F2B41_1347.0",
@@ -1579,7 +1579,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "パウエル隊は工作隊だぜ…… / こいつらはミシエルの街の出身だそうだ。",
-  "en": ""
+  "en": "Powell's Squad are engineers... Says they're from the town of Michiel."
  },
  {
   "id": "2F2B41_1347.1",
@@ -1587,7 +1587,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やつらは爆弾をたくさん持っていて、 / いかにも強そうだったぜ……。",
-  "en": ""
+  "en": "They've got loads of bombs, and they looked plenty tough..."
  },
  {
   "id": "2F2B41_1347.2",
@@ -1622,7 +1622,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、パウエル隊に決めるんだな…… / やつには俺から連絡しておくぜ！！",
-  "en": ""
+  "en": "So, you're going with Powell's Squad... I'll get in touch with him myself!!"
  },
  {
   "id": "2F2B41_13BB.0",
@@ -1630,7 +1630,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パウエルが仲間に加わった！！",
-  "en": ""
+  "en": "Powell joined the party!!"
  },
  {
   "id": "2F2B41_13CF.0",
@@ -1638,7 +1638,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……パウエル隊にしないのか？",
-  "en": ""
+  "en": "What... you're not going with Powell's Squad?"
  },
  {
   "id": "2F2B41_13DB.0",
@@ -1646,7 +1646,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はっきり言って、ひやかしはごめんだぜ。",
-  "en": ""
+  "en": "I'll be blunt: I've got no time for window-shoppers."
  },
  {
   "id": "2F2B41_13F4.0",
@@ -1672,7 +1672,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "他で活躍してる軍隊も、 / 仲間を必要としてるんだ。",
-  "en": ""
+  "en": "Armies fighting in other places need allies too, you know."
  },
  {
   "id": "2F2B41_1439.0",
@@ -1680,7 +1680,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネ……へレネはどこ？",
-  "en": ""
+  "en": "Helene... where is Helene?"
  },
  {
   "id": "2F2B41_1449.0",
@@ -1688,7 +1688,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "2F2B41_1452.0",
@@ -1696,7 +1696,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ、あなたは……。",
-  "en": ""
+  "en": "Y-you are..."
  },
  {
   "id": "2F2B41_1460.0",
@@ -1704,7 +1704,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕はカケル。ルシフォン軍と闘っているんだ。",
-  "en": ""
+  "en": "I'm Kakeru. I'm fighting Lushifon's army."
  },
  {
   "id": "2F2B41_1476.0",
@@ -1712,7 +1712,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私は……もうあなたたちとは闘いません。",
-  "en": ""
+  "en": "I... will not fight you anymore."
  },
  {
   "id": "2F2B41_148F.0",
@@ -1720,7 +1720,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "へレネが人質に取られてたから…… / いやいや僕たちと闘ってたんでしょう？",
-  "en": ""
+  "en": "You were only fighting us unwillingly because Helene was taken hostage, right?"
  },
  {
   "id": "2F2B41_148F.1",
@@ -1728,7 +1728,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "言っておきますけど……私は女ですから。",
-  "en": ""
+  "en": "Let me make one thing clear... I am a woman."
  },
  {
   "id": "2F2B41_14D2.0",
@@ -1736,7 +1736,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなことは、言われなくてもわかってるよ。",
-  "en": ""
+  "en": "I know that without you telling me."
  },
  {
   "id": "2F2B41_14ED.0",
@@ -1744,7 +1744,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……な、なんか変なおねーさんだなあ。",
-  "en": ""
+  "en": "...Wh-what a weird lady."
  },
  {
   "id": "2F2B41_150E.0",
@@ -1752,7 +1752,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネは……どこに行ったのかしら？",
-  "en": ""
+  "en": "Helene... where could she have gone?"
  },
  {
   "id": "2F2B41_1523.0",
@@ -1760,7 +1760,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ねえ……僕たちといっしょに闘わない？ / なんならへレネもいっしょに。",
-  "en": ""
+  "en": "Hey... why don't you fight with us? Helene too, if you want."
  },
  {
   "id": "2F2B41_1523.1",
@@ -1768,7 +1768,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あの子をそんな危険な目に合わせられません。",
-  "en": ""
+  "en": "I cannot put that child in such danger."
  },
  {
   "id": "2F2B41_1563.0",
@@ -1776,7 +1776,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そう……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "2F2B41_1577.0",
@@ -1784,7 +1784,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ……こんなところでなにをやってるの？",
-  "en": ""
+  "en": "Huh... what are you doing in a place like this?"
  },
  {
   "id": "2F2B41_1595.0",
@@ -1792,7 +1792,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、ルシフォン軍に捕まっていて……それでも / 自分でロープを解いて逃げ出してきたんです。",
-  "en": ""
+  "en": "I was captured by Lushifon's army... but I untied the rope myself and escaped."
  },
  {
   "id": "2F2B41_1595.1",
@@ -1800,7 +1800,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街にはルシフォン軍はいないから、 / 隠れてなくても大丈夫だよ。",
-  "en": ""
+  "en": "Lushifon's army isn't in this town, so you don't need to hide."
  },
  {
   "id": "2F2B41_1595.2",
@@ -1808,7 +1808,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だって……恐いんですもの。 / あんな思いをするのは、もう絶対にいや。",
-  "en": ""
+  "en": "But... I'm scared. I never, ever want to go through something like that again."
  },
  {
   "id": "2F2B41_1609.0",
@@ -1816,7 +1816,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘヘヘっ……。",
-  "en": ""
+  "en": "Heh heh heh..."
  },
  {
   "id": "2F2B41_1615.0",
@@ -1824,7 +1824,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2F2B41_161D.0",
@@ -1832,7 +1832,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……どうしたんですか？ / カ、カケルさん？",
-  "en": ""
+  "en": "...What's wrong? K-Kakeru?"
  },
  {
   "id": "2F2B41_1636.0",
@@ -1840,7 +1840,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘひっ……ひひひひ。",
-  "en": ""
+  "en": "Heh-hee... hee hee hee hee."
  },
  {
   "id": "2F2B41_1646.0",
@@ -1848,7 +1848,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "め、目が……変ですよ。",
-  "en": ""
+  "en": "Y-your eyes... look weird."
  },
  {
   "id": "2F2B41_1657.0",
@@ -1856,7 +1856,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へ、へーレーネー……。",
-  "en": ""
+  "en": "H-Heeleeneee..."
  },
  {
   "id": "2F2B41_1674.0",
@@ -1864,7 +1864,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "い、いやっ……私に近づかないでください！！",
-  "en": ""
+  "en": "N-no... please don't come near me!!"
  },
  {
   "id": "2F2B41_1694.0",
@@ -1872,7 +1872,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だあああああああっ！！",
-  "en": ""
+  "en": "Gwaaaaaaah!!"
  },
  {
   "id": "2F2B41_16A2.0",
@@ -1880,7 +1880,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃああああああっ！！",
-  "en": ""
+  "en": "Kyaaaaaah!!"
  },
  {
   "id": "2F2B41_16B6.0",
@@ -1888,7 +1888,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こらっ！！　カケルっ！！",
-  "en": ""
+  "en": "Hey!! Kakeru!!"
  },
  {
   "id": "2F2B41_16CB.0",
@@ -1896,7 +1896,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネちゃあんっ！！",
-  "en": ""
+  "en": "Heleeeeene!!"
  },
  {
   "id": "2F2B41_16DA.0",
@@ -1904,7 +1904,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "へレネちゃんじゃないっ！！ / ナターシャに見られたら、どうするつもりだ！？",
-  "en": ""
+  "en": "Don't \"Heleeeeene\" me!! What were you planning to do if Natasha saw you?!"
  },
  {
   "id": "2F2B41_16DA.1",
@@ -1912,7 +1912,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャ？ / ……だれぇ？　キキキ。",
-  "en": ""
+  "en": "Natasha? ...Who's thaaat? Kee kee kee."
  },
  {
   "id": "2F2B41_16DA.2",
@@ -1920,7 +1920,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いかん。カケルがこわれた。",
-  "en": ""
+  "en": "This is bad. Kakeru's broken."
  },
  {
   "id": "2F2B41_1726.0",
@@ -1928,7 +1928,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うっうっ……恐かったあ。",
-  "en": ""
+  "en": "Sniff sniff... that was scary."
  },
  {
   "id": "2F2B41_1738.0",
@@ -1945,7 +1945,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……おや？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "2F2B41_174B.0",
@@ -1953,7 +1953,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おやじゃないぜ……まったく。",
-  "en": ""
+  "en": "Don't \"huh\" me... honestly."
  },
  {
   "id": "2F2B41_175D.0",
@@ -1961,7 +1961,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "正気に戻ったな。 / あの商人から買った、変な薬のせいだな。",
-  "en": ""
+  "en": "You're back to your senses. It's that weird medicine you bought from that merchant."
  },
  {
   "id": "2F2B41_175D.1",
@@ -1969,7 +1969,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネ……なにやってるの？",
-  "en": ""
+  "en": "Helene... what are you doing?"
  },
  {
   "id": "2F2B41_1795.0",
@@ -1977,7 +1977,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "知らないっ！！",
-  "en": ""
+  "en": "I don't know!!"
  },
  {
   "id": "2F2B41_17A2.0",
@@ -1985,7 +1985,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あははは……僕、なんかしたみたいだねえ。",
-  "en": ""
+  "en": "Ahahaha... looks like I did something, huh."
  },
  {
   "id": "2F2B41_17C8.0",
@@ -1993,7 +1993,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あっちに行ってください、カケルさん。",
-  "en": ""
+  "en": "Please go away, Kakeru."
  },
  {
   "id": "2F2B41_17DF.0",
@@ -2001,7 +2001,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたたちの軍隊に助けられて…… / この街まで逃げてきたんです。",
-  "en": ""
+  "en": "Your army rescued me... and I fled all the way to this town."
  },
  {
   "id": "2F2B41_17DF.1",
@@ -2018,7 +2018,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン軍から隠れてるんじゃないんです。 / それよりレアと会いましたか？",
-  "en": ""
+  "en": "I'm not hiding from Lushifon's army. More importantly, have you met Rhea?"
  },
  {
   "id": "2F2B41_184E.0",
@@ -2026,7 +2026,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まだ会ってないけど……。",
-  "en": ""
+  "en": "Not yet, but..."
  },
  {
   "id": "2F2B41_185F.0",
@@ -2034,7 +2034,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "レアに会ってください。……私がいなければ、 / レアはあなたたちといっしょに闘うはずです。",
-  "en": ""
+  "en": "Please go meet Rhea. ...If I weren't around, Rhea would surely fight alongside you."
  },
  {
   "id": "2F2B41_1894.0",
@@ -2042,7 +2042,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "会ったよ……へレネのことをさがしてた。",
-  "en": ""
+  "en": "I met her... she was looking for you, Helene."
  },
  {
   "id": "2F2B41_18AC.0",
@@ -2050,7 +2050,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私をさがしてた……。",
-  "en": ""
+  "en": "She was looking for me..."
  },
  {
   "id": "2F2B41_18BB.0",
@@ -2058,7 +2058,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私がいなければ、レアはあなたたちといっしょに / 闘うと思ったのに……。",
-  "en": ""
+  "en": "And I thought that if I weren't around, Rhea would fight alongside you..."
  },
  {
   "id": "2F2B41_18E0.0",
@@ -2066,7 +2066,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お願い、レアを仲間にしてあげて……。",
-  "en": ""
+  "en": "Please, let Rhea join your group..."
  },
  {
   "id": "2F2B41_18F7.0",
@@ -2083,7 +2083,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "レアは男っぽく見えますけど、 / 実はすごく優しい女の子なんです。 / でも、そのことに関してすごいコンプレックスを / 持ってるんです。",
-  "en": ""
+  "en": "Rhea may look boyish, but she's actually a really gentle girl. Still, she has a huge complex about it."
  },
  {
   "id": "2F2B41_194E.0",
@@ -2091,7 +2091,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたたちだったら、きっと姉を女性として / 扱ってくれると思います……。",
-  "en": ""
+  "en": "I'm sure you all would treat my sister like a woman..."
  },
  {
   "id": "2F2B41_1975.0",
@@ -2099,7 +2099,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘっヘっヘっ……。",
-  "en": ""
+  "en": "Heh heh heh..."
  },
  {
   "id": "2F2B41_1983.0",
@@ -2107,7 +2107,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あの……私の言ったこと、聞いてましたか？",
-  "en": ""
+  "en": "Um... were you listening to what I said?"
  },
  {
   "id": "2F2B41_19A0.0",
@@ -2115,7 +2115,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "魔法のペンまで売り尽くしちまったぜ…… / またソドムの村で仕入れてこないとな。",
-  "en": ""
+  "en": "I've sold out of everything, even the magic pens... Gotta go stock up at the village of Sodom again."
  },
  {
   "id": "2F2B41_19D3.0",
@@ -2123,7 +2123,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前らがルシフォン軍を追っ払ってくれたん / だってな……とりあえず礼を言ってやるぜ。",
-  "en": ""
+  "en": "I hear you lot chased off Lushifon's army... Guess I'll thank you, for what it's worth."
  },
  {
   "id": "2F2B41_19D3.1",
@@ -2131,7 +2131,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "この街のやつらはよ、ほとんどルシフォン軍に / 連れ去られちまったぜ…… / 残ってるのは俺ぐらいのもんさ。 / 金と船をやつらに貸して、 / 思いっきり命乞いをしたからな。",
-  "en": ""
+  "en": "Most of the folks in this town got carted off by Lushifon's army... I'm about the only one left. 'Cause I lent 'em my money and my ships and begged for my life with all I had."
  },
  {
   "id": "2F2B41_19D3.2",
@@ -2139,7 +2139,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だがおかげで俺は一文無しのうえに / ……残されたのは、ボロ船一隻だけってわけだ。",
-  "en": ""
+  "en": "But thanks to that, I'm flat broke... and all I've got left is one beat-up old ship."
  },
  {
   "id": "2F2B41_19D3.3",
@@ -2147,7 +2147,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "そこで相談なんだが、君の軍隊にはかわいい / 女の子がたくさんいるじゃないか。 / 俺の旅のお共として / ひとり紹介してくれないだろうか？ / いや、ぜいたくは言わんよ、ひとりでいいんだ。",
-  "en": ""
+  "en": "So here's my proposal. Your army's got plenty of cute girls, doesn't it? Won't you introduce me to one as a traveling companion? Oh, I'm not greedy. Just one will do."
  },
  {
   "id": "2F2B41_19D3.4",
@@ -2155,7 +2155,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "できれば、マルレーネという女か / ナターシャとかいう女がいいな……。",
-  "en": ""
+  "en": "If possible, I'd like that woman Marlene, or that one called Natasha..."
  },
  {
   "id": "2F2B41_19D3.5",
@@ -2163,7 +2163,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんか……恐い顔をしてるな。",
-  "en": ""
+  "en": "Why... are you making such a scary face?"
  },
  {
   "id": "2F2B41_1B1D.0",
@@ -2171,7 +2171,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "わかってるぞ、 / だれもただでとは言っとらんだろう…… / 俺の船を貸そうではないか。 / それで女の子を紹介してくれ。",
-  "en": ""
+  "en": "I get it, I get it. Nobody said it'd be for free... I'll lend you my ship. In exchange, introduce me to a girl."
  },
  {
   "id": "2F2B41_1B5F.0",
@@ -2188,7 +2188,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ど、どうしたのだ……剣を握りしめて。",
-  "en": ""
+  "en": "Wh-what's wrong... gripping your sword like that?"
  },
  {
   "id": "2F2B41_1B80.0",
@@ -2205,7 +2205,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ま、待て……わかった。 / 女はいらん……船も貸す……これでどうだ？",
-  "en": ""
+  "en": "W-wait... all right. I don't need a woman... I'll lend you the ship too... How's that?"
  },
  {
   "id": "2F2B41_1B88.1",
@@ -2213,7 +2213,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ありがとう、おじさん。",
-  "en": ""
+  "en": "Thanks, mister."
  },
  {
   "id": "2F2B41_1BC0.0",
@@ -2221,7 +2221,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前……剣士をやめて、 / 商人になった方がいいんじゃないのか？",
-  "en": ""
+  "en": "You... shouldn't you quit being a swordsman and become a merchant?"
  },
  {
   "id": "2F2B41_1BE4.0",
@@ -2229,7 +2229,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "船には俺もいっしょに乗るぞ。",
-  "en": ""
+  "en": "I'm coming along on the ship too."
  },
  {
   "id": "2F2B41_1BF8.0",
@@ -2237,7 +2237,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "黒い霧は止まったといううわさだが……",
-  "en": ""
+  "en": "Rumor has it the Black Mist has stopped..."
  },
  {
   "id": "2F2B41_1C10.0",
@@ -2245,7 +2245,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だれもいないところに / ひとりでいても仕方ないからな。",
-  "en": ""
+  "en": "but there's no point staying here all alone where there's nobody else."
  },
  {
   "id": "2F2B41_1C37.0",
@@ -2253,7 +2253,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おーい、マルレーネっ！ / どうしたのーっ？　そんなにあわてて……。",
-  "en": ""
+  "en": "Heeey, Marlene! What's wrong? Why the big rush...?"
  },
  {
   "id": "2F2B41_1C69.0",
@@ -2261,7 +2261,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ご、ごめんなさい、 / いまゆっくりお話ししてるひまがないんです！ / また、あとで……！！",
-  "en": ""
+  "en": "I-I'm sorry, I don't have time to chat right now! Later...!!"
  },
  {
   "id": "2F2B41_1CA6.0",
@@ -2269,7 +2269,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ、いっちゃったよ……わわわっ！？",
-  "en": ""
+  "en": "Huh, she's gone... Whoa whoa whoa!?"
  },
  {
   "id": "2F2B41_1CEB.0",
@@ -2277,7 +2277,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネさまあぁっ！ / どこですかああっ！？",
-  "en": ""
+  "en": "Lady Marleeene! Where are youuu!?"
  },
  {
   "id": "2F2B41_1CEB.1",
@@ -2285,7 +2285,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ、カケル。マルレーネ様を見なかった？",
-  "en": ""
+  "en": "Oh, Kakeru. Have you seen Lady Marlene?"
  },
  {
   "id": "2F2B41_1D19.0",
@@ -2293,7 +2293,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え、ええっと、マルレーネはね……。",
-  "en": ""
+  "en": "Uh, umm, Marlene, well..."
  },
  {
   "id": "2F2B41_1D2F.0",
@@ -2301,7 +2301,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "東に走ってったよ",
-  "en": ""
+  "en": "She ran east"
  },
  {
   "id": "2F2B41_1D3D.0",
@@ -2309,7 +2309,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "北に走ってったよ",
-  "en": ""
+  "en": "She ran north"
  },
  {
   "id": "2F2B41_1D55.0",
@@ -2317,7 +2317,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そう！　それじゃっ！！",
-  "en": ""
+  "en": "Really! See ya!!"
  },
  {
   "id": "2F2B41_1D74.0",
@@ -2325,7 +2325,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ♥　マルレーネ様、つーかまーえたっ！！",
-  "en": ""
+  "en": "Oh! Lady Marlene, caaaught you!!"
  },
  {
   "id": "2F2B41_1D8C.0",
@@ -2333,7 +2333,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃあああああああああぁぁぁっ！？",
-  "en": ""
+  "en": "Kyaaaaaaaaaaaaah!?"
  },
  {
   "id": "2F2B41_1DA3.0",
@@ -2350,7 +2350,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ごめん。マルレーネ。",
-  "en": ""
+  "en": "...Sorry, Marlene."
  },
  {
   "id": "2F2B41_1DBE.0",
@@ -2358,7 +2358,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ホント？　ウソだったら……殺すわよ。",
-  "en": ""
+  "en": "Really? If you're lying... I'll kill you."
  },
  {
   "id": "2F2B41_1DD7.0",
@@ -2366,7 +2366,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こ、殺すうっ！？　こんなことで殺されちゃ、 / わりにあわないよ。ウソなんかつかないってば。",
-  "en": ""
+  "en": "K-kill me?! Getting killed over something like this isn't worth it. I'm not lying, I swear."
  },
  {
   "id": "2F2B41_1DD7.1",
@@ -2374,7 +2374,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それもそーね。 / でもウソだったら殺すからね。",
-  "en": ""
+  "en": "Guess that's true. But if you're lying, I'll kill you."
  },
  {
   "id": "2F2B41_1E28.0",
@@ -2382,7 +2382,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネさまああああぁっ！ / どこなのおおおぉぉぉ……。",
-  "en": ""
+  "en": "Lady Marleeeeene! Where are youuuuu..."
  },
  {
   "id": "2F2B41_1E28.1",
@@ -2399,7 +2399,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネ。",
-  "en": ""
+  "en": "Marlene."
  },
  {
   "id": "2F2B41_1E57.0",
@@ -2407,7 +2407,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ひょっとしたら、僕は明日の朝には / 冷たい地面の底にいるかもしれないよ。",
-  "en": ""
+  "en": "By tomorrow morning, I might be lying deep under the cold ground."
  },
  {
   "id": "2F2B41_1E87.0",
@@ -2415,7 +2415,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネさまあぁっ！　どこですーっ！？",
-  "en": ""
+  "en": "Lady Marleeene! Where are youuu!?"
  },
  {
   "id": "2F2B41_1E9E.0",
@@ -2423,7 +2423,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "よう、また会ったな…… / 俺もなんとか船長家業を続けてるよ。",
-  "en": ""
+  "en": "Hey, we meet again... I'm still managing to keep the captain business going."
  },
  {
   "id": "2F2B41_1EC5.0",
@@ -2431,7 +2431,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ドラゴニア大陸に行くんだろう？",
-  "en": ""
+  "en": "You're headed to the Dragonia continent, right?"
  },
  {
   "id": "2F2B41_1ED5.0",
@@ -2439,7 +2439,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こうなったらとことん / お前たちにつき合ってやるよ。",
-  "en": ""
+  "en": "At this point, I'll stick with you all the way."
  },
  {
   "id": "2F2B41_1EF2.0",
@@ -2447,7 +2447,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "すぐにでも出航したいところだが…… / あいにくまだ修理が終ってなくてな……。",
-  "en": ""
+  "en": "I'd like to set sail right away... but unfortunately the repairs aren't done yet..."
  },
  {
   "id": "2F2B41_1EF2.1",
@@ -2455,7 +2455,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いそいでやるからよ…… / 少しぐらいなら待てるんだろう？",
-  "en": ""
+  "en": "I'll hurry it up... You can wait a little while, right?"
  },
  {
   "id": "2F2B41_1F70.0",
@@ -2463,7 +2463,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "悪いな、もう少し待っててくれ。",
-  "en": ""
+  "en": "Sorry, wait just a bit longer."
  },
  {
   "id": "2F2B41_1F8B.0",
@@ -2471,7 +2471,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よう、やっと船が直ったよ……出航するかい？",
-  "en": ""
+  "en": "Hey, the ship's finally fixed... Shall we set sail?"
  },
  {
   "id": "2F2B41_1FA8.0",
@@ -2497,7 +2497,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あら、カケルさんじゃありませんか？",
-  "en": ""
+  "en": "Oh my, if it isn't Kakeru?"
  },
  {
   "id": "2F2B41_1FD8.0",
@@ -2505,7 +2505,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……え？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "2F2B41_1FE2.0",
@@ -2513,7 +2513,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……マ、マリアン！？",
-  "en": ""
+  "en": "...M-Marian?!"
  },
  {
   "id": "2F2B41_2005.0",
@@ -2521,7 +2521,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マリアン、どうしてこんなところにいるの？",
-  "en": ""
+  "en": "Marian, what are you doing in a place like this?"
  },
  {
   "id": "2F2B41_2025.0",
@@ -2529,7 +2529,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……おほほほっ、私は母の愛を世界中の人々に / 伝えるために旅立ったのです。",
-  "en": ""
+  "en": "...Ohohoho, I have set out on a journey to spread a mother's love to all the people of the world."
  },
  {
   "id": "2F2B41_2025.1",
@@ -2537,7 +2537,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これからは私のことを、 / 愛の伝導師マリアンと呼んで下さい。",
-  "en": ""
+  "en": "From now on, please call me Marian, Missionary of Love."
  },
  {
   "id": "2F2B41_207C.0",
@@ -2545,7 +2545,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……おほほほっ、",
-  "en": ""
+  "en": "...Ohohoho,"
  },
  {
   "id": "2F2B41_208A.0",
@@ -2553,7 +2553,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私は母の愛を世界中の人々に伝えるため、 / ついに旅立ったのです。",
-  "en": ""
+  "en": "I have at last set out on a journey to spread a mother's love to all the people of the world."
  },
  {
   "id": "2F2B41_20AE.0",
@@ -2561,7 +2561,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "孤児院はどうしたの？",
-  "en": ""
+  "en": "What happened to the orphanage?"
  },
  {
   "id": "2F2B41_20C1.0",
@@ -2569,7 +2569,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ライナスがいなくなって、 / 子供たちも街に戻ってきたんでしょ？",
-  "en": ""
+  "en": "Linus is gone, so the kids came back to town too, right?"
  },
  {
   "id": "2F2B41_20E2.0",
@@ -2577,7 +2577,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おほほほほ！",
-  "en": ""
+  "en": "Ohohohoho!"
  },
  {
   "id": "2F2B41_20EE.0",
@@ -2585,7 +2585,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "黒い霧がやってきた時、 / みんなまとめて石になってしまいました。 / みなさん、母の愛が足りなかったようです。",
-  "en": ""
+  "en": "When the Black Mist came, they were all turned to stone together. It seems they all lacked a mother's love."
  },
  {
   "id": "2F2B41_20EE.1",
@@ -2593,7 +2593,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "母の愛で心が満たされている私だけは、 / 無事に脱出することができましたの。 / まさしく母の愛のご加護です。 / そのとき私の心の中に、声が響いたのです。",
-  "en": ""
+  "en": "Only I, whose heart is filled with a mother's love, managed to escape unharmed. Truly, it was the blessing of a mother's love. And at that moment, a voice echoed in my heart."
  },
  {
   "id": "2F2B41_2178.0",
@@ -2601,7 +2601,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "「世界を母の愛で満たせ。 / そして人々を苦しみから救済するのだ」と！",
-  "en": ""
+  "en": "\"Fill the world with a mother's love. And deliver the people from their suffering!\""
  },
  {
   "id": "2F2B41_21A3.0",
@@ -2609,7 +2609,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "きっとルシフォンとかいう人も、 / 母の愛が足りなかったために、 / こんな大それたことを / はじめてしまったのでしょう。",
-  "en": ""
+  "en": "I'm sure this Lushifon person, too, started such an outrageous affair because he lacked a mother's love."
  },
  {
   "id": "2F2B41_21E1.0",
@@ -2617,7 +2617,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ほんとうかなぁ？",
-  "en": ""
+  "en": "Is that really true?"
  },
  {
   "id": "2F2B41_21EF.0",
@@ -2625,7 +2625,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "疑うのですか？",
-  "en": ""
+  "en": "You doubt me?"
  },
  {
   "id": "2F2B41_21FA.0",
@@ -2633,7 +2633,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やはりあなたは母の愛に / 飢え渇いているようですね。するするする。",
-  "en": ""
+  "en": "Just as I thought, you are starving and parched for a mother's love. Slip, slip, slip."
  },
  {
   "id": "2F2B41_221F.0",
@@ -2641,7 +2641,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わあっ！　マリアン、 / こんなとこで急に服を脱ぎはじめないでよっ！",
-  "en": ""
+  "en": "Waah! Marian, don't suddenly start taking your clothes off in a place like this!"
  },
  {
   "id": "2F2B41_221F.1",
@@ -2649,7 +2649,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こ、こんなとこをナターシャやマルレーネに / 見られたら、大変なことになっちゃうよっ！！",
-  "en": ""
+  "en": "I-if Natasha or Marlene saw this, I'd be in huge trouble!!"
  },
  {
   "id": "2F2B41_221F.2",
@@ -2657,7 +2657,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "呼びました？",
-  "en": ""
+  "en": "Did you call me?"
  },
  {
   "id": "2F2B41_227C.0",
@@ -2665,7 +2665,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わああああっ！！",
-  "en": ""
+  "en": "Waaaaah!!"
  },
  {
   "id": "2F2B41_2290.0",
@@ -2673,7 +2673,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なにをしているのですか？",
-  "en": ""
+  "en": "What are you doing?"
  },
  {
   "id": "2F2B41_229F.0",
@@ -2681,7 +2681,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "あら……はじめまして。 / 私、マリアンと申します。 / ……カケルさん、こちらの方は？",
-  "en": ""
+  "en": "Oh my... pleased to meet you. My name is Marian. ...Kakeru, who might this be?"
  },
  {
   "id": "2F2B41_22CF.0",
@@ -2689,7 +2689,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あ……ああ、僕といっしょに闘っている仲間で / マルレーネっていうんだ。",
-  "en": ""
+  "en": "Oh... uh, she's a friend who fights alongside me. Her name's Marlene."
  },
  {
   "id": "2F2B41_22CF.1",
@@ -2697,7 +2697,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はじめまして、マルレーネです。",
-  "en": ""
+  "en": "Pleased to meet you. I'm Marlene."
  },
  {
   "id": "2F2B41_2306.0",
@@ -2705,7 +2705,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……それで、カケルさんとは / どういうご関係なのですか？",
-  "en": ""
+  "en": "...And what is your relationship with Kakeru?"
  },
  {
   "id": "2F2B41_2323.0",
@@ -2713,7 +2713,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "か……関係だなんて、 / そんなんじゃないんだよマルレーネ。",
-  "en": ""
+  "en": "R-relationship? It's nothing like that, Marlene."
  },
  {
   "id": "2F2B41_2323.1",
@@ -2721,7 +2721,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "！？　哀しい……。マルレーネさん、 / あなたの心には母の愛が感じられません。 / それどころか……さびしく暗い、 / 荒涼とした闇が心をおおってしまっています！",
-  "en": ""
+  "en": "!? How sad... Marlene, I cannot feel a mother's love in your heart. Rather... a lonely, dark, desolate darkness has shrouded your heart!"
  },
  {
   "id": "2F2B41_239C.0",
@@ -2729,7 +2729,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……あの……。",
-  "en": ""
+  "en": "Um... er..."
  },
  {
   "id": "2F2B41_23A9.0",
@@ -2737,7 +2737,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……マリアン？",
-  "en": ""
+  "en": "...Marian?"
  },
  {
   "id": "2F2B41_23B6.0",
@@ -2745,7 +2745,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ、人々の笑顔を取り戻すために、私は / もっともっと母の愛を世界中に注がなければ…。",
-  "en": ""
+  "en": "Ah, to bring back people's smiles, I must pour even more of a mother's love into the whole world..."
  },
  {
   "id": "2F2B41_23B6.1",
@@ -2753,7 +2753,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……カ、カケルさん、この方は……？",
-  "en": ""
+  "en": "...K-Kakeru, who is this person...?"
  },
  {
   "id": "2F2B41_23FE.0",
@@ -2761,7 +2761,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ごめん……この人だけは、 / 僕にもよくわからないんだ……。",
-  "en": ""
+  "en": "...Sorry... she's the one person even I can't figure out..."
  },
  {
   "id": "2F2B41_242F.0",
@@ -2769,7 +2769,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちょっと！",
-  "en": ""
+  "en": "Hey!"
  },
  {
   "id": "2F2B41_2438.0",
@@ -2777,7 +2777,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あたしのマルレーネ様に、 / なんてこと言うのよ！！",
-  "en": ""
+  "en": "How dare you say that to my Lady Marlene!!"
  },
  {
   "id": "2F2B41_245B.0",
@@ -2785,7 +2785,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わあっ！　ウ、ウェンディ！！",
-  "en": ""
+  "en": "Waah! W-Wendy!!"
  },
  {
   "id": "2F2B41_246C.0",
@@ -2793,7 +2793,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（に、逃げよう）",
-  "en": ""
+  "en": "(G-gotta run.)"
  },
  {
   "id": "2F2B41_2479.0",
@@ -2801,7 +2801,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（カケルさん、私を置いて逃げないでください）",
-  "en": ""
+  "en": "(Kakeru, please don't run off and leave me behind.)"
  },
  {
   "id": "2F2B41_2494.0",
@@ -2809,7 +2809,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あら……あなたは？",
-  "en": ""
+  "en": "Oh my... and who are you?"
  },
  {
   "id": "2F2B41_24A3.0",
@@ -2817,7 +2817,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あたしがだれかなんてどーでもいーでしょ、 / マルレーネ様から離れなさいよ！",
-  "en": ""
+  "en": "Who cares who I am? Get away from Lady Marlene!"
  },
  {
   "id": "2F2B41_24A3.1",
@@ -2825,7 +2825,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ひょっとして…… / あなたもカケルさんのお仲間なのですか？",
-  "en": ""
+  "en": "Could it be... that you are one of Kakeru's companions too?"
  },
  {
   "id": "2F2B41_24A3.2",
@@ -2833,7 +2833,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "あったりまえよ！ / これでもあたしは魔導師なんですからね / ……っていいから離れなさいよ！！",
-  "en": ""
+  "en": "Well, duh! I'll have you know I'm a sorcerer... I said get away from her already!!"
  },
  {
   "id": "2F2B41_2520.0",
@@ -2841,7 +2841,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああっ！　なんてかわいそう……",
-  "en": ""
+  "en": "Ah! You poor thing..."
  },
  {
   "id": "2F2B41_2535.0",
@@ -2849,7 +2849,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "まだこんな子供なのに、死ととなりあわせの / 戦場に身を投じなければならないなんて……。",
-  "en": ""
+  "en": "Still only a child, and yet you must throw yourself onto the battlefield, side by side with death..."
  },
  {
   "id": "2F2B41_2564.0",
@@ -2857,7 +2857,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうしてこんな子供たちが、 / 世の中にはたくさんいるのでしょう。",
-  "en": ""
+  "en": "Why are there so many children like this in the world?"
  },
  {
   "id": "2F2B41_2588.0",
@@ -2865,7 +2865,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（こ、このセリフは……）",
-  "en": ""
+  "en": "(Th-these lines...)"
  },
  {
   "id": "2F2B41_259A.0",
@@ -2873,7 +2873,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちょっと、ひとの話をきーてんの？",
-  "en": ""
+  "en": "Hey, are you even listening to me?"
  },
  {
   "id": "2F2B41_25AE.0",
@@ -2881,7 +2881,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかりました……。",
-  "en": ""
+  "en": "I understand..."
  },
  {
   "id": "2F2B41_25BB.0",
@@ -2889,7 +2889,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "あなたの渇いた心は、 / 母の愛を求めてやまないのでしょう？ / 私が母の愛を注いであげます…… / こっちヘいらっしゃい。",
-  "en": ""
+  "en": "Your parched heart longs endlessly for a mother's love, does it not? I shall pour a mother's love into you... Come over here."
  },
  {
   "id": "2F2B41_25FA.0",
@@ -2897,7 +2897,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ちょ、ちょっとなにすんの…… / 服を脱がそうとしないでよ、こんなとこで！",
-  "en": ""
+  "en": "H-hey, what are you doing... Don't try to take my clothes off, not here!"
  },
  {
   "id": "2F2B41_25FA.1",
@@ -2905,7 +2905,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "恥ずかしがることはありません……",
-  "en": ""
+  "en": "There's nothing to be embarrassed about..."
  },
  {
   "id": "2F2B41_2638.0",
@@ -2913,7 +2913,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "母の愛の前で子供が裸でいるのは、 / あたりまえのことです。",
-  "en": ""
+  "en": "It is only natural for a child to be naked before a mother's love."
  },
  {
   "id": "2F2B41_2659.0",
@@ -2921,7 +2921,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ひああああああぁぁぁっ！！",
-  "en": ""
+  "en": "Hyaaaaaaaaah!!"
  },
  {
   "id": "2F2B41_2676.0",
@@ -2929,7 +2929,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "す、すごいわ、マリアンさん……。",
-  "en": ""
+  "en": "A-amazing, Marian..."
  },
  {
   "id": "2F2B41_2693.0",
@@ -2937,7 +2937,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……感心しないでよ、マルレーネ。",
-  "en": ""
+  "en": "...Don't be impressed, Marlene."
  },
  {
   "id": "2F2B41_26A4.0",
@@ -2954,7 +2954,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "よーしっ、みんな集合だ！！ / これからドラゴニア大陸ヘと向かうぞ！！",
-  "en": ""
+  "en": "All right, everyone, assemble!! We're heading for the Dragonia continent!!"
  },
  {
   "id": "2F2B41_26C0.1",
@@ -2962,7 +2962,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そこはあやしい街ばかりだそうだ！！",
-  "en": ""
+  "en": "I hear it's full of nothing but shady towns!!"
  },
  {
   "id": "2F2B41_26FA.0",
@@ -2970,7 +2970,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今までどおり休息がとれるとは限らないからな、 / みんな覚悟しておいてくれ！！",
-  "en": ""
+  "en": "There's no telling whether we'll be able to rest the way we have until now, so everyone be prepared!!"
  },
  {
   "id": "2F2B41_2726.0",
@@ -2978,7 +2978,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "そしてもうひとつの問題は、 / 途中にドラゴンが棲む砦があるということだ！！ / しかし私たちはそこを通らなければ、 / ライムリン大陸ヘは行くことができない！！",
-  "en": ""
+  "en": "And one more problem: along the way there's a fortress where a dragon dwells!! But unless we pass through it, we cannot reach the Limerin continent!!"
  },
  {
   "id": "2F2B41_2779.0",
@@ -2986,7 +2986,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ねえ、エトっ！ / ドラゴニア大陸までは、どのくらいかかるの？",
-  "en": ""
+  "en": "Hey, Eto! How long will it take to get to the Dragonia continent?"
  },
  {
   "id": "2F2B41_2779.1",
@@ -2994,7 +2994,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだな……ドラゴニア大陸までなら / 一ヶ月もあればつくはずだ。",
-  "en": ""
+  "en": "Let's see... To the Dragonia continent, it should take about a month."
  },
  {
   "id": "2F2B41_2779.2",
@@ -3002,7 +3002,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うげぇ、考えただけで吐きそう。",
-  "en": ""
+  "en": "Ugh, just thinking about it makes me wanna throw up."
  },
  {
   "id": "2F2B41_27D0.0",
@@ -3010,7 +3010,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "みんな、一ヶ月後にはまた闘いが始まるぞ！",
-  "en": ""
+  "en": "Everyone, in a month the fighting begins again!"
  },
  {
   "id": "2F2B41_27ED.0",
@@ -3018,7 +3018,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、ライムリン王国はまだはるか東だ、 / 気を引き締めていこうぜ！！",
-  "en": ""
+  "en": "Kakeru, the Kingdom of Limerin is still far to the east. Let's stay sharp!!"
  },
  {
   "id": "2F2B41_2812.0",
@@ -3026,7 +3026,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕を連れてってくれるんだにょ？",
-  "en": ""
+  "en": "You're taking me with you-nyo?"
  },
  {
   "id": "2F2B41_2825.0",
@@ -3034,7 +3034,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うれしいにょっ……",
-  "en": ""
+  "en": "I'm so happy-nyo..."
  },
  {
   "id": "2F2B41_2834.0",
@@ -3042,7 +3042,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "君たちみたいな強い軍隊に入れるなんて、 / 僕はラッキーだにょ。",
-  "en": ""
+  "en": "Getting to join a strong army like yours, I'm a lucky guy-nyo."
  },
  {
   "id": "2F2B41_2857.0",
@@ -3050,7 +3050,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いつ出航するんだにょ？",
-  "en": ""
+  "en": "When are we setting sail-nyo?"
  },
  {
   "id": "2F2B41_2869.0",
@@ -3058,7 +3058,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "拙者、ミシエルの街の出身でござる。",
-  "en": ""
+  "en": "I hail from the town of Michiel, I do."
  },
  {
   "id": "2F2B41_287C.0",
@@ -3066,7 +3066,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もとは他の軍隊に所属しておりましたが、 / 拙者を残して全滅したでござる。",
-  "en": ""
+  "en": "I once served in another army, but it was wiped out, leaving only me behind, it was."
  },
  {
   "id": "2F2B41_287C.1",
@@ -3074,7 +3074,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "拙者は仲間のかたきを討ちたいでござるっ…… / よろしく頼むでござる。",
-  "en": ""
+  "en": "I wish to avenge my comrades, I do... I humbly ask for your favor."
  },
  {
   "id": "2F2B41_28D2.0",
@@ -3082,7 +3082,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いつ出航するでござるか？",
-  "en": ""
+  "en": "When shall we set sail, pray tell?"
  },
  {
   "id": "2F2B41_28E5.0",
@@ -3090,7 +3090,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ちがうってば…… / 僕たちは船に乗ってドラゴニア大陸に行くんだ。",
-  "en": ""
+  "en": "No, that's not it... We're taking a ship to the Dragonia continent."
  },
  {
   "id": "2F2B41_2906.0",
@@ -3098,7 +3098,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは力の種を５個見つけた！！",
-  "en": ""
+  "en": "Kakeru found 5 Seeds of Power!!"
  },
  {
   "id": "2F2B41_2917.0",
@@ -3115,7 +3115,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは守りの種を５個見つけた！！",
-  "en": ""
+  "en": "Kakeru found 5 Seeds of Defense!!"
  },
  {
   "id": "2F2B41_2939.0",
@@ -3123,7 +3123,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルはタンスの引き出しから、 / 守りの種を５個見つけた！！",
-  "en": ""
+  "en": "Kakeru found 5 Seeds of Defense in a dresser drawer!!"
  },
  {
   "id": "2F2B41_2957.0",
@@ -3131,7 +3131,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "みなさん、こんにちは！！",
-  "en": ""
+  "en": "Hello, everybody!!"
  },
  {
   "id": "2F2B41_2966.0",
@@ -3139,7 +3139,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルが元気よく挨拶すると、 / 天から力の種が降ってきた！！",
-  "en": ""
+  "en": "When Kakeru gave a cheerful greeting, a Seed of Power fell from the sky!!"
  },
  {
   "id": "2F2B41_298B.0",
@@ -3156,7 +3156,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "みなさん、お元気ですか！！",
-  "en": ""
+  "en": "How's everybody doing!!"
  },
  {
   "id": "2F2B41_29B1.0",
@@ -3164,6 +3164,6 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "調子に乗ったカケルは、 / 再び元気よく挨拶した！！ / すると、今度は守りの種が降ってきた！！ / カケルは守りの種を１０個見つけた！！",
-  "en": ""
+  "en": "Getting carried away, Kakeru gave another cheerful greeting!! And this time, Seeds of Defense fell from the sky!! Kakeru found 10 Seeds of Defense!!"
  }
 ]

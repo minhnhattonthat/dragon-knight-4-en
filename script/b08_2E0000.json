@@ -165,7 +165,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わ、私が眠っている間に / いったいなにをなさったんですか！？",
-  "en": ""
+  "en": "W-what on earth did you do while I was asleep?!"
  },
  {
   "id": "2E0000_0318.0",
@@ -173,7 +173,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わ、私は別になにもなさってないぞ！",
-  "en": ""
+  "en": "I-I most certainly did nothing of the sort, I assure you!"
  },
  {
   "id": "2E0000_032F.0",
@@ -181,7 +181,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ひどい、こんなのあんまりです……。",
-  "en": ""
+  "en": "How cruel... This is too much..."
  },
  {
   "id": "2E0000_0345.0",
@@ -189,7 +189,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "い、いや、君があまりにもきれいだから……。",
-  "en": ""
+  "en": "N-no, it's just that you're so very beautiful..."
  },
  {
   "id": "2E0000_035F.0",
@@ -197,7 +197,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え……ええ！？（ぽっ）",
-  "en": ""
+  "en": "Wh... What?! (blush)"
  },
  {
   "id": "2E0000_0371.0",
@@ -205,7 +205,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あ、メイフェアがまっかになった）",
-  "en": ""
+  "en": "(Whoa, Mayfair's turned bright red.)"
  },
  {
   "id": "2E0000_0384.0",
@@ -213,7 +213,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ほんとうですか？　今の言葉。",
-  "en": ""
+  "en": "......Do you really mean it? What you just said?"
  },
  {
   "id": "2E0000_039B.0",
@@ -221,7 +221,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "も、もちろんだとも。",
-  "en": ""
+  "en": "O-of course I do."
  },
  {
   "id": "2E0000_03AB.0",
@@ -229,7 +229,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そ、それじゃ今後の作戦を / 考えなければならないから、また……。",
-  "en": ""
+  "en": "W-well then, I must plan our next strategy, so... later..."
  },
  {
   "id": "2E0000_03CD.0",
@@ -237,7 +237,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん……もう少しここにいてください。",
-  "en": ""
+  "en": "Eto... Please stay here a little longer."
  },
  {
   "id": "2E0000_03E7.0",
@@ -245,7 +245,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（おもしろいからほっとこう、と……）",
-  "en": ""
+  "en": "(This is fun, so I'll just leave 'em to it...)"
  },
  {
   "id": "2E0000_0418.0",
@@ -253,7 +253,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん……。",
-  "en": ""
+  "en": "Eto..."
  },
  {
   "id": "2E0000_0424.0",
@@ -270,7 +270,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "くうくう……。",
-  "en": ""
+  "en": "Snore, snore..."
  },
  {
   "id": "2E0000_043D.0",
@@ -278,7 +278,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（クラリスってすごく寝相が悪いんだなあ、 / なんかイメージどおりではあるけど……）",
-  "en": ""
+  "en": "(Wow, Clarice sure sleeps all over the place. Kinda what I pictured, though...)"
  },
  {
   "id": "2E0000_0471.0",
@@ -322,7 +322,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う……うん……。",
-  "en": ""
+  "en": "Mm... mmn..."
  },
  {
   "id": "2E0000_0509.0",
@@ -339,7 +339,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……え？　うわあああああああっ！！",
-  "en": ""
+  "en": "Eto... Huh? WAAAAAAAAH!!"
  },
  {
   "id": "2E0000_052B.0",
@@ -356,7 +356,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "え、え、エト！ / 私が眠っている間にいったいなにをした！？",
-  "en": ""
+  "en": "E-E-Eto! What the heck did you do while I was asleep?!"
  },
  {
   "id": "2E0000_053A.1",
@@ -364,7 +364,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ご、誤解だ！ / 私は別になにも……。",
-  "en": ""
+  "en": "Y-you misunderstand! I did nothing at all..."
  },
  {
   "id": "2E0000_053A.2",
@@ -372,7 +372,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こ、この、人が寝てるのをいいことに……。",
-  "en": ""
+  "en": "Y-you... taking advantage of a girl while she's sleeping..."
  },
  {
   "id": "2E0000_058D.0",
@@ -380,7 +380,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ち、ちがう！ / いや、君があまりにもきれいだから……。",
-  "en": ""
+  "en": "N-no! It's just that you're so very beautiful..."
  },
  {
   "id": "2E0000_058D.1",
@@ -388,7 +388,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え……ええ！？（ぽっ）",
-  "en": ""
+  "en": "Wh... What?! (blush)"
  },
  {
   "id": "2E0000_05BE.0",
@@ -396,7 +396,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あ、クラリスがまっかになった）",
-  "en": ""
+  "en": "(Whoa, Clarice's turned bright red.)"
  },
  {
   "id": "2E0000_05D1.0",
@@ -404,7 +404,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……い、今、なんて言った？",
-  "en": ""
+  "en": "...Wh-what did you just say?"
  },
  {
   "id": "2E0000_05E4.0",
@@ -412,7 +412,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わ、私は、君が美しいと言ったんだ。",
-  "en": ""
+  "en": "I-I said that you are beautiful."
  },
  {
   "id": "2E0000_05FA.0",
@@ -420,7 +420,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そ、それじゃ今後の作戦を / 考えなければならないから、またあとで……。",
-  "en": ""
+  "en": "W-well then, I must plan our next strategy, so... until later..."
  },
  {
   "id": "2E0000_061F.0",
@@ -428,7 +428,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……もうちょっとここにいてもいいぜ。",
-  "en": ""
+  "en": "Eto... I guess you can stay here a little longer."
  },
  {
   "id": "2E0000_0637.0",
@@ -445,7 +445,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……。",
-  "en": ""
+  "en": "Eto..."
  },
  {
   "id": "2E0000_0678.0",
@@ -453,7 +453,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、私は忙しいのだ。",
-  "en": ""
+  "en": "Kakeru, I am busy."
  },
  {
   "id": "2E0000_06A1.0",
@@ -461,7 +461,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトに話しかけますか？",
-  "en": ""
+  "en": "Talk to Eto?"
  },
  {
   "id": "2E0000_06AE.0",
@@ -469,7 +469,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "話しかける",
-  "en": ""
+  "en": "Talk"
  },
  {
   "id": "2E0000_06B8.0",
@@ -477,7 +477,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "話しかけない",
-  "en": ""
+  "en": "Don't talk"
  },
  {
   "id": "2E0000_06CC.0",
@@ -485,7 +485,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ねえ、エト。",
-  "en": ""
+  "en": "Hey, Eto."
  },
  {
   "id": "2E0000_06D8.0",
@@ -493,7 +493,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なんだ……カケルか。",
-  "en": ""
+  "en": "Wh-what is it... Oh, Kakeru."
  },
  {
   "id": "2E0000_06E6.0",
@@ -501,7 +501,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんか今、あせってなかった？",
-  "en": ""
+  "en": "Weren't you kinda flustered just now?"
  },
  {
   "id": "2E0000_06FA.0",
@@ -509,7 +509,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私があせる！？ / そんなことがあるはずがない。",
-  "en": ""
+  "en": "Me, flustered?! Such a thing could never happen."
  },
  {
   "id": "2E0000_06FA.1",
@@ -517,7 +517,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、見てのとおりナターシャと / 込み入った話をしてるんだ。",
-  "en": ""
+  "en": "Kakeru, as you can see, Natasha and I are having a complicated discussion."
  },
  {
   "id": "2E0000_06FA.2",
@@ -525,7 +525,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕がいると話ができないんでしょ？ / ……どこか他の場所に行くよ。",
-  "en": ""
+  "en": "You can't talk with me around, right? ...I'll go somewhere else."
  },
  {
   "id": "2E0000_075D.0",
@@ -533,7 +533,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（やーめたっと）",
-  "en": ""
+  "en": "(Nah, forget it.)"
  },
  {
   "id": "2E0000_076A.0",
@@ -541,7 +541,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……私はナターシャと話をしてるんだ。",
-  "en": ""
+  "en": "Kakeru... I am talking with Natasha."
  },
  {
   "id": "2E0000_0787.0",
@@ -549,7 +549,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "カケル、シーボーズの港街が / 黒い霧に包まれたんですって。 / 私たちも、あの霧に包まれると / 石になっちゃうのかしら？",
-  "en": ""
+  "en": "Kakeru, I heard the port town of Seaboze has been swallowed by the Black Mist. Do you think we'll turn to stone too if that mist covers us?"
  },
  {
   "id": "2E0000_07C2.0",
@@ -557,7 +557,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "平気だよ、きっと。",
-  "en": ""
+  "en": "We'll be fine, I bet."
  },
  {
   "id": "2E0000_07D1.0",
@@ -565,7 +565,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケルは楽天家よね…… / でも、私は石になんかなりたくない。 / 私はまだやりたいことがたくさんあるの……。",
-  "en": ""
+  "en": "You're such an optimist, Kakeru... But I don't want to turn to stone. There are still so many things I want to do..."
  },
  {
   "id": "2E0000_080D.0",
@@ -573,7 +573,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャのやりたいことってなあに？",
-  "en": ""
+  "en": "What kind of things do you want to do, Natasha?"
  },
  {
   "id": "2E0000_0822.0",
@@ -581,7 +581,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルと……もごもごもご。 / いいの、カケルは知らなくても……。",
-  "en": ""
+  "en": "With you, Kakeru... mumble mumble mumble. Never mind, you don't need to know..."
  },
  {
   "id": "2E0000_084B.0",
@@ -589,7 +589,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、見て……きれいなお花畑。",
-  "en": ""
+  "en": "Kakeru, look... What a pretty field of flowers."
  },
  {
   "id": "2E0000_0862.0",
@@ -597,7 +597,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、おいしそうだね。",
-  "en": ""
+  "en": "Yeah, looks tasty!"
  },
  {
   "id": "2E0000_0872.0",
@@ -614,7 +614,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（いったいなにを話してるんだろ？）",
-  "en": ""
+  "en": "(What the heck are they talking about?)"
  },
  {
   "id": "2E0000_0894.0",
@@ -622,7 +622,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（……）",
-  "en": ""
+  "en": "(......)"
  },
  {
   "id": "2E0000_089D.0",
@@ -630,7 +630,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（聞こえないや……ちぇっ）",
-  "en": ""
+  "en": "(I can't hear 'em... Tch.)"
  },
  {
   "id": "2E0000_08B6.0",
@@ -638,7 +638,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（ナターシャは……楽しそうだな）",
-  "en": ""
+  "en": "(Natasha... she looks like she's having fun.)"
  },
  {
   "id": "2E0000_08C9.0",
@@ -646,7 +646,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "（僕と話をしてる時は、 / あんな笑顔は見せてくれない…… / ナターシャはきっと / エトのことが好きなんだろうな）",
-  "en": ""
+  "en": "(She never smiles like that when she's talking with me... Natasha must really like Eto.)"
  },
  {
   "id": "2E0000_0904.0",
@@ -654,7 +654,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（べ、別にいいよ…… / 僕とナターシャは、ただの幼なじみだし）",
-  "en": ""
+  "en": "(N-not that I care... Natasha and me are just childhood friends, anyway.)"
  },
  {
   "id": "2E0000_0904.1",
@@ -662,7 +662,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（他の場所に行こうっ……と）",
-  "en": ""
+  "en": "(Guess I'll go somewhere else...)"
  },
  {
   "id": "2E0000_093D.0",
@@ -670,7 +670,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャに話しかけますか？",
-  "en": ""
+  "en": "Talk to Natasha?"
  },
  {
   "id": "2E0000_094A.0",
@@ -696,7 +696,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャっ！！",
-  "en": ""
+  "en": "Natashaaa!!"
  },
  {
   "id": "2E0000_0973.0",
@@ -704,7 +704,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃっ！？",
-  "en": ""
+  "en": "Eek!?"
  },
  {
   "id": "2E0000_097E.0",
@@ -712,7 +712,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトとなにを話してるの？",
-  "en": ""
+  "en": "What're you talking about with Eto?"
  },
  {
   "id": "2E0000_0990.0",
@@ -720,7 +720,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なにも話してないわよね……エト？",
-  "en": ""
+  "en": "W-we're not talking about anything... right, Eto?"
  },
  {
   "id": "2E0000_09A6.0",
@@ -728,7 +728,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ああ、そうだとも。",
-  "en": ""
+  "en": "...Yes, quite right."
  },
  {
   "id": "2E0000_09B7.0",
@@ -736,7 +736,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル……エトと話をしてるんだから、 / あっちに行って。",
-  "en": ""
+  "en": "Kakeru... I'm talking with Eto, so go over there."
  },
  {
   "id": "2E0000_09B7.1",
@@ -744,7 +744,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちぇっ……わかったよ。",
-  "en": ""
+  "en": "Tch... Fine."
  },
  {
   "id": "2E0000_09E7.0",
@@ -779,7 +779,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すうすうすう……。",
-  "en": ""
+  "en": "Zzz... zzz... zzz..."
  },
  {
   "id": "2E0000_0A2B.0",
@@ -787,7 +787,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネは……寝てる。",
-  "en": ""
+  "en": "Marlene's... asleep."
  },
  {
   "id": "2E0000_0A3A.0",
@@ -795,7 +795,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネって……寝顔もきれいなんだなあ。",
-  "en": ""
+  "en": "Marlene sure looks pretty when she's sleeping, too..."
  },
  {
   "id": "2E0000_0A51.0",
@@ -803,7 +803,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルさん……あの……。",
-  "en": ""
+  "en": "Kakeru... Um..."
  },
  {
   "id": "2E0000_0A5D.0",
@@ -811,7 +811,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん、どこにいるか知りません？",
-  "en": ""
+  "en": "Do you know where Eto is?"
  },
  {
   "id": "2E0000_0A74.0",
@@ -819,7 +819,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はあ……。",
-  "en": ""
+  "en": "Sigh..."
  },
  {
   "id": "2E0000_0A7E.0",
@@ -827,7 +827,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ……ため息なんかついてらあ。",
-  "en": ""
+  "en": "Huh... She's sighing."
  },
  {
   "id": "2E0000_0A92.0",
@@ -835,7 +835,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "よう、カケル……シーボーズの港街が / 黒い霧に包まれたんだってよ。",
-  "en": ""
+  "en": "Hey, Kakeru... I hear the port town of Seaboze got swallowed by the Black Mist."
  },
  {
   "id": "2E0000_0A92.1",
@@ -843,7 +843,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "急いで東に向かった方がいいな。",
-  "en": ""
+  "en": "We'd better hurry east."
  },
  {
   "id": "2E0000_0AC7.0",
@@ -851,7 +851,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こうなったら、ルシフォンの顔を拝むまで / 闘い続けてやるさ……。",
-  "en": ""
+  "en": "At this point, I'll keep fighting till I get a look at Lushifon's face..."
  },
  {
   "id": "2E0000_0AEB.0",
@@ -859,7 +859,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "乙乙乙……乙乙乙……。",
-  "en": ""
+  "en": "Zzz... Zzz..."
  },
  {
   "id": "2E0000_0AFB.0",
@@ -867,7 +867,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "め、目を開けたまま寝てる……。",
-  "en": ""
+  "en": "H-he's sleeping with his eyes open..."
  },
  {
   "id": "2E0000_0B10.0",
@@ -884,7 +884,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "気持ち悪いなあ……。",
-  "en": ""
+  "en": "That's creepy..."
  },
  {
   "id": "2E0000_0B2F.0",
@@ -892,7 +892,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……あなたはエトと仲がいいわよね。",
-  "en": ""
+  "en": "Kakeru... You and Eto get along well, don't you?"
  },
  {
   "id": "2E0000_0B47.0",
@@ -900,7 +900,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトって……どんな人？",
-  "en": ""
+  "en": "What kind of person is Eto...?"
  },
  {
   "id": "2E0000_0B58.0",
@@ -908,7 +908,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……難しい質問だ。",
-  "en": ""
+  "en": "Hmm... That's a tough question."
  },
  {
   "id": "2E0000_0B6A.0",
@@ -916,7 +916,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうよねえ……難しいわよね。",
-  "en": ""
+  "en": "It is, isn't it... A tough one."
  },
  {
   "id": "2E0000_0B7C.0",
@@ -924,7 +924,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォンの軍隊は、どこに行ったのかしら？",
-  "en": ""
+  "en": "Where do you suppose Lushifon's army went?"
  },
  {
   "id": "2E0000_0B93.0",
@@ -932,7 +932,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きっと、僕たちと闘う準備をしてるんだよ。",
-  "en": ""
+  "en": "I bet they're getting ready to fight us."
  },
  {
   "id": "2E0000_0BAF.0",
@@ -940,7 +940,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だとすると、ロンボニ王国には…… / 簡単に行けそうにないわね。",
-  "en": ""
+  "en": "In that case... getting to the Kingdom of Romboni won't be easy."
  },
  {
   "id": "2E0000_0BD2.0",
@@ -948,7 +948,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "もぐもぐ……カケル、 / 東にはロンボニ王国があるんだってな。 / そこのバナナはおいしいのか？",
-  "en": ""
+  "en": "Munch munch... Kakeru, I hear the Kingdom of Romboni is to the east. Are the bananas there tasty?"
  },
  {
   "id": "2E0000_0BFF.0",
@@ -956,7 +956,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "知らないよ、バナナのことなんて。",
-  "en": ""
+  "en": "How should I know? Who cares about bananas?"
  },
  {
   "id": "2E0000_0C13.0",
@@ -964,7 +964,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "バナナのことなんて、とはなんだ……",
-  "en": ""
+  "en": "\"Who cares about bananas\"? What's that supposed to mean..."
  },
  {
   "id": "2E0000_0C26.0",
@@ -972,7 +972,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バナナを馬鹿にするやつは / たとえカケルでも許さないぞ。",
-  "en": ""
+  "en": "Anyone who mocks bananas won't get away with it, not even you, Kakeru."
  },
  {
   "id": "2E0000_0C46.0",
@@ -980,7 +980,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "俺様の活力は、全てバナナのおかげなんだ。",
-  "en": ""
+  "en": "All of my energy comes from bananas."
  },
  {
   "id": "2E0000_0C60.0",
@@ -988,7 +988,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "バナナ以外に、なにも食べないの？",
-  "en": ""
+  "en": "Don't you eat anything besides bananas?"
  },
  {
   "id": "2E0000_0C77.0",
@@ -996,7 +996,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "食べるぞ……モンキーバナナとか。",
-  "en": ""
+  "en": "Sure I do... Monkey bananas and stuff."
  },
  {
   "id": "2E0000_0C8D.0",
@@ -1004,7 +1004,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あはははは…… / 酒場にいると、なんだか気分が落ち着くわね。",
-  "en": ""
+  "en": "Ahahahaha... Being in a tavern sure makes me feel relaxed."
  },
  {
   "id": "2E0000_0C8D.1",
@@ -1012,7 +1012,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いつロンボニ王国に向かうのかしらね？ / ……ゆっくりしてると黒い霧がやってくるわ。",
-  "en": ""
+  "en": "I wonder when we'll head for the Kingdom of Romboni? ...If we dawdle, the Black Mist will catch up with us."
  },
  {
   "id": "2E0000_0CDA.0",
@@ -1020,7 +1020,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この店の主は、ルシフォンの軍隊に / 連れて行かれちゃったみたいね…… / おかげで飲み放題だわ、あはははっ。",
-  "en": ""
+  "en": "Looks like the owner of this place got hauled off by Lushifon's army... So now it's all-you-can-drink, ahahaha!"
  },
  {
   "id": "2E0000_0D1F.0",
@@ -1082,7 +1082,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "知ってるよ…… / 実は僕、君たちのあとをずっとついてきたのさ。",
-  "en": ""
+  "en": "I know... Actually, I've been following you guys this whole time."
  },
  {
   "id": "2E0000_0D62.1",
@@ -1090,7 +1090,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……そうなのか。",
-  "en": ""
+  "en": "Oh... So that's how it is."
  },
  {
   "id": "2E0000_0D72.0",
@@ -1134,7 +1134,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……そ、そうか、君がカケル君か！！",
-  "en": ""
+  "en": "...S-so, you're Kakeru!!"
  },
  {
   "id": "2E0000_0DA1.0",
@@ -1178,7 +1178,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "なあ、よかったら今までのことを / 話してくれないか？ / ロンボニ大陸に渡ってきて…… / 君が今までどんな冒険をしてきたかってことを。",
-  "en": ""
+  "en": "Say, if you don't mind, would you tell me what's happened so far? What kind of adventures you've had since crossing over to the Romboni continent?"
  },
  {
   "id": "2E0000_0DE8.0",
@@ -1222,7 +1222,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕も君たちといっしょの船で / ロンボニ大陸にきたんだ。",
-  "en": ""
+  "en": "I came to the Romboni continent on the same ship as you."
  },
  {
   "id": "2E0000_0E2E.0",
@@ -1239,7 +1239,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "……とうとう、シーボーズの港街も / 黒い霧に包まれたそうだ、 / じきにカラープにもやってくるだろうね。",
-  "en": ""
+  "en": "...I hear the port town of Seaboze has finally been swallowed by the Black Mist too. It'll probably reach Karap soon."
  },
  {
   "id": "2E0000_0E3A.1",
@@ -1418,7 +1418,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ、ライナス……あれれ！？",
-  "en": ""
+  "en": "Hey, Linus... Huh?!"
  },
  {
   "id": "2E0000_1084.0",
@@ -1426,7 +1426,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんか、顔色が悪いよ……ライナス。",
-  "en": ""
+  "en": "You don't look so good... Linus."
  },
  {
   "id": "2E0000_109B.0",
@@ -1434,7 +1434,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "げろげろげろ……お、俺は船が苦手なんだ。",
-  "en": ""
+  "en": "Bleeeargh... I-I can't handle ships."
  },
  {
   "id": "2E0000_10B6.0",
@@ -1442,7 +1442,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うっぷ……ち、ちくしょーっ！！",
-  "en": ""
+  "en": "Urp... D-dammiiit!!"
  },
  {
   "id": "2E0000_10CC.0",
@@ -1450,7 +1450,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "気持ちが悪くて女の子に / いたずらする元気がないっ。",
-  "en": ""
+  "en": "I feel so sick I don't even have the energy to mess with girls."
  },
  {
   "id": "2E0000_10E8.0",
@@ -1458,7 +1458,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ロンボニ王国に行ったら……うっぷ…… / おぼえてろよっ……うえっぷ！！",
-  "en": ""
+  "en": "When we get to the Kingdom of Romboni... urp... you just wait... BLEURGH!!"
  },
  {
   "id": "2E0000_110E.0",
@@ -1466,7 +1466,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ありゃりゃ…… / 口を押さえて、走って行ってしまった。",
-  "en": ""
+  "en": "Whoa... He covered his mouth and ran off."
  },
  {
   "id": "2E0000_1132.0",
@@ -1474,7 +1474,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この船はもうレイモンド大陸には戻らないぜ。 / あの大陸は、黒い霧に包まれちまったそうだ。",
-  "en": ""
+  "en": "This ship ain't going back to the Raymond continent. Word is that whole continent's been swallowed by the Black Mist."
  },
  {
   "id": "2E0000_1132.1",
@@ -1482,7 +1482,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "船のない船長なんざ、 / 泡の出ないビールのようなもんだ…… / 俺の船長稼業も潮時だな。",
-  "en": ""
+  "en": "A captain without a ship is like a beer without foam... Guess it's time I quit the captain business."
  },
  {
   "id": "2E0000_1195.0",
@@ -1490,7 +1490,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "船長をやめてどうするの？",
-  "en": ""
+  "en": "What'll you do after you quit being a captain?"
  },
  {
   "id": "2E0000_11A7.0",
@@ -1498,7 +1498,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前たちみたいに闘う勇気もないし…… / まあ、これから考えてみるさ。",
-  "en": ""
+  "en": "I ain't got the guts to fight like you lot... Well, I'll think about it from here."
  },
  {
   "id": "2E0000_11D0.0",
@@ -1506,7 +1506,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うーん……どの職業も、 / 俺には似合いそうにないな。",
-  "en": ""
+  "en": "Hmm... None of the jobs out there seem to suit me."
  },
  {
   "id": "2E0000_11F5.0",
@@ -1514,7 +1514,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "また会ったな。",
-  "en": ""
+  "en": "We meet again."
  },
  {
   "id": "2E0000_1202.0",
@@ -1522,7 +1522,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おじさんもいっしょの船できたんだ。",
-  "en": ""
+  "en": "So you came on the same ship too, mister."
  },
  {
   "id": "2E0000_1217.0",
@@ -1530,7 +1530,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "逃げてきたわけじゃないぞ。",
-  "en": ""
+  "en": "It's not like I ran away, y'know."
  },
  {
   "id": "2E0000_1228.0",
@@ -1538,7 +1538,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "俺様がいなくなったら、 / お前だって困るだろうが？ / だれも仲間を紹介しなくなるぜ。",
-  "en": ""
+  "en": "If I weren't around, you'd be in trouble too, wouldn't you? Nobody would introduce you to any allies."
  },
  {
   "id": "2E0000_1228.1",
@@ -1546,7 +1546,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "で、この街ではだれを紹介してくれるの？",
-  "en": ""
+  "en": "So, who are you gonna introduce me to in this town?"
  },
  {
   "id": "2E0000_1270.0",
@@ -1554,7 +1554,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "えーと……あれれ！？",
-  "en": ""
+  "en": "Uhh... Huh?!"
  },
  {
   "id": "2E0000_127F.0",
@@ -1562,7 +1562,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すまん……",
-  "en": ""
+  "en": "Sorry..."
  },
  {
   "id": "2E0000_128A.0",
@@ -1570,7 +1570,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街の住人は、みんなルシフォンの軍隊に / 連れ去られてしまったようだ。",
-  "en": ""
+  "en": "Looks like everyone who lived in this town got carried off by Lushifon's army."
  },
  {
   "id": "2E0000_12B0.0",
@@ -1578,7 +1578,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "役にたたないおじさんだな。",
-  "en": ""
+  "en": "You're a useless old guy, y'know that?"
  },
  {
   "id": "2E0000_12C4.0",
@@ -1586,7 +1586,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前……かわいくないなあ。",
-  "en": ""
+  "en": "You... You're not cute at all."
  },
  {
   "id": "2E0000_12D5.0",
@@ -1594,7 +1594,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうそう、カケル……恐い話を聞きたいか？",
-  "en": ""
+  "en": "Oh yeah, Kakeru... Wanna hear a scary story?"
  },
  {
   "id": "2E0000_12F1.0",
@@ -1620,7 +1620,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "恐い話ってなあに？",
-  "en": ""
+  "en": "What kind of scary story?"
  },
  {
   "id": "2E0000_131D.0",
@@ -1628,7 +1628,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街にポセイドンの像があるだろ？ / その像を曉めていたら、話しかけてきたんだ。",
-  "en": ""
+  "en": "There's a statue of Poseidon in this town, right? I was looking at it, and it started talking to me."
  },
  {
   "id": "2E0000_131D.1",
@@ -1636,7 +1636,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だれが？",
-  "en": ""
+  "en": "Who did?"
  },
  {
   "id": "2E0000_1355.0",
@@ -1644,7 +1644,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だからあ、ポセイドンの像がだよ…… / な、恐い話だろ？",
-  "en": ""
+  "en": "I'm tellin' ya, the statue of Poseidon did... Scary, huh?"
  },
  {
   "id": "2E0000_1355.1",
@@ -1652,7 +1652,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちっとも恐くないよ、そんな話。",
-  "en": ""
+  "en": "That's not scary at all."
  },
  {
   "id": "2E0000_138E.0",
@@ -1660,7 +1660,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "聞きたくないよ、恐い話なんか。",
-  "en": ""
+  "en": "I don't wanna hear any scary story."
  },
  {
   "id": "2E0000_13A2.0",
@@ -1668,7 +1668,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前……本当にかわいくないなあ。",
-  "en": ""
+  "en": "You... You really aren't cute at all."
  },
  {
   "id": "2E0000_13B6.0",
@@ -1676,7 +1676,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おじさん、だれか登録してる？",
-  "en": ""
+  "en": "Mister, have you got anyone registered?"
  },
  {
   "id": "2E0000_13CC.0",
@@ -1684,7 +1684,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わっはっはっはっは！！",
-  "en": ""
+  "en": "Wahahahahaha!!"
  },
  {
   "id": "2E0000_13DD.0",
@@ -1692,7 +1692,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すまん、だれもしてないんだ。",
-  "en": ""
+  "en": "Sorry, nobody's registered."
  },
  {
   "id": "2E0000_13F1.0",
@@ -1700,7 +1700,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ほっほっ、わしはユリシーズの出身ぢゃよ。",
-  "en": ""
+  "en": "Ho ho, I hail from Ulysses, I do."
  },
  {
   "id": "2E0000_1408.0",
@@ -1708,7 +1708,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "わしに話しかけてくれたお礼にな、 / いいことを教えてやるわい…… / これはワシが独自に調べ上げたものぢゃ。",
-  "en": ""
+  "en": "As thanks for talkin' to me, I'll tell you somethin' good... This is somethin' I looked into all on my own."
  },
  {
   "id": "2E0000_144A.0",
@@ -1716,7 +1716,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ドラゴンに乗っとるやつらが、全て / ドラゴンナイト一族というわけではないのぢゃ… / ルシフォンという男だけがドラゴンナイトで、 / あとはワシたちと同じただの民間人ぢゃ。",
-  "en": ""
+  "en": "Not everyone ridin' a dragon is of the Dragon Knight clan, y'see... Only that fellow Lushifon is a Dragon Knight, and the rest are just plain folk like us."
  },
  {
   "id": "2E0000_14A1.0",
@@ -1724,7 +1724,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "それとな、全てのドラゴンがルシフォンと / 手を組んだわけではないのぢゃ…… / 人間と同じように中にはいいやつも、 / 悪いやつもおるわい。",
-  "en": ""
+  "en": "And another thing... Not every dragon has joined hands with Lushifon... Same as with humans, some are good sorts and some are bad."
  },
  {
   "id": "2E0000_14E8.0",
@@ -1732,7 +1732,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ユリシーズの街は、とうの昔に黒い霧の中ぢゃよ",
-  "en": ""
+  "en": "The town of Ulysses was swallowed by the Black Mist long ago."
  },
  {
   "id": "2E0000_1500.0",
@@ -1740,7 +1740,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ワシは、生まれ育った家で / 石になってやろうと思ったんぢゃが。",
-  "en": ""
+  "en": "...I'd thought I'd just turn to stone in the house where I was born and raised."
  },
  {
   "id": "2E0000_1529.0",
@@ -1748,7 +1748,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いくつになっても死ぬのは恐いわい…… / ふおっふおっふおっ。",
-  "en": ""
+  "en": "But no matter how old you get, dyin' is still scary... Hoh hoh hoh."
  },
  {
   "id": "2E0000_1550.0",
@@ -1756,7 +1756,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "この街はシーボーズと交易してたから、 / 何度もきたことがあるんだが…… / ここに住んでたやつらは / どこに行っちまったんだ！？",
-  "en": ""
+  "en": "This town used to trade with Seaboze, so I've been here plenty of times... But where the hell did everybody who lived here go?!"
  },
  {
   "id": "2E0000_1595.0",
@@ -1764,7 +1764,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "金目の物はなにもねーし…… / シケた街になっちまったぜ。",
-  "en": ""
+  "en": "There ain't nothin' worth anything left... This town's turned into a dump."
  },
  {
   "id": "2E0000_15B9.0",
@@ -1772,7 +1772,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "こうなったら、闘いに巻き込まれてない街を / 探し出してやる…… / そこでまた街のボスとして / 君臨してやるぜえっ！！",
-  "en": ""
+  "en": "At this rate, I'll hunt down a town that ain't caught up in the fighting... and rule over it as the town's boss all over again!!"
  },
  {
   "id": "2E0000_15FD.0",
@@ -1780,7 +1780,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "俺はルシフォン軍の目を盗み、 / ロンボニ王国からこの街を偵察にきた / サントスってもんだ。",
-  "en": ""
+  "en": "The name's Santos. I slipped past Lushifon's army and came from the Kingdom of Romboni to scout out this town."
  },
  {
   "id": "2E0000_1629.0",
@@ -1788,7 +1788,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "我が王国は完全にルシフォンの支配下にある……",
-  "en": ""
+  "en": "Our kingdom is completely under Lushifon's control..."
  },
  {
   "id": "2E0000_1647.0",
@@ -1796,7 +1796,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "国王とビアンカ姫は無事だが、 / 国は完全に乗っ取られてるよ。",
-  "en": ""
+  "en": "The King and Princess Bianca are safe, but the country's been taken over entirely."
  },
  {
   "id": "2E0000_166B.0",
@@ -1804,7 +1804,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうしてルシフォン軍は、 / この街から引き上げたの？",
-  "en": ""
+  "en": "Why did Lushifon's army pull out of this town?"
  },
  {
   "id": "2E0000_166B.1",
@@ -1812,7 +1812,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "なんでも、とても強い軍隊が / レイモンド大陸からくるらしい…… / やつらはカラープとロンボニ王国の間で、 / そいつらを待ち伏せしてるんだ。",
-  "en": ""
+  "en": "Word is, a very strong army is coming from the Raymond continent... They're lying in wait for them between Karap and the Kingdom of Romboni."
  },
  {
   "id": "2E0000_16C8.0",
@@ -1820,7 +1820,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私はロンボニ王国に戻るとしよう。",
-  "en": ""
+  "en": "I think I'll head back to the Kingdom of Romboni."
  },
  {
   "id": "2E0000_16DA.0",
@@ -1828,7 +1828,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンの目的が、 / おぼろげながらわかったからな……。",
-  "en": ""
+  "en": "I've got a vague idea now of what Lushifon is after..."
  },
  {
   "id": "2E0000_16F7.0",
@@ -1836,7 +1836,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォンの目的？",
-  "en": ""
+  "en": "What Lushifon is after?"
  },
  {
   "id": "2E0000_1704.0",
@@ -1844,7 +1844,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なんでもやつらの目的には『ヤマト・タケル』様 / が関係しているらしいんだ……。",
-  "en": ""
+  "en": "Word is, whatever they're after has something to do with Lord 'Yamato Takeru'..."
  },
  {
   "id": "2E0000_1704.1",
@@ -1852,7 +1852,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お父さんは、もう石になってるよ。",
-  "en": ""
+  "en": "My dad's already been turned to stone."
  },
  {
   "id": "2E0000_174C.0",
@@ -1860,7 +1860,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "なんと！？ / そなたがタケル様の息子、カケル殿か！？ / すると、レイモンド大陸からきた / 軍隊というのは！？",
-  "en": ""
+  "en": "What?! You're Lord Takeru's son, Master Kakeru?! Then that army from the Raymond continent is...?!"
  },
  {
   "id": "2E0000_1782.0",
@@ -1868,7 +1868,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "たぶん僕たちのことだよ。",
-  "en": ""
+  "en": "Probably us."
  },
  {
   "id": "2E0000_1791.0",
@@ -1876,7 +1876,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうであったか。",
-  "en": ""
+  "en": "So that's how it is."
  },
  {
   "id": "2E0000_179F.0",
@@ -1884,7 +1884,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "これでロンボニ王国は、 / ルシフォン軍の支配下から / 解放されるかもしれんぞ！！",
-  "en": ""
+  "en": "Then the Kingdom of Romboni may yet be freed from the rule of Lushifon's army!!"
  },
  {
   "id": "2E0000_179F.1",
@@ -1892,7 +1892,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "むむむ、早く戻らねば……",
-  "en": ""
+  "en": "Mmm, I must hurry back..."
  },
  {
   "id": "2E0000_17D7.0",
@@ -1900,7 +1900,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "我が軍隊が、ルシフォン軍の / 味方についてしまう前に！！",
-  "en": ""
+  "en": "Before our army ends up siding with Lushifon's army!!"
  },
  {
   "id": "2E0000_17F6.0",
@@ -1908,7 +1908,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ドラゴンに乗ってれば / ドラゴンナイトなのかしら？ / この間、ドラゴンから / 振り落とされた人を見たわよ。",
-  "en": ""
+  "en": "Does riding a dragon make you a Dragon Knight? The other day I saw someone get thrown off a dragon."
  },
  {
   "id": "2E0000_182C.0",
@@ -1916,7 +1916,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "情けないドラゴンナイトよね……",
-  "en": ""
+  "en": "What a pathetic Dragon Knight..."
  },
  {
   "id": "2E0000_1840.0",
@@ -1924,7 +1924,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "初心者マークをつけた方が / いいんじゃないかしら？",
-  "en": ""
+  "en": "Maybe he should put a 'Student Driver' sign on it?"
  },
  {
   "id": "2E0000_185A.0",
@@ -1932,7 +1932,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私はユリシーズの街から逃げ続けてるの。 / ようするにプロの逃亡者ね。",
-  "en": ""
+  "en": "I've been on the run ever since I left the town of Ulysses. In other words, I'm a professional fugitive."
  },
  {
   "id": "2E0000_185A.1",
@@ -1940,7 +1940,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "何度も見つかりそうになって、 / その度にひやひやしっぱなしだったけど…… / あのスリルがたまらなく快感なのよねえ。",
-  "en": ""
+  "en": "I nearly got caught so many times, and every time my heart was in my throat... but that thrill feels sooo good."
  },
  {
   "id": "2E0000_18C0.0",
@@ -1948,7 +1948,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さーて、またスリルを味わいに / 東ヘ行ってみようかしら……。",
-  "en": ""
+  "en": "Okay, maybe I'll head east and get another taste of that thrill..."
  },
  {
   "id": "2E0000_1902.0",
@@ -1956,7 +1956,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン軍がいっぱいいるんだろうなあ…… / わくわくするなあ。",
-  "en": ""
+  "en": "I bet there are tons of Lushifon's army out there... This is so exciting."
  },
  {
   "id": "2E0000_1902.1",
@@ -1964,7 +1964,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル――――っ！！",
-  "en": ""
+  "en": "Kakeruuuuuu!!"
  },
  {
   "id": "2E0000_1935.0",
@@ -1972,7 +1972,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はあはあ……だめだよ、ひとりで外に出たら。",
-  "en": ""
+  "en": "*pant pant*... You can't go outside by yourself."
  },
  {
   "id": "2E0000_194D.0",
@@ -1980,7 +1980,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかってるよ……。",
-  "en": ""
+  "en": "I know..."
  },
  {
   "id": "2E0000_195B.0",
@@ -1988,7 +1988,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だったらいいけど……。",
-  "en": ""
+  "en": "Then fine..."
  },
  {
   "id": "2E0000_1977.0",
@@ -1996,7 +1996,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちょっと外に出てみようかな……。",
-  "en": ""
+  "en": "Maybe I'll just take a little peek outside..."
  },
  {
   "id": "2E0000_198B.0",
@@ -2004,7 +2004,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おーい、カケルっっ！！",
-  "en": ""
+  "en": "Hey, Kakeruuu!!"
  },
  {
   "id": "2E0000_19A3.0",
@@ -2012,7 +2012,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "はあはあはあ……ちょっと目を離すと、 / すぐにひとりで行こうとするんだから。",
-  "en": ""
+  "en": "*pant pant pant*... I take my eyes off you for one second and you try to go off on your own."
  },
  {
   "id": "2E0000_19A3.1",
@@ -2020,7 +2020,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だって……退屈なんだもの。",
-  "en": ""
+  "en": "But... I'm bored."
  },
  {
   "id": "2E0000_19D5.0",
@@ -2028,7 +2028,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だめだよ、エトさんに言われたんだ。 / 見張ってろって。",
-  "en": ""
+  "en": "You can't. Eto told me to keep an eye on you."
  },
  {
   "id": "2E0000_19D5.1",
@@ -2036,7 +2036,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちぇ……わかったよ。",
-  "en": ""
+  "en": "Tch... fine."
  },
  {
   "id": "2E0000_1A09.0",
@@ -2071,7 +2071,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もう……いつまでこの街にいるんだろ？",
-  "en": ""
+  "en": "Jeez... how long are we gonna be stuck in this town?"
  },
  {
   "id": "2E0000_1A42.0",
@@ -2079,7 +2079,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル――――っっ！！",
-  "en": ""
+  "en": "Kakeruuuuuu!!"
  },
  {
   "id": "2E0000_1A5C.0",
@@ -2096,7 +2096,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかってるよ、外に出るなって言うんだろ？",
-  "en": ""
+  "en": "I know, I know, you're gonna tell me not to go outside, right?"
  },
  {
   "id": "2E0000_1A7E.0",
@@ -2104,7 +2104,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ち、ちがうよ…… / 黒い霧の動きが、急に早くなったんだ！！",
-  "en": ""
+  "en": "N-no, it's not that... The Black Mist suddenly started moving faster!!"
  },
  {
   "id": "2E0000_1A7E.1",
@@ -2112,7 +2112,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "急いで東に出発しないと、 / 僕たちみんな石になっちゃうよ！！",
-  "en": ""
+  "en": "If we don't set off east right away, we'll all be turned to stone!!"
  },
  {
   "id": "2E0000_1A7E.2",
@@ -2120,7 +2120,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みんなー、集合してよーっ！！ / 黒い霧の動きが早くなったんだって！！",
-  "en": ""
+  "en": "Everybody, gather up!! They say the Black Mist is moving faster!!"
  },
  {
   "id": "2E0000_1A7E.3",
@@ -2128,7 +2128,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ロンボニ王国に向けて出発するよ！！ / エト、聞こえてる！？",
-  "en": ""
+  "en": "We're setting off for the Kingdom of Romboni!! Eto, can you hear me?!"
  },
  {
   "id": "2E0000_1A7E.4",
@@ -2136,7 +2136,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "わっはっはっ、聞こえてるぞっ！！ / よし、みんな集合だっ！！ / ……ロンボニ王国に向かうぞ！！",
-  "en": ""
+  "en": "Wahahaha, I hear you!! Right, everyone gather up!! ...We're heading for the Kingdom of Romboni!!"
  },
  {
   "id": "2E0000_1B39.0",
@@ -2144,7 +2144,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "うわさでは、ルシフォンの軍隊が / 俺たちを待ち伏せしてるそうだ…… / みんな、気を引き締めていこうぜ！！",
-  "en": ""
+  "en": "Rumor has it Lushifon's army is lying in wait for us... Stay sharp, everyone!!"
  },
  {
   "id": "2E0000_1B7B.0",
@@ -2152,7 +2152,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "街の右下にある木箱を探せ…… / 合言葉は『ちぬたたぬち』だ。",
-  "en": ""
+  "en": "Search the crate at the lower right of the town... The password is 'Chinutatanuchi'."
  },
  {
   "id": "2E0000_1BB1.0",
@@ -2160,7 +2160,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "地響きがしたかと思うと、 / カケルの身体が地面に吸い込まれた！！",
-  "en": ""
+  "en": "There was a rumble in the ground, and then Kakeru's body was sucked into the earth!!"
  },
  {
   "id": "2E0000_1BE5.0",
@@ -2168,7 +2168,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "汝、合言葉を言え。",
-  "en": ""
+  "en": "Speak the password."
  },
  {
   "id": "2E0000_1BF6.0",
@@ -2176,7 +2176,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "ぬちたたちぬ",
-  "en": ""
+  "en": "Nuchitatachinu"
  },
  {
   "id": "2E0000_1C03.0",
@@ -2184,7 +2184,7 @@
   "form": "choice",
   "nlines": 2,
   "jp": "ちぬたたぬち / たちぬぬちた",
-  "en": ""
+  "en": "Chinutatanuchi / Tachinunuchita"
  },
  {
   "id": "2E0000_1C24.0",
@@ -2192,7 +2192,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2E0000_1C30.0",
@@ -2200,7 +2200,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "３本の、まん中を探せ…… / 合言葉は『すなみみなす』だ。",
-  "en": ""
+  "en": "Search the middle of the 3 trees... The password is 'Sunamiminasu'."
  },
  {
   "id": "2E0000_1C5F.0",
@@ -2208,7 +2208,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "汝、合言葉を言え。",
-  "en": ""
+  "en": "Speak the password."
  },
  {
   "id": "2E0000_1C70.0",
@@ -2216,7 +2216,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "すなみみなす",
-  "en": ""
+  "en": "Sunamiminasu"
  },
  {
   "id": "2E0000_1C7B.0",
@@ -2224,7 +2224,7 @@
   "form": "choice",
   "nlines": 2,
   "jp": "なすみみすな / みなすすなみ",
-  "en": ""
+  "en": "Nasumimisuna / Minasusunami"
  },
  {
   "id": "2E0000_1C98.0",
@@ -2232,7 +2232,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ポセイドンのところに戻るのだ……。",
-  "en": ""
+  "en": "Return to Poseidon..."
  },
  {
   "id": "2E0000_1CBC.0",
@@ -2240,7 +2240,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2E0000_1CC9.0",
@@ -2257,7 +2257,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは守りの種を３個見つけだした！！",
-  "en": ""
+  "en": "Kakeru found 3 Seeds of Defense!!"
  },
  {
   "id": "2E0000_1CF2.0",
@@ -2265,6 +2265,6 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルは力の種を２個見つけた！！ / カケルは守りの種を２個見つけた！！",
-  "en": ""
+  "en": "Kakeru found 2 Seeds of Power!! Kakeru found 2 Seeds of Defense!!"
  }
 ]

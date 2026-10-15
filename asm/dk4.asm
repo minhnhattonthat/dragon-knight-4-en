@@ -23,6 +23,9 @@ lorom
 !FARSHORT   = $E08000   ; short-call table: (code - $833) * 3 -> 24-bit ptr; written by build.py
 !FONT       = $E0C000   ; 96 glyphs (codes $20-$7F) x 14 little-endian row words; written by build.py
 !FONTW      = $E0CC00   ; 96 advance widths (hi-res px); written by build.py
+!PRE_FIRST  = $0B00     ; precomposed English UI cells: codes $0B00-$0DFF -> 28-byte cells at $E1:8000
+!PRE_END    = $0E00
+!PRE_BANK   = $E1
 
 ; ===================== hooks =====================
 org $80B318             ; dictionary call path (code >= $6CC): STY $30,x / SBC #$06CC
@@ -30,6 +33,13 @@ org $80B318             ; dictionary call path (code >= $6CC): STY $30,x / SBC #
 
 org $80AEAE             ; glyph routine entry: PHB / REP #$21 / LDY #$8800
     JML vwf_hook
+
+org $80B169             ; menu string renderer: CMP #$06CC / BCC single glyph (else dictionary)
+    JML b160_hook
+    NOP
+
+org $80B1B0             ; menu glyph draw: PHB / LDX #$8800
+    JML b1b0_hook
 
 ; ===================== code =====================
 org $E0D000
@@ -46,6 +56,10 @@ far_hook:               ; M=16 X=16, A = code, Y = offset after the 2-byte code,
     JMP .ret
 +   CMP #$0F00
     BCS .long
+    CMP #!PRE_FIRST     ; precomposed UI cells drawn as one glyph (80:B2DB: SEP, STY $0C,x, JSR glyph)
+    BCC +
+    JML $80B2DB
++
     SEC                 ; short: (code - $833) * 4 indexes FARSHORT: ptr24, skip8
     SBC #$0833
     ASL A
@@ -137,9 +151,64 @@ vwf_hook:               ; M=8 X=16, C = code, X = ctx, $00-$02 = text base, ctx 
     JML $80AED7         ; original tail: copy 28 bytes from [$00] to the cell buffer, shadow, advance
 .jp:
     LDA !V_CODE
-    LDY #$8800
+    CMP #!PRE_FIRST
+    BCC +
+    CMP #!PRE_END
+    BCS +
+    JSR pre_ptr         ; precomposed English cell -> [$00]
+    STA $00
+    SEP #$20
+    LDA.b #!PRE_BANK
+    STA $02
+    JML $80AED7
++   LDY #$8800
     CLC
     JML $80AEB4
+
+; A (16-bit) = precomposed code -> A = ROM address low 16 of its 28-byte cell
+pre_ptr:
+    SEC
+    SBC #!PRE_FIRST
+    STA !V_SH
+    ASL A
+    ASL A
+    STA !V_SH2          ; *4
+    ASL A
+    ASL A
+    ASL A               ; *32
+    SEC
+    SBC !V_SH2          ; *28
+    CLC
+    ADC #$8000
+    RTS
+
+b160_hook:              ; M=16, A = code. Precomposed cells take the single-glyph path.
+    CMP #!PRE_FIRST
+    BCC .orig
+    CMP #!PRE_END
+    BCS .orig
+    JML $80B1A9
+.orig:
+    CMP #$06CC
+    BCS +
+    JML $80B1A9
++   JML $80B16E
+
+b1b0_hook:              ; M=16 X=16, A = code, Y = cell buffer
+    PHB
+    CMP #!PRE_FIRST
+    BCC .orig
+    CMP #!PRE_END
+    BCS .orig
+    JSR pre_ptr
+    STA $48
+    SEP #$20
+    LDA.b #!PRE_BANK
+    STA $4A
+    JML $80B1E0
+.orig:
+    LDX #$8800
+    JML $80B1B4
 
 ; compose one 16-px cell from the text stream into V_GLYPH. M=16 X=16, X = ctx preserved.
 compose:

@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今日もいい天気だなあ。",
-  "en": ""
+  "en": "Another nice day today."
  },
  {
   "id": "2E34B4_00C7.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おーい、ビアンカっ！",
-  "en": ""
+  "en": "Hey, Bianca!"
  },
  {
   "id": "2E34B4_00DE.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カ、カケルさん。",
-  "en": ""
+  "en": "K-Kakeru."
  },
  {
   "id": "2E34B4_00EB.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ご、ごめんなさいませ、 / 今はゆっくりお話をしてるひまがないのです！",
-  "en": ""
+  "en": "I-I beg your pardon, but I have no time to chat right now!"
  },
  {
   "id": "2E34B4_011E.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あれれ、なんか前にも / こんなことがあったような……わっ！？",
-  "en": ""
+  "en": "Huh, I feel like something like this happened before... Whoa?!"
  },
  {
   "id": "2E34B4_014B.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ビアンカさまああぁっ！ / どこですかああっ！？",
-  "en": ""
+  "en": "Lady Biancaaaa! Where are youuuu?!"
  },
  {
   "id": "2E34B4_014B.1",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あ……やっぱりウェンディ）",
-  "en": ""
+  "en": "(Ah... Wendy, just as I thought.)"
  },
  {
   "id": "2E34B4_0175.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、ビアンカ様を見なかった？",
-  "en": ""
+  "en": "Kakeru, have you seen Lady Bianca?"
  },
  {
   "id": "2E34B4_0188.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え、ええっと、ビアンカはね……。",
-  "en": ""
+  "en": "Uh, umm, Bianca, she..."
  },
  {
   "id": "2E34B4_019E.0",
@@ -77,7 +77,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "西に走ってったよ",
-  "en": ""
+  "en": "She ran off west"
  },
  {
   "id": "2E34B4_01AD.0",
@@ -94,7 +94,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ♥　ビアンカ様、もぉー放しませんわっ！！",
-  "en": ""
+  "en": "Oh! Lady Bianca, I'm never letting go of you agaaain!!"
  },
  {
   "id": "2E34B4_01F0.0",
@@ -102,7 +102,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああああああああああああぁっ！？",
-  "en": ""
+  "en": "Aaaaaaaaaaaaaaaah?!"
  },
  {
   "id": "2E34B4_0206.0",
@@ -110,7 +110,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ごめん。ビアンカ。",
-  "en": ""
+  "en": "...Sorry, Bianca."
  },
  {
   "id": "2E34B4_0217.0",
@@ -118,7 +118,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ホントに？ / ウソだったら……刺すわよ。",
-  "en": ""
+  "en": "Really? If you're lying... I'll stab you."
  },
  {
   "id": "2E34B4_0217.1",
@@ -126,7 +126,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さ、刺すうっ！？",
-  "en": ""
+  "en": "S-STAB me?!"
  },
  {
   "id": "2E34B4_0241.0",
@@ -134,7 +134,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こんなことで刺されちゃ、わりにあわないよ。 / なんで僕がウソをつくのさ。",
-  "en": ""
+  "en": "Getting stabbed over something like this isn't worth it. Why would I lie?"
  },
  {
   "id": "2E34B4_0268.0",
@@ -142,7 +142,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それもそーね。 / でもウソだったら刺すわよ。",
-  "en": ""
+  "en": "Fair enough. But if you're lying, I'll stab you."
  },
  {
   "id": "2E34B4_0299.0",
@@ -150,7 +150,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ビアンカさまああああぁっ！ / どこ？　どこなのおおおぉぉぉ……。",
-  "en": ""
+  "en": "Lady Biancaaaaa! Where? Where are youuuuu..."
  },
  {
   "id": "2E34B4_0299.1",
@@ -158,7 +158,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ビアンカ。",
-  "en": ""
+  "en": "Bianca."
  },
  {
   "id": "2E34B4_02C4.0",
@@ -166,7 +166,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ひょっとしたら、僕は生きてこの島を / 出られないかもしれないな……。",
-  "en": ""
+  "en": "Maybe I won't make it off this island alive..."
  },
  {
   "id": "2E34B4_02EC.0",
@@ -174,7 +174,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……船はこないよね。",
-  "en": ""
+  "en": "Kakeru... no ship's coming, huh."
  },
  {
   "id": "2E34B4_02FD.0",
@@ -182,7 +182,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルの言うとおり、泳いでドラゴニア大陸に / 行った方がよかったのかなあ。",
-  "en": ""
+  "en": "Maybe we should've swum to the Dragonia continent like you said, Kakeru."
  },
  {
   "id": "2E34B4_02FD.1",
@@ -190,7 +190,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル、みんなで決めたことだよ…… / 後悔するのはよそうよ。",
-  "en": ""
+  "en": "Seil, we decided this together... Let's not have any regrets."
  },
  {
   "id": "2E34B4_034B.0",
@@ -198,7 +198,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "船だけじゃなくて、黒い霧もこないね。",
-  "en": ""
+  "en": "It's not just the ship... the Black Mist isn't coming either."
  },
  {
   "id": "2E34B4_0362.0",
@@ -206,7 +206,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うん……僕たちって、 / 黒い霧にも忘れ去られた存在なのかな。",
-  "en": ""
+  "en": "Yeah... maybe we've even been forgotten by the Black Mist."
  },
  {
   "id": "2E34B4_0362.1",
@@ -214,7 +214,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……さびしいことを言わないでよ。",
-  "en": ""
+  "en": "Kakeru... don't say such lonely things."
  },
  {
   "id": "2E34B4_03A5.0",
@@ -222,7 +222,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル……まだ寝ないの？",
-  "en": ""
+  "en": "Seil... you're not going to bed yet?"
  },
  {
   "id": "2E34B4_03B6.0",
@@ -230,7 +230,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん……。",
-  "en": ""
+  "en": "Nope......"
  },
  {
   "id": "2E34B4_03C9.0",
@@ -247,7 +247,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……なんだか元気がないね。",
-  "en": ""
+  "en": "Kakeru... you seem kind of down."
  },
  {
   "id": "2E34B4_03E6.0",
@@ -264,7 +264,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルったら！！",
-  "en": ""
+  "en": "Kakeru, c'mon!!"
  },
  {
   "id": "2E34B4_03FB.0",
@@ -281,7 +281,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なに考えてたの？",
-  "en": ""
+  "en": "What were you thinking about?"
  },
  {
   "id": "2E34B4_0411.0",
@@ -289,7 +289,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なにも考えてないよ。",
-  "en": ""
+  "en": "N-nothing. I wasn't thinking about anything."
  },
  {
   "id": "2E34B4_0422.0",
@@ -297,7 +297,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんか変だなあ……。",
-  "en": ""
+  "en": "Something's weird here..."
  },
  {
   "id": "2E34B4_0431.0",
@@ -305,7 +305,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "夜の海をひとりで曉めてるなんて…… / セイルもロマンチックなんだね。",
-  "en": ""
+  "en": "Gazing at the night sea all by yourself... You're quite the romantic, Seil."
  },
  {
   "id": "2E34B4_0431.1",
@@ -313,7 +313,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネさんのことを考えると…… / なんだか寝られないんだ。",
-  "en": ""
+  "en": "When I think about Marlene... I just can't seem to fall asleep."
  },
  {
   "id": "2E34B4_0431.2",
@@ -321,7 +321,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんで？",
-  "en": ""
+  "en": "How come?"
  },
  {
   "id": "2E34B4_0485.0",
@@ -329,7 +329,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なんていうか、頭の中がはっきりしちゃって、 / 全然眠くならない。",
-  "en": ""
+  "en": "How do I put it... my head gets all clear, and I don't feel sleepy at all."
  },
  {
   "id": "2E34B4_0485.1",
@@ -337,7 +337,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル、思い切ってマルレーネの所に / 行ってみたら？",
-  "en": ""
+  "en": "Seil, why don't you just take the plunge and go see Marlene?"
  },
  {
   "id": "2E34B4_0485.2",
@@ -345,7 +345,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネさんはもう寝てるよ。",
-  "en": ""
+  "en": "Marlene's already asleep."
  },
  {
   "id": "2E34B4_04DC.0",
@@ -353,7 +353,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……はあ。",
-  "en": ""
+  "en": "...Sigh."
  },
  {
   "id": "2E34B4_04F1.0",
@@ -361,7 +361,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふう……。",
-  "en": ""
+  "en": "Phew..."
  },
  {
   "id": "2E34B4_04FB.0",
@@ -432,7 +432,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ねえねえ、マルレーネの所に行こうよ。",
-  "en": ""
+  "en": "Hey, hey, let's go see Marlene."
  },
  {
   "id": "2E34B4_0571.0",
@@ -440,7 +440,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ほっといてよ…… / 僕は一人でこうしてるのが好きなんだ。",
-  "en": ""
+  "en": "Leave me alone... I like being by myself like this."
  },
  {
   "id": "2E34B4_0571.1",
@@ -448,7 +448,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "じゃあ、僕がマルレーネの所に / 行っちゃおっと。",
-  "en": ""
+  "en": "Then I guess I'll go see Marlene myself."
  },
  {
   "id": "2E34B4_0571.2",
@@ -456,7 +456,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だ、だめっ！！",
-  "en": ""
+  "en": "N-no way!!"
  },
  {
   "id": "2E34B4_05BA.0",
@@ -473,7 +473,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だめったら、だめっ！！",
-  "en": ""
+  "en": "I said no, and I mean no!!"
  },
  {
   "id": "2E34B4_05D6.0",
@@ -481,7 +481,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はあ……。",
-  "en": ""
+  "en": "Sigh..."
  },
  {
   "id": "2E34B4_05E8.0",
@@ -498,7 +498,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルも……なんだか元気がないね。",
-  "en": ""
+  "en": "Kakeru... you seem kind of down too."
  },
  {
   "id": "2E34B4_0608.0",
@@ -560,7 +560,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あれれ……セイルとロザリンドだ）",
-  "en": ""
+  "en": "(Huh... it's Seil and Rosalind.)"
  },
  {
   "id": "2E34B4_0673.0",
@@ -568,7 +568,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ねえ……セイルぅ。",
-  "en": ""
+  "en": "Hey... Seeeil."
  },
  {
   "id": "2E34B4_0680.0",
@@ -576,7 +576,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私のこと……好き？",
-  "en": ""
+  "en": "Do you... like me?"
  },
  {
   "id": "2E34B4_068F.0",
@@ -584,7 +584,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うん、嫌いじゃないよ。",
-  "en": ""
+  "en": "Y-yeah, I don't dislike you."
  },
  {
   "id": "2E34B4_06A0.0",
@@ -592,7 +592,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "嫌いじゃないってことは好きなのよね。",
-  "en": ""
+  "en": "Not disliking me means you like me, right?"
  },
  {
   "id": "2E34B4_06B5.0",
@@ -600,7 +600,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふふふっ……私、とっても幸せ。",
-  "en": ""
+  "en": "Hee hee hee... I'm so happy."
  },
  {
   "id": "2E34B4_06DC.0",
@@ -608,7 +608,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ねえ……もっとこっちにきて。",
-  "en": ""
+  "en": "Hey... come closer."
  },
  {
   "id": "2E34B4_06EE.0",
@@ -616,7 +616,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "これ以上は無理だよ。",
-  "en": ""
+  "en": "I can't get any closer than this."
  },
  {
   "id": "2E34B4_0700.0",
@@ -624,7 +624,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私のこと……嫌いなの？",
-  "en": ""
+  "en": "Do you... dislike me?"
  },
  {
   "id": "2E34B4_0711.0",
@@ -632,7 +632,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううん……嫌いじゃないよ。",
-  "en": ""
+  "en": "No... I don't dislike you."
  },
  {
   "id": "2E34B4_0720.0",
@@ -640,7 +640,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "つまり私のことを愛しちゃってるのよね。",
-  "en": ""
+  "en": "So what you mean is, you're in love with me, right?"
  },
  {
   "id": "2E34B4_0738.0",
@@ -657,7 +657,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（セイルとロザリンドは…… / 浜辺で徹夜するのかなあ）",
-  "en": ""
+  "en": "(Are Seil and Rosalind... going to stay up all night on the beach?)"
  },
  {
   "id": "2E34B4_0768.0",
@@ -665,7 +665,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今日も見えるのは、海、海、海、だな。",
-  "en": ""
+  "en": "All I see today is sea, sea, and more sea."
  },
  {
   "id": "2E34B4_0783.0",
@@ -673,7 +673,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "船も見えないが、黒い霧も見えないぞ。",
-  "en": ""
+  "en": "I can't see any ships, but I can't see the Black Mist either."
  },
  {
   "id": "2E34B4_079A.0",
@@ -681,7 +681,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンナイトも何度か見かけたことはあったが / ……最近は見なくなったな。",
-  "en": ""
+  "en": "I spotted the Dragon Knight a few times... but I haven't seen it lately."
  },
  {
   "id": "2E34B4_079A.1",
@@ -689,7 +689,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだか、闘ってた日々がウソみたいだね。",
-  "en": ""
+  "en": "It's like all those days of fighting were never real."
  },
  {
   "id": "2E34B4_07DB.0",
@@ -697,7 +697,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "このままでいるのも、いいかも知れないな。",
-  "en": ""
+  "en": "Maybe staying like this wouldn't be so bad."
  },
  {
   "id": "2E34B4_07F5.0",
@@ -705,7 +705,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だめだよ、エト……ちゃんと見張っててよ。",
-  "en": ""
+  "en": "No way, Eto... keep a proper lookout."
  },
  {
   "id": "2E34B4_080C.0",
@@ -713,7 +713,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わっはっはっ！！　冗談だよ。",
-  "en": ""
+  "en": "Wahahaha!! I'm only joking."
  },
  {
   "id": "2E34B4_0980.0",
@@ -721,7 +721,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、見張りを交替してくれないか？",
-  "en": ""
+  "en": "Kakeru, would you take over the lookout for me?"
  },
  {
   "id": "2E34B4_099B.0",
@@ -729,7 +729,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "交替する",
-  "en": ""
+  "en": "Take over"
  },
  {
   "id": "2E34B4_09A6.0",
@@ -737,7 +737,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "交替しない",
-  "en": ""
+  "en": "Don't take over"
  },
  {
   "id": "2E34B4_09BA.0",
@@ -745,7 +745,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よーし……あとは頼んだぜ、カケル。",
-  "en": ""
+  "en": "All right... I'll leave the rest to you, Kakeru."
  },
  {
   "id": "2E34B4_09D9.0",
@@ -762,7 +762,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……セイルが浜辺を歩いてる。",
-  "en": ""
+  "en": "Oh... Seil's walking along the beach."
  },
  {
   "id": "2E34B4_09FE.0",
@@ -779,7 +779,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あはははっ、転んじゃった。",
-  "en": ""
+  "en": "Ahahaha, he tripped and fell."
  },
  {
   "id": "2E34B4_0A18.0",
@@ -787,7 +787,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……だめだよ、ちゃんと海を見ないと。",
-  "en": ""
+  "en": "...No good, I've gotta keep my eyes on the sea."
  },
  {
   "id": "2E34B4_0A31.0",
@@ -795,7 +795,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あ……セイルがロザリンドといっしょに / 浜辺を歩いてる。",
-  "en": ""
+  "en": "Oh... Seil's walking along the beach with Rosalind."
  },
  {
   "id": "2E34B4_0A31.1",
@@ -803,7 +803,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あらら、ロザリンドの方から / 腕を組もうとしてるよ。",
-  "en": ""
+  "en": "Whoa, Rosalind's the one trying to link arms with him."
  },
  {
   "id": "2E34B4_0A6F.0",
@@ -820,7 +820,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あ……ナターシャが、 / 洗濯物を地面に落としちゃった。",
-  "en": ""
+  "en": "Oh... Natasha dropped the laundry on the ground."
  },
  {
   "id": "2E34B4_0AC9.0",
@@ -828,7 +828,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あははははっ……まわりをきょろきょろ見て、 / だれも見てなかったか確認してら。",
-  "en": ""
+  "en": "Ahahahaha... she's looking all around to make sure nobody saw."
  },
  {
   "id": "2E34B4_0AC9.1",
@@ -836,7 +836,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こっちでは…… / マルレーネがエトに果物を渡してるぞ。",
-  "en": ""
+  "en": "And over here... Marlene's handing Eto some fruit."
  },
  {
   "id": "2E34B4_0AC9.2",
@@ -844,7 +844,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトはそれを持って……。",
-  "en": ""
+  "en": "Eto takes it and..."
  },
  {
   "id": "2E34B4_0B29.0",
@@ -852,7 +852,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャのところに行って…… / 果物をふたりで食べてら。",
-  "en": ""
+  "en": "Goes over to Natasha... and the two of them are eating the fruit together."
  },
  {
   "id": "2E34B4_0B69.0",
@@ -860,7 +860,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……だめだめっ、ちゃんと海を見てないと…… / いつ船がとおりかかるかわからないぞ。",
-  "en": ""
+  "en": "...No, no, I've gotta keep my eyes on the sea... There's no telling when a ship might pass by."
  },
  {
   "id": "2E34B4_0B69.1",
@@ -868,7 +868,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふぁぁぁぁ……でも退屈だなあ。",
-  "en": ""
+  "en": "Yaaawn... but this is so boring."
  },
  {
   "id": "2E34B4_0BAC.0",
@@ -876,7 +876,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕はじっとしてるのが苦手なんだ……。",
-  "en": ""
+  "en": "I'm no good at sitting still..."
  },
  {
   "id": "2E34B4_0BC2.0",
@@ -893,7 +893,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "乙乙乙……乙乙乙……。",
-  "en": ""
+  "en": "Zzz... Zzz..."
  },
  {
   "id": "2E34B4_0C79.0",
@@ -901,7 +901,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……あれ？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "2E34B4_0C84.0",
@@ -909,7 +909,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いっけない……寝ちゃったみたいだ。",
-  "en": ""
+  "en": "Oh no... looks like I fell asleep."
  },
  {
   "id": "2E34B4_0C9B.0",
@@ -917,7 +917,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなこと言わないで……交替してくれよ。",
-  "en": ""
+  "en": "Don't say that... take a turn on watch."
  },
  {
   "id": "2E34B4_0CB7.0",
@@ -925,7 +925,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトはそこにいるのが似合ってるよ。",
-  "en": ""
+  "en": "That spot suits you, Eto."
  },
  {
   "id": "2E34B4_0CCF.0",
@@ -933,7 +933,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……たまには魚でも釣ってこいよ。",
-  "en": ""
+  "en": "Kakeru... go catch some fish once in a while, will you?"
  },
  {
   "id": "2E34B4_0CF3.0",
@@ -950,7 +950,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そんな……信じられないわ。",
-  "en": ""
+  "en": "Wh-what... I can't believe it."
  },
  {
   "id": "2E34B4_0D1E.0",
@@ -967,7 +967,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトはウソつきだわ……。",
-  "en": ""
+  "en": "Eto, you're a liar..."
  },
  {
   "id": "2E34B4_0D37.0",
@@ -975,7 +975,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "信じてくれ、ナターシャ。",
-  "en": ""
+  "en": "Believe me, Natasha."
  },
  {
   "id": "2E34B4_0D47.0",
@@ -983,7 +983,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私は……ずっとナターシャが好きだった。",
-  "en": ""
+  "en": "I... have always loved you, Natasha."
  },
  {
   "id": "2E34B4_0D5D.0",
@@ -991,7 +991,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ウソじゃない……本当なんだ。",
-  "en": ""
+  "en": "It's no lie... it's the truth."
  },
  {
   "id": "2E34B4_0D75.0",
@@ -999,7 +999,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うれしい……。",
-  "en": ""
+  "en": "I-I'm so happy..."
  },
  {
   "id": "2E34B4_0D83.0",
@@ -1007,7 +1007,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私も……ずっと、あなたが好きだったの。",
-  "en": ""
+  "en": "I... have always loved you too."
  },
  {
   "id": "2E34B4_0D9C.0",
@@ -1015,7 +1015,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（！？）",
-  "en": ""
+  "en": "(!?)"
  },
  {
   "id": "2E34B4_0DA5.0",
@@ -1023,7 +1023,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャ……それは本当かい？",
-  "en": ""
+  "en": "Natasha... is that really true?"
  },
  {
   "id": "2E34B4_0DB7.0",
@@ -1031,7 +1031,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私はあなたのことがずっと好きだったわ。",
-  "en": ""
+  "en": "I've always loved you."
  },
  {
   "id": "2E34B4_0DD0.0",
@@ -1039,7 +1039,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもあなたは私のことを / 好きじゃないと思ってた。",
-  "en": ""
+  "en": "But I thought you didn't love me."
  },
  {
   "id": "2E34B4_0DEA.0",
@@ -1047,7 +1047,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャ……好きだ。",
-  "en": ""
+  "en": "Natasha... I love you."
  },
  {
   "id": "2E34B4_0DF8.0",
@@ -1055,7 +1055,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あっ……だ、だめだナターシャ！！）",
-  "en": ""
+  "en": "(Ah... n-no, Natasha!!)"
  },
  {
   "id": "2E34B4_0E0C.0",
@@ -1063,7 +1063,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私も……あなたのことを……愛してたわ。",
-  "en": ""
+  "en": "I... have loved you... too."
  },
  {
   "id": "2E34B4_0E2E.0",
@@ -1071,7 +1071,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（もう……見たくない）",
-  "en": ""
+  "en": "(I don't... want to see any more.)"
  },
  {
   "id": "2E34B4_0E3E.0",
@@ -1079,7 +1079,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（別に……いいよ）",
-  "en": ""
+  "en": "(Whatever... I don't care.)"
  },
  {
   "id": "2E34B4_0E4C.0",
@@ -1087,7 +1087,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（エトとナターシャがどんな関係だろうと…… / 僕の目的は、ルシフォンを倒すことなんだから）",
-  "en": ""
+  "en": "(Whatever's going on between Eto and Natasha... my goal is to defeat Lushifon, after all.)"
  },
  {
   "id": "2E34B4_0E4C.1",
@@ -1095,7 +1095,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（もう……寝ようかな）",
-  "en": ""
+  "en": "(Maybe I'll... just go to bed.)"
  },
  {
   "id": "2E34B4_0E8A.0",
@@ -1103,7 +1103,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（いやだ……僕はなにも見たくないんだ）",
-  "en": ""
+  "en": "(No... I don't want to see anything.)"
  },
  {
   "id": "2E34B4_0EB6.0",
@@ -1111,7 +1111,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もう寝ますか？",
-  "en": ""
+  "en": "Go to bed now?"
  },
  {
   "id": "2E34B4_0EC2.0",
@@ -1119,7 +1119,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "寝る",
-  "en": ""
+  "en": "Sleep"
  },
  {
   "id": "2E34B4_0EC9.0",
@@ -1127,7 +1127,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "まだ寝ない",
-  "en": ""
+  "en": "Not yet"
  },
  {
   "id": "2E34B4_0EDB.0",
@@ -1135,7 +1135,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（もう……寝よう）",
-  "en": ""
+  "en": "(I'll... just go to bed.)"
  },
  {
   "id": "2E34B4_0EF1.0",
@@ -1143,7 +1143,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャ、洗濯してるんだね。",
-  "en": ""
+  "en": "Natasha, you're doing the laundry, huh."
  },
  {
   "id": "2E34B4_0F04.0",
@@ -1151,7 +1151,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうよ……カケルも手伝ってくれる？",
-  "en": ""
+  "en": "That's right... Will you help me, Kakeru?"
  },
  {
   "id": "2E34B4_0F19.0",
@@ -1159,7 +1159,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゃあ、マルレーネの下着を洗ってあげる。",
-  "en": ""
+  "en": "Okay, I'll wash Marlene's underwear for you."
  },
  {
   "id": "2E34B4_0F32.0",
@@ -1167,7 +1167,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんなにマルレーネの洗濯物がほしいなら…… / 直接会ってもらってきたら！？",
-  "en": ""
+  "en": "If you want Marlene's laundry so badly... why don't you go ask her for it yourself?!"
  },
  {
   "id": "2E34B4_0F64.0",
@@ -1175,7 +1175,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "じゃぶじゃぶじゃぶ…… / 洗濯の邪魔よ、あっちに行って。",
-  "en": ""
+  "en": "Splish splash splish... You're in the way of my laundry, go over there."
  },
  {
   "id": "2E34B4_0F64.1",
@@ -1183,7 +1183,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゃあ、エトだったら？",
-  "en": ""
+  "en": "Then what if it was Eto?"
  },
  {
   "id": "2E34B4_0F92.0",
@@ -1191,7 +1191,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ならいいわ。",
-  "en": ""
+  "en": "Then it'd be fine."
  },
  {
   "id": "2E34B4_0F9E.0",
@@ -1199,7 +1199,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はっきり差別をするなあ。",
-  "en": ""
+  "en": "Talk about blatant favoritism."
  },
  {
   "id": "2E34B4_0FB4.0",
@@ -1207,7 +1207,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルさん……果物どうぞ。",
-  "en": ""
+  "en": "Kakeru... have some fruit."
  },
  {
   "id": "2E34B4_0FC3.0",
@@ -1215,7 +1215,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ありがとう。",
-  "en": ""
+  "en": "Thanks."
  },
  {
   "id": "2E34B4_0FCF.0",
@@ -1223,7 +1223,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさんは、ずっと見張り台にいるのですか？",
-  "en": ""
+  "en": "Is Eto up on the lookout tower all the time?"
  },
  {
   "id": "2E34B4_0FE9.0",
@@ -1231,7 +1231,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そう言えば、寝る時以外は交替しないね。",
-  "en": ""
+  "en": "Now that you mention it, he never switches out except to sleep."
  },
  {
   "id": "2E34B4_1006.0",
@@ -1239,7 +1239,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネも、 / 木の上で船を見つけようとしてるの？",
-  "en": ""
+  "en": "Marlene, are you trying to spot a ship from up in the tree too?"
  },
  {
   "id": "2E34B4_1006.1",
@@ -1247,7 +1247,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいえ、私は木の実を採ってただけです。",
-  "en": ""
+  "en": "No, I was just picking nuts."
  },
  {
   "id": "2E34B4_103F.0",
@@ -1255,7 +1255,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……マルレーネ、下からだとまる見えだよ。",
-  "en": ""
+  "en": "...Marlene, I can see everything from down here."
  },
  {
   "id": "2E34B4_1057.0",
@@ -1263,7 +1263,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんなら脱ぎましょうか？",
-  "en": ""
+  "en": "Shall I take them off, then?"
  },
  {
   "id": "2E34B4_106A.0",
@@ -1271,7 +1271,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちぇっ……みんなでからかうんだから。",
-  "en": ""
+  "en": "Tch... everybody makes fun of me."
  },
  {
   "id": "2E34B4_1081.0",
@@ -1279,7 +1279,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャだって僕のことを……。",
-  "en": ""
+  "en": "Even Natasha treats me like..."
  },
  {
   "id": "2E34B4_1093.0",
@@ -1287,7 +1287,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふふふ、カケルさんって…… / ナターシャさんの名前をすぐ口に出しますね。",
-  "en": ""
+  "en": "Hee hee, Kakeru... you sure bring up Natasha's name a lot."
  },
  {
   "id": "2E34B4_1093.1",
@@ -1295,7 +1295,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そ、そう？ / さ、さてと……他に行こっと。",
-  "en": ""
+  "en": "R-really? W-well then... I'll go somewhere else."
  },
  {
   "id": "2E34B4_10D8.0",
@@ -1303,7 +1303,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルさん……私たち、 / ライムリンに行けるんでしょうか？",
-  "en": ""
+  "en": "Kakeru... do you think we'll be able to reach Limerin?"
  },
  {
   "id": "2E34B4_10D8.1",
@@ -1311,7 +1311,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "行けるよ、きっと……僕はそう信じてるんだ。",
-  "en": ""
+  "en": "Sure we will... I believe it."
  },
  {
   "id": "2E34B4_110B.0",
@@ -1328,7 +1328,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネの寝顔って……きれいだなあ。",
-  "en": ""
+  "en": "Marlene's sleeping face... is so pretty."
  },
  {
   "id": "2E34B4_1129.0",
@@ -1336,7 +1336,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううん……カケルさん……。",
-  "en": ""
+  "en": "Mmm... Kakeru..."
  },
  {
   "id": "2E34B4_1135.0",
@@ -1353,7 +1353,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネレイド……なにをやってるの？",
-  "en": ""
+  "en": "Nereid... what are you doing?"
  },
  {
   "id": "2E34B4_1155.0",
@@ -1361,7 +1361,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ふうふうふう…… / 乾燥させた果物を、箱の中につめてるんですよ。 / この島の果物だって、季節が変わったら / 実をつけなくなりますから。",
-  "en": ""
+  "en": "Huff huff huff... I'm packing dried fruit into boxes. Even the fruit on this island will stop growing once the season changes."
  },
  {
   "id": "2E34B4_11A4.0",
@@ -1369,7 +1369,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "色々と考えてるんだなあ。",
-  "en": ""
+  "en": "You've really thought this through."
  },
  {
   "id": "2E34B4_11B5.0",
@@ -1377,7 +1377,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさんの指示です……ぽっ。",
-  "en": ""
+  "en": "Eto's instructions... *blush*."
  },
  {
   "id": "2E34B4_11D2.0",
@@ -1385,7 +1385,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふうふう…… / カケルさん、仕事の邪魔をしないでください。",
-  "en": ""
+  "en": "Huff huff... Kakeru, please don't get in the way of my work."
  },
  {
   "id": "2E34B4_11F4.0",
@@ -1393,7 +1393,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すうすうすう……むにゃむにゃ。",
-  "en": ""
+  "en": "Zzz zzz zzz... mumble mumble."
  },
  {
   "id": "2E34B4_1203.0",
@@ -1401,7 +1401,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カルタス……なにをやってるの？",
-  "en": ""
+  "en": "Cartas... what are you doing?"
  },
  {
   "id": "2E34B4_1216.0",
@@ -1409,7 +1409,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ふうふうふう…… / 乾燥させた果物を、箱の中につめてるんだよっ。 / この島の果物だって、季節が変わったら / 実をつけなくなるだろ？",
-  "en": ""
+  "en": "Huff huff huff... I'm packing dried fruit into boxes! Even the fruit on this island will stop growing once the season changes, right?"
  },
  {
   "id": "2E34B4_1263.0",
@@ -1426,7 +1426,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトがそうしとけって言ったんだ……。",
-  "en": ""
+  "en": "Eto told me to do it..."
  },
  {
   "id": "2E34B4_1291.0",
@@ -1434,7 +1434,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "荷物を運び終ったら、ひと泳ぎするか。",
-  "en": ""
+  "en": "Once I'm done hauling this stuff, maybe I'll go for a swim."
  },
  {
   "id": "2E34B4_12AD.0",
@@ -1442,7 +1442,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルもいっしょにどうだい？",
-  "en": ""
+  "en": "Kakeru, wanna come along?"
  },
  {
   "id": "2E34B4_12C0.0",
@@ -1450,7 +1450,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……マルレーネ……むにゃむにゃ。",
-  "en": ""
+  "en": "Mmm... Marlene... mumble mumble."
  },
  {
   "id": "2E34B4_12D3.0",
@@ -1458,7 +1458,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "騎士である私が雑草を刈るなんて…… / ぶつぶつぶつ。",
-  "en": ""
+  "en": "That I, a knight, should be cutting weeds... grumble grumble grumble."
  },
  {
   "id": "2E34B4_12D3.1",
@@ -1466,7 +1466,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘえ……魚の骨でナイフを作ったんだ。",
-  "en": ""
+  "en": "Whoa... you made a knife out of a fish bone."
  },
  {
   "id": "2E34B4_130A.0",
@@ -1474,7 +1474,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私の槍を草刈には使えないからな…… / 再び闘う時がくるまで、大切に保管してあるぞ。",
-  "en": ""
+  "en": "I cannot use my spear for mowing grass... I am keeping it safe until the time comes to fight again."
  },
  {
   "id": "2E34B4_130A.1",
@@ -1482,7 +1482,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル殿も剣の手入れはしておいた方がいい。",
-  "en": ""
+  "en": "Master Kakeru, you would do well to keep your sword maintained too."
  },
  {
   "id": "2E34B4_1359.0",
@@ -1490,7 +1490,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "剣士たるもの、いつ闘いの時がきてもいいように / 準備しとかねば。",
-  "en": ""
+  "en": "A swordsman must be prepared for battle to come at any moment."
  },
  {
   "id": "2E34B4_1384.0",
@@ -1498,7 +1498,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "しかしカケル殿…… / 島での生活も、なれればいいもんだな。",
-  "en": ""
+  "en": "But Master Kakeru... once you get used to it, life on this island is not half bad."
  },
  {
   "id": "2E34B4_13A7.0",
@@ -1506,7 +1506,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カ、カケル殿ぉ……行かないでくれぇ……。",
-  "en": ""
+  "en": "M-Master Kakeru... don't goooo..."
  },
  {
   "id": "2E34B4_13C0.0",
@@ -1523,7 +1523,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……この海の魚をなんとかしなさいよ。",
-  "en": ""
+  "en": "Kakeru... do something about the fish in this sea."
  },
  {
   "id": "2E34B4_13E8.0",
@@ -1531,7 +1531,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "見てよ、この魚たちを…… / 赤とか青とかピンクのシマシマとか。",
-  "en": ""
+  "en": "Look at these fish... red ones, blue ones, pink stripy ones."
  },
  {
   "id": "2E34B4_13E8.1",
@@ -1539,7 +1539,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こんな色をした魚、食べる気がしないわ。",
-  "en": ""
+  "en": "I can't bring myself to eat fish in colors like that."
  },
  {
   "id": "2E34B4_142A.0",
@@ -1547,7 +1547,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ネプチューンは…… / 魚のことになるとムキになるなあ。",
-  "en": ""
+  "en": "Neptune sure gets worked up when it comes to fish."
  },
  {
   "id": "2E34B4_144E.0",
@@ -1555,7 +1555,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "まったく、漁船でも商船でも、 / ルシフォン軍の船でもいいから…… / 通ってくれないのかしら？",
-  "en": ""
+  "en": "Honestly, a fishing boat, a merchant ship, even one of Lushifon's army's ships would do... Won't anything pass by?"
  },
  {
   "id": "2E34B4_1480.0",
@@ -1563,7 +1563,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すうすう……すうすう……。",
-  "en": ""
+  "en": "Zzz... zzz..."
  },
  {
   "id": "2E34B4_1492.0",
@@ -1571,7 +1571,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……今日は大漁よ……むにゃむにゃ。",
-  "en": ""
+  "en": "Mmm... a big catch today... mumble mumble."
  },
  {
   "id": "2E34B4_14AA.0",
@@ -1579,7 +1579,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、この島はいいなあ…… / バナナが山ほど採れるぞ。",
-  "en": ""
+  "en": "Kakeru, this island's great... there's bananas by the ton."
  },
  {
   "id": "2E34B4_14AA.1",
@@ -1587,7 +1587,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "味も抜群だし、 / 太さといいツヤといい文句なしだぜ…… / なんていう名前のバナナなんだろ？",
-  "en": ""
+  "en": "They taste amazing, and the thickness, the shine, they're flawless... I wonder what kind of banana they are?"
  },
  {
   "id": "2E34B4_1502.0",
@@ -1595,7 +1595,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "思い切って自分の名前をつけちゃえば？ / ゴロンゴンバナナとかって。",
-  "en": ""
+  "en": "Why not go for it and name them after yourself? Gorongon Bananas or something."
  },
  {
   "id": "2E34B4_1502.1",
@@ -1603,7 +1603,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ゴロンゴンバナナか…… / い、いいな、よすぎるな。 / 生きててよかったって、初めて思ったよ。",
-  "en": ""
+  "en": "Gorongon Bananas... Th-that's good, that's too good. For the first time ever, I'm glad to be alive."
  },
  {
   "id": "2E34B4_155C.0",

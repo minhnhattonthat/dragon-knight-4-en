@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ハーディス様がお戻りになりました。",
-  "en": ""
+  "en": "Lord Hardis has returned."
  },
  {
   "id": "2F0000_0021.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ハーディス、ずいぶんと遊びが過ぎているな。 / いつまで人間とたわむれているつもりだ？",
-  "en": ""
+  "en": "Hardis, you have been playing games far too long. How long do you intend to toy with these humans?"
  },
  {
   "id": "2F0000_0021.1",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……め、面目ありません。",
-  "en": ""
+  "en": "......F-forgive my failure."
  },
  {
   "id": "2F0000_0062.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "魔界の者が、神の血を引くとはいえ、 / 人間ごときにこうもたびたび遅れをとるとはな。 / それともお前にカケルが倒せると思ったのは…… / この私のまちがいということか？",
-  "en": ""
+  "en": "Divine blood or not, for a denizen of the Demon World to fall behind mere humans so often... Or was I mistaken in thinking you could defeat Kakeru?"
  },
  {
   "id": "2F0000_00BD.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そんなことは決して……。",
-  "en": ""
+  "en": "N-no, never..."
  },
  {
   "id": "2F0000_00D0.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まさか内通などしておるのではあるまいな？",
-  "en": ""
+  "en": "Surely you are not in league with the enemy?"
  },
  {
   "id": "2F0000_00EC.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、それはあまりといえばあまりな……！",
-  "en": ""
+  "en": "Th-that is too cruel, far too cruel...!"
  },
  {
   "id": "2F0000_0105.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私とて、マノを救うためと思えばこそ、 / 全力をつくしてカケルとの闘いにのぞんで……。",
-  "en": ""
+  "en": "I too have thrown everything into the fight with Kakeru, all for the sake of saving Mano..."
  },
  {
   "id": "2F0000_0131.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マノ……？",
-  "en": ""
+  "en": "Mano...?"
  },
  {
   "id": "2F0000_0146.0",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今……なんと言った？",
-  "en": ""
+  "en": "What... did you just say?"
  },
  {
   "id": "2F0000_0156.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マノだと？",
-  "en": ""
+  "en": "\"Mano,\" was it?"
  },
  {
   "id": "2F0000_015E.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "偉大なる魔界の王・ミナクス様のご息女にして、 / 私の未来の妻を貴様ごときが / 呼び捨てにできると思っておるのか？",
-  "en": ""
+  "en": "Do you imagine that the likes of you may speak so familiarly of the daughter of the great king of the Demon World, Lord Minax, and my future wife?"
  },
  {
   "id": "2F0000_015E.1",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お……お許しを……ルシフォン様……。",
-  "en": ""
+  "en": "F... forgive me... Lord Lushifon..."
  },
  {
   "id": "2F0000_01B4.0",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "身の程知らずの罰、 / 本来ならこの程度ではすまぬのだがな。 / 貴様も勇者と闘う大事な身だ、 / これくらいにしておいてやろう。",
-  "en": ""
+  "en": "For such presumption, this would ordinarily be only the beginning of your punishment. But you are needed to fight the hero, so I shall leave it at this."
  },
  {
   "id": "2F0000_01FE.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "は、はっ……ご配慮ありがたく……。",
-  "en": ""
+  "en": "Y-yes, sir... I am grateful for your consideration..."
  },
  {
   "id": "2F0000_0216.0",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかったらうせろ！",
-  "en": ""
+  "en": "Now that you understand, begone!"
  },
  {
   "id": "2F0000_0225.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今度こそ、カケル一行を / みな殺しにして来るのだ！",
-  "en": ""
+  "en": "This time, go and slaughter Kakeru and every one of his party!"
  },
  {
   "id": "2F0000_0240.0",
@@ -141,6 +141,6 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（おのれ……いつまでも / そのえらそうな顔ができると思うなよ……）",
-  "en": ""
+  "en": "(Curse you... Don't think you can wear that arrogant face forever...)"
  }
 ]
