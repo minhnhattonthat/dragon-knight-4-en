@@ -298,6 +298,8 @@ def build_screen(e, rom, img, pre, reloc):
             codes += english_cells(c[1], c[2], e['mode'], pre, '%s %r' % (e['id'], c[1]))
     if len(codes) * 4 + 4 > e.get('max_tile', 0xA0):
         raise ValueError('%s: pool too big (%d cells)' % (e['id'], len(codes)))
+    if e.get('exact_cells') and len(codes) != e['exact_cells']:
+        raise ValueError('%s: pool must stay %d cells (got %d)' % (e['id'], e['exact_cells'], len(codes)))
     data = encode_cells(codes) + b'\x00'
     p = reloc[0]
     img[p:p + len(data)] = data
@@ -307,6 +309,8 @@ def build_screen(e, rom, img, pre, reloc):
     assert img[r] == 0xA9 and img[r + 2] == 0x85 and img[r + 4] == 0xA0, (e['id'], hex(r))
     img[r + 1] = cpu >> 16
     img[r + 5:r + 7] = (cpu & 0xFFFF).to_bytes(2, 'little')
+    if not e.get('map'):
+        return
     # tilemap
     mcpu = int(e['map'], 16)
     raw, _ = lz.decompress(rom, lorom_off(mcpu))
@@ -402,7 +406,11 @@ def build_strset(e, rom, img, pre, reloc):
         while trail < len(codes) - lead and codes[len(codes) - 1 - trail] == BLANK:
             trail += 1
         cols = render(text, e['mode'])
+        if e.get('squeeze'):
+            cols = squeeze(cols)
         k = (len(cols) + 15) // 16
+        if e.get('max_cells') and k > e['max_cells']:
+            raise ValueError('%s: %r needs %d cells > %d' % (e['id'], text, k, e['max_cells']))
         cells = [BLANK] * lead + [pre.code(r) for r in cells_from_cols(cols, k)] + [BLANK] * trail
         data = encode_cells(cells) + b'\x00'
         p = reloc[0]
@@ -466,6 +474,10 @@ def apply(img, rom, pre_off):
                     reloc += len(data)
             elif e['kind'] == 'table':
                 build_table(e, rom, img, pre)
+            elif e['kind'] == 'bytes':   # literal in-place patch (same length)
+                off, data = int(e['off'], 16), bytes.fromhex(e['hex'])
+                assert len(data) == int(e['len']), e['id']
+                img[off:off + len(data)] = data
             elif e['kind'] == 'dict':
                 build_dict_names(e, rom, img, pre)
             elif e['kind'] in ('screen', 'namelist', 'strset'):
