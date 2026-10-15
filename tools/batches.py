@@ -146,9 +146,10 @@ def check_text(row, en, names_en, rows):
                 if len(a.split(' | ')) != len(b.split(' | ')):
                     errs.append('choice: field count differs in %r' % b)
         for line in el:
+            lim = 22 if len(line.split(' | ')) == 1 else 10   # two-column notebook menu: 10 cells per column
             for fld in line.split(' | '):
                 try:
-                    if layout.line_cells(' ' + fld.strip()) > 22:
+                    if layout.line_cells(fld.strip()) > lim:
                         errs.append('choice field too long: %r' % fld)
                 except layout.LayoutError as ex:
                     errs.append(str(ex))

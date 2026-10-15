@@ -159,7 +159,7 @@ def build(mode):
             if us[0]['form'] == 'choice':
                 toks = tokens(r['codes'], rom, g)
                 lay = choice_layout(toks)
-                en_lines = [l.split(' | ') for l in texts[0].split(' / ')]
+                en_lines = [[f.strip() for f in l.split(' | ')] for l in texts[0].split(' / ')]
                 if len(en_lines) != sum(1 for x in lay if x):
                     raise layout.LayoutError('choice needs %d lines' % sum(1 for x in lay if x))
                 it = iter(en_lines)
