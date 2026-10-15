@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふええぇぇぇっやっと勝ったあ……。",
-  "en": ""
+  "en": "Phweeew... we finally won..."
  },
  {
   "id": "2E795A_001D.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……も、もう１歩も動けないわ……。",
-  "en": ""
+  "en": "...I-I can't move another step..."
  },
  {
   "id": "2E795A_0035.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "しっかりしろ、ナターシャ。",
-  "en": ""
+  "en": "Pull yourself together, Natasha."
  },
  {
   "id": "2E795A_0045.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "無理もないわ。 / 今回は激戦でしたもの。",
-  "en": ""
+  "en": "It's no wonder. That was a fierce battle."
  },
  {
   "id": "2E795A_0045.1",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……待って！ / う、上からなにかくるっ！！",
-  "en": ""
+  "en": "...Wait! S-something's coming from above!!"
  },
  {
   "id": "2E795A_0045.2",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃあああああぁっ！！",
-  "en": ""
+  "en": "Kyaaaaaaah!!"
  },
  {
   "id": "2E795A_008A.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャっ！！",
-  "en": ""
+  "en": "Natasha!!"
  },
  {
   "id": "2E795A_009B.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ははははははっ！ / なかなかやるではないか、人間ども！",
-  "en": ""
+  "en": "Hahahahahaha! Not bad at all, humans!"
  },
  {
   "id": "2E795A_009B.1",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なんだお前は！",
-  "en": ""
+  "en": "Wh-who are you?!"
  },
  {
   "id": "2E795A_00CA.0",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……！！",
-  "en": ""
+  "en": "...!!"
  },
  {
   "id": "2E795A_00D4.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "元気がいいな、小僧。 / さすが神の血を引く勇者の息子だけはある。 / 正直、ここまで苦戦するとは思わなかったぞ！",
-  "en": ""
+  "en": "You've got spirit, boy. Just what I'd expect from the son of a hero with the blood of the gods. Honestly, I never thought you'd give me this much trouble!"
  },
  {
   "id": "2E795A_0119.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "人質なんて卑怯だぞ！ / ナターシャを返せ！",
-  "en": ""
+  "en": "Taking a hostage is dirty! Give Natasha back!"
  },
  {
   "id": "2E795A_0119.1",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はははははっ！",
-  "en": ""
+  "en": "Hahahahaha!"
  },
  {
   "id": "2E795A_0141.0",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この女を取り戻したければ、 / デス・バレーまでこい！！ / そこを貴様らとの最終決戦場としよう！",
-  "en": ""
+  "en": "If you want this girl back, come to Death Valley!! There we shall fight our final battle!"
  },
  {
   "id": "2E795A_0141.1",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "勝手なことをいうなあっ！",
-  "en": ""
+  "en": "Don't just decide things on your own!"
  },
  {
   "id": "2E795A_0183.0",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんとでもほざくがいい……",
-  "en": ""
+  "en": "Bark all you like..."
  },
  {
   "id": "2E795A_0196.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺は、貴様らを倒さない限り / 先には進めないのだ！",
-  "en": ""
+  "en": "Until I defeat you lot, I cannot move forward!"
  },
  {
   "id": "2E795A_01B6.0",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "小僧！　必ず来い……殺されになぁ！！ / 待っているぞ！！",
-  "en": ""
+  "en": "Boy! Be sure to come... and get yourself killed!! I'll be waiting!!"
  },
  {
   "id": "2E795A_01B6.1",
@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルうぅっ！！",
-  "en": ""
+  "en": "Kakeruuu!!"
  },
  {
   "id": "2E795A_01E7.0",
@@ -157,6 +157,6 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャああああああぁぁっ！！",
-  "en": ""
+  "en": "Natashaaaaaaaaa!!"
  }
 ]

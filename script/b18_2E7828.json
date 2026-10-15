@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォン様。",
-  "en": ""
+  "en": "Lord Lushifon."
  },
  {
   "id": "2E7828_0018.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今、報告が入りました。",
-  "en": ""
+  "en": "A report has just come in."
  },
  {
   "id": "2E7828_002A.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケルとその一行は、孤島を脱出して、 / ドラゴニア大陸ヘ向かっているとのことで / ございます。",
-  "en": ""
+  "en": "It says Kakeru and his party have escaped the island and are heading for the Dragonia continent."
  },
  {
   "id": "2E7828_002A.1",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか……どうだ、リディア？",
-  "en": ""
+  "en": "I see... What say you, Lydia?"
  },
  {
   "id": "2E7828_006A.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "お前にやつらの首をくれてやろうか？ / いまやつらを襲えば、簡単にけりがつくぞ。 / ……なにもハーディスに / 手柄をくれてやることはあるまい。",
-  "en": ""
+  "en": "Shall I grant you their heads? Strike them now, and it would be easily settled. ...There is no need to hand Hardis the glory."
  },
  {
   "id": "2E7828_00B8.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ご命令とあれば、いかようにも。",
-  "en": ""
+  "en": "If that is your command, I shall do as you wish."
  },
  {
   "id": "2E7828_00CE.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……フフ、冗談だ。",
-  "en": ""
+  "en": "...Heh heh, I jest."
  },
  {
   "id": "2E7828_00DF.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "せっかく島から脱出するのを / だまって待っていてやったのだからな……",
-  "en": ""
+  "en": "After all, I waited in silence for them to escape that island..."
  },
  {
   "id": "2E7828_0105.0",
@@ -69,6 +69,6 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "せいぜい楽しませてくれねば、 / 割にあわぬと言うものだ。 / フフフ……。",
-  "en": ""
+  "en": "If they do not entertain me at least a little, it would hardly be worth the trouble. Heh heh heh..."
  }
 ]

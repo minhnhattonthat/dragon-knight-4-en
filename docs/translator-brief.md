@@ -56,6 +56,7 @@ Run `python -X utf8 tools/batches.py check <batch>` and fix every reported id un
   遠庫 for 遠慮). If a word makes no sense, read the look-alike that fits.
 - Rabbit's にょ -> ", nyo" at sentence end ("I'm fine, nyo..."). Powell's ござる -> stiff archaic speech
   ("good sir", "pray tell"). Charon's カケル殿 -> "Master Kakeru".
+- Tanyan's にゃん -> ", nya". ぽっ -> "*blush*". 守備隊 -> garrison. やめる in a choice menu -> "Cancel".
 - Seil is a boy (Bahn's son, Kakeru's friend). 工作隊 = Sapper Squad, 忍者隊 = Ninja Squad.
   Spell ハリタ・ハリティ・ブラスティ = "Harita Haritee Blastee". 乙乙乙 = snoring "Zzz...".
   If the checker wants a name you dropped, rephrase with the Write tool (never sed).

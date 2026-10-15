@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "デス・バレー…… / ここに、ナターシャがいるんだね。",
-  "en": ""
+  "en": "Death Valley... So Natasha's here, huh."
  },
  {
   "id": "2DA01B_0024.1",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なにか……村全体から強いプレッシャーを / 感じます。",
-  "en": ""
+  "en": "Something... I feel a strong pressure coming from the whole village."
  },
  {
   "id": "2DA01B_0024.2",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こ、こわいなあ……。",
-  "en": ""
+  "en": "Th-this is scary..."
  },
  {
   "id": "2DA01B_0078.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（ぴくくぅっ）またそーゆー軟弱なことをっ！",
-  "en": ""
+  "en": "(twitch) There you go being a wimp again!"
  },
  {
   "id": "2DA01B_0098.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あたしはそ～ゆ～セリフ大っきらいだって / 何度も言ってるでしょうが！！",
-  "en": ""
+  "en": "How many times have I told you I can't stand that kinda talk?!"
  },
  {
   "id": "2DA01B_00D4.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "い、いじめないでよう……。",
-  "en": ""
+  "en": "D-don't pick on me..."
  },
  {
   "id": "2DA01B_00E4.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それにしてもこの圧迫感…… / どこかにマリアンでもいるのかな？",
-  "en": ""
+  "en": "Still, this oppressive feeling... Is Marian around here somewhere?"
  },
  {
   "id": "2DA01B_00E4.1",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぎくうっ！　ややややめてよカケルっ！！",
-  "en": ""
+  "en": "Gulp! D-d-d-don't say that, Kakeru!!"
  },
  {
   "id": "2DA01B_0186.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……とにかく部隊を二手にわけよう。",
-  "en": ""
+  "en": "...Anyway, let's split the troops in two."
  },
  {
   "id": "2DA01B_019E.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "メイフェア",
-  "en": ""
+  "en": "Mayfair"
  },
  {
   "id": "2DA01B_0205.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "クラリス",
-  "en": ""
+  "en": "Clarice"
  },
  {
   "id": "2DA01B_020B.0",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パンドラ",
-  "en": ""
+  "en": "Pandora"
  },
  {
   "id": "2DA01B_0211.0",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイラ",
-  "en": ""
+  "en": "Sayla"
  },
  {
   "id": "2DA01B_0217.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロザリンド",
-  "en": ""
+  "en": "Rosalind"
  },
  {
   "id": "2DA01B_021D.0",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ターニャン",
-  "en": ""
+  "en": "Tanyan"
  },
  {
   "id": "2DA01B_0223.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カロン",
-  "en": ""
+  "en": "Charon"
  },
  {
   "id": "2DA01B_0229.0",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カルタス",
-  "en": ""
+  "en": "Cartas"
  },
  {
   "id": "2DA01B_022F.0",
@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ゴロンゴン",
-  "en": ""
+  "en": "Gorongon"
  },
  {
   "id": "2DA01B_0235.0",
@@ -157,7 +157,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "サントス",
-  "en": ""
+  "en": "Santos"
  },
  {
   "id": "2DA01B_023B.0",
@@ -165,7 +165,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ガリバン",
-  "en": ""
+  "en": "Galivan"
  },
  {
   "id": "2DA01B_0241.0",
@@ -173,7 +173,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネクラマンサー",
-  "en": ""
+  "en": "Necromancer"
  },
  {
   "id": "2DA01B_0247.0",
@@ -181,7 +181,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ピエール",
-  "en": ""
+  "en": "Pierre"
  },
  {
   "id": "2DA01B_024D.0",
@@ -189,7 +189,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ラビット",
-  "en": ""
+  "en": "Rabbit"
  },
  {
   "id": "2DA01B_0253.0",
@@ -197,7 +197,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パウエル",
-  "en": ""
+  "en": "Powell"
  },
  {
   "id": "2DA01B_0259.0",
@@ -205,7 +205,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "バルカン",
-  "en": ""
+  "en": "Vulcan"
  },
  {
   "id": "2DA01B_025B.0",
@@ -213,7 +213,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "、 / 君は外の捜索の指揮をとってくれ。",
-  "en": ""
+  "en": ", I want you to lead the search outside."
  },
  {
   "id": "2DA01B_02D5.0",
@@ -221,7 +221,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "は、はい……わかりました、エトさん。",
-  "en": ""
+  "en": "Y-yes... understood, Eto."
  },
  {
   "id": "2DA01B_02EC.0",
@@ -229,7 +229,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかった、エト。こっちはまかせろ。",
-  "en": ""
+  "en": "Got it, Eto. Leave this side to me."
  },
  {
   "id": "2DA01B_0303.0",
@@ -237,7 +237,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "了解したわ。そっちも気をつけてね。",
-  "en": ""
+  "en": "Understood. You be careful too."
  },
  {
   "id": "2DA01B_031B.0",
@@ -245,7 +245,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あたしのこのすらりと伸びた足と知性的な / 顔をもってすれば、どうってことないわ。",
-  "en": ""
+  "en": "With these long, slender legs and my intelligent face, it'll be a piece of cake."
  },
  {
   "id": "2DA01B_034B.0",
@@ -253,7 +253,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、わかった。セイル、気をつけてね。",
-  "en": ""
+  "en": "Okay, got it. Be careful, Seil."
  },
  {
   "id": "2DA01B_0363.0",
@@ -261,7 +261,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "にゃ、わかったにゃん。",
-  "en": ""
+  "en": "Nya, got it, meow."
  },
  {
   "id": "2DA01B_0372.0",
@@ -269,7 +269,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかった……カケル殿、気をつけてな。",
-  "en": ""
+  "en": "Understood... Be careful, Master Kakeru."
  },
  {
   "id": "2DA01B_0389.0",
@@ -277,7 +277,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おう、了解したぜ。",
-  "en": ""
+  "en": "Yeah, roger that."
  },
  {
   "id": "2DA01B_0399.0",
@@ -285,7 +285,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うむ。バナナが見つかるといいがなあ。",
-  "en": ""
+  "en": "Mm. I hope we find some bananas."
  },
  {
   "id": "2DA01B_03AF.0",
@@ -293,7 +293,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかった……気をつけろよ。",
-  "en": ""
+  "en": "Got it... Watch yourselves."
  },
  {
   "id": "2DA01B_03C2.0",
@@ -301,7 +301,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うむ、わかったぞい。",
-  "en": ""
+  "en": "Mm, understood, I tell ye."
  },
  {
   "id": "2DA01B_03D2.0",
@@ -309,7 +309,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺がじゃまで追い払うつもりなんだ。この村で / 新しい仲間を入れる気なんだ……ぶつぶつ……。",
-  "en": ""
+  "en": "They want me out of the way, that's why. They mean to recruit some new ally in this village... grumble grumble..."
  },
  {
   "id": "2DA01B_0404.0",
@@ -317,7 +317,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかった、外の方は俺にまかせとけって。",
-  "en": ""
+  "en": "Gotcha. Leave the outside to me."
  },
  {
   "id": "2DA01B_041E.0",
@@ -325,7 +325,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "にょにょにょ、わかったにょ。",
-  "en": ""
+  "en": "Nyo nyo nyo, got it, nyo."
  },
  {
   "id": "2DA01B_0432.0",
@@ -333,7 +333,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "しかとうけたまわったでござる。 / 外の偵察はまかせてほしいでござる。",
-  "en": ""
+  "en": "I have received your orders, good sir. Pray leave the scouting outside to me."
  },
  {
   "id": "2DA01B_045D.0",
@@ -341,7 +341,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかった……そちらも気をつけてな。",
-  "en": ""
+  "en": "Understood... Be careful over there too."
  },
  {
   "id": "2DA01B_0474.0",
@@ -349,7 +349,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……とにかく調べてみよう。",
-  "en": ""
+  "en": "...Anyway, let's look around."
  },
  {
   "id": "2DA01B_048E.0",
@@ -357,7 +357,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "くのっくのっくのっ！（げしげしっ）",
-  "en": ""
+  "en": "Take that, take that, take that! (stomp stomp)"
  },
  {
   "id": "2DA01B_04A5.0",
@@ -365,7 +365,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ばぶっばぶっばぶっ！　カケルたすけてえっ！",
-  "en": ""
+  "en": "Bwah! Bwah! Bwah! Kakeru, help meee!"
  },
  {
   "id": "2DA01B_04BF.0",
@@ -373,7 +373,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あはははは。",
-  "en": ""
+  "en": "Ahahahaha."
  },
  {
   "id": "2DA01B_04C9.0",
@@ -381,7 +381,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "またウェンディにふまれてるんだね、 / セイル。楽しいの？",
-  "en": ""
+  "en": "Wendy's stomping on you again, huh, Seil. Is it fun?"
  },
  {
   "id": "2DA01B_04E5.0",
@@ -389,7 +389,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……これが楽しいなら、ルシフォンとの戦闘は / きっと天国にいる気分だろうね……。",
-  "en": ""
+  "en": "...If this were fun, then fighting Lushifon would probably feel like heaven..."
  },
  {
   "id": "2DA01B_0517.0",
@@ -397,7 +397,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "くのっくのっくの……っ！（げしげしっ）",
-  "en": ""
+  "en": "Take that, take that, take... that! (stomp stomp)"
  },
  {
   "id": "2DA01B_0530.0",
@@ -405,7 +405,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ばぶっばぶっばぶっ！",
-  "en": ""
+  "en": "Bwah! Bwah! Bwah!"
  },
  {
   "id": "2DA01B_0540.0",
@@ -413,7 +413,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あ……まだやってる……）",
-  "en": ""
+  "en": "(Ah... they're still at it...)"
  },
  {
   "id": "2DA01B_0559.0",
@@ -421,7 +421,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いやなところだね、カケル。",
-  "en": ""
+  "en": "This is a creepy place, Kakeru."
  },
  {
   "id": "2DA01B_056B.0",
@@ -429,7 +429,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、人なんてぜんぜん住んでないみたいだ。",
-  "en": ""
+  "en": "Yeah, looks like nobody lives here at all."
  },
  {
   "id": "2DA01B_0587.0",
@@ -437,7 +437,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こ、こういうところにいるのいやだよ…… / 早く出たいなあ。",
-  "en": ""
+  "en": "I-I hate being in places like this... I wanna get out soon."
  },
  {
   "id": "2DA01B_05AE.0",
@@ -445,7 +445,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぷつぶつぶつ……。",
-  "en": ""
+  "en": "Mutter mutter mutter..."
  },
  {
   "id": "2DA01B_05BD.0",
@@ -453,7 +453,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あれ……エトが考えごとしてるぞ？）",
-  "en": ""
+  "en": "(Huh... Eto's thinking about something?)"
  },
  {
   "id": "2DA01B_05D5.0",
@@ -461,7 +461,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……私は取り返しのつかないミスを犯しているの / ではないだろうか……このままでは……。",
-  "en": ""
+  "en": "...Have I made a mistake that cannot be undone...? At this rate..."
  },
  {
   "id": "2DA01B_05D5.1",
@@ -469,7 +469,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（……なんのことだろう？）",
-  "en": ""
+  "en": "(...What's he talking about?)"
  },
  {
   "id": "2DA01B_061B.0",
@@ -477,7 +477,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぶつぶつぶつ……。",
-  "en": ""
+  "en": "Mutter mutter mutter..."
  },
  {
   "id": "2DA01B_0625.0",
@@ -485,7 +485,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（……あっちにいこうっと）",
-  "en": ""
+  "en": "(...I'll go over there.)"
  },
  {
   "id": "2DA01B_0638.0",
@@ -502,7 +502,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……カケルさん。",
-  "en": ""
+  "en": "Ah... Kakeru."
  },
  {
   "id": "2DA01B_064F.0",
@@ -510,7 +510,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やあ、マルレーネ……どうしたの？ / うかない顔で。",
-  "en": ""
+  "en": "Hey, Marlene... what's wrong? You look down."
  },
  {
   "id": "2DA01B_064F.1",
@@ -518,7 +518,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……早くこの村を出ましょう、カケルさん。",
-  "en": ""
+  "en": "...Let's leave this village quickly, Kakeru."
  },
  {
   "id": "2DA01B_0682.0",
@@ -535,7 +535,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この気配……どこで感じたのか……でも、 / これはよくない……必ず悪いことがおこります。 / 早く出た方がいいです。",
-  "en": ""
+  "en": "This presence... where did I feel it before...? But this is bad... something terrible is sure to happen. We'd better leave soon."
  },
  {
   "id": "2DA01B_06CC.0",
@@ -543,7 +543,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でも、ナターシャを取り戻さないと / 動くわけにはいかないよ。",
-  "en": ""
+  "en": "But we can't go anywhere until we get Natasha back."
  },
  {
   "id": "2DA01B_06CC.1",
@@ -551,7 +551,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうですね……でも……。",
-  "en": ""
+  "en": "That's true... but..."
  },
  {
   "id": "2DA01B_06FD.0",
@@ -559,7 +559,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……この感じ……よくないわ / ……なにか悪いことが……？",
-  "en": ""
+  "en": "...This feeling... it's bad... ...something terrible...?"
  },
  {
   "id": "2DA01B_071F.0",
@@ -567,7 +567,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれ……ネレイド、元気がないね。",
-  "en": ""
+  "en": "Huh... Nereid, you look down."
  },
  {
   "id": "2DA01B_0733.0",
@@ -575,7 +575,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……私は……悪い女なの……。",
-  "en": ""
+  "en": "...I'm... a bad woman..."
  },
  {
   "id": "2DA01B_0746.0",
@@ -583,7 +583,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしてさ！？",
-  "en": ""
+  "en": "How come?!"
  },
  {
   "id": "2DA01B_0753.0",
@@ -591,7 +591,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャさんがさらわれたとき……",
-  "en": ""
+  "en": "When Natasha was kidnapped..."
  },
  {
   "id": "2DA01B_0767.0",
@@ -599,7 +599,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、一瞬だけど「これでエトさんも、私のこと見 / てくれるかもしれない」って思ったの……。",
-  "en": ""
+  "en": "just for a moment, I thought, \"Now maybe Eto will look at me too\"..."
  },
  {
   "id": "2DA01B_0796.0",
@@ -607,7 +607,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネレイド……。",
-  "en": ""
+  "en": "Nereid..."
  },
  {
   "id": "2DA01B_07A0.0",
@@ -615,7 +615,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルさん……私……。",
-  "en": ""
+  "en": "Kakeru... I..."
  },
  {
   "id": "2DA01B_07AB.0",
@@ -623,7 +623,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネレイドは悪い女の子なんかじゃないよ。",
-  "en": ""
+  "en": "You're not a bad girl, Nereid."
  },
  {
   "id": "2DA01B_07BF.0",
@@ -631,7 +631,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ネレイドは、 / そんなにエトのことが好きなんだね。",
-  "en": ""
+  "en": "...You really like Eto that much, huh, Nereid."
  },
  {
   "id": "2DA01B_07BF.1",
@@ -639,7 +639,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……。",
-  "en": ""
+  "en": "Ah..."
  },
  {
   "id": "2DA01B_07E5.0",
@@ -647,7 +647,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でも、ナターシャは絶対に取り返すよ…… / 手伝ってくれるよね？",
-  "en": ""
+  "en": "But we're definitely getting Natasha back... You'll help, right?"
  },
  {
   "id": "2DA01B_07E5.1",
@@ -655,7 +655,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はい！　私……がんばります！",
-  "en": ""
+  "en": "Yes! I'll... do my best!"
  },
  {
   "id": "2DA01B_081B.0",
@@ -663,7 +663,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルさん、私がんばります！",
-  "en": ""
+  "en": "Kakeru, I'll do my best!"
  },
  {
   "id": "2DA01B_082E.0",
@@ -671,7 +671,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……カケル。",
-  "en": ""
+  "en": "Ah... Kakeru."
  },
  {
   "id": "2DA01B_083A.0",
@@ -679,7 +679,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "早くナターシャを取り戻して出かけましょう。",
-  "en": ""
+  "en": "Let's hurry and get Natasha back, then get going."
  },
  {
   "id": "2DA01B_0853.0",
@@ -687,7 +687,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こんな陰気なところに長居はしたくないわ。",
-  "en": ""
+  "en": "I don't want to stay long in such a gloomy place."
  },
  {
   "id": "2DA01B_086D.0",
@@ -695,7 +695,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……複雑な気分です。",
-  "en": ""
+  "en": "...I have mixed feelings."
  },
  {
   "id": "2DA01B_087F.0",
@@ -703,7 +703,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしたの、ビアンカ？",
-  "en": ""
+  "en": "What's wrong, Bianca?"
  },
  {
   "id": "2DA01B_088E.0",
@@ -711,7 +711,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こんな複雑で、 / いやな気分になったのは初めてです。",
-  "en": ""
+  "en": "This is the first time I've ever felt so conflicted and awful."
  },
  {
   "id": "2DA01B_088E.1",
@@ -719,7 +719,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私、自分を大嫌いになりそうです……。",
-  "en": ""
+  "en": "I think I'm starting to hate myself..."
  },
  {
   "id": "2DA01B_08C7.0",
@@ -727,7 +727,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すみません、ひとりにして下さい……。",
-  "en": ""
+  "en": "I'm sorry, please leave me alone..."
  },
  {
   "id": "2DA01B_08DF.0",
@@ -735,7 +735,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やあ、ジーナ。そっちはどう？ / なにか見つかった？",
-  "en": ""
+  "en": "Hey, Gina. How's it going over there? Find anything?"
  },
  {
   "id": "2DA01B_08DF.1",
@@ -743,7 +743,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううん……だめ。カケルの方は？",
-  "en": ""
+  "en": "Nope... nothing. How about you, Kakeru?"
  },
  {
   "id": "2DA01B_090D.0",
@@ -751,7 +751,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こっちもさっぱりだ…… / どこにかくれてるんだろうなあ。",
-  "en": ""
+  "en": "Nothing here either... Where could she be hiding?"
  },
  {
   "id": "2DA01B_090D.1",
@@ -759,7 +759,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あのね……。",
-  "en": ""
+  "en": "Um, you know..."
  },
  {
   "id": "2DA01B_0937.0",
@@ -767,7 +767,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん……なに、ジーナ？",
-  "en": ""
+  "en": "Yeah... what is it, Gina?"
  },
  {
   "id": "2DA01B_0945.0",
@@ -775,7 +775,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん……あのね……カケルって強いのね。",
-  "en": ""
+  "en": "Well... um... you're really strong, Kakeru."
  },
  {
   "id": "2DA01B_095A.0",
@@ -783,7 +783,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、僕は強いよ。",
-  "en": ""
+  "en": "Yep, I'm strong."
  },
  {
   "id": "2DA01B_0969.0",
@@ -791,7 +791,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンに乗った少年も、 / カケルくらいかっこいいといいな。",
-  "en": ""
+  "en": "I hope the boy who rides the dragon is as cool as you, Kakeru."
  },
  {
   "id": "2DA01B_0969.1",
@@ -808,7 +808,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ごめん、ヘんなこと言っちゃった……。",
-  "en": ""
+  "en": "Sorry, that was a weird thing to say..."
  },
  {
   "id": "2DA01B_09A9.0",
@@ -816,7 +816,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あたし、もう少しこのヘんを捜してみる……。",
-  "en": ""
+  "en": "I'm gonna search around here a little more..."
  },
  {
   "id": "2DA01B_09CA.0",
@@ -824,7 +824,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……なんだか気持ちの悪い部屋だなあ / ……石像ばっかりだ。",
-  "en": ""
+  "en": "...What a creepy room... Nothing but stone statues."
  },
  {
   "id": "2DA01B_09F4.0",
@@ -832,7 +832,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……なんだか気持ちのわるい部屋だなあ / ……石像ばっかりだ。",
-  "en": ""
+  "en": "...What a creepy room... Nothing but stone statues."
  },
  {
   "id": "2DA01B_09F4.1",
@@ -840,7 +840,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……あれっ？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "2DA01B_0A26.0",
@@ -848,7 +848,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あのだれにもまして気味の悪い石像は / どこかで見たことがあるような……？",
-  "en": ""
+  "en": "That statue, creepier than all the rest... I feel like I've seen it somewhere...?"
  },
  {
   "id": "2DA01B_0A59.0",
@@ -856,7 +856,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……バーンおじさん！？",
-  "en": ""
+  "en": "Ah... Uncle Bahn?!"
  },
  {
   "id": "2DA01B_0A6B.0",
@@ -864,7 +864,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カポネさんにアンガスさん…… / 商人のおじさんも！？ / どうしてこんなところに……？",
-  "en": ""
+  "en": "Capone and Angus... and the merchant guy too?! What are they doing in a place like this...?"
  },
  {
   "id": "2DA01B_0A9F.0",
@@ -872,7 +872,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "み、みんなきてくれ――――っ！！",
-  "en": ""
+  "en": "E-everybody, get over heeeeere!!"
  },
  {
   "id": "2DA01B_0ABA.0",
@@ -880,7 +880,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どたどたどた……",
-  "en": ""
+  "en": "Thud thud thud..."
  },
  {
   "id": "2DA01B_0AC5.0",
@@ -888,7 +888,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、どうし……うわっ！？",
-  "en": ""
+  "en": "Kakeru, what's wr... whoa?!"
  },
  {
   "id": "2DA01B_0AD8.0",
@@ -896,7 +896,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "えっ！？　パ、パパあっ！？",
-  "en": ""
+  "en": "Huh?! D-Daddy?!"
  },
  {
   "id": "2DA01B_0AEB.0",
@@ -904,7 +904,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "フフフ、 / ハーディスはうまくやったようですね…… / さあ、お前たち……その者たちをつかまえて / たたきつぶしてしまいなさい。",
-  "en": ""
+  "en": "Hu hu hu, it seems Hardis did his job well... Now, my servants... seize them and crush them to pieces."
  },
  {
   "id": "2DA01B_0B2D.0",
@@ -912,7 +912,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "無念じゃあ～……不覚をとった～……。",
-  "en": ""
+  "en": "How shameful~... I was caught off guard~..."
  },
  {
   "id": "2DA01B_0B49.0",
@@ -920,7 +920,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "バ、バーンおじさん！？　生きてるの？",
-  "en": ""
+  "en": "U-Uncle Bahn?! You're alive?"
  },
  {
   "id": "2DA01B_0B61.0",
@@ -928,7 +928,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ～……とうとう逃げ切れなかった～……。",
-  "en": ""
+  "en": "Ahh~... I couldn't get away in the end~..."
  },
  {
   "id": "2DA01B_0B7B.0",
@@ -936,7 +936,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こ……これ……。",
-  "en": ""
+  "en": "Wh... what is..."
  },
  {
   "id": "2DA01B_0B88.0",
@@ -944,7 +944,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……金をなくしただけでなく～……。",
-  "en": ""
+  "en": "...Not only did I lose my money~..."
  },
  {
   "id": "2DA01B_0BA0.0",
@@ -952,7 +952,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……女をなくしただけでなく～……。",
-  "en": ""
+  "en": "...Not only did I lose my woman~..."
  },
  {
   "id": "2DA01B_0BB7.0",
@@ -960,7 +960,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こんな目に～……あわされるとは理不尽な～。",
-  "en": ""
+  "en": "...but to suffer this too~... it's so unfair~."
  },
  {
   "id": "2DA01B_0BD7.0",
@@ -968,7 +968,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だ、だめだ、みんなゾンビみたいになってる。",
-  "en": ""
+  "en": "N-no good, they've all turned into something like zombies."
  },
  {
   "id": "2DA01B_0BF4.0",
@@ -976,7 +976,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バーンおじさんたちを砕いちゃうわけには / いかない……逃げるしかないや！",
-  "en": ""
+  "en": "I can't go smashing up Uncle Bahn and the others... All I can do is run!"
  },
  {
   "id": "2DA01B_0BF4.1",
@@ -984,7 +984,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "逃がすわけにはいきません……。",
-  "en": ""
+  "en": "I cannot allow you to escape......"
  },
  {
   "id": "2DA01B_0C32.0",
@@ -992,7 +992,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だ、だれだっ！？",
-  "en": ""
+  "en": "Wh-who's there?!"
  },
  {
   "id": "2DA01B_0C47.0",
@@ -1000,7 +1000,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "お初にお目にかかります…… / そしてこれで最後になる。 / ただ、神の血を受けた勇者に敬意を表して / 名乗りましょう……私の名はリディア。 / ルシフォン様の第一の側近です……。",
-  "en": ""
+  "en": "A pleasure to make your acquaintance... and also the last time we shall meet. Still, out of respect for a hero who carries the blood of the gods, I shall give you my name... I am Lydia, first aide to Lord Lushifon..."
  },
  {
   "id": "2DA01B_0C47.1",
@@ -1008,7 +1008,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォン！？　ナターシャはどこだ！！",
-  "en": ""
+  "en": "Lushifon?! Where's Natasha?!"
  },
  {
   "id": "2DA01B_0CBD.0",
@@ -1016,7 +1016,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……その娘ならこの村にはおりません……。",
-  "en": ""
+  "en": "...That girl is not in this village..."
  },
  {
   "id": "2DA01B_0CD7.0",
@@ -1024,7 +1024,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "あの娘は、あなたがたをこの村ヘ / ご招待するためのおとり…… / ハーディスがあの娘をどうしたかまでは、 / 私の知るところではありません……。",
-  "en": ""
+  "en": "She was merely the bait to invite you all to this village... What Hardis has done with her is beyond my knowledge..."
  },
  {
   "id": "2DA01B_0D22.0",
@@ -1032,7 +1032,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そんなっ！？",
-  "en": ""
+  "en": "N-no way?!"
  },
  {
   "id": "2DA01B_0D30.0",
@@ -1040,7 +1040,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "どうやら村の外に、 / 私の軍も到着したようですね…… / さあ、外ヘ出て私の精鋭と絶望的な闘いを / 演じるか、それとも肉親や知人と殺しあうか、 / お好きな方を選ばせてさしあげます……。",
-  "en": ""
+  "en": "It seems my army has also arrived outside the village... Now then, you may go outside and play out a hopeless battle against my elite, or slaughter your own kin and friends. I shall let you choose whichever you prefer..."
  },
  {
   "id": "2DA01B_0D30.1",
@@ -1048,7 +1048,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "くっ……こ、こいつ……っ！！",
-  "en": ""
+  "en": "Ngh... Wh-why you...!!"
  },
  {
   "id": "2DA01B_0DAD.0",
@@ -1056,7 +1056,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、冷静さを欠いたら負けだぞ！",
-  "en": ""
+  "en": "Kakeru, lose your cool and you lose the fight!"
  },
  {
   "id": "2DA01B_0DC7.0",
@@ -1064,7 +1064,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "バーンたちと闘うわけにはいかない。 / ここは外に討って出るぞ！ / どんな状況でも……最後まであきらめるな！！",
-  "en": ""
+  "en": "We cannot fight Bahn and the others. We'll strike out beyond the village! Whatever happens... never give up until the very end!!"
  },
  {
   "id": "2DA01B_0E07.0",
@@ -1072,6 +1072,6 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わかったよ、エトっ！ / みんな、村の外に出て闘うんだ！！",
-  "en": ""
+  "en": "Got it, Eto! Everyone, get outside the village and fight!!"
  }
 ]

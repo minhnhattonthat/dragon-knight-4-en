@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれ……？　だれか倒れてるよ！",
-  "en": ""
+  "en": "Huh...? Somebody's collapsed over there!"
  },
  {
   "id": "2DAE44_007C.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レアじゃないか！　しっかり！",
-  "en": ""
+  "en": "It's Rhea! Hang in there!"
  },
  {
   "id": "2DAE44_008E.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……うぅん……あ、カケルさん……。",
-  "en": ""
+  "en": "...Mmn... Oh, Kakeru..."
  },
  {
   "id": "2DAE44_00A5.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "……へレネを捜していたら、 / ルシフォンの軍隊に見つかって…… / やっとの思いで逃げてきたんです……。",
-  "en": ""
+  "en": "...While I was searching for Helene, Lushifon's army found me... I barely managed to escape..."
  },
  {
   "id": "2DAE44_00DA.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "今さらこんなことを申し上げるのは / 恥ずかしいんですけど、 / へレネを捜すのを手伝っていただけませんか？",
-  "en": ""
+  "en": "I'm embarrassed to ask this now, but... would you help me search for Helene?"
  },
  {
   "id": "2DAE44_0123.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……それは無理だな。",
-  "en": ""
+  "en": "...That's impossible."
  },
  {
   "id": "2DAE44_0134.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "我々には一刻も早く / ルシフォンを倒すという目的がある。",
-  "en": ""
+  "en": "Our goal is to defeat Lushifon as soon as possible."
  },
  {
   "id": "2DAE44_0152.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、手伝ってあげようよ。",
-  "en": ""
+  "en": "Eto, c'mon, let's help her."
  },
  {
   "id": "2DAE44_0166.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "たぶんへレネさんも東に向かったはずだよ。",
-  "en": ""
+  "en": "Helene probably headed east too."
  },
  {
   "id": "2DAE44_017F.0",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕たちといっしょに旅しながら捜してれば、 / きっと見つかるよ。",
-  "en": ""
+  "en": "If you search while traveling with us, I bet you'll find her."
  },
  {
   "id": "2DAE44_01A2.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ありがとうございます！",
-  "en": ""
+  "en": "Thank you so much!"
  },
  {
   "id": "2DAE44_01B5.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "お礼といってはなんですけど…… / 私にあなた方の闘いをお手伝いさせて下さい。 / これでも弓には自信がありますから、 / お役に立てると思います。",
-  "en": ""
+  "en": "It's not much of a thank-you, but... please let me help you in your fight. I'm quite confident with a bow, so I think I can be of use."
  },
  {
   "id": "2DAE44_0209.0",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "本当！？　それなら喜んで手伝わせてもらうよ！",
-  "en": ""
+  "en": "Really?! Then we'd be glad to have your help!"
  },
  {
   "id": "2DAE44_022A.0",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レアが仲間に加わった！",
-  "en": ""
+  "en": "Rhea joined the party!"
  },
  {
   "id": "2DAE44_023C.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さあて、それじゃあ先に進もうか！",
-  "en": ""
+  "en": "Alrighty then, let's move on!"
  },
  {
   "id": "2DAE44_025B.0",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いててててっ！！　……だ、だれだっ！？",
-  "en": ""
+  "en": "Owowowow!! ...Wh-who's there?!"
  },
  {
   "id": "2DAE44_0274.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここは神聖なドラゴンの砦だいっ！！ / 人間なんか帰れっ！！",
-  "en": ""
+  "en": "This is the sacred Dragon Fortress!! Humans go home!!"
  },
  {
   "id": "2DAE44_0274.1",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前だって人間じゃないか。",
-  "en": ""
+  "en": "You're a human too, aren't you?"
  },
  {
   "id": "2DAE44_02A6.0",
@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "僕は人間の姿をしてるけど、 / 心はドラゴンなんだいっ！！ / ……ルシフォン軍なんか大嫌いだっ、 / 帰れ、帰れっ！！",
-  "en": ""
+  "en": "I may look like a human, but in my heart I'm a dragon!! ...And I hate Lushifon's army, so go home, go home!!"
  },
  {
   "id": "2DAE44_02E2.0",
@@ -157,7 +157,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私たちはルシフォン軍ではないぞ…… / やつらと闘っているのだ。",
-  "en": ""
+  "en": "We are not Lushifon's army... We're fighting them."
  },
  {
   "id": "2DAE44_02E2.1",
@@ -165,7 +165,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "人間よ、我々はお前たちに / 危害を加えるつもりはない…… / 一刻も早くここを立ち去るのだ。",
-  "en": ""
+  "en": "Humans, we have no intention of harming you... Leave this place at once."
  },
  {
   "id": "2DAE44_033B.0",
@@ -173,7 +173,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "私たちだって、お前たちに / 危害を加えるつもりはないぞ…… / ただ少しだけ休ませてくれ、 / ルシフォン軍との闘いでみんな疲れ果てている。",
-  "en": ""
+  "en": "And we have no intention of harming you either... Just let us rest for a little while. Everyone is worn out from fighting Lushifon's army."
  },
  {
   "id": "2DAE44_0386.0",
@@ -181,7 +181,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "断る……我々は闘いに巻き込まれたくない。",
-  "en": ""
+  "en": "I refuse... We do not wish to be dragged into your battle."
  },
  {
   "id": "2DAE44_03A2.0",
@@ -189,7 +189,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なにを言ってるんだい…… / お前たちは、ルシフォン軍の仲間じゃないか。",
-  "en": ""
+  "en": "What are you talking about... You guys are on Lushifon's army's side, aren't you?"
  },
  {
   "id": "2DAE44_03A2.1",
@@ -197,7 +197,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "我々ホワイトドラゴンは、 / ルシフォン軍の味方などしていない。 / やつらが利用してるのは、 / 我々とはちがう種族のドラゴンたちだ。",
-  "en": ""
+  "en": "We White Dragons do not side with Lushifon's army. The ones they are using are dragons of a different race from ours."
  },
  {
   "id": "2DAE44_0403.0",
@@ -205,7 +205,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "我々は誇り高きドラゴンだ…… / 人間などには仕えん。 / もし人間に仕えるとすれば、 / それはドラゴンナイト様だけだ……",
-  "en": ""
+  "en": "We are proud dragons... We serve no human. If we were to serve a human, it would be the Dragon Knight alone..."
  },
  {
   "id": "2DAE44_0444.0",
@@ -213,7 +213,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それ以外の人間など、 / 見られることすら汚らわしいと思っている。",
-  "en": ""
+  "en": "Any other human, we consider it filthy even to be looked upon by them."
  },
  {
   "id": "2DAE44_046A.0",
@@ -221,7 +221,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンはドラゴンナイトだ、 / だからルシフォン軍に仕えてるんだろ？",
-  "en": ""
+  "en": "Lushifon's a Dragon Knight, so you serve Lushifon's army, right?"
  },
  {
   "id": "2DAE44_046A.1",
@@ -229,7 +229,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "はっきり言っておこう、 / ルシフォンはドラゴンナイトではない…… / 我々ホワイトドラゴンの一族は、 / 本物のドラゴンナイト様を / かぎわける能力を持っている。",
-  "en": ""
+  "en": "Let me make this clear: Lushifon is not a Dragon Knight... We of the White Dragon clan have the ability to sniff out the true Dragon Knight."
  },
  {
   "id": "2DAE44_046A.2",
@@ -237,7 +237,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "もう一度言わせてもらう、 / 我々はお前たちに危害は加えない。 / 我々はおとなしく休ませてもらうだけだ。",
-  "en": ""
+  "en": "Let me say it once more: we will not harm you. We merely wish to rest quietly."
  },
  {
   "id": "2DAE44_050D.0",
@@ -245,7 +245,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "見てのとおり、我々の仲間には / ドラゴンを攻撃できる部隊もいる…… / 融通をきかせた方がいい場合もあるぞ。",
-  "en": ""
+  "en": "As you can see, among our allies are troops that can attack dragons... Sometimes it pays to be flexible."
  },
  {
   "id": "2DAE44_0549.0",
@@ -253,7 +253,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それはおどしか？",
-  "en": ""
+  "en": "Is that a threat?"
  },
  {
   "id": "2DAE44_0557.0",
@@ -261,7 +261,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ふん、では勝手にするがいい……ただし、 / お前たちがここにいられるのは一昼夜だけだ。",
-  "en": ""
+  "en": "...Hmph, then do as you please... However, you may stay here for one day and one night only."
  },
  {
   "id": "2DAE44_0557.1",
@@ -269,7 +269,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それ以上、ここにいた場合は……",
-  "en": ""
+  "en": "If you remain here any longer than that..."
  },
  {
   "id": "2DAE44_05A0.0",
@@ -277,7 +277,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "我々の誇りをかけて、 / お前たち全員を焼きつくしてくれる。",
-  "en": ""
+  "en": "we will burn every last one of you, on our pride."
  },
  {
   "id": "2DAE44_05C1.0",
@@ -285,7 +285,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よーし……話はついたぞっ！！",
-  "en": ""
+  "en": "Alright... It's settled!!"
  },
  {
   "id": "2DAE44_05D5.0",
@@ -293,7 +293,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みんな、ここで身体を休めてくれ…… / 明日の朝には出発するぞ！！",
-  "en": ""
+  "en": "Everyone, rest yourselves here... We set out tomorrow morning!!"
  },
  {
   "id": "2DAE44_05F8.0",
@@ -301,7 +301,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "僕たちは歓迎されてないみたいだね。 / なんか恐いなあ…… / カケル、僕といっしょにいてよ。",
-  "en": ""
+  "en": "Looks like we're not welcome here. It's kinda scary... Kakeru, stay with me."
  },
  {
   "id": "2DAE44_062B.0",
@@ -309,7 +309,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "平気だよ……僕たちがなにもしなければ、 / ドラゴンたちだってなにもしやしないさ。",
-  "en": ""
+  "en": "It's fine... As long as we don't do anything, the dragons won't do anything either."
  },
  {
   "id": "2DAE44_0660.0",
@@ -317,7 +317,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……ま、待ってよ！！",
-  "en": ""
+  "en": "Ah... W-wait for me!!"
  },
  {
   "id": "2DAE44_0675.0",
@@ -325,7 +325,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル、いいことを教えてあげるね……",
-  "en": ""
+  "en": "Seil, I'll let you in on something good..."
  },
  {
   "id": "2DAE44_068D.0",
@@ -333,7 +333,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "トルルとホワイトドラゴンの長老がいる洞窟は、 / ラスカスが邪魔をして入れないんだ。",
-  "en": ""
+  "en": "Lascus won't let anyone into the cave where Torul and the White Dragon elder are."
  },
  {
   "id": "2DAE44_06B6.0",
@@ -341,7 +341,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもね、何度か行けば…… / きっと入れるような気がする。",
-  "en": ""
+  "en": "But y'know, if I go there a few times... I've got a feeling I'll get in."
  },
  {
   "id": "2DAE44_06D8.0",
@@ -349,7 +349,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "心配しなくてもいいよ、僕はドラゴンの洞窟に / 入ろうとしてるだけだからさ。",
-  "en": ""
+  "en": "Don't worry, I'm just trying to get into the dragon cave, that's all."
  },
  {
   "id": "2DAE44_06D8.1",
@@ -357,7 +357,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だからあ、それがいけないんじゃないの？",
-  "en": ""
+  "en": "Bu-ut, isn't that exactly what you shouldn't do?"
  },
  {
   "id": "2DAE44_071E.0",
@@ -365,7 +365,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル……ちゃんと身体を休めてるかい？",
-  "en": ""
+  "en": "Seil... are you getting some proper rest?"
  },
  {
   "id": "2DAE44_0734.0",
@@ -373,7 +373,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "休まるはずがないよ…… / いつ彼らが怒り出すかわからないじゃないか。",
-  "en": ""
+  "en": "How could I possibly rest... We don't know when they might get angry!"
  },
  {
   "id": "2DAE44_0734.1",
@@ -381,7 +381,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私たちが明日の朝に出発すれば、 / なにも起こらないさ。",
-  "en": ""
+  "en": "As long as we leave tomorrow morning, nothing will happen."
  },
  {
   "id": "2DAE44_077C.0",
@@ -389,7 +389,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "明日の朝にはこの砦を出るぞ…… / ちゃんと身体を休めておけよ。",
-  "en": ""
+  "en": "We leave this fortress tomorrow morning... Make sure you get some proper rest."
  },
  {
   "id": "2DAE44_07A2.0",
@@ -397,7 +397,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あら……セイルさん。",
-  "en": ""
+  "en": "Oh... Seil."
  },
  {
   "id": "2DAE44_07B1.0",
@@ -405,7 +405,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こ、こ、こんにちは……マルレーネさん。",
-  "en": ""
+  "en": "H-h-hello... Marlene."
  },
  {
   "id": "2DAE44_07C4.0",
@@ -413,7 +413,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルさん、明日の朝には砦を出るそうです。 / ゆっくり身体を休めましょうね。",
-  "en": ""
+  "en": "Seil, I hear we leave the fortress tomorrow morning. Let's get plenty of rest."
  },
  {
   "id": "2DAE44_07C4.1",
@@ -421,7 +421,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "は、はい……休めます。",
-  "en": ""
+  "en": "Y-yes... I'll rest."
  },
  {
   "id": "2DAE44_0803.0",
@@ -429,7 +429,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あの……変なことを聞いていいですか？",
-  "en": ""
+  "en": "Um... may I ask you something strange?"
  },
  {
   "id": "2DAE44_081B.0",
@@ -437,7 +437,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "な、なんでも聞いてくださいっっ！！ / なんでも答えますっ！！",
-  "en": ""
+  "en": "A-ask me anything!! I'll answer anything!!"
  },
  {
   "id": "2DAE44_081B.1",
@@ -445,7 +445,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさんって……好きな人がいるのかしら？",
-  "en": ""
+  "en": "Does Eto... have someone he likes, I wonder?"
  },
  {
   "id": "2DAE44_0856.0",
@@ -453,7 +453,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ははは……エトさんですか？",
-  "en": ""
+  "en": "Hahaha... Eto, you mean?"
  },
  {
   "id": "2DAE44_0869.0",
@@ -461,7 +461,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさんとは、知り合ってから間もないから…… / よくわかりません。",
-  "en": ""
+  "en": "I haven't known Eto very long, so... I'm not really sure."
  },
  {
   "id": "2DAE44_0869.1",
@@ -469,7 +469,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうですか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "2DAE44_089C.0",
@@ -477,7 +477,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルさん、 / がんばってライムリン大陸に行きましょう。",
-  "en": ""
+  "en": "Seil, let's do our best and make it to the Limerin continent."
  },
  {
   "id": "2DAE44_08B8.0",
@@ -485,7 +485,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ねえ、ウェンディ。 / その頭って、便利なんだってね。",
-  "en": ""
+  "en": "Hey, Wendy. I heard that head of yours is really handy."
  },
  {
   "id": "2DAE44_08B8.1",
@@ -493,7 +493,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……カケルになにを吹きこまれてきたのよ。",
-  "en": ""
+  "en": "...What has Kakeru been feeding you?"
  },
  {
   "id": "2DAE44_08F1.0",
@@ -501,7 +501,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルさん……いい景色だと思いません？",
-  "en": ""
+  "en": "Seil... Don't you think the view is lovely?"
  },
  {
   "id": "2DAE44_090A.0",
@@ -509,7 +509,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぞぞーっ！！　ぼ、僕は高所恐怖症なんだ。",
-  "en": ""
+  "en": "Brrr!! I-I'm scared of heights!"
  },
  {
   "id": "2DAE44_0928.0",
@@ -517,7 +517,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ……私がこうして景色を曉めてても、 / エトさんは横にきてくれないのね。",
-  "en": ""
+  "en": "Ah... even while I stand here gazing at the scenery, Eto never comes to stand beside me."
  },
  {
   "id": "2DAE44_0928.1",
@@ -525,7 +525,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "辛いよねえ……片想いって。",
-  "en": ""
+  "en": "It's hard, isn't it... a one-sided love."
  },
  {
   "id": "2DAE44_0967.0",
@@ -533,7 +533,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルさんの片思いの相手は…… / マルレーネさんでしょ？",
-  "en": ""
+  "en": "Seil, the one you're secretly in love with... is Marlene, isn't it?"
  },
  {
   "id": "2DAE44_0967.1",
@@ -541,7 +541,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ど、どうしてわかるの！？",
-  "en": ""
+  "en": "H-how did you know?!"
  },
  {
   "id": "2DAE44_0995.0",
@@ -549,7 +549,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルさんの態度を見ていればわかります。",
-  "en": ""
+  "en": "Anyone can tell just by watching how you act, Seil."
  },
  {
   "id": "2DAE44_09AF.0",
@@ -557,7 +557,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなものなのかなあ……。",
-  "en": ""
+  "en": "Is that how it works...?"
  },
  {
   "id": "2DAE44_09BF.0",
@@ -565,7 +565,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルさん…… / マルレーネさんとうまくいくといいですね。",
-  "en": ""
+  "en": "Seil... I hope things work out between you and Marlene."
  },
  {
   "id": "2DAE44_09DE.0",
@@ -573,7 +573,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "よう、セイル…… / ここに立ってると気持ちがいいぜ。",
-  "en": ""
+  "en": "Hey, Seil... standing up here feels great."
  },
  {
   "id": "2DAE44_09DE.1",
@@ -581,7 +581,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぞぞぞぞっ！！　ぼ、僕は高所恐怖症なんだ。",
-  "en": ""
+  "en": "Brrrr!! I-I'm scared of heights."
  },
  {
   "id": "2DAE44_0A1C.0",
@@ -589,7 +589,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ヘっヘっヘ、実はさ……俺がここにいるのは、 / 景色を曉めるためじゃなくてな。",
-  "en": ""
+  "en": "Heh heh heh, truth is... I'm not up here to gaze at the scenery."
  },
  {
   "id": "2DAE44_0A1C.1",
@@ -597,7 +597,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ほれ、そこを見てみろよ…… / 世界一美しい女性が立ってるだろ？",
-  "en": ""
+  "en": "C'mon, look over there... see the most beautiful woman in the world standing there?"
  },
  {
   "id": "2DAE44_0A1C.2",
@@ -605,7 +605,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カルタスも……マルレーネさんが好きなの？",
-  "en": ""
+  "en": "Cartas... you like Marlene too?"
  },
  {
   "id": "2DAE44_0A86.0",
@@ -613,7 +613,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "って言うか、なんと言うか……あわわわわっ！！",
-  "en": ""
+  "en": "Well, I mean, how do I put it... Whoa-whoa-whoa!!"
  },
  {
   "id": "2DAE44_0AA2.0",
@@ -621,7 +621,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お、お前……俺の背中を押さなかったか？",
-  "en": ""
+  "en": "Y-you... didn't you just push me in the back?"
  },
  {
   "id": "2DAE44_0ABD.0",
@@ -629,7 +629,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううん、押してないよ。",
-  "en": ""
+  "en": "Nope, I didn't push you."
  },
  {
   "id": "2DAE44_0ACE.0",
@@ -637,7 +637,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああびっくりした……。",
-  "en": ""
+  "en": "Man, that scared me..."
  },
  {
   "id": "2DAE44_0ADE.0",
@@ -645,7 +645,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おい。もうマルレーネの話はしないぜ…… / 俺の直感がよせって叫んでるんだ。",
-  "en": ""
+  "en": "Hey. I'm not talking about Marlene anymore... my gut is screaming at me to drop it."
  },
  {
   "id": "2DAE44_0B08.0",
@@ -653,7 +653,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おお、セイル……ひとりで退屈してるのか？",
-  "en": ""
+  "en": "Oh, Seil... bored all by yourself?"
  },
  {
   "id": "2DAE44_0B21.0",
@@ -661,7 +661,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "別に退屈はしてないよ。ただ散歩してるだけ。",
-  "en": ""
+  "en": "I'm not bored. I'm just taking a walk."
  },
  {
   "id": "2DAE44_0B3F.0",
@@ -669,7 +669,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私といっしょに散歩をするか？",
-  "en": ""
+  "en": "Would you care to take a walk with me?"
  },
  {
   "id": "2DAE44_0B55.0",
@@ -677,7 +677,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ううん、やめておくよ…… / カロンのうわさは、カケルから聞いてるから。",
-  "en": ""
+  "en": "No, I'll pass... Kakeru told me the rumors about you, Charon."
  },
  {
   "id": "2DAE44_0B7C.0",
@@ -685,7 +685,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なにがホワイトドラゴンだ…… / コーヒーだってブラックの方がうまいぞ。",
-  "en": ""
+  "en": "What's so great about a WHITE Dragon... even coffee tastes better black."
  },
  {
   "id": "2DAE44_0B7C.1",
@@ -693,7 +693,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "早く明日になればいい…… / 私はホワイトドラゴンなど嫌いだ。",
-  "en": ""
+  "en": "I wish tomorrow would hurry up and come... I can't stand White Dragons."
  },
  {
   "id": "2DAE44_0BC1.0",
@@ -701,7 +701,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あらセイル…… / 滝の水は冷たくて、気持ちいいわよ。",
-  "en": ""
+  "en": "Oh, Seil... the waterfall's water is cold and feels wonderful."
  },
  {
   "id": "2DAE44_0BC1.1",
@@ -709,7 +709,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネプチューン……下着が見えてるよ。",
-  "en": ""
+  "en": "Neptune... I can see your underwear."
  },
  {
   "id": "2DAE44_0BF6.0",
@@ -717,7 +717,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいじゃない、だれが見るわけじゃないし。",
-  "en": ""
+  "en": "So what? It's not like anyone's looking."
  },
  {
   "id": "2DAE44_0C0C.0",
@@ -725,7 +725,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕が見てるじゃないか。",
-  "en": ""
+  "en": "I'M looking!"
  },
  {
   "id": "2DAE44_0C1B.0",
@@ -733,7 +733,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだったわね……ああ、恥ずかしい。",
-  "en": ""
+  "en": "Oh, that's right... oh, how embarrassing."
  },
  {
   "id": "2DAE44_0C34.0",
@@ -741,7 +741,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕のことを馬鹿にしてるでしょ？",
-  "en": ""
+  "en": "You're making fun of me, aren't you?"
  },
  {
   "id": "2DAE44_0C49.0",
@@ -749,7 +749,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルもいっしょにどう？",
-  "en": ""
+  "en": "Want to join me, Seil?"
  },
  {
   "id": "2DAE44_0C5A.0",
@@ -757,7 +757,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うむむむ……不満だ。",
-  "en": ""
+  "en": "Hmmmm... I am dissatisfied."
  },
  {
   "id": "2DAE44_0C6C.0",
@@ -765,7 +765,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしたの、ゴロンゴン？",
-  "en": ""
+  "en": "What's wrong, Gorongon?"
  },
  {
   "id": "2DAE44_0C7B.0",
@@ -773,7 +773,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この砦を見ろ…… / どこにも、バナナを置く台がないではないか。",
-  "en": ""
+  "en": "Look at this fortress... there isn't a single stand to put bananas on anywhere."
  },
  {
   "id": "2DAE44_0C7B.1",
@@ -781,7 +781,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バナナの台が置いてあることの方が / 不思議だと思うけど……。",
-  "en": ""
+  "en": "I think it'd be stranger if there WERE a banana stand..."
  },
  {
   "id": "2DAE44_0C7B.2",
@@ -789,7 +789,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "な、なんてことを言うんだ…… / バナナは台の上に置いてこそ、バナナなんだぞ。",
-  "en": ""
+  "en": "H-how can you say such a thing... A banana is only truly a banana when it sits on a stand!"
  },
  {
   "id": "2DAE44_0CF2.0",
@@ -797,7 +797,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "明日の朝などと言わず、 / 俺はすぐにでも出発したいぞ。",
-  "en": ""
+  "en": "Forget tomorrow morning, I want to set out right this minute."
  },
  {
   "id": "2DAE44_0D15.0",
@@ -805,7 +805,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あら、セイル…… / 芝生の上にいると気持ちいいわよ。",
-  "en": ""
+  "en": "Oh, Seil... it feels so nice lying on the grass."
  },
  {
   "id": "2DAE44_0D15.1",
@@ -813,7 +813,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "よくそんなことが言えるなあ…… / ドラゴンがいきなり襲ってきたらどうするの？",
-  "en": ""
+  "en": "How can you say that... What if a dragon suddenly attacks us?"
  },
  {
   "id": "2DAE44_0D15.2",
@@ -821,7 +821,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトがちゃんと話をつけたじゃない……",
-  "en": ""
+  "en": "Eto settled things with them properly, didn't he..."
  },
  {
   "id": "2DAE44_0D72.0",
@@ -829,7 +829,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やつらにかまわなければ、 / なにも起こらないわよ。",
-  "en": ""
+  "en": "If we leave them alone, nothing will happen."
  },
  {
   "id": "2DAE44_0D8C.0",
@@ -837,7 +837,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "誇り高きドラゴンならウソをつかないわ。 / 私たちは、明日の朝に出発すればいいだけよ。",
-  "en": ""
+  "en": "A proud dragon would never lie. All we have to do is set out tomorrow morning."
  },
  {
   "id": "2DAE44_0DBC.0",
@@ -845,7 +845,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルさん、 / がんばってライムリン大陸に行きましょうね。",
-  "en": ""
+  "en": "Seil, let's do our best and make it to the Limerin continent."
  },
  {
   "id": "2DAE44_0DBC.1",
@@ -853,7 +853,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "メイフェアは、 / パパとママを殺されちゃったんだよね……。",
-  "en": ""
+  "en": "Mayfair, your mom and dad were killed, weren't they..."
  },
  {
   "id": "2DAE44_0DBC.2",
@@ -861,7 +861,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "その話はもうよしましょうよ……",
-  "en": ""
+  "en": "Let's not talk about that anymore..."
  },
  {
   "id": "2DAE44_0E09.0",
@@ -869,7 +869,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そういう目にあってるのは、 / 私だけじゃないのですから。",
-  "en": ""
+  "en": "After all, I'm not the only one who's been through something like that."
  },
  {
   "id": "2DAE44_0E26.0",
@@ -877,7 +877,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "えらいなあ……メイフェアって。",
-  "en": ""
+  "en": "You're really something, Mayfair."
  },
  {
   "id": "2DAE44_0E38.0",
@@ -885,7 +885,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私たち、芝生の上で寝るのかしら……？",
-  "en": ""
+  "en": "Are we going to sleep on the grass, I wonder...?"
  },
  {
   "id": "2DAE44_0E50.0",
@@ -893,7 +893,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルは、マルレーネが好きなんだよなあ…… / お前の態度を見てればわかるぜ。",
-  "en": ""
+  "en": "Seil, you're in love with Marlene, huh... I can tell just by watching how you act."
  },
  {
   "id": "2DAE44_0E50.1",
@@ -901,7 +901,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "クラリスは好きな人がいないの？",
-  "en": ""
+  "en": "Clarice, isn't there anyone you like?"
  },
  {
   "id": "2DAE44_0E8B.0",
@@ -909,7 +909,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こう見えても思春期の乙女だぜ…… / 好きなやつぐらいいるさ。",
-  "en": ""
+  "en": "I may not look it, but I'm a maiden in the bloom of youth... of course there's someone I like."
  },
  {
   "id": "2DAE44_0E8B.1",
@@ -917,7 +917,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ま、まさか……僕のことを好きとか？",
-  "en": ""
+  "en": "N-no way... you don't mean you like me?"
  },
  {
   "id": "2DAE44_0EC8.0",
@@ -925,7 +925,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前……意外といい性格してるな。",
-  "en": ""
+  "en": "You... you've got more nerve than I thought."
  },
  {
   "id": "2DAE44_0EE1.0",
@@ -933,7 +933,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たとえ片想いでも…… / 好きなやつがいないよりはマシさ。",
-  "en": ""
+  "en": "Even if it's one-sided... having someone to love beats having no one."
  },
  {
   "id": "2DAE44_0F05.0",
@@ -941,7 +941,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル……この砦のドラゴンたちは、 / ずいぶんとタカビーだな。",
-  "en": ""
+  "en": "Seil... the dragons in this fortress sure are stuck-up."
  },
  {
   "id": "2DAE44_0F05.1",
@@ -949,7 +949,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やつら、火を吹けると思って / いい気になってるんじゃないか？",
-  "en": ""
+  "en": "Just 'cause they can breathe fire, they think they're hot stuff, don't they?"
  },
  {
   "id": "2DAE44_0F4C.0",
@@ -957,7 +957,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なにがホワイトドラゴンだよ…… / 俺たちにとっちゃあ、ドラゴンはドラゴンさ。",
-  "en": ""
+  "en": "What's so special about a White Dragon... as far as we're concerned, a dragon's a dragon."
  },
  {
   "id": "2DAE44_0F6E.0",
@@ -965,7 +965,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル殿…… / この砦のドラゴンたちは気品があるぞい。",
-  "en": ""
+  "en": "Master Seil... the dragons in this fortress have real dignity, I tell ye."
  },
  {
   "id": "2DAE44_0F6E.1",
@@ -973,7 +973,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "我々が相手にしてるドラゴンとは大ちがいだぞい / ……そうは思わないか、セイル殿？",
-  "en": ""
+  "en": "They're a world apart from the dragons we've been fighting, I tell ye... Don't you think so, Master Seil?"
  },
  {
   "id": "2DAE44_0F6E.2",
@@ -981,7 +981,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕はよくわからないよ……。",
-  "en": ""
+  "en": "I don't really know..."
  },
  {
   "id": "2DAE44_0FC8.0",
@@ -989,7 +989,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル殿、あまり歩き回らないで / 身体を休めた方がいいぞい……。",
-  "en": ""
+  "en": "Master Seil, you'd best not wander about too much and rest your body, I tell ye..."
  },
  {
   "id": "2DAE44_0FEE.0",
@@ -997,7 +997,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、日焼けをしたくありませんの…… / 色黒のお姫様なんて、似合いませんでしょ？",
-  "en": ""
+  "en": "I'd rather not get a tan... A suntanned princess wouldn't suit me at all, would it?"
  },
  {
   "id": "2DAE44_0FEE.1",
@@ -1005,7 +1005,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ビアンカはロンボニ王国のお姫様なんだよね、 / カケルから聞いたよ。",
-  "en": ""
+  "en": "Bianca, you're the princess of the Kingdom of Romboni, right? Kakeru told me."
  },
  {
   "id": "2DAE44_0FEE.2",
@@ -1013,7 +1013,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "あなただって、有名なバーンさんの / ご子息じゃないですか。 / そういえば……セイルさんは / ドラゴンナイトなんですよね。",
-  "en": ""
+  "en": "Well, you're the son of the famous Bahn yourself. Come to think of it... Seil, you're a Dragon Knight, aren't you?"
  },
  {
   "id": "2DAE44_1079.0",
@@ -1021,7 +1021,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "で、できれば、僕がドラゴンナイトの / 血を引いてることを言わないで欲しいんだ……。",
-  "en": ""
+  "en": "I-if possible, I'd rather you didn't tell anyone I have Dragon Knight blood..."
  },
  {
   "id": "2DAE44_1079.1",
@@ -1029,7 +1029,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まあ……どうしてですの？",
-  "en": ""
+  "en": "My... why ever not?"
  },
  {
   "id": "2DAE44_10B9.0",
@@ -1037,7 +1037,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……どうしても。",
-  "en": ""
+  "en": "...I just don't."
  },
  {
   "id": "2DAE44_10C7.0",
@@ -1045,7 +1045,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もっと涼しい街に行きたいですわ…… / 私、暑いところが苦手ですの。",
-  "en": ""
+  "en": "I'd like to go to a cooler town... I simply can't bear hot places."
  },
  {
   "id": "2DAE44_10F0.0",
@@ -1053,7 +1053,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ここを飛び降りれば……死ねるな。",
-  "en": ""
+  "en": "If I jump off here... I could die."
  },
  {
   "id": "2DAE44_1108.0",
@@ -1061,7 +1061,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネクラマンサー……呪文の練習？",
-  "en": ""
+  "en": "Necromancer... practicing a spell?"
  },
  {
   "id": "2DAE44_111C.0",
@@ -1069,7 +1069,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちがう、死ぬ練習をしようとしてるのだ。",
-  "en": ""
+  "en": "No. I am practicing dying."
  },
  {
   "id": "2DAE44_1138.0",
@@ -1077,7 +1077,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さすが魔導師だなあ…… / 死んでも生き返ることができるんだね。",
-  "en": ""
+  "en": "Wow, you really are a sorcerer... you can come back to life even after you die."
  },
  {
   "id": "2DAE44_1138.1",
@@ -1085,7 +1085,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもさあ……自分が死んだら、 / だれが自分を蘇生させてくれるの？",
-  "en": ""
+  "en": "But hey... if you're the one who dies, who's going to revive you?"
  },
  {
   "id": "2DAE44_1138.2",
@@ -1102,7 +1102,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぶつぶつぶつ……やっぱり死にたくない。",
-  "en": ""
+  "en": "Mutter mutter mutter... I don't want to die after all."
  },
  {
   "id": "2DAE44_119E.0",
@@ -1110,7 +1110,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル……きれいな景色ね、 / 私のすらりと伸びた脚といい勝負だわ。",
-  "en": ""
+  "en": "Seil... what a lovely view. It's a close match for my long, slender legs."
  },
  {
   "id": "2DAE44_119E.1",
@@ -1118,7 +1118,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイラの脚って奇麗だよね…… / 細くて、筋肉質で、ちょっと色黒で。",
-  "en": ""
+  "en": "Your legs are pretty, Sayla... skinny, muscly, and kinda dark."
  },
  {
   "id": "2DAE44_119E.2",
@@ -1126,7 +1126,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "その言葉だけを聞いてると、 / ちっともきれいだと思えないわよ。",
-  "en": ""
+  "en": "Hearing just those words, they don't sound pretty at all."
  },
  {
   "id": "2DAE44_120E.0",
@@ -1134,7 +1134,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル……ホワイトドラゴンって、どうして / ルシフォンの軍隊に参加しないのかしら？",
-  "en": ""
+  "en": "Seil... why do you suppose the White Dragon doesn't join Lushifon's army?"
  },
  {
   "id": "2DAE44_1238.0",
@@ -1142,7 +1142,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルぅ……どこに行ってたの？",
-  "en": ""
+  "en": "Seeeil... where have you been?"
  },
  {
   "id": "2DAE44_124D.0",
@@ -1150,7 +1150,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "別にいいじゃないか、僕がどこに行こうと。",
-  "en": ""
+  "en": "What does it matter where I go?"
  },
  {
   "id": "2DAE44_1265.0",
@@ -1158,7 +1158,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぐっすん……ぐすぐす。",
-  "en": ""
+  "en": "Sniff... sniffle sniffle."
  },
  {
   "id": "2DAE44_1276.0",
@@ -1166,7 +1166,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、泣かないでよ……ロザリンド。",
-  "en": ""
+  "en": "D-don't cry... Rosalind."
  },
  {
   "id": "2DAE44_1288.0",
@@ -1174,7 +1174,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だって、セイルったら冷たいんだもの……。",
-  "en": ""
+  "en": "But you're being so cold, Seil..."
  },
  {
   "id": "2DAE44_12A1.0",
@@ -1182,7 +1182,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きっと私のことが嫌いになったんだわ……。",
-  "en": ""
+  "en": "You must have started hating me..."
  },
  {
   "id": "2DAE44_12BD.0",
@@ -1190,7 +1190,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "そのとおり、嫌いだ",
-  "en": ""
+  "en": "That's right, I do"
  },
  {
   "id": "2DAE44_12CB.0",
@@ -1198,7 +1198,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "そんなことはない",
-  "en": ""
+  "en": "That's not true"
  },
  {
   "id": "2DAE44_12E0.0",
@@ -1206,7 +1206,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうなんだ、僕はロザリンドが嫌いなんだよ。",
-  "en": ""
+  "en": "That's right, I hate you, Rosalind."
  },
  {
   "id": "2DAE44_12F8.0",
@@ -1214,7 +1214,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ぼ、僕が好きなのは、ロザリンドじゃなくて…… / マルレーネさんなんだ。",
-  "en": ""
+  "en": "Th-the one I like isn't you, Rosalind... it's Marlene."
  },
  {
   "id": "2DAE44_12F8.1",
@@ -1222,7 +1222,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル……もうなにも聞きたくない / ……あっちに行って。",
-  "en": ""
+  "en": "Seil... I don't want to hear another word... go away."
  },
  {
   "id": "2DAE44_133F.0",
@@ -1230,7 +1230,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2DAE44_1347.0",
@@ -1238,7 +1238,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "嫌いじゃないよ。",
-  "en": ""
+  "en": "I don't hate you."
  },
  {
   "id": "2DAE44_1353.0",
@@ -1246,7 +1246,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ってことは……好きってことよね？",
-  "en": ""
+  "en": "So that means... you love me, right?"
  },
  {
   "id": "2DAE44_1369.0",
@@ -1254,7 +1254,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うん……。",
-  "en": ""
+  "en": "Y-yeah..."
  },
  {
   "id": "2DAE44_1374.0",
@@ -1262,7 +1262,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "よかった……私たちは今、 / 永遠の愛を誓いあったのよ。",
-  "en": ""
+  "en": "I'm so glad... we've just sworn our eternal love."
  },
  {
   "id": "2DAE44_1374.1",
@@ -1270,7 +1270,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "じゃ、じゃあねロザリンド…… / 僕はこれから、カケルと話があるんだ。",
-  "en": ""
+  "en": "W-well, see you, Rosalind... I've got to go talk with Kakeru now."
  },
  {
   "id": "2DAE44_1374.2",
@@ -1278,7 +1278,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……待ってよ、セイルうっ！！",
-  "en": ""
+  "en": "Ah... wait for me, Seeeil!!"
  },
  {
   "id": "2DAE44_13CE.0",
@@ -1286,7 +1286,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "げっ！！　……またここにきちゃった。",
-  "en": ""
+  "en": "Yikes!! ...I ended up here again."
  },
  {
   "id": "2DAE44_13E4.0",
@@ -1294,7 +1294,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ちょ、ちょっと……せっかくきたんだから、 / 話ぐらいしていきなさいよおっ！！",
-  "en": ""
+  "en": "H-hey... now that you came all this way, at least stay and talk with me!!"
  },
  {
   "id": "2DAE44_140E.0",
@@ -1302,7 +1302,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ようセイル……カケルに石をぶつけたガキは、 / トルルっていう名前だそうだ。",
-  "en": ""
+  "en": "Hey Seil... the brat who threw a rock at Kakeru, his name's Torul, apparently."
  },
  {
   "id": "2DAE44_140E.1",
@@ -1310,7 +1310,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうしてドラゴンの砦に、 / 人間のガキがまざってるんだろうな……。",
-  "en": ""
+  "en": "I wonder why there's a human brat mixed in at the Dragon Fortress..."
  },
  {
   "id": "2DAE44_1459.0",
@@ -1318,7 +1318,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さてと、明日の朝には出発するんだ…… / セイルも身体を休めておいた方がいいぜ。",
-  "en": ""
+  "en": "Well then, we leave tomorrow morning... you'd better get some rest too, Seil."
  },
  {
   "id": "2DAE44_1485.0",
@@ -1326,7 +1326,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル……カケルの頭に、 / 石を投げた男の子のことを覚えてる？",
-  "en": ""
+  "en": "Seil... do you remember the boy who threw a rock at Kakeru's head?"
  },
  {
   "id": "2DAE44_1485.1",
@@ -1334,7 +1334,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あの子、トルルって言うんだって。",
-  "en": ""
+  "en": "I heard his name is Torul."
  },
  {
   "id": "2DAE44_14BF.0",
@@ -1342,7 +1342,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もしかしたら……ぽっ。",
-  "en": ""
+  "en": "Maybe he's... *blush*."
  },
  {
   "id": "2DAE44_14D1.0",
@@ -1350,7 +1350,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "きっとそうよ……あのトルルって男の子が、 / 白いドラゴンに乗った少年なんだわ。",
-  "en": ""
+  "en": "I just know it... that boy Torul is the boy who rode the white dragon."
  },
  {
   "id": "2DAE44_14FD.0",
@@ -1358,7 +1358,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "にょにょにょ……なんか落ち着かないにょ。",
-  "en": ""
+  "en": "Nyo nyo nyo... I can't settle down, nyo."
  },
  {
   "id": "2DAE44_1518.0",
@@ -1366,7 +1366,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンに監視されてる気がするにょ / ……いやな気分だにょ。",
-  "en": ""
+  "en": "It feels like the dragons are watching us, nyo... what a nasty feeling, nyo."
  },
  {
   "id": "2DAE44_1518.1",
@@ -1374,7 +1374,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "実は僕もそうなんだ。",
-  "en": ""
+  "en": "Actually, me too."
  },
  {
   "id": "2DAE44_154C.0",
@@ -1382,7 +1382,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ドラゴニア大陸には、ロクな街がないにょ。",
-  "en": ""
+  "en": "There aren't any decent towns on the Dragonia continent, nyo."
  },
  {
   "id": "2DAE44_1562.0",
@@ -1390,7 +1390,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンたちに監視されてるようで…… / とっても気分が悪いでござる。",
-  "en": ""
+  "en": "Methinks the dragons are watching us, good sir... 'tis a most disagreeable feeling."
  },
  {
   "id": "2DAE44_1562.1",
@@ -1398,7 +1398,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "実は僕も、同じことを考えてた。",
-  "en": ""
+  "en": "Actually, I was thinking the same thing."
  },
  {
   "id": "2DAE44_159F.0",
@@ -1406,7 +1406,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "この大陸には、ロクな街がないでござる。",
-  "en": ""
+  "en": "This continent hath not one decent town, good sir."
  },
  {
   "id": "2DAE44_15BA.0",
@@ -1414,7 +1414,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "にゃんにゃん、セイルだにゃん。",
-  "en": ""
+  "en": "Nyan nyan, it's Seil, nyan."
  },
  {
   "id": "2DAE44_15CA.0",
@@ -1422,7 +1422,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ターニャンって手癖が悪いんだって？",
-  "en": ""
+  "en": "Tanyan, I hear you've got sticky fingers?"
  },
  {
   "id": "2DAE44_15DF.0",
@@ -1430,7 +1430,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "手クセじゃないにゃん。足クセが悪いにゃん。 / ちょっと前まで、私は四足で歩いてたにゃん。",
-  "en": ""
+  "en": "They're not sticky fingers, nyan. They're sticky toes, nyan. Until a little while ago, I walked on all fours, nyan."
  },
  {
   "id": "2DAE44_160D.0",
@@ -1438,7 +1438,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "にゃんにゃんっ……さすがにドラゴンからは、 / なにも盗めないにゃん。",
-  "en": ""
+  "en": "Nyan nyan... even I can't steal anything from dragons, nyan."
  },
  {
   "id": "2DAE44_1630.0",
@@ -1446,7 +1446,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おお、ちょうどよかったっ…… / 実は相談したいことがあったのだ。",
-  "en": ""
+  "en": "Oh, perfect timing... there's actually something I wanted to ask your advice on."
  },
  {
   "id": "2DAE44_1630.1",
@@ -1454,7 +1454,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネのことなんだが…… / 彼女には彼氏がいないのだな？",
-  "en": ""
+  "en": "It's about Marlene... She doesn't have a boyfriend, does she?"
  },
  {
   "id": "2DAE44_1630.2",
@@ -1462,7 +1462,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いるよ。",
-  "en": ""
+  "en": "She does."
  },
  {
   "id": "2DAE44_1682.0",
@@ -1470,7 +1470,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なに！？　本当か？",
-  "en": ""
+  "en": "Wh-what?! Really?"
  },
  {
   "id": "2DAE44_1693.0",
@@ -1478,7 +1478,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだよ……だからマルレーネさんに変なことを / しちゃだめだよ、絶対にだめだからね。",
-  "en": ""
+  "en": "That's right... so don't try anything funny with Marlene. Don't you dare, absolutely not."
  },
  {
   "id": "2DAE44_1693.1",
@@ -1486,7 +1486,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "むむむっ……一目ボレだったのにぃ。",
-  "en": ""
+  "en": "Grrr... and it was love at first sight, too."
  },
  {
   "id": "2DAE44_16D7.0",
@@ -1494,7 +1494,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私はあきらめないぞ…… / マルレーネを我がものにするまでは。",
-  "en": ""
+  "en": "I will not give up... not until Marlene is mine."
  },
  {
   "id": "2DAE44_16F8.0",
@@ -1502,7 +1502,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レア……ひとりでなにをしてるの？",
-  "en": ""
+  "en": "Rhea... what are you doing all by yourself?"
  },
  {
   "id": "2DAE44_170C.0",
@@ -1510,7 +1510,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ドラゴンの様子をうかがってたんです……",
-  "en": ""
+  "en": "I was keeping an eye on the dragons..."
  },
  {
   "id": "2DAE44_1723.0",
@@ -1518,7 +1518,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "彼らは、我々と接触しないように、 / 洞窟に閉じこもってるみたいですね。",
-  "en": ""
+  "en": "It seems they've shut themselves up in the caves so they won't come into contact with us."
  },
  {
   "id": "2DAE44_174D.0",
@@ -1526,7 +1526,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしてそんなに人間が嫌いなんだろ。",
-  "en": ""
+  "en": "Why do they hate humans so much?"
  },
  {
   "id": "2DAE44_1765.0",
@@ -1534,7 +1534,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "人間そのものより、人間のすることが / 嫌いなんじゃないですか？ / その証拠に、トルルという男の子は / この砦で暮らしてるみたいですし。",
-  "en": ""
+  "en": "Maybe it's not humans themselves they hate, but the things humans do? After all, that boy called Torul seems to live in this fortress."
  },
  {
   "id": "2DAE44_17AF.0",
@@ -1542,7 +1542,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "私たちさえ大人しくしてれば、 / 彼らは危害を加えないと思います…… / もっとも、だれかがホワイトドラゴンの / 誇りを傷つけなければ、ですが。",
-  "en": ""
+  "en": "As long as we behave ourselves, I don't think they'll harm us... that is, as long as nobody wounds the White Dragon's pride."
  },
  {
   "id": "2DAE44_17FA.0",
@@ -1550,7 +1550,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうなると、一番危ないのは……。",
-  "en": ""
+  "en": "In that case, the most dangerous one is..."
  },
  {
   "id": "2DAE44_1811.0",
@@ -1558,7 +1558,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふふ……カケルさんですね。",
-  "en": ""
+  "en": "Hee hee... Kakeru, isn't it."
  },
  {
   "id": "2DAE44_1823.0",
@@ -1566,7 +1566,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私……カケルさんを見張ってようかしら。",
-  "en": ""
+  "en": "Maybe I should... keep watch over Kakeru."
  },
  {
   "id": "2DAE44_183B.0",
@@ -1574,7 +1574,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ……ここがドラゴンの砦なんだね。",
-  "en": ""
+  "en": "Hi... so this is the Dragon Fortress."
  },
  {
   "id": "2DAE44_184C.0",
@@ -1582,7 +1582,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "せっかくドラゴンたちと話ができると / 思ったんだけど…… / ラスカスとかいうドラゴンの雰囲気じゃあ、 / とても無理みたいだね。",
-  "en": ""
+  "en": "I was hoping I'd finally get to talk with the dragons... but judging by the mood of that dragon called Lascus, it looks pretty hopeless."
  },
  {
   "id": "2DAE44_188E.0",
@@ -1590,7 +1590,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "彼らから話を聞ければ、カケル君の物語が / すごく面白いものになりそうなんだけどな……。",
-  "en": ""
+  "en": "If I could hear their side of things, I bet Kakeru's story would turn out really interesting..."
  },
  {
   "id": "2DAE44_188E.1",
@@ -1598,7 +1598,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロイドンさんは、カケルの物語を書いてるの？",
-  "en": ""
+  "en": "Roydon, are you writing Kakeru's story?"
  },
  {
   "id": "2DAE44_18D8.0",
@@ -1606,7 +1606,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ、彼の話は面白いし……なんとなく / 魅力があるじゃないか、カケル君って。",
-  "en": ""
+  "en": "Yeah, his tales are interesting... and somehow he's got a certain charm, doesn't he, Kakeru?"
  },
  {
   "id": "2DAE44_1904.0",
@@ -1614,7 +1614,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あれ、そういえば、カケル君の姿が見えないね… / 今日は話をしてくれないのかな？",
-  "en": ""
+  "en": "Huh, come to think of it, I don't see Kakeru anywhere... I guess he won't be telling me stories today?"
  },
  {
   "id": "2DAE44_1931.0",
@@ -1622,7 +1622,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あーっ！！　お前、洞窟に入ってきたな！！",
-  "en": ""
+  "en": "Aaah!! You came into the cave!!"
  },
  {
   "id": "2DAE44_194D.0",
@@ -1630,7 +1630,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だ、だって……入口にだれもいないから。",
-  "en": ""
+  "en": "B-but... there was nobody at the entrance."
  },
  {
   "id": "2DAE44_1964.0",
@@ -1638,7 +1638,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ウソつけっ！！　ラスカスがいるはずだいっ！！",
-  "en": ""
+  "en": "Liar!! Lascus is supposed to be there!!"
  },
  {
   "id": "2DAE44_1980.0",
@@ -1646,7 +1646,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "出ていけっ！！　おじいちゃんは寝てるんだ…… / 起こしたら承知しないぞっ！！",
-  "en": ""
+  "en": "Get out!! Grandpa's sleeping... If you wake him up, you'll be sorry!!"
  },
  {
   "id": "2DAE44_1980.1",
@@ -1654,7 +1654,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だったら君も、そんな大きい声を / 出さないほうがいいよ。",
-  "en": ""
+  "en": "Then maybe you shouldn't be shouting so loud either."
  },
  {
   "id": "2DAE44_1980.2",
@@ -1662,7 +1662,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……君の言ったことは正しい…… / 大きな声を出すのはよすよ。",
-  "en": ""
+  "en": "...What you said is right... I'll stop shouting."
  },
  {
   "id": "2DAE44_19F4.0",
@@ -1670,7 +1670,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "し――――っ！！ / ……おじいちゃんが起きちゃうだろ。",
-  "en": ""
+  "en": "Shhhhhh!! ...You'll wake Grandpa up."
  },
  {
   "id": "2DAE44_1A15.0",
@@ -1678,7 +1678,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "むう……この匂いは！？",
-  "en": ""
+  "en": "Mmh... this scent!?"
  },
  {
   "id": "2DAE44_1A27.0",
@@ -1686,7 +1686,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……起きちゃった。",
-  "en": ""
+  "en": "Ah... he woke up."
  },
  {
   "id": "2DAE44_1A35.0",
@@ -1694,7 +1694,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……あ、あなた様は……ま、まさか！？",
-  "en": ""
+  "en": "...Y-you are... c-could it be?!"
  },
  {
   "id": "2DAE44_1A4D.0",
@@ -1702,7 +1702,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "たしかにあなた様はドラゴンナイト様じゃ！？",
-  "en": ""
+  "en": "Yes, you are surely a Dragon Knight!?"
  },
  {
   "id": "2DAE44_1A66.0",
@@ -1710,7 +1710,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンのようなニセ者ではない、 / 正真正銘のドラゴンナイト様！！",
-  "en": ""
+  "en": "Not a fake like Lushifon, but a true and genuine Dragon Knight!!"
  },
  {
   "id": "2DAE44_1A8C.0",
@@ -1718,7 +1718,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうか正直にお答えください…… / もしや、あなた様のお父上のお名前は？",
-  "en": ""
+  "en": "Please, answer me honestly... Might your father's name be...?"
  },
  {
   "id": "2DAE44_1A8C.1",
@@ -1726,7 +1726,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……バーン。",
-  "en": ""
+  "en": "...Bahn."
  },
  {
   "id": "2DAE44_1AC3.0",
@@ -1734,7 +1734,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おお！！　……やはりそうでしたか！！",
-  "en": ""
+  "en": "Oh!! ...So it is just as I thought!!"
  },
  {
   "id": "2DAE44_1ADB.0",
@@ -1742,7 +1742,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これでやっと、トルルを人間たちに / お返しすることができますじゃ……。",
-  "en": ""
+  "en": "At last, I can return Torul to the humans..."
  },
  {
   "id": "2DAE44_1B09.0",
@@ -1750,7 +1750,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぼ、僕を返すって……どういうこと！？",
-  "en": ""
+  "en": "R-return me...? What do you mean?!"
  },
  {
   "id": "2DAE44_1B22.0",
@@ -1758,7 +1758,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル様……",
-  "en": ""
+  "en": "Lord Seil..."
  },
  {
   "id": "2DAE44_1B2D.0",
@@ -1766,7 +1766,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "このトルルは、いたずら者のラスカスが / １５年前にミシエルの街から / さらってきてしまった子なのじゃ。",
-  "en": ""
+  "en": "This Torul is a child that mischievous Lascus carried off from the town of Michiel 15 years ago."
  },
  {
   "id": "2DAE44_1B2D.1",
@@ -1774,7 +1774,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ちがうっ！！ / 僕はここで生まれたんだい！！",
-  "en": ""
+  "en": "That's not true!! I was born here!!"
  },
  {
   "id": "2DAE44_1B2D.2",
@@ -1782,7 +1782,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ドラゴンナイト様であれば、 / 安心してトルルをお返しできますじゃ…… / セイル様、 / どうかこのヤコブの願いを聞き届けてくだされ。",
-  "en": ""
+  "en": "With a Dragon Knight, I can return Torul with peace of mind... Lord Seil, I beg you, grant this Jacob's wish."
  },
  {
   "id": "2DAE44_1BC4.0",
@@ -1790,7 +1790,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "で、でも……。",
-  "en": ""
+  "en": "B-but..."
  },
  {
   "id": "2DAE44_1BD0.0",
@@ -1798,7 +1798,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もちろんお礼は致しますじゃ……",
-  "en": ""
+  "en": "Of course, I shall reward you..."
  },
  {
   "id": "2DAE44_1BE7.0",
@@ -1806,7 +1806,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "我々ホワイトドラゴンの一族は、 / あなたたちとルシフォン軍の闘いに、 / 干渉したくなかったのじゃが。",
-  "en": ""
+  "en": "We of the White Dragon clan did not wish to meddle in your battle with Lushifon's army, but..."
  },
  {
   "id": "2DAE44_1BE7.1",
@@ -1814,7 +1814,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "我がホワイトドラゴン一族の力を / 使ってくだされ…… / もちろん、トルルもドラゴンに乗り、 / お役に立つことができるじゃろう。",
-  "en": ""
+  "en": "Please make use of the power of our White Dragon clan... And of course, Torul too can ride a dragon and be of help to you."
  },
  {
   "id": "2DAE44_1C52.0",
@@ -1822,7 +1822,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ただしドラゴンに乗れるのは、 / トルルとあなた様だけですじゃ……。",
-  "en": ""
+  "en": "However, the only ones who can ride the dragons are Torul and yourself..."
  },
  {
   "id": "2DAE44_1C52.1",
@@ -1830,7 +1830,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぼ、僕がドラゴンに乗るの！？",
-  "en": ""
+  "en": "I-I get to ride a dragon?!"
  },
  {
   "id": "2DAE44_1C86.0",
@@ -1838,7 +1838,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "当たり前ですじゃ…… / あなた様は本物のドラゴンナイト様ですからな。 / 連れて行かれるドラゴンは……そう、 / ラスカスとサイレスがよかろう。",
-  "en": ""
+  "en": "But of course... for you are a true Dragon Knight. As for the dragons you shall take with you... yes, Lascus and Cyres would be best."
  },
  {
   "id": "2DAE44_1CD0.0",
@@ -1846,7 +1846,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……と、その前に……そうじゃった、 / 我が一族にごあいさつをさせねば。",
-  "en": ""
+  "en": "...But before that... ah yes, I must have my clan pay their respects."
  },
  {
   "id": "2DAE44_1CD0.1",
@@ -1854,7 +1854,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "ドラゴンナイト様がおいでくださったのに、 / ごあいさつをしないとあっては…… / 我が一族の永遠の恥となりますじゃ。 / ……これトルル、 / みなの者を中央広場に集めるのじゃっ！！",
-  "en": ""
+  "en": "If we failed to greet a Dragon Knight who has graced us with a visit... it would be an everlasting shame upon our clan. ...You there, Torul, gather everyone in the central square!!"
  },
  {
   "id": "2DAE44_1CD0.2",
@@ -1862,7 +1862,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みなの者、よく聞くのじゃ！！ / 我々は今まで、中立の立場をとってきた！！",
-  "en": ""
+  "en": "Everyone, listen well!! Until now, we have remained neutral!!"
  },
  {
   "id": "2DAE44_1CD0.3",
@@ -1870,7 +1870,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだ、我々は中立の立場をとってきた！！",
-  "en": ""
+  "en": "Yes, we have remained neutral!!"
  },
  {
   "id": "2DAE44_1DA1.0",
@@ -1878,7 +1878,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "しかしドラゴンナイト様が / 我々の目前に現れた以上、 / もはや中立などと言ってはおられん！！",
-  "en": ""
+  "en": "But now that a Dragon Knight has appeared before our very eyes, we can no longer speak of neutrality!!"
  },
  {
   "id": "2DAE44_1DD6.0",
@@ -1886,7 +1886,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだ、 / もはや中立などとは言ってられない！！",
-  "en": ""
+  "en": "Yes, we can no longer speak of neutrality!!"
  },
  {
   "id": "2DAE44_1DD6.1",
@@ -1894,7 +1894,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンナイト様のお力になれなくて、 / いったいだれの力になるというのじゃ！？",
-  "en": ""
+  "en": "If we will not lend our strength to a Dragon Knight, then to whom on earth would we lend it?!"
  },
  {
   "id": "2DAE44_1DD6.2",
@@ -1902,7 +1902,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだ、 / 我々はドラゴンナイト様のお力になるのだ！！",
-  "en": ""
+  "en": "Yes, we shall lend our strength to the Dragon Knight!!"
  },
  {
   "id": "2DAE44_1DD6.3",
@@ -1910,7 +1910,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さあみなの者！！ / 我らが主、ドラゴンナイト様にごあいさつだ！！",
-  "en": ""
+  "en": "Now, everyone!! Greet our master, the Dragon Knight!!"
  },
  {
   "id": "2DAE44_1E66.0",
@@ -1918,7 +1918,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンナイト様、 / 御機嫌うるわしゅうございます！！",
-  "en": ""
+  "en": "Lord Dragon Knight, we trust you are in fine health!!"
  },
  {
   "id": "2DAE44_1E66.1",
@@ -1926,7 +1926,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ははは……こ、こんにちは。",
-  "en": ""
+  "en": "Ha ha ha... h-hello."
  },
  {
   "id": "2DAE44_1E97.0",
@@ -1934,7 +1934,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "よいか皆の者、ドラゴンナイト様の / お仲間も歓迎しようではないか…… / 彼らは人間だが、ドラゴンナイト様と / いっしょに闘っておるのじゃ！！",
-  "en": ""
+  "en": "Listen well, everyone, let us welcome the Dragon Knight's companions too... They are human, but they fight alongside the Dragon Knight!!"
  },
  {
   "id": "2DAE44_1EE2.0",
@@ -1942,7 +1942,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだ、彼らも歓迎しよう！！",
-  "en": ""
+  "en": "Yes, let us welcome them too!!"
  },
  {
   "id": "2DAE44_1EF8.0",
@@ -1950,7 +1950,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ぜいぜいぜい……ドラゴンナイト様、 / こんなものでいかがかな？",
-  "en": ""
+  "en": "Huff, huff, huff... Lord Dragon Knight, how was that?"
  },
  {
   "id": "2DAE44_1EF8.1",
@@ -1958,7 +1958,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゅ、十分です……。",
-  "en": ""
+  "en": "Th-that's plenty..."
  },
  {
   "id": "2DAE44_1F2E.0",
@@ -1966,7 +1966,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "トルルが仲間に加わった！！",
-  "en": ""
+  "en": "Torul joined the party!!"
  },
  {
   "id": "2DAE44_1F39.0",
@@ -1974,7 +1974,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルがドラゴンナイトになった！！",
-  "en": ""
+  "en": "Seil became a Dragon Knight!!"
  },
  {
   "id": "2DAE44_1F56.0",
@@ -1982,7 +1982,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "人間は洞窟に入ってはいけない。",
-  "en": ""
+  "en": "Humans must not enter the caves."
  },
  {
   "id": "2DAE44_1F6D.0",
@@ -1990,7 +1990,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ご、ごめんなさい…… / 入ろうとしたわけじゃないんだ。",
-  "en": ""
+  "en": "S-sorry... I wasn't trying to go in."
  },
  {
   "id": "2DAE44_1F6D.1",
@@ -1998,7 +1998,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかったのなら、ここから立ち去ることだ。",
-  "en": ""
+  "en": "If you understand, then leave this place."
  },
  {
   "id": "2DAE44_1FA3.0",
@@ -2006,7 +2006,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前は……ただの人間なのか？",
-  "en": ""
+  "en": "You... are you merely a human?"
  },
  {
   "id": "2DAE44_1FB7.0",
@@ -2014,7 +2014,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うん……そうだよ。",
-  "en": ""
+  "en": "Y-yeah... that's right."
  },
  {
   "id": "2DAE44_1FC6.0",
@@ -2022,7 +2022,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おかしい……変だ。",
-  "en": ""
+  "en": "Strange... something is odd."
  },
  {
   "id": "2DAE44_1FD5.0",
@@ -2030,7 +2030,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "洞窟に入ってはだめだぞ……セイルさん。",
-  "en": ""
+  "en": "You mustn't enter the caves... Seil."
  },
  {
   "id": "2DAE44_1FEF.0",
@@ -2038,7 +2038,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え！？",
-  "en": ""
+  "en": "Huh?!"
  },
  {
   "id": "2DAE44_1FF8.0",
@@ -2046,7 +2046,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2DAE44_2019.0",
@@ -2054,7 +2054,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あなたは……ドラゴンナイト様！？",
-  "en": ""
+  "en": "You are... a Dragon Knight?!"
  },
  {
   "id": "2DAE44_202D.0",
@@ -2062,7 +2062,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そんな馬鹿な……私は信じないぞおっ！！",
-  "en": ""
+  "en": "Th-that's absurd... I refuse to believe it!!"
  },
  {
   "id": "2DAE44_204F.0",
@@ -2070,7 +2070,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "飛んで行っちゃった……。",
-  "en": ""
+  "en": "He flew away..."
  },
  {
   "id": "2DAE44_205F.0",
@@ -2078,7 +2078,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こら人間……私を見るな。",
-  "en": ""
+  "en": "Hey, human... don't look at me."
  },
  {
   "id": "2DAE44_2071.0",
@@ -2086,7 +2086,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "み、見てないよ……僕は地面を見てるんだ。",
-  "en": ""
+  "en": "I-I'm not looking... I'm looking at the ground."
  },
  {
   "id": "2DAE44_208C.0",
@@ -2094,7 +2094,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前……まさか……。",
-  "en": ""
+  "en": "You... could it be..."
  },
  {
   "id": "2DAE44_209B.0",
@@ -2102,7 +2102,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふん……まさかな。",
-  "en": ""
+  "en": "Hmph... no, surely not."
  },
  {
   "id": "2DAE44_20AA.0",
@@ -2110,7 +2110,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前……ただの人間じゃないな！？",
-  "en": ""
+  "en": "You... you're no mere human, are you?!"
  },
  {
   "id": "2DAE44_20BE.0",
@@ -2118,7 +2118,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕はセイルだよ。",
-  "en": ""
+  "en": "I'm Seil."
  },
  {
   "id": "2DAE44_20CB.0",
@@ -2126,7 +2126,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だれも名前なんか聞いてないだろう……。",
-  "en": ""
+  "en": "Nobody asked your name..."
  },
  {
   "id": "2DAE44_20E3.0",
@@ -2134,7 +2134,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ごめんなさい。",
-  "en": ""
+  "en": "Sorry."
  },
  {
   "id": "2DAE44_20EC.0",
@@ -2142,7 +2142,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふん……こんな気の弱いやつが……。 / 俺のかんちがいだな。",
-  "en": ""
+  "en": "Hmph... someone this timid... I must be mistaken."
  },
  {
   "id": "2DAE44_210F.0",
@@ -2150,7 +2150,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あっちに……行ってください。",
-  "en": ""
+  "en": "Please... go over there."
  },
  {
   "id": "2DAE44_2123.0",
@@ -2158,7 +2158,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "2DAE44_212B.0",
@@ -2166,7 +2166,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あっちに……行け。",
-  "en": ""
+  "en": "Go... over there."
  },
  {
   "id": "2DAE44_213A.0",
@@ -2174,7 +2174,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここはドラゴンの砦の入口だな…… / 僕たちは、ここから入ってきたんだ。",
-  "en": ""
+  "en": "This is the entrance to the Dragon Fortress... We came in through here."
  },
  {
   "id": "2DAE44_215E.0",
@@ -2182,6 +2182,6 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ここを出ようとすると、 / だれかが僕を引き止めにくるんだ…… / でも僕はセイルだから、そんなことはしない。",
-  "en": ""
+  "en": "Whenever I try to leave here, someone comes to stop me... but I'm Seil, so I won't do that."
  }
 ]
