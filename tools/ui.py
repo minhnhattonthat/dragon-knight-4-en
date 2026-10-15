@@ -214,6 +214,13 @@ def build_table(e, rom, img, pre):
     tab = int(e['table'], 16)
     bank = tab & 0xFF0000
     assert bank == 0x840000
+    if e.get('en_tsv'):   # index<TAB>jp<TAB>en rows; missing indices keep the JP string
+        rows = {}
+        for ln in open(os.path.join(ROOT, 'ui', e['en_tsv']), encoding='utf-8'):
+            if ln.strip():
+                i, _, en = ln.rstrip('\n').split('\t')
+                rows[int(i)] = en
+        e = dict(e, en=[rows.get(k) for k in range(e['count'])])
     n = len(e['en'])
     ptrs = [rom[lorom_off(tab) + 2 * k] | rom[lorom_off(tab) + 2 * k + 1] << 8 for k in range(n + 1)]
     tab_off = BANK84_COPY + (lorom_off(tab) - 0x20000)
@@ -358,10 +365,11 @@ def build_namelist(e, rom, img, pre, reloc):
     img[p:p + len(data)] = data
     reloc[0] += len(data)
     cpu = to_cpu(p)
-    r = int(e['pool_ref'], 16)
-    assert img[r] == 0xA9 and img[r + 2] == 0x85 and img[r + 4] == 0xA0, (e['id'], hex(r))
-    img[r + 1] = cpu >> 16
-    img[r + 5:r + 7] = (cpu & 0xFFFF).to_bytes(2, 'little')
+    for rh in e.get('pool_refs', [e.get('pool_ref')]):
+        r = int(rh, 16)
+        assert img[r] == 0xA9 and img[r + 2] == 0x85 and img[r + 4] in (0xA0, 0xA2), (e['id'], hex(r))
+        img[r + 1] = cpu >> 16
+        img[r + 5:r + 7] = (cpu & 0xFFFF).to_bytes(2, 'little')
     tab = int(e['table'], 16)
     for i, n in enumerate(names):
         k0, k = first[n]
@@ -374,6 +382,50 @@ def build_namelist(e, rom, img, pre, reloc):
             else:
                 img[b + 2 * j:b + 2 * j + 2] = b'\x00\x00'
                 img[b + 16 + 2 * j:b + 18 + 2 * j] = b'\x02\x00'
+
+
+def build_strset(e, rom, img, pre, reloc):
+    """Strings drawn cell by cell by one routine (00-terminated, codes as in the script), relocated to the UI
+    area. e: strings: [[addr, english]], ptr_refs: {addr: [file offsets of LDY #imm16 operands]},
+    bank_refs: [file offsets of LDA #bank operands to set to the new bank], tables: [[long_ref, [addrs..]]]
+    (long_ref = file offset of a `LDA $bbhhll,x` operand; the table is rebuilt with the new pointers).
+    Leading/trailing blank cells of each JP string are kept."""
+    new = {}
+    bank = None
+    for addr_hex, text in e['strings']:
+        a = int(addr_hex, 16)
+        codes, _ = jp_cells(rom, lorom_off(a))
+        lead = len(codes) - len([c for c in codes]) if False else 0
+        while lead < len(codes) and codes[lead] == BLANK:
+            lead += 1
+        trail = 0
+        while trail < len(codes) - lead and codes[len(codes) - 1 - trail] == BLANK:
+            trail += 1
+        cols = render(text, e['mode'])
+        k = (len(cols) + 15) // 16
+        cells = [BLANK] * lead + [pre.code(r) for r in cells_from_cols(cols, k)] + [BLANK] * trail
+        data = encode_cells(cells) + b'\x00'
+        p = reloc[0]
+        img[p:p + len(data)] = data
+        reloc[0] += len(data)
+        new[a] = to_cpu(p)
+        bank = new[a] >> 16
+    for a_hex, refs in e.get('ptr_refs', {}).items():
+        for r in refs:
+            r = int(r, 16)
+            assert img[r - 1] == 0xA0, (e['id'], hex(r))
+            img[r:r + 2] = (new[int(a_hex, 16)] & 0xFFFF).to_bytes(2, 'little')
+    for r in e.get('bank_refs', []):
+        r = int(r, 16)
+        assert img[r - 1] == 0xA9, (e['id'], hex(r))
+        img[r] = bank
+    for long_ref, addrs in e.get('tables', []):
+        p = reloc[0]
+        for k, a_hex in enumerate(addrs):
+            img[p + 2 * k:p + 2 * k + 2] = (new[int(a_hex, 16)] & 0xFFFF).to_bytes(2, 'little')
+        reloc[0] += 2 * len(addrs)
+        r = int(long_ref, 16)
+        img[r:r + 3] = to_cpu(p).to_bytes(3, 'little')
 
 
 def load():
@@ -390,7 +442,7 @@ def apply(img, rom, pre_off):
     bank84_copy(img, rom)
     E2_ALLOC[0] = 0x317000
     for e in load():
-        if not e.get('en') and e['kind'] not in ('screen', 'namelist'):
+        if not e.get('en') and e['kind'] not in ('screen', 'namelist', 'strset'):
             continue
         try:
             if e['kind'] == 'linear':
@@ -416,9 +468,10 @@ def apply(img, rom, pre_off):
                 build_table(e, rom, img, pre)
             elif e['kind'] == 'dict':
                 build_dict_names(e, rom, img, pre)
-            elif e['kind'] in ('screen', 'namelist'):
+            elif e['kind'] in ('screen', 'namelist', 'strset'):
                 rr = [reloc]
-                (build_screen if e['kind'] == 'screen' else build_namelist)(e, rom, img, pre, rr)
+                {'screen': build_screen, 'namelist': build_namelist,
+                 'strset': build_strset}[e['kind']](e, rom, img, pre, rr)
                 reloc = rr[0]
                 if reloc > RELOC_END:
                     raise ValueError('UI relocation area full')
