@@ -165,7 +165,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "好きだから…… / 好きになってくれたと思ったから……。 / ぐすっ……ひっく、ひっく……。",
-  "en": "Because I like you... Because I thought you'd come to like me too... *Sniff*... *hic*, *hic*..."
+  "en": "Because I like you... Because I thought you'd come to like me... *Sniff*... *hic*, *hic*..."
  },
  {
   "id": "2D259F_02AC.0",
@@ -591,7 +591,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この船で東に行けば、 / ライムリン大陸がある…… / ルシフォンはそこで僕たちを待ってるはずだ。",
-  "en": "If we take this ship east, we'll reach Limerin... Lushifon should be waiting for us there."
+  "en": "If we take this ship east, we'll reach Limerin... Lushifon should be waiting there."
  },
  {
   "id": "2D259F_07CD.0",
@@ -615,7 +615,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あやまらなくていいけど…… / なにか悩んでるなら、相談して欲しいな。",
-  "en": "You don't have to apologize... but if something's bothering you, I wish you'd talk to me about it."
+  "en": "You don't have to apologize... but if something's bothering you, tell me."
  },
  {
   "id": "2D259F_07E8.1",
@@ -977,7 +977,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここは酒場だったみたいね…… / 残念ながらお酒は残ってないようだけど。",
-  "en": "Looks like this place used to be a tavern... Sadly, there doesn't seem to be any liquor left."
+  "en": "Looks like this place was a tavern... Sadly, there doesn't seem to be any liquor left."
  },
  {
   "id": "2D259F_0C79.1",
@@ -1057,7 +1057,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この港街に住んでいた人たちも、 / みんなルシフォン軍に / 連れて行かれちゃったのかしら？",
-  "en": "I wonder if the people who lived in this port town were all taken away by Lushifon's army too?"
+  "en": "Were the people who lived in this port town all taken away by Lushifon's army too?"
  },
  {
   "id": "2D259F_0DD2.0",
@@ -1185,7 +1185,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネに愛の告白して、 / そしてふたりで、新たな冒険の旅に出るんだ。",
-  "en": "I'll confess my love to Marlene, and then the two of us will set off on a brand-new adventure."
+  "en": "I'll confess my love to Marlene, then the two of us will set off on a new adventure."
  },
  {
   "id": "2D259F_0F8B.0",
@@ -1241,7 +1241,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン軍も強くなりますわね…… / もうあとがないわけですから。",
-  "en": "Lushifon's army will grow stronger too... They have nowhere left to retreat, after all."
+  "en": "Lushifon's army will grow stronger too... They have nowhere left to go, after all."
  },
  {
   "id": "2D259F_1050.0",
@@ -1427,7 +1427,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "つまり、俺たちがタスタの港街に / 残してきた船ってことだ…… / どうしてここにあるんだ？",
-  "en": "Which means it's the ship we left behind in the port town of Tasta... So what's it doing here?"
+  "en": "Which means it's the ship we left in the port town of Tasta... So what's it doing here?"
  },
  {
   "id": "2D259F_127B.0",
@@ -1467,7 +1467,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "黒い霧が動き出したとしたら…… / 早く東に逃げないと危ないわ。",
-  "en": "If the Black Mist is moving again... we'd better flee east quickly, or we'll be in danger."
+  "en": "If the Black Mist is moving again... we'd better flee east quickly, or we're in danger."
  },
  {
   "id": "2D259F_1344.0",
@@ -1533,7 +1533,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "またあの船で旅をするのはいいけど…… / ザム船長たちは、どこに行ったのかなあ。",
-  "en": "I don't mind traveling on that ship again, but... I wonder where Captain Zam and the others went."
+  "en": "I don't mind sailing on that ship again, but... where did Captain Zam and the others go?"
  },
  {
   "id": "2D259F_13EE.0",
@@ -1598,7 +1598,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "船着場に立っていたマルレーネに / 話しかけたんだが…… / まったく相手にしてもらえんのだ。",
-  "en": "I spoke to Marlene as she stood on the pier... but she would not give me the time of day."
+  "en": "I spoke to Marlene as she stood on the pier... but she would not even look at me."
  },
  {
   "id": "2D259F_14F3.0",
@@ -1758,7 +1758,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "セイルのやつ、ドワラルの村で / あたしのお風呂をのぞいてたのよっ！ / あそこまで軟弱なやつとは思わなかったわっ！！",
-  "en": "That Seil was peeping at me in the bath back in Dwaral! I never thought he was such a pathetic wimp!!"
+  "en": "That Seil peeped at my bath in Dwaral! I never thought he was such a pathetic wimp!!"
  },
  {
   "id": "2D259F_1748.0",
@@ -1830,7 +1830,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "セイルならロザリンドに / つかまってるんじゃない？ / あ……それともマルレーネを / 見に行ってるかもしれないな。",
-  "en": "If it's Seil you want, maybe Rosalind's got hold of him? Oh... or maybe he went to go look at Marlene."
+  "en": "If you want Seil, maybe Rosalind's got him? Oh... or maybe he went to look at Marlene."
  },
  {
   "id": "2D259F_1825.0",
@@ -2025,7 +2025,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "だめだ、僕はこの目で見て、 / カケル君から話を聞いて、 / それで小説を書きたいんだ。",
-  "en": "No way. I want to see it with my own eyes, hear the story from you, Kakeru, and write my novel from that."
+  "en": "No way. I want to see it with my own eyes, hear it from you, and write my novel."
  },
  {
   "id": "2D259F_1AE4.0",

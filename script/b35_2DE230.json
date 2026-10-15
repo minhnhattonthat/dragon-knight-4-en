@@ -609,7 +609,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "あの……さっきから気になってたんですけど、 / カケルさんって、もしかして…… / あの「ヤマト・タケル」様の？",
-  "en": "Um... I've been wondering for a while now, Kakeru, could you be... the son of the great \"Yamato Takeru\"?"
+  "en": "Um... I've been wondering, Kakeru, could you be... the son of the great \"Yamato Takeru\"?"
  },
  {
   "id": "2DE230_079D.0",
@@ -1509,7 +1509,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やあエト君、君の剣さばきはすばらしいねえ。 / どこかで特別な訓練でも受けたのかい？",
-  "en": "Hey, Eto, your swordsmanship is simply wonderful. Did you get some special training somewhere?"
+  "en": "Hey, Eto, your swordsmanship is wonderful. Did you get special training somewhere?"
  },
  {
   "id": "2DE230_1227.1",
@@ -1557,7 +1557,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さてと、今度は何色のノートに書くかな。 / エト君、何色がいい？",
-  "en": "Now then, what color notebook should I write in this time? Eto, which color do you like?"
+  "en": "Now, what color notebook should I write in this time? Eto, which color do you want?"
  },
  {
   "id": "2DE230_1337.0",

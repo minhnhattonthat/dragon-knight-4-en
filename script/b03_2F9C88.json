@@ -246,7 +246,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "黒い霧がこの街にくると、おねーさんは、 / 鎖に縛られたまま石になるんだ。",
-  "en": "When the Black Mist reaches this town, you'll turn to stone still tied up in chains, Miss."
+  "en": "When the Black Mist reaches this town, you'll turn to stone still in chains, Miss."
  },
  {
   "id": "2F9C88_030E.1",
@@ -390,7 +390,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、魔導師学校に戻って仲間を呼んできます。 / そして、あの悪いやつらと闘うつもりです。",
-  "en": "I'm going back to the School of Sorcery to call my friends. Then I intend to fight those villains."
+  "en": "I'm going back to the School of Sorcery to call my friends. Then I'll fight those villains."
  },
  {
   "id": "2F9C88_04EE.1",
@@ -494,7 +494,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここは勇敢な兵士の訓練所だ。 / お前も兵士として応募しにきたんだな？",
-  "en": "This is the training ground for brave soldiers. You've come to sign up as a soldier too, huh?"
+  "en": "This is the training ground for brave soldiers. You've come to sign up too, huh?"
  },
  {
   "id": "2F9C88_06BA.1",
@@ -550,7 +550,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "いいか、この訓練所で / 選べる部隊はひとつだけだ…… / お前ら以外にも、ルシフォンの軍勢と / 闘うやつらがいるんだからな…… / つまり、ひとりじめはだめってことさ。",
-  "en": "Listen up. At this training ground you can only pick one unit... There are other folks besides you fighting Lushifon's forces, after all... In other words, no hogging them all to yourself."
+  "en": "Listen up. At this training ground you can only pick one unit... There are other folks besides you fighting Lushifon's forces... In other words, no hogging them all."
  },
  {
   "id": "2F9C88_06BA.8",
@@ -566,7 +566,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "話のわかる小僧だな。 / さっそく登録されている部隊を紹介してやるぜ。",
-  "en": "You catch on quick, kid. Let me introduce you to the units we've got registered right away."
+  "en": "You catch on quick, kid. Let me introduce you to our registered units right away."
  },
  {
   "id": "2F9C88_084D.0",
@@ -772,7 +772,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ルシフォンが操る軍隊に、 / この街は占領されていたのぢゃ。 / やつらは次々に国や街を襲い、 / 若者は洗脳して軍隊に加えとるらしい。",
-  "en": "This town was occupied by the army Lushifon controls. They attack one country and town after another, and they say they brainwash the young folk and add them to their army."
+  "en": "This town was occupied by Lushifon's army. They attack one country and town after another, and they say they brainwash the young folk into their army."
  },
  {
   "id": "2F9C88_0A5F.0",
@@ -932,7 +932,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "しかし残された若者たちは自分たちで軍隊を作り / やつらと闘うと言っておる……。",
-  "en": "But the young people who were left behind say they will form their own army and fight them...."
+  "en": "But the young people left behind say they will form their own army and fight them...."
  },
  {
   "id": "2F9C88_0DD7.0",
@@ -1020,7 +1020,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "黒い霧が街を包みだすと、 / 人々は悲鳴を上げる間もなく / 石になってしまったんだ！",
-  "en": "When the Black Mist began to cover the town, people turned to stone before they could even scream!"
+  "en": "As the Black Mist covered the town, people turned to stone without even a scream!"
  },
  {
   "id": "2F9C88_0F7B.0",
@@ -1028,7 +1028,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "今はレイモンド王国に / 停滞してるかもしれないが、 / じきにまた動き出すぜ。",
-  "en": "It may be sitting over the Kingdom of Raymond for now, but it'll start moving again soon."
+  "en": "It may be stalled over the Kingdom of Raymond now, but it'll move again soon."
  },
  {
   "id": "2F9C88_0FA4.0",
@@ -1735,7 +1735,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "僕はレイモンド王国を出て、 / ルシフォンの軍隊と闘って…… / それでこの街にきたんだ。",
-  "en": "I left the Kingdom of Raymond, fought Lushifon's army... and that's how I got to this town."
+  "en": "I left the Kingdom of Raymond, fought Lushifon's army... and that's how I got here."
  },
  {
   "id": "2F9C88_17D9.0",
@@ -1743,7 +1743,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "驚いたな、 / この街を解放したのは君たちだったのか？ / ……強いんだな、君は。",
-  "en": "I'm surprised. So you're the ones who liberated this town? ...You're strong, aren't you."
+  "en": "I'm surprised. So you're the ones who liberated this town? ...You're strong, huh."
  },
  {
   "id": "2F9C88_1808.0",
@@ -1850,7 +1850,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ、レイモンド大陸に渡ってきて…… / 君が今までどんな冒険をしてきたかってことさ。",
-  "en": "Yes, since you crossed over to the Raymond continent... what kind of adventures you've had up to now."
+  "en": "Yes, since you crossed to the Raymond continent... what adventures you've had."
  },
  {
   "id": "2F9C88_18E0.1",

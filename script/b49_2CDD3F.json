@@ -533,7 +533,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "感動の再会をしたばかりだからな…… / つもる話もあるだろう。",
-  "en": "They've only just had their emotional reunion... They must have a lot to catch up on."
+  "en": "They've just had their emotional reunion... They must have a lot to talk about."
  },
  {
   "id": "2CDD3F_0627.0",
@@ -581,7 +581,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それでも闘いに参加するっていうの？ / 剣も弓も馬も、なにもできないあなたが……。",
-  "en": "And you still want to join the fight? You, who can't use a sword or a bow or ride a horse..."
+  "en": "And you still want to fight? You, who can't use a sword or a bow or ride a horse..."
  },
  {
   "id": "2CDD3F_0688.3",
@@ -1295,7 +1295,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ほかに、ここで修業していきたいという / 者はいるか？ / 最大６人まで、修業させることができます。",
-  "en": "Is there anyone else who wants to stay here and train? Up to 6 people can be left to train."
+  "en": "Does anyone else want to stay here and train? Up to 6 people can be left to train."
  },
  {
   "id": "2CDD3F_12F0.0",

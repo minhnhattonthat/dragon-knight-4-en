@@ -730,7 +730,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "サントスだったら、 / きっと素敵な旅の仲間が見つかるさ…… / 元気でな、サントス。",
-  "en": "Someone like you, Santos, is sure to find wonderful traveling companions... Take care, Santos."
+  "en": "Someone like you, Santos, is sure to find wonderful companions... Take care, Santos."
  },
  {
   "id": "2966FA_0992.0",
@@ -938,7 +938,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ターニャン、人の物を盗んだらだめだ…… / 人の物を盗むことは、悪いことだろう？",
-  "en": "Tanyan, you mustn't steal other people's things... Stealing from people is wrong, isn't it?"
+  "en": "Tanyan, you mustn't steal other people's things... Stealing is wrong, isn't it?"
  },
  {
   "id": "2966FA_0D25.1",
@@ -1010,7 +1010,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どこにいく気よ、勝手に消えないでよ！ / お礼の一言も言ってないのよ、あたし！",
-  "en": "Where do you think you're going? Don't just vanish on your own! I haven't even said one word of thanks!"
+  "en": "Where are you going? Don't just vanish! I haven't even said one word of thanks!"
  },
  {
   "id": "2966FA_0E27.1",
@@ -1034,7 +1034,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私は読むことはできないが、 / ロイドンが書く小説だ…… / きっとすばらしい本になるだろう。",
-  "en": "I won't be able to read it, but it's a novel by you, Roydon... I'm sure it will be a wonderful book."
+  "en": "I can't read it, but it's a novel by you, Roydon... It will surely be a wonderful book."
  },
  {
   "id": "2966FA_0EDA.0",

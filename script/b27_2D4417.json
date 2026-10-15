@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ディノの東には、マルクスの村があるはずだ。 / もちろん簡単には行かせてくれないだろうがな。",
-  "en": "East of Dino, there should be the village of Marcus. Of course, they won't let us get there easily."
+  "en": "East of Dino should be the village of Marcus. Of course, they won't make it easy."
  },
  {
   "id": "2D4417_0146.0",
@@ -536,7 +536,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンを倒すまで、 / もう船に乗ることもないね…… / ここはもうライムリン大陸なんだから。",
-  "en": "Until we beat Lushifon, we won't have to ride a ship anymore... We're on the Limerin continent now."
+  "en": "Until we beat Lushifon, we won't need a ship... We're on the Limerin continent now."
  },
  {
   "id": "2D4417_06E0.0",
@@ -934,7 +934,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺がまだロンボニ王国にいるころから、 / この街では闘いが起こってたんだろう……。",
-  "en": "There must've been fighting in this town since back when I was still in the Kingdom of Romboni..."
+  "en": "There must've been fighting in this town since I was still in the Kingdom of Romboni..."
  },
  {
   "id": "2D4417_0B47.1",
@@ -1701,7 +1701,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もちろん本気さ……正直言って恐いけど、 / 彼女と相談して決めたことなんだ。",
-  "en": "Of course I'm serious... Honestly, I'm scared, but I decided after talking it over with my girlfriend."
+  "en": "Of course I'm serious... Honestly, I'm scared, but I decided it with my girlfriend."
  },
  {
   "id": "2D4417_14FA.1",
@@ -1733,7 +1733,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "と、とにかく僕はカケル君と / いっしょに闘うんだ…… / 仲間だって、ちゃんと集めたしね。",
-  "en": "A-anyway, I'm fighting with you, Kakeru... I even went and gathered some comrades, too."
+  "en": "A-anyway, I'm fighting with you, Kakeru... I even went and gathered comrades."
  },
  {
   "id": "2D4417_1588.0",
@@ -1765,7 +1765,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これでさらにリアルな冒険小説が書けるぞ！ / カケル君、期待しててくれ！！",
-  "en": "Now I can write an even more realistic adventure novel! Kakeru, look forward to it!!"
+  "en": "Now I can write an even more realistic adventure novel! Kakeru, wait and see!!"
  },
  {
   "id": "2D4417_1605.0",
@@ -1837,7 +1837,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕は目で見て、カケル君から話を聞いて、 / それで小説を書きたいんだ。",
-  "en": "I want to see things with my own eyes, hear stories from you, Kakeru, and write my novel from that."
+  "en": "I want to see with my own eyes, hear stories from you, and write my novel."
  },
  {
   "id": "2D4417_16CA.1",
@@ -2094,7 +2094,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私はロイドンではない……ペンを片手に / ルシフォンと闘う戦士、ベンガル様だ。",
-  "en": "I am not Roydon... I am the great Bengal, the warrior who fights Lushifon with pen in hand."
+  "en": "I am not Roydon... I am the great Bengal, the warrior who fights Lushifon pen in hand."
  },
  {
   "id": "2D4417_1A0B.1",
@@ -2166,7 +2166,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あせるなカケル…… / ここまできて、あせっても仕方ないだろう？",
-  "en": "Don't rush, Kakeru... We've come this far. There's no point getting impatient now, is there?"
+  "en": "Don't rush, Kakeru... We've come this far. No point getting impatient now, is there?"
  },
  {
   "id": "2D4417_1B52.0",
@@ -2225,7 +2225,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "おーい、みんなっ！！ / マルクスの村に向かって出発だ！！ / ……ルシフォン軍は私たちが / 攻めてくるのを待ってるぞ！！",
-  "en": "Hey, everyone!! We're setting out for Marcus!! ...Lushifon's army is waiting for us to attack!!"
+  "en": "Hey, everyone!! We're off to Marcus!! ...Lushifon's army is waiting for our attack!!"
  },
  {
   "id": "2D4417_1C0B.0",

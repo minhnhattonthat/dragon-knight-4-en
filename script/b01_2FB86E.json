@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "出てった奥さんのことでも思い出してるのかな / ……おっと、よけいなことを言ってしまったわ。",
-  "en": "Maybe he's thinking about the wife who walked out on him... Whoops, I've gone and said too much."
+  "en": "Maybe he's thinking of the wife who walked out on him... Whoops, I said too much."
  },
  {
   "id": "2FB86E_0360.2",
@@ -165,7 +165,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "「レイモンド王国」から、 / バーン様に手紙が届いたんだ…… / いったいどんな内容だったんだろ？",
-  "en": "A letter came for Lord Bahn from the Kingdom of Raymond... I wonder what it said?"
+  "en": "A letter came for Lord Bahn from the Kingdom of Raymond... What did it say?"
  },
  {
   "id": "2FB86E_0425.0",
@@ -277,7 +277,7 @@
   "form": "dlg",
   "nlines": 7,
   "jp": "僕は冒険小説家を目指してる、 / ロイドンっていうんだ。 / なんでもレイモンドの王様が、 / あの伝説の勇者・バーン様に / 手紙をたくしたといううわさを聞いてね、 / なにか事件が起これば小説のネタに / なるんじゃないかと思ってここまできたんだ。",
-  "en": "My name's Roydon, and I want to be an adventure novelist. I heard a rumor that the King of Raymond entrusted a letter to the legendary hero, Lord Bahn, so I came all the way here thinking that if something happened, it might make good material for a novel."
+  "en": "My name's Roydon, and I want to be an adventure novelist. I heard the King of Raymond entrusted a letter to the legendary hero, Lord Bahn, so I came here thinking that if something happened, it might make good material for a novel."
  },
  {
   "id": "2FB86E_061B.0",
@@ -557,7 +557,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ライナスは悪い子ではないのです。ただ、 / 普通よりも乱暴で手クセが悪いだけなのです。",
-  "en": "Linus is not a bad child. He is merely more violent than most, and has rather sticky fingers."
+  "en": "Linus is not a bad child. He is merely rougher than most, and has sticky fingers."
  },
  {
   "id": "2FB86E_09C1.1",
@@ -677,7 +677,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いーや、知らん！　お前のとーちゃんは、 / 俺のことが書かれた本でも読んだんだろ？",
-  "en": "Nope, don't know him! Your old man probably just read some book about me, right?"
+  "en": "Nope, don't know him! Your old man just read some book about me, right?"
  },
  {
   "id": "2FB86E_0BA5.2",
@@ -749,7 +749,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "タケルの野郎ぉっ！！ / 俺の手紙を冗談だと思ったのか！？ / どうしてお前ひとりでくるんだよっ！！",
-  "en": "Takeru, you lousy bum!! Did you think my letter was a joke?! Why'd you send a kid here all alone?!"
+  "en": "Takeru, you lousy bum!! Did you think my letter was a joke?! Why send a kid alone?!"
  },
  {
   "id": "2FB86E_0CED.0",
@@ -797,7 +797,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "……そうか、わかったぞ。 / これは神がお導きくださったのだ。 / 本当にタケルの息子なんだな？",
-  "en": "...I see. I understand now. The Lord has guided you here. You really are Takeru's son?"
+  "en": "...I see, I understand. The Lord has guided you here. You really are Takeru's son?"
  },
  {
   "id": "2FB86E_0DC3.0",
@@ -1070,7 +1070,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕がこの街を出ればライナスもいなくなるよ。 / だから追い出したことと同じでしょ？",
-  "en": "When I leave this town, Linus will be gone too. So it's the same as driving him out, right?"
+  "en": "If I leave this town, Linus goes too. So it's the same as driving him out, right?"
  },
  {
   "id": "2FB86E_1253.1",
@@ -1198,7 +1198,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "“パパ”はよせといつも言ってるだろ？ / ……カケル、こいつが俺の息子のセイルだ。",
-  "en": "How many times have I told you to stop calling me \"Papa\"? ...Kakeru, this is my son, Seil."
+  "en": "How often have I told you to stop calling me \"Papa\"? ...Kakeru, this is my son, Seil."
  },
  {
   "id": "2FB86E_1457.1",
@@ -1238,7 +1238,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これからお前といっしょに旅をするカケル君だ / ……仲良くしないといけないぞ。",
-  "en": "This is Kakeru, who'll be traveling with you from now on... You two had better get along."
+  "en": "This is Kakeru, who'll be traveling with you from now on... Be good friends."
  },
  {
   "id": "2FB86E_14C4.1",
@@ -1287,7 +1287,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そしてセイル、 / お前も普通の子ではないのだぞ……父の血、 / つまりドラゴンナイト一族の血を受け継ぐ者だ。",
-  "en": "And Seil, you too are no ordinary child... You carry your father's blood, the blood of the Dragon Knight clan."
+  "en": "And Seil, you are no ordinary child either... You carry your father's blood, the blood of the Dragon Knight clan."
  },
  {
   "id": "2FB86E_15BF.0",
@@ -1367,7 +1367,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "子供のことを心配しない親はいない…… / しかし父は、お前を甘やかしていたようだ。",
-  "en": "There is no parent who does not worry for their child... But it seems your father has been spoiling you."
+  "en": "No parent fails to worry for their child... But it seems your father has spoiled you."
  },
  {
   "id": "2FB86E_16E1.1",
@@ -1495,7 +1495,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケル、レイモンド王国は / 海を渡らなければ行くことができない…… / 長い旅になるぞ。",
-  "en": "Kakeru, the Kingdom of Raymond can only be reached by crossing the sea... It'll be a long journey."
+  "en": "Kakeru, the Kingdom of Raymond lies across the sea... It'll be a long journey."
  },
  {
   "id": "2FB86E_18EC.0",
@@ -1617,7 +1617,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんなに息を切らせてくるってことは…… / よっぽど楽しみにしてたんだね。",
-  "en": "If you came running here so out of breath... you must've been really looking forward to this."
+  "en": "Running here so out of breath... you must've really been looking forward to it."
  },
  {
   "id": "2FB86E_1A78.1",
@@ -1641,7 +1641,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "セイルっ！！ / まだカケルと旅に出ないと言うのかあっ！！ / 父さんは悲しいぞおぉぉっ！！",
-  "en": "Seeeil!! You still say you won't go on a journey with Kakeru?! Your father is so sa-a-a-ad!!"
+  "en": "Seeeil!! You still won't go on a journey with Kakeru?! Your father is so sa-a-a-ad!!"
  },
  {
   "id": "2FB86E_1B19.0",
@@ -1721,7 +1721,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ええと……じゃ、 / ここにはたくさんの子供たちがいたんでしょ？ / ライナスが彼らを追い出したって聞いたよ。",
-  "en": "Umm... well then, there used to be lots of children here, right? I heard Linus chased them out."
+  "en": "Umm... well then, lots of kids used to live here, right? I heard Linus chased them out."
  },
  {
   "id": "2FB86E_1C71.0",
@@ -1753,7 +1753,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ライナスちゃん、 / 食べ物の中にしびれ薬を入れて…… / 私以外のみんなをひどいめに / あわせようとしたんです。",
-  "en": "Linus put a paralyzing drug in the food... and tried to do horrible things to everyone except me."
+  "en": "Linus put a paralyzing drug in the food... and tried to hurt everyone except me."
  },
  {
   "id": "2FB86E_1D17.0",
@@ -1857,7 +1857,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああっ、けなげだわっ、けなげすぎるわっ…… / あなたも母の愛に飢えているのですね。",
-  "en": "Oh, how brave, far too brave... You're starving for a mother's love too, aren't you?"
+  "en": "Oh, how brave, far too brave... You're starving for a mother's love too, huh?"
  },
  {
   "id": "2FB86E_1E5D.1",
@@ -1905,7 +1905,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私、母性に飢えている子がいると / 我慢できないんです…… / さあ、こっちにきなさい。",
-  "en": "I just can't bear it when there's a child starving for motherly love... Now, come over here."
+  "en": "I just can't bear it when a child is starving for motherly love... Now, come over here."
  },
  {
   "id": "2FB86E_1F63.0",
@@ -1993,7 +1993,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たしかにお母さんとお風呂に入ったのなんて / 記憶の彼方のことだけど……。",
-  "en": "Sure, taking a bath with my mom is something from way beyond the reach of memory, but..."
+  "en": "Sure, taking a bath with my mom is way back beyond my memory, but..."
  },
  {
   "id": "2FB86E_20A7.1",
@@ -2209,7 +2209,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "ちっくしょうっっ！！　復讐してやるうっっ！！ / せっかくとっておいたお菓子を / 食べようと思って戸棚を開けたら、 / 「あれ、ないや」……という気分を / お前にもたっぷり味あわせてやるうっ！！",
-  "en": "Daaaamn it!! I'll get my revenge!! You know that feeling when you open the cupboard to eat the snack you were saving, and it's like, \"Huh? It's gone\"...? I'm gonna make you feel that, big time!!"
+  "en": "Daaaamn it!! I'll get my revenge!! You know when you open the cupboard for the snack you saved, and it's like, \"Huh? It's gone\"...? I'm gonna make you feel that, big time!!"
  },
  {
   "id": "2FB86E_2441.0",

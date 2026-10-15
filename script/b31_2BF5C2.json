@@ -334,7 +334,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケルさんはルシフォンを / 倒すことに失敗しました…… / ですから、過去に戻って私を説得するのです。",
-  "en": "Kakeru, you failed to defeat Lushifon... So you must go back to the past and persuade me."
+  "en": "Kakeru, you failed to defeat Lushifon... So you must go to the past and persuade me."
  },
  {
   "id": "2BF5C2_046C.0",
@@ -471,7 +471,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "う、うん……石を胸に当てて…… / 過去に戻りたい、戻りたい！！",
-  "en": "O-okay... Press the stone to my chest... I wanna go back to the past, I wanna go back!!"
+  "en": "O-okay... Press the stone to my chest... I wanna go back to the past, back!!"
  },
  {
   "id": "2BF5C2_06C8.1",

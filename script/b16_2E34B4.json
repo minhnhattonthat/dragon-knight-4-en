@@ -860,7 +860,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……だめだめっ、ちゃんと海を見てないと…… / いつ船がとおりかかるかわからないぞ。",
-  "en": "...No, no, I've gotta keep my eyes on the sea... There's no telling when a ship might pass by."
+  "en": "...No, no, I've gotta watch the sea... There's no telling when a ship might pass by."
  },
  {
   "id": "2E34B4_0B69.1",
@@ -1087,7 +1087,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（エトとナターシャがどんな関係だろうと…… / 僕の目的は、ルシフォンを倒すことなんだから）",
-  "en": "(Whatever's going on between Eto and Natasha... my goal is to defeat Lushifon, after all.)"
+  "en": "(Whatever's going on between Eto and Natasha... my goal is to defeat Lushifon.)"
  },
  {
   "id": "2E34B4_0E4C.1",
@@ -1474,7 +1474,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私の槍を草刈には使えないからな…… / 再び闘う時がくるまで、大切に保管してあるぞ。",
-  "en": "I cannot use my spear for mowing grass... I am keeping it safe until the time comes to fight again."
+  "en": "I cannot use my spear for mowing grass... I am keeping it safe until we fight again."
  },
  {
   "id": "2E34B4_130A.1",
@@ -1587,7 +1587,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "味も抜群だし、 / 太さといいツヤといい文句なしだぜ…… / なんていう名前のバナナなんだろ？",
-  "en": "They taste amazing, and the thickness, the shine, they're flawless... I wonder what kind of banana they are?"
+  "en": "They taste amazing, the thickness, the shine, all flawless... What banana is this?"
  },
  {
   "id": "2E34B4_1502.0",
@@ -1603,7 +1603,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ゴロンゴンバナナか…… / い、いいな、よすぎるな。 / 生きててよかったって、初めて思ったよ。",
-  "en": "Gorongon Bananas... Th-that's good, that's too good. For the first time ever, I'm glad to be alive."
+  "en": "Gorongon Bananas... Th-that's good, too good. For the first time, I'm glad to be alive."
  },
  {
   "id": "2E34B4_155C.0",
@@ -1651,7 +1651,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "だからこうやって、 / お父さんが殺された時のことを思い出してるの / ……そうすれば、怒りを忘れることがないもの。",
-  "en": "So I'm doing this, remembering the time my father was killed... That way I'll never forget my anger."
+  "en": "So I recall the time my father was killed... That way I'll never forget my anger."
  },
  {
   "id": "2E34B4_161E.0",
@@ -1675,7 +1675,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "同じように海を見て、 / お父さんのことを思い出してたら…… / エトに同じことを言われたわよ。",
-  "en": "I was looking at the sea just like this, thinking about my father... and Eto told me the same thing."
+  "en": "I was looking at the sea, thinking of my father... and Eto said the same thing."
  },
  {
   "id": "2E34B4_168A.0",
@@ -1875,7 +1875,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "でもまあ、いつでも闘えるように / 準備はしておいたほうがいいぜ…… / 俺なんか毎晩、腹筋１００回に / スクワット１０００回やってるんだ。",
-  "en": "But still, it's best to stay ready to fight anytime... Me, every night I do 100 sit-ups and 1000 squats."
+  "en": "But stay ready to fight anytime... Me, every night I do 100 sit-ups and 1000 squats."
  },
  {
   "id": "2E34B4_1954.0",
@@ -2277,7 +2277,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "早くこの島から脱出した方がいいぜ…… / 明日にでも、黒い霧が動き出すかもしれない。",
-  "en": "We'd better escape this island soon... The Black Mist might start moving as soon as tomorrow."
+  "en": "We'd better escape this island soon... The Black Mist might start moving tomorrow."
  },
  {
   "id": "2E34B4_1E2D.1",
@@ -2809,7 +2809,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "カケルさん、愛っていうのはね…… / 与え続けるものです。 / 相手が自分のことをどう思っていたとしても、 / 自分がその相手を愛しているなら、 / その人のためにどんなことでもしてあげたい…… / そういう気持ちが……愛。",
-  "en": "Kakeru, love is... something you keep on giving. No matter how the other person feels about you, if you love them, you want to do anything you can for them... That feeling... is love."
+  "en": "Kakeru, love is... something you keep on giving. No matter how they feel about you, if you love someone, you want to do anything for them... That feeling... is love."
  },
  {
   "id": "2E34B4_2591.0",

@@ -363,7 +363,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ほほう、それならば言わせてもらうが…… / 変なことをしたのはカケルじゃないのか？",
-  "en": "Oho, well, if that's how it is, let me ask you... Wasn't it you who did something weird, Kakeru?"
+  "en": "Oho, then let me ask you... Wasn't it you who did something weird, Kakeru?"
  },
  {
   "id": "2B8D15_0560.1",
@@ -443,7 +443,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト、さっきロンボニの王様と話をしたんだ。 / あの黒い霧は、ルシフォンが操ってるんだって。",
-  "en": "Eto, I just talked with the King of Romboni. He says Lushifon's controlling that Black Mist."
+  "en": "Eto, I just talked with the King of Romboni. He says Lushifon controls that Black Mist."
  },
  {
   "id": "2B8D15_0671.1",
@@ -927,7 +927,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "大事だとも……仲間と力を合わせなければ、 / 私たちの目的は達成されないだろう。",
-  "en": "They certainly do... Unless we join forces with our comrades, we'll never achieve our goal."
+  "en": "They do... Without joining forces with our comrades, we won't reach our goal."
  },
  {
   "id": "2B8D15_0C47.1",
@@ -1224,7 +1224,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "話しかけてもなにも答えないし…… / 遠くを見ながらため息ばかりついてるぜ。",
-  "en": "She doesn't answer when I talk to her... She just stares into the distance, sighing over and over."
+  "en": "She doesn't answer when I talk to her... She just stares into the distance, sighing."
  },
  {
   "id": "2B8D15_1192.1",
@@ -2150,7 +2150,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺が剣を向けるのは、ルシフォン軍だけだ…… / だから君もそうして欲しい。",
-  "en": "The only ones I point my sword at are Lushifon's army... and I want you to do the same."
+  "en": "The only ones I point my sword at are Lushifon's army... I want you to do the same."
  },
  {
   "id": "2B8D15_1E5B.1",
@@ -2352,7 +2352,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "きゃあああああっ！ / 変質者の誘拐魔あっ！ / このかわいいあたしをさらう気なのねええっ！",
-  "en": "Kyaaaaaah! A creepy kidnapper! You're trying to snatch cute little me, aren't youuuu?!"
+  "en": "Kyaaaaaah! A creepy kidnapper! You want to snatch cute little me, don't youuuu?!"
  },
  {
   "id": "2B8D15_21D7.0",
@@ -2416,7 +2416,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "そうかなあ、でもやっぱりあやしいよ。 / あんな人外魔境な髪型だし……あ！ / こうしてるあいだにマルレーネさんが / 危ない目にあったら……マルレーネさぁん！",
-  "en": "You think so? But she's still suspicious. Her hairdo was straight out of some monster realm... Ah! What if Marlene gets into danger while we're standing around here... Marleeene!"
+  "en": "You think so? But she's still suspicious. Her hairdo was straight out of some monster realm... Ah! What if Marlene gets into danger while we stand around here... Marleeene!"
  },
  {
   "id": "2B8D15_2325.0",
@@ -2628,7 +2628,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さあ、今日も協力してくれるんだろ？ / ……エト君、何色のノートに書けばいいかな？",
-  "en": "So, you'll help me out again today, right? ...Eto, which color notebook should I write in?"
+  "en": "So, you'll help me out again today, right? ...Eto, which color notebook should I use?"
  },
  {
   "id": "2B8D15_25DF.0",
@@ -2876,7 +2876,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そのためには、 / もっともっと軍隊を強くしないとな…… / トルへス、ここにはだれか登録してるのかい？",
-  "en": "To do that, we need to make our army much, much stronger... Torhes, is anyone registered here?"
+  "en": "For that, our army must get much stronger... Torhes, anyone registered here?"
  },
  {
   "id": "2B8D15_2942.0",
@@ -3284,7 +3284,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "東にはミシエルという街があるそうだ…… / その街は、砲術の盛んな街らしい。",
-  "en": "I hear there's a town called Michiel to the east... Seems it's a town where gunnery thrives."
+  "en": "I hear there's a town called Michiel to the east... Seems gunnery thrives there."
  },
  {
   "id": "2B8D15_2E79.1",

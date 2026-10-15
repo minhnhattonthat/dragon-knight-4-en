@@ -751,7 +751,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルって、レイモンド王国で会った時より…… / ずっと大人になったわね。",
-  "en": "Kakeru, compared to when we met in the Kingdom of Raymond... you've grown up so much."
+  "en": "Kakeru, since we met in the Kingdom of Raymond... you've grown up so much."
  },
  {
   "id": "2BBE84_0940.1",
@@ -975,7 +975,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルさん……この街の東にライムリン王国が / あると思うと、興奮して寝られないの。",
-  "en": "Kakeru... knowing the Kingdom of Limerin is just east of this town, I'm too excited to sleep."
+  "en": "Kakeru... knowing the Kingdom of Limerin is east of this town, I'm too excited to sleep."
  },
  {
   "id": "2BBE84_0B63.1",
@@ -1007,7 +1007,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "寝られないわ……目をつぶると、 / 今まであったことを思い出しちゃうの。",
-  "en": "I can't sleep... Whenever I close my eyes, I remember everything that's happened so far."
+  "en": "I can't sleep... When I close my eyes, I remember everything that's happened."
  },
  {
   "id": "2BBE84_0BF7.0",
@@ -1176,7 +1176,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル殿は、ずいぶんと落ち着いておるな…… / さすが伝説の剣士の息子だ。",
-  "en": "You are quite calm, Master Kakeru... As expected of the son of the legendary swordsman."
+  "en": "You are quite calm, Master Kakeru... As expected of the legendary swordsman's son."
  },
  {
   "id": "2BBE84_0DE9.0",
@@ -1257,7 +1257,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街を出れば、ルシフォンに会えるのね…… / ちゃんとお化粧して行こうかしら。",
-  "en": "Once we leave this town, I'll get to meet Lushifon... Maybe I should put on proper makeup first."
+  "en": "Once we leave this town, I'll meet Lushifon... Maybe I should put on proper makeup."
  },
  {
   "id": "2BBE84_0EC6.1",
@@ -1273,7 +1273,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ははは……会うことを待ち望んでいたんだから / 彼氏みたいなものじゃない？",
-  "en": "Hahaha... I've been looking forward to meeting him for so long, so isn't he kind of like a boyfriend?"
+  "en": "Hahaha... I've longed to meet him for so long, so isn't he kind of like a boyfriend?"
  },
  {
   "id": "2BBE84_0F2F.0",
@@ -1305,7 +1305,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "またライナスのやろうに、 / バナナを荒らされたくないからな。 / こうやって見張ってるんだ。",
-  "en": "I don't want that Linus messing with my bananas again. That's why I'm keeping watch like this."
+  "en": "I don't want Linus messing with my bananas again, so I'm keeping watch like this."
  },
  {
   "id": "2BBE84_0F9E.0",
@@ -1386,7 +1386,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、なんか落ち着かないわ…… / この街の東には、ライムリン王国があるのよね。",
-  "en": "Kakeru, I just can't settle down... The Kingdom of Limerin is east of this town, isn't it?"
+  "en": "Kakeru, I just can't settle down... The Kingdom of Limerin is east of here, right?"
  },
  {
   "id": "2BBE84_1055.1",
@@ -1402,7 +1402,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そう、私はそこで酔っ払い相手に / 商売をしてたのよ…… / 今から考えると、ウソみたいな話だわ。",
-  "en": "Right, I was doing business with drunks there... Looking back now, it's hard to believe."
+  "en": "Right, I did business with drunks there... Looking back, it's hard to believe."
  },
  {
   "id": "2BBE84_10D2.0",
@@ -1467,7 +1467,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私、ルシフォンを倒したら / トリアノンの村に戻ります…… / カケルさんはどうするんですか？",
-  "en": "Once Lushifon is defeated, I'll go back to the village of Trianon... What will you do, Kakeru?"
+  "en": "Once Lushifon is beaten, I'll return to the village of Trianon... And you, Kakeru?"
  },
  {
   "id": "2BBE84_118C.0",
@@ -1620,7 +1620,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それは私だって同じだけどさ…… / 黒い霧とあれだけの軍隊を操ってるやつだぜ。",
-  "en": "Well, same goes for me... but this guy controls the Black Mist and a whole army like that."
+  "en": "Well, same goes for me... but this guy controls the Black Mist and a whole army."
  },
  {
   "id": "2BBE84_138A.1",
@@ -1653,7 +1653,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今さらビビっても仕方ないよな…… / 覚悟を決めて、ライムリン王国に行くとするか。",
-  "en": "No point getting cold feet now... Guess I'll make up my mind and head for the Kingdom of Limerin."
+  "en": "No point getting cold feet now... I'll steel myself and head for the Kingdom of Limerin."
  },
  {
   "id": "2BBE84_1423.0",
@@ -1717,7 +1717,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いや、俺はロンボニ王国に一度戻って…… / そのままお暇をもらうつもりだ。",
-  "en": "Nah, I'm going back to the Kingdom of Romboni once... and then I plan to take my leave."
+  "en": "Nah, I'm going back to the Kingdom of Romboni once... and then I'll take my leave."
  },
  {
   "id": "2BBE84_1520.1",
@@ -1877,7 +1877,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ロンボニ王国を出て、 / どのくらいの月日がたったのかしら…… / はるか昔のような気がします。",
-  "en": "How many months has it been since we left the Kingdom of Romboni... It feels like ages ago."
+  "en": "How long has it been since we left the Kingdom of Romboni... It feels like ages ago."
  },
  {
   "id": "2BBE84_179D.0",
@@ -1991,7 +1991,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "どうせ私のことなんか、 / 忘却のかなたヘと飛んでいってしまったのだ…… / ぶつぶつぶつ。",
-  "en": "I'm sure I've just been flung off into the far reaches of oblivion... Grumble grumble grumble."
+  "en": "I'm sure I've been flung into the far reaches of oblivion... Grumble grumble."
  },
  {
   "id": "2BBE84_18F1.0",
@@ -2395,7 +2395,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うん、たしかピエールは……ジーナとかいう / 女の子と一緒に隠れてたんだよね。",
-  "en": "Yeah. If I remember right, Pierre... you were hiding with some girl called Gina, weren't you?"
+  "en": "Yeah. If I remember right, Pierre... you hid with some girl called Gina, didn't you?"
  },
  {
   "id": "2BBE84_1D8B.1",
@@ -2645,7 +2645,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル殿は、お父上にも負けない剣士でござる… / 拙者が保証するでござるぞ。",
-  "en": "Master Kakeru, you are a swordsman second not even to your honored father... That I do vouch for."
+  "en": "Master Kakeru, you are a swordsman equal to your father... That I do vouch for."
  },
  {
   "id": "2BBE84_20DF.1",
@@ -2685,7 +2685,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ルシフォンを倒せば、 / 黒い霧だって闇界に戻るよ…… / 呪いだって解けるだろうから、 / 石になった人たちもきっと元に戻るね。",
-  "en": "If we defeat Lushifon, even the Black Mist will go back to the Dark Realm... The curse should be lifted too, so I'm sure the people who were turned to stone will go back to normal."
+  "en": "If we defeat Lushifon, even the Black Mist will go back to the Dark Realm... The curse should lift too, so the people turned to stone will surely go back to normal."
  },
  {
   "id": "2BBE84_21BB.0",
@@ -2749,7 +2749,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そんな優しいことを言ってくれるの、 / カケルが初めてだにゃん…… / 私、カケルが好きだにゃん。",
-  "en": "You're the first one who ever said something so kind to me, Kakeru, nya... I like you, Kakeru, nya."
+  "en": "You're the first to say something so kind to me, nya... I like you, Kakeru, nya."
  },
  {
   "id": "2BBE84_22B3.0",
@@ -2773,7 +2773,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンさえ倒せば…… / 残ったやつらなんぞ『ヘ』でもない。 / 我々の勝利は確実だ！",
-  "en": "As long as we defeat Lushifon... the rest of them won't be worth a 'toot'. Our victory is assured!"
+  "en": "Once Lushifon is beaten... the rest won't be worth a 'toot'. Victory is assured!"
  },
  {
   "id": "2BBE84_2321.0",
@@ -3741,7 +3741,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "いいえ、私にもっと母の愛があれば…… / あの人たちを助けられたのに…… / 私は、まだ未熟です。",
-  "en": "No, if only I had more mother's love... I could have saved those people... I am still so inexperienced."
+  "en": "No, had I more mother's love... I could have saved those people... I'm still inexperienced."
  },
  {
   "id": "2BBE84_2E8D.0",
@@ -3821,7 +3821,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "特に、ライムリン大陸にやってきてからは、 / ルシフォンの軍隊の他にはまったく人影を / みかけることもありませんでした。",
-  "en": "Especially after I came to the Limerin continent, I saw no one at all except Lushifon's army."
+  "en": "Especially since I came to the Limerin continent, I saw no one but Lushifon's army."
  },
  {
   "id": "2BBE84_3027.0",
@@ -4104,7 +4104,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ずーっと、みんなといっしょに / いられると思ったのに、 / ……みんなと別れるなんて、僕はいやだあ！！",
-  "en": "I thought I could be with evewybody fowever... I don't want to say goodbye to evewybody!!"
+  "en": "I thought I could be with evewybody fowever... I don't want to leave evewybody!!"
  },
  {
   "id": "2BBE84_34A5.0",
@@ -4145,7 +4145,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これ以上、つき合わされたらたまらないからな… / これでやっとドラゴンの砦に戻れるわけだ。",
-  "en": "I can't stand being dragged around any longer... At last I can go back to the Dragon Fortress."
+  "en": "I can't stand being dragged along anymore... Finally, back to the Dragon Fortress."
  },
  {
   "id": "2BBE84_3532.0",
@@ -4153,7 +4153,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル様といっしょにドラゴンの砦に戻るんだ… / もちろん、お前なんか連れてってやらんぞ。",
-  "en": "I'll return to the Dragon Fortress together with Lord Seil... And of course, I'm not taking you along."
+  "en": "I'll return to the Dragon Fortress with Lord Seil... And I'm not taking you, of course."
  },
  {
   "id": "2BBE84_355F.0",

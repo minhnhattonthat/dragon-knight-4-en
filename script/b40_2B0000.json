@@ -223,7 +223,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あそこの箱の影にロザリンドがいるだろう？ / 彼女はお前のことが気に入ったみたいだな。",
-  "en": "See Rosalind there in the shadow of those boxes? Looks like she's taken a liking to you."
+  "en": "See Rosalind there behind those boxes? Looks like she's taken a liking to you."
  },
  {
   "id": "2B0000_037B.1",
@@ -951,7 +951,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "べ、別に心配してるわけじゃありませんけど…… / 私のせいでケガをされたら困りますから。",
-  "en": "I-it's not that I'm worried or anything... It's just that it'd be a problem if you got hurt because of me."
+  "en": "I-it's not that I'm worried... I'd just hate for you to get hurt because of me."
  },
  {
   "id": "2B0000_0BF5.1",
@@ -1307,7 +1307,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト殿、火薬の入った袋を触らぬ方がいいぞ…… / いつ爆発するかわからないからな。",
-  "en": "Master Eto, you'd best not touch the bags of gunpowder... there's no telling when they'll explode."
+  "en": "Master Eto, best not touch the gunpowder bags... there's no telling when they'll blow."
  },
  {
   "id": "2B0000_1064.1",
@@ -1523,7 +1523,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "まったくこりてないようね…… / おしおきが必要かしら。",
-  "en": "You really haven't learned your lesson, have you... Perhaps you need a little punishment."
+  "en": "You haven't learned your lesson at all... Perhaps you need a little punishment."
  },
  {
   "id": "2B0000_135C.1",
@@ -1744,7 +1744,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "力ではかなわなくても、剣技では負けません！！ / 覚悟してください、エトさんっ！！",
-  "en": "I may not match you in strength, but I will not lose in swordsmanship!! Prepare yourself, Eto!!"
+  "en": "I may be weaker, but I won't lose in swordsmanship!! Prepare yourself, Eto!!"
  },
  {
   "id": "2B0000_16BC.0",
@@ -1864,7 +1864,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "二度とこんな悪さをしないように、 / わがままなお姫様を教育してあげるんだ。",
-  "en": "I am going to teach a selfish princess a lesson, so she never pulls a stunt like this again."
+  "en": "I am going to teach a selfish princess a lesson, so she never pulls a stunt like this."
  },
  {
   "id": "2B0000_184A.1",
@@ -2033,7 +2033,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "いいえ！ / 私には感じられるのです……あなたの哀しみ。 / あなたの心が、決していやされることのない / 深い傷を負っていること……。",
-  "en": "It is! I can feel it... your sorrow. That your heart bears a deep wound that will never heal..."
+  "en": "It is! I can feel it... your sorrow. Your heart bears a deep wound that will never heal..."
  },
  {
   "id": "2B0000_1B57.0",
@@ -3157,7 +3157,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（うーん……また同じことが起きるとしたら、 / 今度は私が石にされ……砕かれるのだな）",
-  "en": "(Hmm... If the same thing happens again, this time I will be turned to stone... and shattered.)"
+  "en": "(Hmm... If it happens again, this time I'll be turned to stone... and shattered.)"
  },
  {
   "id": "2B0000_2A0E.0",
@@ -3288,7 +3288,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そんなことよりエト、 / この村にもちゃんと登録してる部隊がいるぜ…… / 本当にお前たちってラッキーだな。",
-  "en": "More importantly, Eto, there's a unit registered in this village too... You guys sure are lucky."
+  "en": "More importantly, Eto, a unit's registered in this village too... You guys are lucky."
  },
  {
   "id": "2B0000_2B95.0",
@@ -3634,7 +3634,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この村の東にはブレイズの港街があるぞ。 / そこをルシフォン軍から解放すれば……。",
-  "en": "East of this village lies the port town of Blaze. If we liberate it from Lushifon's army..."
+  "en": "East of this village is the port town of Blaze. If we free it from Lushifon's army..."
  },
  {
   "id": "2B0000_2F21.1",

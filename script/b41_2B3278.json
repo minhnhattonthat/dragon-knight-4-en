@@ -1026,7 +1026,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ホワイトドラゴンか…… / ルシフォンがいる場所に着く前に、 / やつらを味方につけなければ。",
-  "en": "The White Dragon, eh... We must win them over to our side before we reach Lushifon's lair."
+  "en": "The White Dragon, eh... We must win them over before we reach where Lushifon is."
  },
  {
   "id": "2B3278_0E61.0",
@@ -1124,7 +1124,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンを倒したら、 / 私はプロの踊り子になるのよ…… / だから練習だけはしておかないと。",
-  "en": "Once we beat Lushifon, I'm going to be a professional dancer... so I've got to keep up my practice."
+  "en": "Once we beat Lushifon, I'll be a professional dancer... so I must keep practicing."
  },
  {
   "id": "2B3278_0FCE.0",
@@ -1213,7 +1213,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ヘっヘっヘっ、このペンは魔法のペンなんだ。 / みんなの似顔絵をカウンターに描いているのさ。",
-  "en": "Heh heh heh, this pen is a magic pen. I'm drawing everybody's portraits on the counter."
+  "en": "Heh heh heh, this pen is a magic pen. I'm drawing everybody's faces on the counter."
  },
  {
   "id": "2B3278_109B.1",
@@ -1245,7 +1245,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンの顔って、こんな顔じゃないかと / 思ってな……かきかきかき。",
-  "en": "I figured Lushifon's face might look something like this... Scribble scribble scribble."
+  "en": "I figured Lushifon's face might look something like this... Scribble scribble."
  },
  {
   "id": "2B3278_110F.1",
@@ -2063,7 +2063,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "まあいい、 / この街にもふたつの部隊が登録してるぞ…… / エト、きっちり選んでくれよな。",
-  "en": "Oh well. There are two units registered in this town too... Eto, choose carefully, will ya."
+  "en": "Oh well. Two units are registered in this town too... Eto, choose carefully, will ya."
  },
  {
   "id": "2B3278_1B6A.0",
@@ -2460,7 +2460,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "魔法のペンまで売りつくしちまったぜ…… / またソドムの村で仕入れてこないとな。",
-  "en": "I've sold out of everything, even the magic pens... Gotta go stock up at the village of Sodom again."
+  "en": "Sold out of everything, even magic pens... Gotta restock in the village of Sodom."
  },
  {
   "id": "2B3278_2046.1",
@@ -2508,7 +2508,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "にーちゃん、 / 俺は無理に売ってるわけじゃないんだ。 / 買いたいやつがいるから売ってるだけだ。",
-  "en": "Pal, I ain't forcing anybody to buy. I'm just selling 'cause there are folks who wanna buy."
+  "en": "Pal, I ain't forcing anybody to buy. I'm just selling 'cause folks wanna buy."
  },
  {
   "id": "2B3278_2136.0",
@@ -2516,7 +2516,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前の仲間の、カケルという小僧はくわせ者だぜ / ……この俺様をおどしやがった。",
-  "en": "That brat buddy of yours, Kakeru, is a sly one... He had the nerve to threaten me, of all people."
+  "en": "That brat buddy of yours, Kakeru, is a sly one... He had the nerve to threaten me!"
  },
  {
   "id": "2B3278_2163.0",
@@ -2524,7 +2524,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "船は貸してやるよ……その代わり、とっとと / ルシフォンを倒して平和な世界に戻してくれ。",
-  "en": "I'll lend you the ship... In return, hurry up and beat Lushifon and bring back a peaceful world."
+  "en": "I'll lend you the ship... In return, hurry and beat Lushifon and bring back peace."
  },
  {
   "id": "2B3278_2163.1",

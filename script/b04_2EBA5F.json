@@ -199,7 +199,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "でもあのナターシャとかいう女、 / 気になるわあ…… / あの子、私と同じくらいかわいいし。",
-  "en": "But that Natasha woman or whatever her name is bugs me... That girl is about as cute as I am."
+  "en": "But that Natasha woman or whatever bugs me... That girl is about as cute as I am."
  },
  {
   "id": "2EBA5F_0333.0",
@@ -287,7 +287,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "弓を使える者がいれば、 / 我々を援護してくれることになる…… / 仲間にしたいものだな。",
-  "en": "If we had someone who could use a bow, they could give us covering fire... I'd like to have them join us."
+  "en": "If we had someone who could use a bow, they could cover us... I'd like them with us."
  },
  {
   "id": "2EBA5F_04C5.0",
@@ -335,7 +335,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、今大切な話をしているんだ。 / 用がないならあっちに行ってくれ。",
-  "en": "Kakeru, I'm in the middle of an important conversation. If you don't need anything, go over there."
+  "en": "Kakeru, I'm in the middle of an important talk. If you've no business here, go away."
  },
  {
   "id": "2EBA5F_0593.0",
@@ -359,7 +359,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "仲間って……まさかあんたたちが、 / この街にいたルシフォンの軍隊を、 / 追っ払ってくれたんじゃないでしょうね？",
-  "en": "Friends...? Don't tell me you guys are the ones who drove Lushifon's army out of this town?"
+  "en": "Friends...? Don't tell me you're the ones who drove Lushifon's army out of here?"
  },
  {
   "id": "2EBA5F_05F7.0",
@@ -399,7 +399,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街の東にトリアノンっていう村があって、 / そのまた東にある港街よ。",
-  "en": "There's a village called Trianon east of this town, and it's a port town further east from there."
+  "en": "There's a village called Trianon east of this town, and it's a port town east of there."
  },
  {
   "id": "2EBA5F_06B6.0",
@@ -415,7 +415,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "お嬢さん、かたい話は / それくらいで十分だろう…… / さあ、私とこれから愛について語り合おう。",
-  "en": "Young lady, surely that's enough serious talk... Come, let us now speak together of love."
+  "en": "Young lady, surely that's enough serious talk... Come, let us speak of love."
  },
  {
   "id": "2EBA5F_0718.0",
@@ -903,7 +903,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "またルシフォンの軍隊をやっつけたみたいだね… / よかったら、また僕に話をしてくれないか？",
-  "en": "Looks like you beat Lushifon's army again... If you don't mind, would you tell me about it again?"
+  "en": "Looks like you beat Lushifon's army again... Would you tell me about it again?"
  },
  {
   "id": "2EBA5F_0D2D.1",
@@ -1104,7 +1104,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "けっけっけっ、ナターシャって / 名前だってこともわかってるんだ…… / おぼえてろよ、 / あの女だってただじゃすまないぜ！！",
-  "en": "Kekeke, I even know her name's Natasha... Just you remember, that girl's not getting off easy either!!"
+  "en": "Kekeke, I even know her name's Natasha... Remember this, she won't get off easy!!"
  },
  {
   "id": "2EBA5F_0FC9.0",
@@ -1152,7 +1152,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ひとりはシーボーズの港街から、 / そしてもうひとりは…… / ええと、どこの出身だったかな？",
-  "en": "One's from the port town of Seaboze, and the other one... uh, where was she from again?"
+  "en": "One's from the port town of Seaboze, and the other... uh, where was she from again?"
  },
  {
   "id": "2EBA5F_10F5.0",

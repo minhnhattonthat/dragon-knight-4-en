@@ -79,7 +79,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "お前はなかなかの武人だと / 思っていたのだが…… / その程度の器量なのか。 / 見そこなったぞ。",
-  "en": "I thought you were quite the warrior... Is that the full measure of you? I misjudged you."
+  "en": "I thought you quite the warrior... Is that the full measure of you? I misjudged you."
  },
  {
   "id": "2CF0C2_013D.0",
@@ -103,7 +103,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "闘いは勝たねばならんのだ！ / 勝たねばな！ / そうさ、マノを救うためには、 / 俺には敗北は許されないのだ！",
-  "en": "A battle must be won! It must be won! That's right, to save Mano, I cannot be allowed to lose!"
+  "en": "A battle must be won! It must! Yes, to save Mano, I cannot be allowed to lose!"
  },
  {
   "id": "2CF0C2_01B4.0",
@@ -211,7 +211,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "『なぜ！？　なぜ読めたのだ、私の動きが！？ / 人間には見切れるはずが……』",
-  "en": "'Why?! How did you read my movements?! No human should be able to see through them...'"
+  "en": "'Why?! How did you read my movements?! No human should see through them...'"
  },
  {
   "id": "2CF0C2_02AF.1",
@@ -541,7 +541,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "き……きき貴様の言い分はさっぱりわからぬ！ / と、とにかく、俺は人間などとは手は組まん！",
-  "en": "I-I-I don't understand a word of what you're saying! A-anyway, I will not join hands with humans!"
+  "en": "I-I-I don't understand a word you're saying! A-anyway, I will not join hands with humans!"
  },
  {
   "id": "2CF0C2_07EC.1",
@@ -557,7 +557,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……貴様らの言い分はわからぬでもない。 / しかし、俺は人間などとは手は組まぬ！",
-  "en": "...I am not without some understanding of what you say. But I will not join hands with humans!"
+  "en": "...I do understand somewhat what you say. But I will not join hands with humans!"
  },
  {
   "id": "2CF0C2_082D.1",

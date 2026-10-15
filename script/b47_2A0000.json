@@ -175,7 +175,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "前よりもずっと、大人っぽいよ…… / それにくらべて僕なんか、全然変わらないよね。",
-  "en": "She's way more grown-up than before... Compared to her, I haven't changed at all, have I?"
+  "en": "She's way more grown-up than before... Compared to her, I haven't changed at all."
  },
  {
   "id": "2A0000_035B.0",
@@ -599,7 +599,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "こんな物がお前の宝物だなんて、 / 貧乏人だにゃん！！ / 貧乏人には用はないにゃんっ！！",
-  "en": "You call this junk your treasure? You're broke, nya!! I've got no use for poor people, nya!!"
+  "en": "This junk is your treasure? You're broke, nya!! I've got no use for the poor, nya!!"
  },
  {
   "id": "2A0000_092E.0",
@@ -738,7 +738,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私のことを好きだったカケルは、 / あなたの過去のカケルで…… / 今のカケルは私のことが好きじゃないのかしら？",
-  "en": "The Kakeru who liked me was the Kakeru of your past... So does the Kakeru of now not like me?"
+  "en": "The Kakeru who liked me was your past self... Does the Kakeru of now not like me?"
  },
  {
   "id": "2A0000_0AFD.0",
@@ -1020,7 +1020,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "私はナターシャに言ったのだ、 / 私はカケルではなくエトなのだと…… / ナターシャのことが好きなのは、 / 今のカケルなんだと。",
-  "en": "I told Natasha that I am not Kakeru, but Eto... and that the one who loves Natasha is the Kakeru of now."
+  "en": "I told Natasha I am not Kakeru, but Eto... and that the Kakeru of now loves Natasha."
  },
  {
   "id": "2A0000_0EDB.0",
@@ -1069,7 +1069,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンを倒したあと、 / 私もいっしょにミネルバ大陸に帰ろうって / 言ってくれました。",
-  "en": "He told me that after we defeat Lushifon, I should go back to the Minerva continent with him."
+  "en": "He said once we defeat Lushifon, I should go back to the Minerva continent with him."
  },
  {
   "id": "2A0000_0F9C.0",
@@ -1263,7 +1263,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この街を出たら、ルシフォン軍と / 闘わなければならない…… / 深酒は命を落とすことになるぞ。",
-  "en": "Once we leave this town, we'll have to fight Lushifon's army... Drinking too much will get you killed."
+  "en": "Leave this town, and we fight Lushifon's army... Drinking too much will get you killed."
  },
  {
   "id": "2A0000_1221.0",
@@ -1392,7 +1392,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "変な街がたくさんあるといううわさだ…… / ついでにドラゴンが住んでいる砦もある。",
-  "en": "Rumor has it there are a lot of weird towns... and there's also a fort where a dragon lives."
+  "en": "Rumor has it there are many weird towns... and also a fort where a dragon lives."
  },
  {
   "id": "2A0000_1396.1",
@@ -1891,7 +1891,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "はっきり言うわねえ…… / こうなったら、他に彼氏を作っちゃおうかしら？",
-  "en": "You don't mince words, do you... In that case, maybe I'll go find myself another boyfriend?"
+  "en": "You don't mince words, do you... Then maybe I'll go find myself another boyfriend?"
  },
  {
   "id": "2A0000_1A35.1",
@@ -2289,7 +2289,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "だったら他の男と / つきあおうなんて考えないことだ…… / あとで後悔するのはセイラだと思うぞ。",
-  "en": "Then don't go thinking about dating other men... I think you're the one who'd regret it later, Sayla."
+  "en": "Then don't think about dating other men... I think you'd be the one to regret it, Sayla."
  },
  {
   "id": "2A0000_1F86.0",
@@ -2741,7 +2741,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "平気さ……ドラゴニア大陸は…… / 何度も来てるから……うっぷ…… / 船旅にはなれてるんだ。",
-  "en": "I'm fine... I've been to the Dragonia continent... loads of times... urp... I'm used to sea voyages."
+  "en": "I'm fine... Been to the Dragonia continent... loads of times... urp... I'm used to voyages."
  },
  {
   "id": "2A0000_264D.0",
@@ -2773,7 +2773,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "うぷ…… / ホワイトドラゴンが棲む砦があるけど…… / 残念ながら、僕は砦に入れなかったけどね。",
-  "en": "Urp... There's a fortress where the White Dragon lives... Unfortunately, I couldn't get inside it, though."
+  "en": "Urp... There's a fortress where the White Dragon lives... Sadly, I couldn't get inside."
  },
  {
   "id": "2A0000_26F7.0",
@@ -3248,7 +3248,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "黒い霧がやってきたら、 / 船に乗って逃げるつもりさ…… / エト、またどこかで会えるといいな。",
-  "en": "If the Black Mist comes, I plan to hop on a ship and run... Eto, I hope we meet again somewhere."
+  "en": "If the Black Mist comes, I'll take a ship and run... Eto, I hope we meet again."
  },
  {
   "id": "2A0000_2C7F.0",
@@ -3600,7 +3600,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル！　むだ口をたたいているヒマがあったら / 部隊をまとめて出発の準備をしろ！",
-  "en": "Kakeru! If you have time to run your mouth, then gather your troops and get ready to leave!"
+  "en": "Kakeru! If you have time to run your mouth, gather your troops and get ready to leave!"
  },
  {
   "id": "2A0000_30C9.2",
@@ -3648,7 +3648,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "すみません、わたしもカケルさんと / ごいっしょさせていただきます。 / へレネのことがどうしても気になるので……。",
-  "en": "Excuse me, but I'd like to go along with Kakeru too. I just can't stop worrying about Helene..."
+  "en": "Excuse me, but I'll go with Kakeru too. I just can't stop worrying about Helene..."
  },
  {
   "id": "2A0000_324C.0",

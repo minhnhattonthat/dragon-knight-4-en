@@ -1568,7 +1568,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "お前の仲間のカケルとかいうやつは、 / 使えそうな仲間より、 / きれーな女の子がいいとさ。",
-  "en": "That Kakeru pal of yours said he'd rather have a pretty girl than an ally who's actually useful."
+  "en": "That Kakeru pal of yours said he'd rather have a pretty girl than a useful ally."
  },
  {
   "id": "2CA4C9_1350.0",
@@ -1987,7 +1987,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "おお、お前さんたちが / この街を解放してくれたのじゃな…… / 先ほど、カケルというやつもやってきおった。",
-  "en": "Oh, so you're the ones who freed this town... A fella named Kakeru came by a little while ago too."
+  "en": "Oh, so you're the ones who freed this town... A fella named Kakeru came by earlier too."
  },
  {
   "id": "2CA4C9_18B0.0",
@@ -2112,7 +2112,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ほとんどの場合、街の住人すべてと / 話をしなくても、次のステージに進めるけど……。",
-  "en": "In most cases, you can move on to the next stage without talking to every single person in town..."
+  "en": "Usually, you can move on to the next stage without talking to every person in town..."
  },
  {
   "id": "2CA4C9_1AC8.1",
@@ -2206,7 +2206,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街にとどまるより、生き延びられる可能性が / 高いような気がするんだ……。",
-  "en": "I just have a feeling your chances of surviving are better than if you stay in this town..."
+  "en": "I just feel your chances of surviving are better than if you stay in this town..."
  },
  {
   "id": "2CA4C9_1C9C.0",

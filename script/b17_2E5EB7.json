@@ -314,7 +314,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "わっはっはっはっ！！ / やっぱり生きていやがったか！！ / タスタに流れ着かなきゃ、 / あとはここだと思ったんだ。",
-  "en": "Wahahahaha!! I knew you'd still be alive!! If you didn't wash up in Tasta, I figured you'd be here."
+  "en": "Wahahaha!! I knew you'd be alive!! If you didn't wash up in Tasta, you'd be here."
  },
  {
   "id": "2E5EB7_03F1.0",
@@ -346,7 +346,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "へレネとかいう娘も、訓練所のおやじも、 / ライナスとかいうガキもあの船に乗ってるぜ。",
-  "en": "That girl Helene, the old man from the training ground, and that brat Linus are all on that ship too."
+  "en": "That girl Helene, the training ground's old man, and the brat Linus are on that ship."
  },
  {
   "id": "2E5EB7_0433.1",
@@ -370,7 +370,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ドラゴンナイトの連中に見つかったら、 / また船を沈められちまう…… / やつらに見つかる前に、とっとと出航しよう。",
-  "en": "If those Dragon Knight folks spot us, they'll sink our ship again... Let's set sail before they find us."
+  "en": "If those Dragon Knight folks spot us, they'll sink our ship again... Let's sail now."
  },
  {
   "id": "2E5EB7_04D5.0",
@@ -484,7 +484,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "さてと、明日の朝には / ドラゴニア大陸に着くんだよね…… / エト、僕はもう寝るよ。",
-  "en": "Well, we reach the Dragonia continent tomorrow morning, right... Eto, I'm going to bed."
+  "en": "So, we reach the Dragonia continent tomorrow morning... Eto, I'm off to bed."
  },
  {
   "id": "2E5EB7_0610.0",
@@ -1382,7 +1382,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふふふっ、すらりと伸びた脚を鍛えてたのよ。 / 小屋の間を、素早く抜ける練習をしてたの。",
-  "en": "Fu fu fu, I was training my long, slender legs. I was practicing darting quickly between the huts."
+  "en": "Fu fu fu, I was training my long, slender legs, practicing darting between the huts."
  },
  {
   "id": "2E5EB7_1060.2",
@@ -1903,7 +1903,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もちろんさ……小説家になるためには、 / いつも努力をしてないとだめだからね。",
-  "en": "Of course... If I'm going to become a novelist, I have to keep working at it all the time."
+  "en": "Of course... If I'm going to be a novelist, I have to keep working at it all the time."
  },
  {
   "id": "2E5EB7_173D.1",

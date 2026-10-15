@@ -736,7 +736,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトとカケルと私がいれば、もう無敵だぜ。 / ……カケルもそう思うだろ？",
-  "en": "With Eto, Kakeru and me together, we're unbeatable. ...You think so too, right, Kakeru?"
+  "en": "With Eto, Kakeru and me together, we're unbeatable. ...You think so too, Kakeru?"
  },
  {
   "id": "2E9A8B_08E8.1",
@@ -828,7 +828,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "僕はレイモンド王国を出て、 / ルシフォンの軍隊と闘い続けて…… / それでこの街に来たんだ。",
-  "en": "I left the Kingdom of Raymond and kept fighting Lushifon's army... and that's how I came to this town."
+  "en": "I left the Kingdom of Raymond, kept fighting Lushifon's army... and so came here."
  },
  {
   "id": "2E9A8B_09E0.0",
@@ -1443,7 +1443,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前は……この街を解放してくれた部隊だな？ / だからと言って中に入れるわけにはいかん。",
-  "en": "You... you're with the unit that liberated this town, aren't you? Even so, I can't just let you inside."
+  "en": "You... you're the unit that liberated this town, right? Even so, I can't let you in."
  },
  {
   "id": "2E9A8B_1026.1",
@@ -2016,7 +2016,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "けっけっけっ……カケルのやつ、おぼえてろ。 / 船酔も直ったし、これからが本番だぜ……。",
-  "en": "Ke ke ke... Just you wait, Kakeru. My seasickness is cured, so now the real show begins..."
+  "en": "Ke ke ke... Just you wait, Kakeru. My seasickness is cured, so now it's showtime..."
  },
  {
   "id": "2E9A8B_1848.0",
@@ -2313,7 +2313,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ところで、レイモンド大陸のうわさは / この国まで届いておるが…… / あれは本当のことなのか？",
-  "en": "By the way, the rumors about the Raymond continent have reached even this country... Are they true?"
+  "en": "By the way, rumors of the Raymond continent reach even here... Are they true?"
  },
  {
   "id": "2E9A8B_1BC6.0",
@@ -2353,7 +2353,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "これも噂じゃが…… / あの黒い霧は、闇の世界から / 吹き出してきた物らしいわい。",
-  "en": "This is only a rumor too, but... it seems that Black Mist spewed forth from the World of Darkness."
+  "en": "This is only a rumor too, but... that Black Mist came out of the World of Darkness."
  },
  {
   "id": "2E9A8B_1C99.0",
@@ -2449,7 +2449,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、我が国にはもはや軍隊は存在せぬが、 / せめてゆっくり身体を休めていっておくれ。",
-  "en": "Kakeru, my kingdom no longer has an army, but at the very least, rest yourself well while you're here."
+  "en": "Kakeru, my kingdom no longer has an army, but at least rest well while you're here."
  },
  {
   "id": "2E9A8B_1DE5.1",
@@ -2489,7 +2489,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "王様、ビアンカ様はこの城にはおられません。 / ただ今、側近の者がさがしております。",
-  "en": "Your Majesty, Lady Bianca is not in the castle. Her attendants are searching for her as we speak."
+  "en": "Your Majesty, Lady Bianca is not in the castle. Her attendants are searching now."
  },
  {
   "id": "2E9A8B_1E3E.3",

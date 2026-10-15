@@ -446,7 +446,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さっきまでカケルといっしょだったの。 / でも、「話がないなら僕は行くよ」ですって。",
-  "en": "I was with Kakeru until just now. But then he said, \"If you've got nothing to say, I'm going.\""
+  "en": "I was with Kakeru just now. Then he said, \"If you've got nothing to say, I'm going.\""
  },
  {
   "id": "29AAF3_05BA.1",
@@ -550,7 +550,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "彼女は、自ら呪いをかけられることを望み…… / 自分の子宮から黒い石を取らせたのです。",
-  "en": "She asked to have the curse placed on herself... and let the black stone be taken from her own womb."
+  "en": "She asked to be cursed herself... and had the black stone taken from her own womb."
  },
  {
   "id": "29AAF3_06E9.2",
@@ -615,7 +615,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ようするに見返りを求めず、その人のために / 犠牲になることができるかってことだ。",
-  "en": "In short, it's whether you can sacrifice yourself for that person without asking for anything in return."
+  "en": "In short, it's whether you can sacrifice yourself for someone and ask nothing back."
  },
  {
   "id": "29AAF3_082D.1",
@@ -712,7 +712,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ちがう……君が抱いている感情は、 / ただのあこがれだ。 / そして君は、自分で後戻りできないと / 信じ込んでいる。",
-  "en": "No... what you feel is just infatuation. And you've convinced yourself you can't turn back."
+  "en": "No... what you feel is mere infatuation. And you believe you can't turn back."
  },
  {
   "id": "29AAF3_0A02.0",
@@ -904,7 +904,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "自分でもわからないが……とにかく、 / 逃げるわけにはいかないんだ。 / マルレーネ、君はもう自由だ…… / ルシフォンの元に行くがいい。",
-  "en": "I don't understand it myself... but anyway, I can't run. Marlene, you're free now... Go to Lushifon."
+  "en": "I don't understand it myself... but I can't run. Marlene, you're free... Go to Lushifon."
  },
  {
   "id": "29AAF3_0D39.0",
@@ -969,7 +969,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "だから本当は、自分の気持ちを / 認めたくなかった…… / あなたのことなんか、 / 大嫌いになろうと思っていた……でも、",
-  "en": "So the truth is, I didn't want to admit my feelings... I tried to make myself hate you... but,"
+  "en": "So the truth is, I didn't want to admit my feelings... I tried to hate you... but,"
  },
  {
   "id": "29AAF3_0E4E.0",
@@ -993,7 +993,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ルシフォンと闘わないで / ……どうすればいいのだ？ / 逃げることはできない…… / たとえ負けるとわかっていても。",
-  "en": "Don't fight Lushifon... and then what would I do? I can't run away... even if I know I'll lose."
+  "en": "Not fight Lushifon... then what would I do? I can't run away... even if I know I'll lose."
  },
  {
   "id": "29AAF3_0ECC.0",
@@ -1106,7 +1106,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "消え行く人間には、 / 人を好きになる資格などない…… / たとえ私が、君に特別な感情を / 抱いていたとしても、だ。",
-  "en": "One who is fading away has no right to love anyone... even if I do hold special feelings for you."
+  "en": "The fading have no right to love anyone... even if I hold special feelings for you."
  },
  {
   "id": "29AAF3_1045.0",
@@ -1571,7 +1571,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト殿、私を恐がらせてどうするのだ…… / 今日のエト殿はなんか変だぞ。",
-  "en": "Master Eto, why would you try to scare me... You're acting kind of strange today, Master Eto."
+  "en": "Master Eto, why would you try to scare me... You're acting strange today, Master Eto."
  },
  {
   "id": "29AAF3_15F1.2",
@@ -1643,7 +1643,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私が怒っても、顔が真っ赤にならないって…… / そんなに私って色黒かしら。",
-  "en": "He said even when I get mad, my face doesn't turn red... Is my skin really that dark?"
+  "en": "He said even when I'm mad, my face doesn't turn red... Is my skin really that dark?"
  },
  {
   "id": "29AAF3_170C.1",
@@ -1667,7 +1667,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンを倒したら、 / 多少はおしとやかにしないとね。 / そうしないと彼氏だってできないわ。",
-  "en": "Once we beat Lushifon, I'd better act a little more ladylike. Otherwise I'll never get a boyfriend."
+  "en": "After we beat Lushifon, I'd better be ladylike. Or I'll never get a boyfriend."
  },
  {
   "id": "29AAF3_17D3.0",
@@ -1813,7 +1813,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケルといっしょにいて、 / 一つだけ気づいたことがあるんだけど…… / 雰囲気がエトとよく似てるのよね。",
-  "en": "Being around Kakeru, there's one thing I noticed... He has a lot of the same air about him as you, Eto."
+  "en": "Being around Kakeru, I noticed one thing... He has the same air about him as you, Eto."
  },
  {
   "id": "29AAF3_1992.0",
@@ -1996,7 +1996,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンを倒せば呪いも解けるはずだ。 / 今はルシフォンを倒すことだけに集中しよう。",
-  "en": "If we defeat Lushifon, the curse should be lifted. For now, let's focus only on defeating Lushifon."
+  "en": "Defeat Lushifon, and the curse should lift. For now, let's focus only on defeating him."
  },
  {
   "id": "29AAF3_1BE6.1",
@@ -2318,7 +2318,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "別にマルレーネをけなしている訳じゃないぜ。 / ……その雰囲気が逆に魅力的なんだよ。",
-  "en": "I'm not putting Marlene down or anything. ...That air is actually what makes her attractive."
+  "en": "I'm not putting Marlene down or anything. ...That air is what makes her attractive."
  },
  {
   "id": "29AAF3_2044.0",
@@ -2551,7 +2551,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お城がある場所に、ルシフォンはいるにょ…… / 城を見つけたら、僕は突撃するにょ。",
-  "en": "Lushifon is where the castle is, nyo... When I find the castle, I'm gonna charge right in, nyo."
+  "en": "Lushifon is where the castle is, nyo... When I find the castle, I'll charge right in, nyo."
  },
  {
   "id": "29AAF3_2379.0",
@@ -2559,7 +2559,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト殿、ホワイトドラゴンが言っておったが、 / 黒い霧が動き始めたとは本当でござるか？",
-  "en": "Master Eto, the White Dragon said that the Black Mist has begun to move. Pray tell, is it true?"
+  "en": "Master Eto, the White Dragon said the Black Mist has begun to move. Pray tell, is it true?"
  },
  {
   "id": "29AAF3_2379.1",
@@ -2591,7 +2591,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ターニャン、 / トイレは砂のあるところでするんだぞ…… / いくら荒れた村でも、ルールは守らないとな。",
-  "en": "Tanyan, do your business where there's sand... Even in a ruined village, rules are rules."
+  "en": "Tanyan, do your business in the sand... Even in a ruined village, rules are rules."
  },
  {
   "id": "29AAF3_242B.0",
@@ -2631,7 +2631,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "いくらマルレーネに話しかけても / 無視されてしまうのだ…… / これ以上、私にどうすればいいと言うのだ。",
-  "en": "No matter how often I speak to Marlene, she simply ignores me... What more am I supposed to do?"
+  "en": "However often I speak to Marlene, she ignores me... What more can I do?"
  },
  {
   "id": "29AAF3_253A.0",
@@ -3106,7 +3106,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……私にも弓の射ち方を教えてほしいな。 / そうすれば、レアと並んで闘えるのに……。",
-  "en": "...I'd like you to teach me how to shoot a bow too. Then I could fight side by side with Rhea..."
+  "en": "...I'd like you to teach me the bow too. Then I could fight side by side with Rhea..."
  },
  {
   "id": "29AAF3_2B85.0",
@@ -3164,7 +3164,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "慣れる前に、ライムリン王国に着いてしまう / 可能性が高そうだね……あはははは。",
-  "en": "Seems more likely we'll reach the Kingdom of Limerin before I get used to it... ahahahaha."
+  "en": "We'll likely reach the Kingdom of Limerin before I get used to it... ahahahaha."
  },
  {
   "id": "29AAF3_2C3B.1",
@@ -3548,7 +3548,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "西から黒い霧が迫ってきているが…… / もう少し休んでから出発しよう。",
-  "en": "The Black Mist is closing in from the west, but... let's rest a little longer before we set out."
+  "en": "The Black Mist is closing in from the west, but... let's rest a little before we set out."
  },
  {
   "id": "29AAF3_31DA.0",
@@ -3556,7 +3556,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "リーゼンの街でマルレーネはいなくなるんだ。 / ……このままこの村を出ていいのか？",
-  "en": "Marlene will be leaving us in the town of Riesen. ...Is it all right to leave this village like this?"
+  "en": "Marlene will leave us in the town of Riesen. ...Is it all right to leave this village?"
  },
  {
   "id": "29AAF3_3201.0",

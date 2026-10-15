@@ -121,7 +121,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン軍は兵力を増強してるみたいだよ。 / 今までみたいに、簡単には勝てないだろうね。",
-  "en": "Looks like Lushifon's army is building up its forces. We probably won't win as easily as before."
+  "en": "Looks like Lushifon's army is building up its forces. We won't win as easily as before."
  },
  {
   "id": "2D0000_026A.1",
@@ -185,7 +185,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "僕と最初に会った時は、 / 同い年って感じだったけど…… / 今は僕よりも大人のような気がする。",
-  "en": "When we first met, we felt like the same age... but now you seem more grown-up than me."
+  "en": "When we first met, you seemed my age... but now you seem more grown-up than me."
  },
  {
   "id": "2D0000_0395.0",
@@ -241,7 +241,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "はあ…… / 船酔はしなかったけど、 / これじゃバナナの食べすぎで / 気持ち悪くなりそうだよ。",
-  "en": "Sigh... I didn't get seasick, but at this rate I'm gonna feel sick from eating too many bananas."
+  "en": "Sigh... I didn't get seasick, but at this rate I'll feel sick from eating too many bananas."
  },
  {
   "id": "2D0000_0455.0",
@@ -761,7 +761,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ネレイド、あまり飲みすぎないほうがいいよ。 / しばらく休んだら、東に向かうんだから。",
-  "en": "Nereid, you'd better not drink too much. Once we've rested a while, we're heading east."
+  "en": "Nereid, don't drink too much. Once we've rested a while, we're heading east."
  },
  {
   "id": "2D0000_0A27.1",
@@ -865,7 +865,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私たちは仲間が増やせないで、 / ルシフォン軍はどんどん仲間を増やす…… / ああ、なんて不公平なのかしら。",
-  "en": "We can't get more allies, while Lushifon's army keeps adding more and more... Oh, how unfair is that?"
+  "en": "We can't gain allies, while Lushifon's army keeps adding more... Oh, how unfair!"
  },
  {
   "id": "2D0000_0BFE.0",
@@ -961,7 +961,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン軍との闘いが始まるかと思うと…… / ほら、こんなに心臓がドキドキとしてきます。",
-  "en": "When I think the fight with Lushifon's army is about to start... See, my heart is pounding like this."
+  "en": "To think the fight with Lushifon's army is about to start... See, my heart's pounding."
  },
  {
   "id": "2D0000_0D3B.1",
@@ -1141,7 +1141,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ねえビアンカ、 / 今は闘うことだけを考えようよ…… / そうしないと、命を落とすことになる。",
-  "en": "Hey, Bianca, let's just think about fighting for now... Otherwise, we'll end up getting killed."
+  "en": "Hey, Bianca, let's just think about fighting for now... Otherwise, we'll get killed."
  },
  {
   "id": "2D0000_0FB3.0",
@@ -1303,7 +1303,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルは地面でどたどた闘ってるだけだもの。 / ドラゴンに乗った少年の方が、かっこいいわ。",
-  "en": "All you do is stomp around fighting on the ground, Kakeru. The boy who rides a dragon is way cooler."
+  "en": "All you do is stomp around fighting on the ground, Kakeru. The dragon boy is cooler."
  },
  {
   "id": "2D0000_1224.0",
@@ -1375,7 +1375,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "とにかく全力をつくして闘うでござる…… / それが仲間にしてもらった恩返しでござる。",
-  "en": "In any case, I shall fight with all my might... That is how I shall repay you for taking me in as a comrade."
+  "en": "I shall fight with all my might... Thus I repay you for taking me in as a comrade."
  },
  {
   "id": "2D0000_1364.0",
@@ -1647,7 +1647,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "こぉんなものがお前の宝物だなんて、 / 貧乏人だにゃん！！ / 貧乏人には用はないにゃんっ！！",
-  "en": "If junk like this is your treasure, you're a pauper, nya!! I've got no use for paupers, nya!!"
+  "en": "If junk like this is your treasure, you're a pauper, nya!! No use for paupers, nya!!"
  },
  {
   "id": "2D0000_1748.0",
@@ -1727,7 +1727,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふむ……お前たちが、ルシフォン軍を / ドラゴニア大陸に撤退させたやつらか？",
-  "en": "Hmm... So you are the ones who drove Lushifon's army back to the Dragonia continent?"
+  "en": "Hmm... So you are the ones who drove Lushifon's army back to Dragonia?"
  },
  {
   "id": "2D0000_1812.1",
@@ -1743,7 +1743,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前たちの隊長はだれなのか、教えて欲しい。 / 一度会って、ぜひとも話がしたいのだが。",
-  "en": "I would like you to tell me who your captain is. I very much wish to meet and speak with him."
+  "en": "Tell me who your captain is. I very much wish to meet and speak with him."
  },
  {
   "id": "2D0000_187B.1",
@@ -1967,7 +1967,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "平気さ……ドラゴニア大陸は…… / なん度もきてるから…… / うっぷ……船旅には慣れてるんだ。",
-  "en": "I'm fine... I've come to the Dragonia continent... lots of times... Urp... I'm used to sea voyages."
+  "en": "I'm fine... I've been to Dragonia... lots of times... Urp... I'm used to sea voyages."
  },
  {
   "id": "2D0000_1C07.0",
@@ -2345,7 +2345,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "何度も言うが、こいつは忍者隊だそうだ。 / どこの街の出身かわからんがね。",
-  "en": "Like I keep saying, this one's apparently Ninja Squad. No idea what town they're from, though."
+  "en": "Like I keep saying, this one's Ninja Squad. No idea what town they're from, though."
  },
  {
   "id": "2D0000_20D3.0",
@@ -2379,7 +2379,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、ターニャン隊に決めるんだな…… / なんとか捜し出して、俺から連絡しておくぜ！！",
-  "en": "Right, so you're going with Tanyan's Squad... I'll track her down somehow and let her know myself!!"
+  "en": "Right, you're going with Tanyan's Squad... I'll track her down and tell her myself!!"
  },
  {
   "id": "2D0000_211D.0",
@@ -2412,7 +2412,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バルカン隊は、ポーの港街出身の砲術使い…… / やつの大砲はピカピカに磨いてあったな。",
-  "en": "Vulcan's Squad is a gunner from the port town of Poe... His cannon was polished to a shine."
+  "en": "Vulcan's Squad is a gunner from the port town of Poe... His cannon was spotless."
  },
  {
   "id": "2D0000_2148.1",
@@ -2497,7 +2497,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "黒い霧がやってきたら、 / 船に乗って逃げるつもりさ…… / カケル、またどこかで会えるといいな。",
-  "en": "When the Black Mist comes, I plan to escape by ship... Kakeru, I hope we meet again somewhere."
+  "en": "When the Black Mist comes, I'll flee by ship... Kakeru, I hope we meet again someday."
  },
  {
   "id": "2D0000_221D.0",

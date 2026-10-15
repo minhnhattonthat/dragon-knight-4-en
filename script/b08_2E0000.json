@@ -646,7 +646,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "（僕と話をしてる時は、 / あんな笑顔は見せてくれない…… / ナターシャはきっと / エトのことが好きなんだろうな）",
-  "en": "(She never smiles like that when she's talking with me... Natasha must really like Eto.)"
+  "en": "(She never smiles like that when she talks with me... Natasha must like Eto.)"
  },
  {
   "id": "2E0000_0904.0",
@@ -948,7 +948,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "もぐもぐ……カケル、 / 東にはロンボニ王国があるんだってな。 / そこのバナナはおいしいのか？",
-  "en": "Munch munch... Kakeru, I hear the Kingdom of Romboni is to the east. Are the bananas there tasty?"
+  "en": "Munch munch... Kakeru, I hear the Kingdom of Romboni is east. Are its bananas good?"
  },
  {
   "id": "2E0000_0BFF.0",
@@ -1482,7 +1482,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "船のない船長なんざ、 / 泡の出ないビールのようなもんだ…… / 俺の船長稼業も潮時だな。",
-  "en": "A captain without a ship is like a beer without foam... Guess it's time I quit the captain business."
+  "en": "A captain without a ship is like a beer without foam... Guess it's time I quit."
  },
  {
   "id": "2E0000_1195.0",
@@ -1628,7 +1628,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街にポセイドンの像があるだろ？ / その像を眺めていたら、話しかけてきたんだ。",
-  "en": "There's a statue of Poseidon in this town, right? I was looking at it, and it started talking to me."
+  "en": "There's a statue of Poseidon in this town, right? I was looking at it, and it spoke."
  },
  {
   "id": "2E0000_131D.1",
@@ -1708,7 +1708,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "わしに話しかけてくれたお礼にな、 / いいことを教えてやるわい…… / これはワシが独自に調べ上げたものぢゃ。",
-  "en": "As thanks for talkin' to me, I'll tell you somethin' good... This is somethin' I looked into all on my own."
+  "en": "As thanks for talkin' to me, I'll tell you somethin' good... I found this out myself."
  },
  {
   "id": "2E0000_144A.0",
@@ -1860,7 +1860,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "なんと！？ / そなたがタケル様の息子、カケル殿か！？ / すると、レイモンド大陸からきた / 軍隊というのは！？",
-  "en": "What?! You're Lord Takeru's son, Master Kakeru?! Then that army from the Raymond continent is...?!"
+  "en": "What?! You're Lord Takeru's son, Master Kakeru?! Then the army from Raymond...?!"
  },
  {
   "id": "2E0000_1782.0",
@@ -2012,7 +2012,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "はあはあはあ……ちょっと目を離すと、 / すぐにひとりで行こうとするんだから。",
-  "en": "*pant pant pant*... I take my eyes off you for one second and you try to go off on your own."
+  "en": "*pant pant*... I take my eyes off you for one second and you try to go off alone."
  },
  {
   "id": "2E0000_19A3.1",
@@ -2136,7 +2136,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "わっはっはっ、聞こえてるぞっ！！ / よし、みんな集合だっ！！ / ……ロンボニ王国に向かうぞ！！",
-  "en": "Wahahaha, I hear you!! Right, everyone gather up!! ...We're heading for the Kingdom of Romboni!!"
+  "en": "Wahahaha, I hear you!! Everyone, gather!! ...We're heading for the Kingdom of Romboni!!"
  },
  {
   "id": "2E0000_1B39.0",

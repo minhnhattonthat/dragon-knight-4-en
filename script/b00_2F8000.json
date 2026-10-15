@@ -383,7 +383,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "四天王のひとりである私ならば、 / さぞや強大な魔力を持つ子孫が / 生まれるでしょう。",
-  "en": "As one of the Four Heavenly Kings, surely my children would be born with tremendous magical power."
+  "en": "As one of the Four Heavenly Kings, I would surely bear children of great power."
  },
  {
   "id": "2F8000_052E.0",
@@ -695,7 +695,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもな、ケンカにはルールがあるんだ…… / 相手が降参したら、もう殴っちゃだめだ。",
-  "en": "But you know, fights have rules... Once the other guy gives up, you don't hit him anymore."
+  "en": "But you know, fights have rules... Once the other guy gives up, no more hitting."
  },
  {
   "id": "2F8000_0926.1",
@@ -840,7 +840,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "人間が天界をあがめ、我々魔族が入り込む隙間が / なくなってしまったのは…… / この男の存在があったからこそ。 / やつこそすべての元凶なのだ。",
-  "en": "Humans revere the Heavens, and there is no longer any gap through which we demons can slip in... and it is all because of this man's existence. He is the root of all our troubles."
+  "en": "Humans revere the Heavens, leaving no gap for us demons to slip through... and it is all because this man exists. He is the root of it all."
  },
  {
   "id": "2F8000_0B97.0",
@@ -1026,7 +1026,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "マノは自分から願い出たのだぞ。 / お前を助けるために…… / そして自分たちのことを / 認めてもらうために、だ。",
-  "en": "Mano offered herself of her own will. To save you... and to have the two of you accepted."
+  "en": "Mano offered herself willingly. To save you... and to have the two of you accepted."
  },
  {
   "id": "2F8000_0F13.0",
@@ -1042,7 +1042,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "その石に込められた願いを解放しなければ、 / マノの傷は永遠に癒えることはない…… / そしてその石に込められた願いとは、 / 神の血を人間界から消し去ることだ。",
-  "en": "Unless the wish sealed within that stone is released, Mano's wound will never heal... And the wish sealed within that stone is to erase the blood of the gods from the human world."
+  "en": "Unless the wish sealed in that stone is released, Mano's wound will never heal... And that wish is to erase the blood of the gods from the human world."
  },
  {
   "id": "2F8000_0F82.0",
@@ -1618,7 +1618,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "カケルちゃーん！！ / 気をつけて行くんですよ！！ / ……恐い目に会ったら、 / すぐに戻るんですよお！！",
-  "en": "Kakeru sweetie!! Be careful out there!! ...If anything scary happens, come straight back hooome!!"
+  "en": "Kakeru sweetie!! Be careful out there!! ...If anything scary happens, come right back!!"
  },
  {
   "id": "2F8000_18D2.0",
@@ -1714,7 +1714,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルなんて、どっかに行っちゃえばいいんだわ / ……いじわるされないですむし。",
-  "en": "I wish you'd just go away somewhere, Kakeru... Then nobody would pick on me anymore."
+  "en": "I wish you'd just go away, Kakeru... Then nobody would pick on me."
  },
  {
   "id": "2F8000_19EB.1",
@@ -1930,6 +1930,6 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "相手はたかだか人間１匹。 / お前たちのやりたいようにやるがよい。 / 【リディア＆ハーディス】 / はっ！！",
-  "en": "He is a mere human, one and no more. Deal with him however you please. Lydia & Hardis: Yes, my lord!!"
+  "en": "He is a mere human, nothing more. Do as you please. Lydia & Hardis: Yes, my lord!!"
  }
 ]

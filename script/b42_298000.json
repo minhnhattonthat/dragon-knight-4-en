@@ -200,7 +200,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンに会ってどうするつもりだ？ / 私たちがやつを倒そうとするのを邪魔するのか？",
-  "en": "What do you intend to do once you meet Lushifon? Will you get in our way when we try to defeat him?"
+  "en": "What will you do when you meet Lushifon? Will you hinder our attempt to defeat him?"
  },
  {
   "id": "298000_02B0.2",
@@ -208,7 +208,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "と、突然変なことを言わないでくださいっ…… / どうしてそんなことを言うのですか？",
-  "en": "P-please don't say such strange things out of nowhere... Why would you say something like that?"
+  "en": "P-please don't say such strange things out of nowhere... Why would you say that?"
  },
  {
   "id": "298000_02B0.3",
@@ -264,7 +264,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "黒い石がなんであるかは私も知らない…… / でも未来の君は、その使い方を知っていた。",
-  "en": "I don't know what the black stone is either... But the future you knew how to use it."
+  "en": "I don't know what the black stone is either... but the future you knew its use."
  },
  {
   "id": "298000_03C3.1",

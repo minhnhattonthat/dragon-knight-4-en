@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "僕は人間の姿をしてるけど、 / 心はドラゴンなんだいっ！！ / ……ルシフォン軍なんか大嫌いだっ、 / 帰れ、帰れっ！！",
-  "en": "I may look like a human, but in my heart I'm a dragon!! ...And I hate Lushifon's army, so go home, go home!!"
+  "en": "I may look human, but in my heart I'm a dragon!! ...I hate Lushifon's army! Go home!!"
  },
  {
   "id": "2DAE44_02E2.0",
@@ -245,7 +245,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "見てのとおり、我々の仲間には / ドラゴンを攻撃できる部隊もいる…… / 融通をきかせた方がいい場合もあるぞ。",
-  "en": "As you can see, among our allies are troops that can attack dragons... Sometimes it pays to be flexible."
+  "en": "As you can see, some of our troops can attack dragons... It pays to be flexible."
  },
  {
   "id": "2DAE44_0549.0",
@@ -261,7 +261,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ふん、では勝手にするがいい……ただし、 / お前たちがここにいられるのは一昼夜だけだ。",
-  "en": "...Hmph, then do as you please... However, you may stay here for one day and one night only."
+  "en": "...Hmph, then do as you please... But you may stay here for one day and one night only."
  },
  {
   "id": "2DAE44_0557.1",
@@ -517,7 +517,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ……私がこうして景色を眺めてても、 / エトさんは横にきてくれないのね。",
-  "en": "Ah... even while I stand here gazing at the scenery, Eto never comes to stand beside me."
+  "en": "Ah... even while I stand here gazing at the view, Eto never comes to stand beside me."
  },
  {
   "id": "2DAE44_0928.1",
@@ -597,7 +597,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ほれ、そこを見てみろよ…… / 世界一美しい女性が立ってるだろ？",
-  "en": "C'mon, look over there... see the most beautiful woman in the world standing there?"
+  "en": "C'mon, look over there... see the most beautiful woman in the world?"
  },
  {
   "id": "2DAE44_0A1C.2",
@@ -645,7 +645,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おい。もうマルレーネの話はしないぜ…… / 俺の直感がよせって叫んでるんだ。",
-  "en": "Hey. I'm not talking about Marlene anymore... my gut is screaming at me to drop it."
+  "en": "Hey. I'm done talking about Marlene... my gut is screaming at me to drop it."
  },
  {
   "id": "2DAE44_0B08.0",
@@ -789,7 +789,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "な、なんてことを言うんだ…… / バナナは台の上に置いてこそ、バナナなんだぞ。",
-  "en": "H-how can you say such a thing... A banana is only truly a banana when it sits on a stand!"
+  "en": "H-how can you say that... A banana is only truly a banana when it sits on a stand!"
  },
  {
   "id": "2DAE44_0CF2.0",
@@ -909,7 +909,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こう見えても思春期の乙女だぜ…… / 好きなやつぐらいいるさ。",
-  "en": "I may not look it, but I'm a maiden in the bloom of youth... of course there's someone I like."
+  "en": "I may not look it, but I'm a maiden in the bloom of youth... There's someone I like."
  },
  {
   "id": "2DAE44_0E8B.1",
@@ -1478,7 +1478,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだよ……だからマルレーネさんに変なことを / しちゃだめだよ、絶対にだめだからね。",
-  "en": "That's right... so don't try anything funny with Marlene. Don't you dare, absolutely not."
+  "en": "That's right... so don't try anything funny with Marlene. Don't you dare."
  },
  {
   "id": "2DAE44_1693.1",
@@ -1590,7 +1590,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "彼らから話を聞ければ、カケル君の物語が / すごく面白いものになりそうなんだけどな……。",
-  "en": "If I could hear their side of things, I bet Kakeru's story would turn out really interesting..."
+  "en": "If I could hear their side of things, I bet Kakeru's story would be really exciting."
  },
  {
   "id": "2DAE44_188E.1",
@@ -1606,7 +1606,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ、彼の話は面白いし……なんとなく / 魅力があるじゃないか、カケル君って。",
-  "en": "Yeah, his tales are interesting... and somehow he's got a certain charm, doesn't he, Kakeru?"
+  "en": "Yeah, his tales are interesting... and he's got a certain charm, doesn't he, Kakeru?"
  },
  {
   "id": "2DAE44_1904.0",
@@ -1614,7 +1614,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あれ、そういえば、カケル君の姿が見えないね… / 今日は話をしてくれないのかな？",
-  "en": "Huh, come to think of it, I don't see Kakeru anywhere... I guess he won't be telling me stories today?"
+  "en": "Huh, I don't see Kakeru anywhere... I guess he won't be telling me stories today?"
  },
  {
   "id": "2DAE44_1931.0",
@@ -1854,7 +1854,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "ドラゴンナイト様がおいでくださったのに、 / ごあいさつをしないとあっては…… / 我が一族の永遠の恥となりますじゃ。 / ……これトルル、 / みなの者を中央広場に集めるのじゃっ！！",
-  "en": "If we failed to greet a Dragon Knight who has graced us with a visit... it would be an everlasting shame upon our clan. ...You there, Torul, gather everyone in the central square!!"
+  "en": "If we failed to greet a Dragon Knight who has graced us with a visit... it would shame our clan forever. ...You there, Torul, gather everyone in the central square!!"
  },
  {
   "id": "2DAE44_1CD0.2",
@@ -1894,7 +1894,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンナイト様のお力になれなくて、 / いったいだれの力になるというのじゃ！？",
-  "en": "If we will not lend our strength to a Dragon Knight, then to whom on earth would we lend it?!"
+  "en": "If we will not lend our strength to a Dragon Knight, then to whom would we lend it?!"
  },
  {
   "id": "2DAE44_1DD6.2",
@@ -2182,6 +2182,6 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ここを出ようとすると、 / だれかが僕を引き止めにくるんだ…… / でも僕はセイルだから、そんなことはしない。",
-  "en": "Whenever I try to leave here, someone comes to stop me... but I'm Seil, so I won't do that."
+  "en": "Whenever I try to leave, someone comes to stop me... but I'm Seil, so I won't do that."
  }
 ]

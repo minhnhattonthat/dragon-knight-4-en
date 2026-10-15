@@ -461,7 +461,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、いちいち説明してる時間はないのだ。 / みんなも俺の言うことをよく聞いてくれ。",
-  "en": "Kakeru, I don't have time to explain every little thing. Everyone, listen closely to what I say."
+  "en": "Kakeru, I don't have time to explain every little thing. Everyone, listen closely to me."
  },
  {
   "id": "2F0269_067A.2",
@@ -805,7 +805,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "タケル様とバーン様の御子息なら…… / 俺は文句はない、たとえ子供でもだ。",
-  "en": "If they're the sons of Lord Takeru and Lord Bahn... I've got no complaints, even if they are kids."
+  "en": "If they're sons of Lord Takeru and Lord Bahn... I've got no complaints, kids or not."
  },
  {
   "id": "2F0269_0C2A.1",
@@ -1302,7 +1302,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "相棒、ようするにこいつは / パパの代理人ってことだ…… / 入れないわけにはいかないだろう。",
-  "en": "Partner, basically this kid is standing in for his old man... We can't very well not let him in."
+  "en": "Partner, this kid is basically standing in for his old man... We can't not let him in."
  },
  {
   "id": "2F0269_12B7.0",
@@ -1489,7 +1489,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "相棒、ようするにこいつは / パパの代理人ってことだ…… / 入れないわけにはいかないだろう。",
-  "en": "Partner, basically this kid is standing in for his old man... We can't very well not let him in."
+  "en": "Partner, this kid is basically standing in for his old man... We can't not let him in."
  },
  {
   "id": "2F0269_154E.0",
@@ -1774,7 +1774,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ど、どうすればいいんだ。 / 少し前まで、平和な世の中だと思ってたのに。",
-  "en": "Wh-what am I supposed to do? Until a little while ago, I thought the world was at peace."
+  "en": "Wh-what am I supposed to do? Just a while ago, I thought the world was at peace."
  },
  {
   "id": "2F0269_1940.1",
@@ -1782,7 +1782,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンの軍隊ってなんだ？ / ……ドラゴンナイト一族ってなんだ？ / ……ユリシーズの街が占領されたって本当か！？",
-  "en": "What's Lushifon's army? ...What's the Dragon Knight clan? ...Is it true the town of Ulysses was occupied?!"
+  "en": "What's Lushifon's army? ...What's the Dragon Knight clan? ...Is it true Ulysses fell?!"
  },
  {
   "id": "2F0269_19A1.0",
@@ -1806,7 +1806,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そいつらは、なにか用があって出かけたんだ。 / つまり彼らと話す必要はもうないってことだよ。",
-  "en": "They've just gone out on some errand. In other words, there's no need to talk to them anymore."
+  "en": "They've gone out on some errand. In other words, no need to talk to them anymore."
  },
  {
   "id": "2F0269_19F1.1",
@@ -1814,7 +1814,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "なにを隠そう、 / この俺もそのうちのひとりなのさ。 / 今言った情報以外に、 / 俺の存在価値はないってことだ。",
-  "en": "Truth be told, I'm one of them. Apart from the info I just gave you, I've got no reason to exist."
+  "en": "Truth be told, I'm one of them. Apart from that info, I've got no reason to exist."
  },
  {
   "id": "2F0269_1A66.0",
@@ -1870,7 +1870,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ケガをした時は、その泉の水を飲めばいい。 / どんな傷も、その泉の水が治してくれるはずさ。",
-  "en": "When you're hurt, just drink water from that spring. Its water ought to heal any wound."
+  "en": "When you're hurt, just drink from that spring. Its water ought to heal any wound."
  },
  {
   "id": "2F0269_1B35.1",
@@ -1902,7 +1902,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "実を言うと、昨日までは農夫をしてたんだ。 / でも今日からはレイモンド王国の剣士さ。",
-  "en": "Truth is, until yesterday I was a farmer. But from today I'm a swordsman serving the Kingdom of Raymond."
+  "en": "Until yesterday I was a farmer. Today I'm a swordsman of the Kingdom of Raymond."
  },
  {
   "id": "2F0269_1BE7.0",
@@ -2151,7 +2151,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "な、なんと！？　……バーン殿に手紙を出したら / タケル殿の息子が我が国にきおった！？",
-  "en": "Wh-what?! ...I sent a letter to Lord Bahn, and Lord Takeru's son came to our kingdom?!"
+  "en": "Wh-what?! ...I sent a letter to Lord Bahn, and Lord Takeru's son came instead?!"
  },
  {
   "id": "2F0269_1F7F.1",
@@ -2304,7 +2304,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "そして次々と国を奪い取り、 / 勢力を増大させているんじゃよ。 / ドラゴンナイト一族を復活させ、 / 我々が住む世界を、 / 再び闘いに明け暮れる世界にしようとしておる。",
-  "en": "And he's seizing one country after another, growing ever stronger. He intends to revive the Dragon Knight clan and turn the world we live in back into a world of endless battle."
+  "en": "And he's seizing one country after another, growing ever stronger. He intends to revive the Dragon Knight clan and plunge our world back into endless battle."
  },
  {
   "id": "2F0269_224E.1",
@@ -2320,7 +2320,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バーン殿はいいドラゴンナイト一族じゃが…… / ルシフォンは悪いドラゴンナイト一族なんじゃ。",
-  "en": "Lord Bahn is of the good Dragon Knight clan... but Lushifon is of the evil Dragon Knight clan."
+  "en": "Lord Bahn is of the good Dragon Knight clan... Lushifon is of the evil one."
  },
  {
   "id": "2F0269_22C8.1",

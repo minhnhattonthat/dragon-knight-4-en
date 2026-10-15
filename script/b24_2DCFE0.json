@@ -921,7 +921,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ちょうどよかったよ、カケル君…… / まだ寝ないなら、話をしてくれないかな？",
-  "en": "Good timing, Kakeru... If you're not going to bed yet, would you talk with me for a while?"
+  "en": "Good timing, Kakeru... If you're not going to bed yet, would you talk with me?"
  },
  {
   "id": "2DCFE0_098C.2",
@@ -1259,7 +1259,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今の私たちには西ヘ引き返す時間も、 / デス・バレーで戦力を失う余裕もないぞ！",
-  "en": "Right now we have neither the time to turn back west nor the strength to spare losing in Death Valley!"
+  "en": "We have no time to turn back west, nor strength to spare losing in Death Valley!"
  },
  {
   "id": "2DCFE0_0E53.1",
@@ -1355,7 +1355,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "たしかに、へレネさんを迎えにいくための / 部隊をさけば、戦力は落ちてしまうでしょう。 / でも、ここで迎えを出さなかったら、 / あなたはもっと大事なものを / 失ってしまうことになりませんか？",
-  "en": "It's true that if we split off troops to go get Helene, our strength will drop. But if you don't send anyone for her now, won't you end up losing something far more important?"
+  "en": "True, if we split off troops to go get Helene, our strength will drop. But if you don't send anyone for her now, won't you lose something far more important?"
  },
  {
   "id": "2DCFE0_0F9D.1",

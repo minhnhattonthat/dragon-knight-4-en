@@ -126,7 +126,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "うーん、本当はここで / なにかが起きると思ったんだが…… / 残念ながらなにも起きなかった。",
-  "en": "Hmm, I really thought something would happen here... Unfortunately, nothing happened."
+  "en": "Hmm, I really thought something would happen here... Sadly, nothing did."
  },
  {
   "id": "2F553D_01F1.0",
@@ -606,7 +606,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネ、なんだか知らないけど / 邪魔しちゃ悪いよ……あっちに行こう。",
-  "en": "Marlene, I dunno what's going on, but we shouldn't get in his way... Let's go over there."
+  "en": "Marlene, I dunno what's going on, but let's not get in his way... Let's go over there."
  },
  {
   "id": "2F553D_07F0.1",
@@ -735,7 +735,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺は女のことになると、性格が変わるんだよ。 / 男同士の友情なんて、どうでもよくなるんだ。",
-  "en": "When it comes to women, I'm a different person. Friendship between guys stops mattering at all."
+  "en": "Around women, I'm a different man. Friendship between guys stops mattering."
  },
  {
   "id": "2F553D_0934.1",
@@ -759,7 +759,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なあカケル……この状況を見て、 / 遠慮しようっていう気が起こらないのか？",
-  "en": "Hey, Kakeru... you see the situation here, and you don't feel like giving us some space?"
+  "en": "Hey, Kakeru... you see the situation here, and you don't feel like giving us space?"
  },
  {
   "id": "2F553D_09D1.0",
@@ -1251,7 +1251,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "俺もいっしょに連れてってくれよ…… / 絶対に後悔はさせないからさ。 / 訓練所に登録してるんだ。",
-  "en": "Take me along with you... I swear you won't regret it. I'm signed up at the training ground."
+  "en": "Take me with you... You won't regret it. I'm signed up at the training ground."
  },
  {
   "id": "2F553D_0FBB.0",
@@ -1839,7 +1839,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ピエール隊は工作隊の集団だ…… / この村の生き残りみたいだな。",
-  "en": "Pierre's Squad is a bunch of sappers... Looks like they survived what happened to this village."
+  "en": "Pierre's Squad is a bunch of sappers... Looks like they survived what hit this village."
  },
  {
   "id": "2F553D_15D4.1",
@@ -1847,7 +1847,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ホビットの村の連中は、爆薬を使うのが / すごくうまいんだ……きっと役に立つぜ。",
-  "en": "Folks from the Hobbit village are really good with explosives... They'll come in handy for sure."
+  "en": "Folks from the Hobbit village are great with explosives... They'll come in handy for sure."
  },
  {
   "id": "2F553D_15D4.2",

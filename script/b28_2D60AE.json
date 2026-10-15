@@ -1045,7 +1045,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "殺された仲間のためにも、 / そしてクラリスのためにも…… / 私は絶対にルシフォンを倒します。",
-  "en": "For the sake of my murdered comrades, and for Clarice too... I will defeat Lushifon, no matter what."
+  "en": "For my murdered comrades, and for Clarice too... I will defeat Lushifon, no matter what."
  },
  {
   "id": "2D60AE_0C1D.0",
@@ -1347,7 +1347,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だーめっ！！　そんなことばかり言ってるから、 / うまくいかないのよ。ねえ、カケル？",
-  "en": "Nuh-uh!! It's because you keep saying stuff like that that things never work out. Right, Kakeru?"
+  "en": "Nuh-uh!! You keep saying stuff like that, so it never works out. Right, Kakeru?"
  },
  {
   "id": "2D60AE_0F34.2",
@@ -1445,7 +1445,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンにとどめを刺すのは俺だぜ…… / そうじゃないと、伝記の結末が格好悪いからな。",
-  "en": "I'll be the one to finish off Lushifon... Otherwise my biography'll have a lame ending."
+  "en": "I'll be the one to finish off Lushifon... Or my biography'll have a lame ending."
  },
  {
   "id": "2D60AE_10C2.0",
@@ -1653,7 +1653,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、この村も荒らされてるにゃん…… / 村の住人がいないと、張り合いがないにゃん。",
-  "en": "Kakeru, this village got ransacked too, nya... With no villagers around, there's no fun in it, nya."
+  "en": "Kakeru, this village got ransacked too, nya... No villagers around means no fun, nya."
  },
  {
   "id": "2D60AE_1330.1",
@@ -1733,7 +1733,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンを倒したらもう一度交際を申し込もう / ……もし断られたら、彼女をさらってやるぞ。",
-  "en": "Once Lushifon is defeated, I shall ask her out once more... And if she refuses, I'll carry her off!"
+  "en": "Once Lushifon falls, I shall ask her out once more... And if she refuses, I'll carry her off!"
  },
  {
   "id": "2D60AE_149C.0",
@@ -2134,7 +2134,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "なんかしようったって、 / だれもいないじゃないか…… / なんかして欲しかったら、 / ここに女を連れてこいっ！！",
-  "en": "Up to something? There's nobody here... If you want me to do something, bring some girls over here!!"
+  "en": "Up to something? Nobody's here... If you want something done, bring some girls here!!"
  },
  {
   "id": "2D60AE_1990.0",
@@ -2322,7 +2322,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "西の空を見てみろ！！ / 再び黒い霧が動き出したぞ！！ / ……みんな、急げえ！！",
-  "en": "Look at the western sky!! The Black Mist has started moving again!! ...Everyone, hurry!!"
+  "en": "Look at the western sky!! The Black Mist is moving again!! ...Everyone, hurry!!"
  },
  {
   "id": "2D60AE_1C37.0",

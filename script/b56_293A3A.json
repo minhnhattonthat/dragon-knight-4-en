@@ -763,7 +763,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そこでなにを相談しているかね？ / ……ここまできて臆したのか！？",
-  "en": "What are you all whispering about over there? ...Have you lost your nerve after coming this far?!"
+  "en": "What are you all whispering about? ...Have you lost your nerve after coming this far?!"
  },
  {
   "id": "293A3A_09C3.2",
@@ -951,7 +951,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もっとも、息子の君がくるとは意外だったが。 / 本当は君の父親がくると思っていたのだよ。",
-  "en": "Though I'll admit I didn't expect his son to come. I truly thought your father would be the one."
+  "en": "Though I didn't expect his son to come. I truly thought your father would."
  },
  {
   "id": "293A3A_0C9E.1",
@@ -1030,7 +1030,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうとも！　ここで貴様を倒す！！ / 貴様なんぞに使い捨てられてたまるか！",
-  "en": "That's right! I'll beat you right here!! I won't be used and thrown away by the likes of you!"
+  "en": "That's right! I'll beat you right here!! I won't be used and thrown away by you!"
  },
  {
   "id": "293A3A_0DFE.2",
@@ -2067,7 +2067,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ふふ……よかろう、 / 私もお前を愛そうではないか…… / さあ、私の横にきて、 / 魔力を封じることなどやめるのだ。",
-  "en": "Heh heh... Very well, I shall love you too... Now, come to my side, and stop this sealing of my magic."
+  "en": "Heh heh... Very well, I shall love you too... Now, come to me, and stop sealing my magic."
  },
  {
   "id": "293A3A_1E15.0",
@@ -2117,7 +2117,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケル君、 / この女はマルレーネではないのだよ…… / 魔界の支配者、ミナクス様の娘、イノだ。",
-  "en": "Kakeru, this woman is not Marlene... She is Ino, daughter of Lord Minax, ruler of the Demon World."
+  "en": "Kakeru, this woman is not Marlene, you see... She is Ino, daughter of Lord Minax, the ruler of the Demon World."
  },
  {
   "id": "293A3A_1EAE.0",
@@ -2309,7 +2309,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン、お前にその答えはわからないさ。 / たとえ何度生まれ変わろうとな。",
-  "en": "Lushifon, you'll never understand the answer to that. Not even if you were reborn a hundred times."
+  "en": "Lushifon, you'll never know that answer. Not even if you're reborn a hundred times."
  },
  {
   "id": "293A3A_211E.2",
@@ -2660,7 +2660,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "エトよう、 / ルシフォンを倒して軍隊を解散しても…… / 俺のことを忘れるんじゃねーぞ。",
-  "en": "Hey, Eto, even after we beat Lushifon and the army breaks up... don't you go forgettin' about me."
+  "en": "Hey, Eto, even after we beat Lushifon and disband the army... don't forget about me."
  },
  {
   "id": "293A3A_26C2.0",
@@ -3034,7 +3034,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "このお城に入ってからも、心の中の声が / みなさんをはげましているのが聞こえます。",
-  "en": "Even since we entered this castle, I can hear the voice in my heart encouraging all of you."
+  "en": "Even inside this castle, I can hear the voice in my heart encouraging all of you."
  },
  {
   "id": "293A3A_2B74.1",

@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "買うかい？　その気があるなら特別サービスで / タダでいいぜ。もう残り１個だしな。",
-  "en": "Wanna buy it? If you're interested, I'll give you a special deal: it's free. It's my last one anyway."
+  "en": "Wanna buy it? If you're interested, it's free, as a special deal. It's my last one anyway."
  },
  {
   "id": "2F2B41_016D.3",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "まいどあり。ナマモノだから、 / すぐに飲んだ方がいいぞ…… / ヘっヘっヘっ。じゃあな。",
-  "en": "Pleasure doing business. It's perishable, so you'd better drink it right away... Heh heh heh. See ya."
+  "en": "Pleasure doing business. It's perishable, so drink it right away... Heh heh heh. See ya."
  },
  {
   "id": "2F2B41_0254.0",
@@ -281,7 +281,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "じゃあ、マルレーネさんのところに / 行けばいいでしょっ！！ / 私の気持ちも知らないで…… / カケルの大馬鹿っ！！",
-  "en": "Then go see Marlene, why don't you!! You don't even know how I feel... Kakeru, you big idiot!!"
+  "en": "Then go see Marlene, why don't you!! You don't know how I feel... Kakeru, you idiot!!"
  },
  {
   "id": "2F2B41_04C6.0",
@@ -664,7 +664,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "このペンは、あやしげな商人から買った / 魔法のペンなんだぞ！！ / 消せるもんなら消してみなっ！！",
-  "en": "This pen is a magic pen I bought from a shady merchant!! Try and rub it off if you can!!"
+  "en": "This is a magic pen I bought from a shady merchant!! Try and rub it off if you can!!"
  },
  {
   "id": "2F2B41_09DC.0",
@@ -1512,7 +1512,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ホビットの村の連中は、 / 爆薬を使うのがすごくうまいんだ…… / きっと役に立つぜ。",
-  "en": "The folks from the Hobbit village are really good with explosives... He'll come in handy for sure."
+  "en": "The folks from the Hobbit village are great with explosives... He'll be handy for sure."
  },
  {
   "id": "2F2B41_12E8.0",
@@ -2083,7 +2083,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "レアは男っぽく見えますけど、 / 実はすごく優しい女の子なんです。 / でも、そのことに関してすごいコンプレックスを / 持ってるんです。",
-  "en": "Rhea may look boyish, but she's actually a really gentle girl. Still, she has a huge complex about it."
+  "en": "Rhea looks boyish, but she's really a gentle girl. She's got a huge complex about that."
  },
  {
   "id": "2F2B41_194E.0",
@@ -2115,7 +2115,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "魔法のペンまで売り尽くしちまったぜ…… / またソドムの村で仕入れてこないとな。",
-  "en": "I've sold out of everything, even the magic pens... Gotta go stock up at the village of Sodom again."
+  "en": "I've sold out of everything, even the magic pens... Gotta restock in Sodom village."
  },
  {
   "id": "2F2B41_19D3.0",
@@ -2147,7 +2147,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "そこで相談なんだが、君の軍隊にはかわいい / 女の子がたくさんいるじゃないか。 / 俺の旅のお共として / ひとり紹介してくれないだろうか？ / いや、ぜいたくは言わんよ、ひとりでいいんだ。",
-  "en": "So here's my proposal. Your army's got plenty of cute girls, doesn't it? Won't you introduce me to one as a traveling companion? Oh, I'm not greedy. Just one will do."
+  "en": "So here's my proposal. Your army's got lots of cute girls, right? Won't you introduce me to one as a travel companion? I'm not greedy. Just one will do."
  },
  {
   "id": "2F2B41_19D3.4",
@@ -2529,7 +2529,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……おほほほっ、私は母の愛を世界中の人々に / 伝えるために旅立ったのです。",
-  "en": "...Ohohoho, I have set out on a journey to spread a mother's love to all the people of the world."
+  "en": "...Ohohoho, I set out on a journey to spread a mother's love to all the world's people."
  },
  {
   "id": "2F2B41_2025.1",
@@ -2745,7 +2745,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ、人々の笑顔を取り戻すために、私は / もっともっと母の愛を世界中に注がなければ…。",
-  "en": "Ah, to bring back people's smiles, I must pour even more of a mother's love into the whole world..."
+  "en": "Ah, to bring back smiles, I must pour even more of a mother's love on the world..."
  },
  {
   "id": "2F2B41_23B6.1",
@@ -2833,7 +2833,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "あったりまえよ！ / これでもあたしは魔導師なんですからね / ……っていいから離れなさいよ！！",
-  "en": "Well, duh! I'll have you know I'm a sorcerer... I said get away from her already!!"
+  "en": "Well, duh! I'll have you know I'm a sorcerer... Now get away from her already!!"
  },
  {
   "id": "2F2B41_2520.0",

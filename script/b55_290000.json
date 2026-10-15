@@ -176,7 +176,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わかるぞセイル、睡眠をたっぷりとって / ルシフォンとの闘いに備えようとしてるのだな。",
-  "en": "I understand, Seil. You're getting plenty of sleep to prepare for the battle with Lushifon."
+  "en": "I understand, Seil. You're getting plenty of sleep for the battle with Lushifon."
  },
  {
   "id": "290000_0208.1",
@@ -240,7 +240,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ルシフォンは魔法を使うから、 / 気をつけないといけないね…… / どうすれば、ルシフォンの魔法を / よけることができるんだろう？",
-  "en": "Lushifon uses magic, so we have to be careful... How can we dodge Lushifon's magic?"
+  "en": "Lushifon uses magic, so we must be careful... How can we dodge Lushifon's magic?"
  },
  {
   "id": "290000_034E.0",
@@ -409,7 +409,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そうそうマルレーネってさ、 / 目がさびしそうなんだよね。 / まつ毛が長いからそう見えるのかな？",
-  "en": "Oh yeah, Marlene's eyes look kinda lonely, don't they? Maybe it's 'cause her eyelashes are so long?"
+  "en": "Oh yeah, Marlene's eyes look kinda lonely, huh? Maybe 'cause her lashes are so long?"
  },
  {
   "id": "290000_0609.0",
@@ -417,7 +417,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケル、せっかくナターシャと / ふたりきりでいるんだ…… / 別の話をしたらどうだ？",
-  "en": "Kakeru, you finally have Natasha all to yourself... Why not talk about something else?"
+  "en": "Kakeru, you finally have Natasha alone... Why not talk about something else?"
  },
  {
   "id": "290000_0634.0",
@@ -505,7 +505,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うれしいけど、ちがうわよ……ほら、 / ちゃんとお花を飾って部屋をきれいにしたの。",
-  "en": "That's sweet, but that's not what I meant... Look, I put up flowers and made the room all pretty."
+  "en": "That's sweet, but not what I meant... Look, I put up flowers and made the room pretty."
  },
  {
   "id": "290000_0754.1",
@@ -1255,7 +1255,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "そうだ……このカケルが再び私となって、 / 次のカケルを導くだろう…… / 彼を死なせるわけにはいかない…… / なにがあろうと。",
-  "en": "Yes... this Kakeru will become me again and guide the next Kakeru... I can't let him die... no matter what."
+  "en": "Yes... this Kakeru will become me again, and guide the next Kakeru... That's why I can't let him die... no matter what."
  },
  {
   "id": "290000_1270.0",
@@ -1484,7 +1484,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街を出れば、ルシフォンに会えるのね…… / ちゃんとお化粧していこうかしら。",
-  "en": "Once we leave this town, we'll meet Lushifon... Maybe I should put on proper makeup."
+  "en": "Once we leave this town, we'll meet Lushifon... Should I put on proper makeup?"
  },
  {
   "id": "290000_15AA.0",
@@ -1673,7 +1673,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私、ルシフォンを倒したら / トリアノンの村に戻ります…… / エトさんはどうするんですか？",
-  "en": "Once we defeat Lushifon, I'm going back to the village of Trianon... What will you do, Eto?"
+  "en": "Once we defeat Lushifon, I'm going back to Trianon village... What will you do, Eto?"
  },
  {
   "id": "290000_186D.0",
@@ -1805,7 +1805,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それは私だって同じだけど…… / 黒い霧とあれだけの軍隊を動かしてるやつだぜ。",
-  "en": "Same goes for me, but... this is the guy pulling the strings on the Black Mist and that huge army."
+  "en": "Same goes for me, but... this guy controls the Black Mist and that huge army."
  },
  {
   "id": "290000_198E.3",
@@ -2194,7 +2194,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やつの人気を地の底に落とすためには…… / 私の魔法でカエルにでもしてやればいいのだ。",
-  "en": "To drag his popularity down into the dirt... I need only turn him into a frog with my magic."
+  "en": "To drag his popularity into the dirt... I need only turn him into a frog with my magic."
  },
  {
   "id": "290000_1FEF.0",
@@ -2376,7 +2376,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ああ……小説を書くことよりも、 / 甘く美しい感情をわき上がらせることが…… / この世界にあるなんて……！！",
-  "en": "Ah... to think this world holds a feeling sweeter and more beautiful than writing novels...!!"
+  "en": "Ah... to think this world holds a feeling sweeter and lovelier than writing novels...!!"
  },
  {
   "id": "290000_21CE.0",
@@ -2393,7 +2393,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "君のおかげだ……セイラ、 / 小説を書くことがどうでもよくなるような / 感情を知った僕はね……。",
-  "en": "It's thanks to you, Sayla... Now that I know a feeling that makes writing novels seem unimportant..."
+  "en": "Thanks to you, Sayla... I now know a feeling that makes writing novels seem trivial..."
  },
  {
   "id": "290000_220B.0",
@@ -2818,7 +2818,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "黒い霧がくるにゃん…… / 私のヒゲがひくひく動くから、 / すぐそこまできてるにゃん。",
-  "en": "The Black Mist is coming, nya... My whiskers are twitching, so it's already really close, nya."
+  "en": "The Black Mist is coming, nya... My whiskers are twitching, so it's really close, nya."
  },
  {
   "id": "290000_278F.0",
@@ -2826,7 +2826,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンを倒したら、 / いっしょにミネルバ大陸に戻ろうって、 / カケルが言ってくれたにゃん。",
-  "en": "Kakeru told me that once we beat Lushifon, we'd go back to the Minerva continent together, nya."
+  "en": "Kakeru said after Lushifon falls, we'll both go back to the Minerva continent, nya."
  },
  {
   "id": "290000_27C1.0",
@@ -2834,7 +2834,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "今まで優しくされたことがなかったから、 / どう返事していいか困ったにゃん。 / でもうれしかったにゃん。",
-  "en": "Nobody was ever nice to me before, so I didn't know how to answer, nya. But I was happy, nya."
+  "en": "No one was ever nice to me, so I didn't know what to say, nya. But I was happy, nya."
  },
  {
   "id": "290000_27F9.0",
@@ -3515,7 +3515,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この街を出て東に行くと、 / ライムリンって国がある…… / そこで私たちの冒険はおしまいだ。",
-  "en": "Leave this town and head east, and there's a country called Limerin... That's where our adventure ends."
+  "en": "Leave town, head east, and there's a land called Limerin... There our adventure ends."
  },
  {
   "id": "290000_3024.0",
@@ -3760,7 +3760,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "とにかく、こんなところで私相手に話してないで / 直接セイルにアタックしてみたらどうだ？",
-  "en": "Anyway, instead of talking to me in a place like this, why not go on the attack with Seil directly?"
+  "en": "Anyway, instead of talking to me here, why not go on the attack with Seil directly?"
  },
  {
   "id": "290000_3350.1",

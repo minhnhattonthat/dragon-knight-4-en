@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここの村は私たちの貸し切りみたいだ。 / それぞれ好きな場所で身体を休めてくれ！！",
-  "en": "Looks like we've got this whole village to ourselves. Everyone, rest up wherever you like!!"
+  "en": "We've got this village to ourselves. Everyone, rest up wherever you like!!"
  },
  {
   "id": "2D8000_014E.0",
@@ -507,7 +507,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ううん、今のマルレーネを / 抱きしめることはできないよ…… / だって、マルレーネのことが / よくわからないんだもの。",
-  "en": "No, I can't hold you the way you are now, Marlene... Because I don't really understand you."
+  "en": "No, I can't hold you the way you are now, Marlene... I don't really understand you."
  },
  {
   "id": "2D8000_06D0.0",
@@ -539,7 +539,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この村にいた人たちも、 / ルシフォン軍に連れ去られたんでしょうか？",
-  "en": "Do you think the people who lived in this village were carried off by Lushifon's army too?"
+  "en": "Were the people who lived in this village carried off by Lushifon's army too?"
  },
  {
   "id": "2D8000_073E.1",
@@ -620,7 +620,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ふん、ルシフォンが楽しみながら / 俺たちを倒すなら…… / 俺たちだって楽しみながら / ルシフォンを倒してやるさ。",
-  "en": "Hmph, if Lushifon's gonna have fun beating us... then we'll have fun beating Lushifon right back."
+  "en": "Hmph, if Lushifon's gonna have fun beating us... we'll have fun beating him back."
  },
  {
   "id": "2D8000_08B1.0",
@@ -677,7 +677,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル……ライムリン大陸には、 / 私たちが目指すライムリン王国があるはずよ。",
-  "en": "Kakeru... the Kingdom of Limerin we're heading for should be on the Limerin continent."
+  "en": "Kakeru... the Kingdom of Limerin we seek should be on the Limerin continent."
  },
  {
   "id": "2D8000_09AD.0",
@@ -757,7 +757,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルさん、この村の家って変ですよね…… / 地面より低い位置に床があるんですもの。",
-  "en": "Kakeru, the houses in this village are strange, aren't they... the floors are lower than the ground."
+  "en": "Kakeru, this village's houses are strange... the floors are lower than the ground."
  },
  {
   "id": "2D8000_0AB0.1",
@@ -773,7 +773,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "じめじめしてて、 / 住みやすいとは思えませんけど…… / きっと、じめじめしてるのが / 好きな人たちだったんでしょうね。",
-  "en": "It's so damp, I can't imagine it being nice to live in... They must have been people who liked it damp."
+  "en": "It's so damp, it can't be nice to live in... The people here must have liked damp."
  },
  {
   "id": "2D8000_0B3A.0",
@@ -1318,7 +1318,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンさえ倒せば、 / 俺たちはヒーローになれるんだ。 / 疲れてるけど、がんばってみるかな。",
-  "en": "As long as we beat Lushifon, we get to be heroes. I'm tired, but I guess I'll give it my best."
+  "en": "As long as we beat Lushifon, we get to be heroes. I'm tired, but I'll give it my best."
  },
  {
   "id": "2D8000_1231.0",
@@ -1454,7 +1454,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そう言われると嬉しいにょ…… / カケルみたいにみんなから尊敬されたいにょ。",
-  "en": "I'm happy to hear you say that, nyo... I want everyone to respect me like they do you, Kakeru, nyo."
+  "en": "Happy to hear that, nyo... I want everyone to respect me like you, Kakeru, nyo."
  },
  {
   "id": "2D8000_13E2.1",
@@ -1502,7 +1502,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この村を東に行けば、 / 港街があるといううわさでござる…… / また船旅でござるな、カケル殿。",
-  "en": "Rumor has it there is a port town east of this village... Another sea voyage awaits us, Master Kakeru."
+  "en": "They say there is a port town east of this village... Another voyage, Master Kakeru."
  },
  {
   "id": "2D8000_14F9.0",
@@ -1574,7 +1574,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "僕はお前たちのことを / 仲間だなんて思ってないからな…… / 特にカケルなんて、 / 仲間だなんて思ってないからな。",
-  "en": "I don't think of you guys as my friends... and I especially don't think of Kakeru as my friend."
+  "en": "I don't think of you guys as friends... and I especially don't think of Kakeru as a friend."
  },
  {
   "id": "2D8000_165E.0",
@@ -1646,7 +1646,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さあ、今日は何色のノートがいい？ / ……もちろん話はしてくれるんだろ？",
-  "en": "Now, what color notebook would you like today? ...You will tell me your story, of course?"
+  "en": "Now, what color notebook would you like today? ...You will tell me a story, of course?"
  },
  {
   "id": "2D8000_1813.0",
@@ -1822,7 +1822,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "しっしっしっ、あっちに行ってろ…… / 私に触っていいのは、トルルとセイル様だけだ。",
-  "en": "Shoo, shoo, go on, get away... The only ones allowed to touch me are Torul and Lord Seil."
+  "en": "Shoo, shoo... The only ones allowed to touch me are Torul and Lord Seil."
  },
  {
   "id": "2D8000_1A3D.0",
@@ -1975,7 +1975,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ、やっとお風呂に入れたなー♥ / カケルのせいで毎日汗だくだしぃ。",
-  "en": "Aah, I finally got to take a bath! <3 Thanks to Kakeru, I'm drenched in sweat every single day."
+  "en": "Aah, I finally got a bath! <3 Thanks to Kakeru, I'm drenched in sweat every day."
  },
  {
   "id": "2D8000_1BBD.1",
@@ -2267,7 +2267,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そこをルシフォン軍から奪って船に乗れば、 / 今度こそライムリン大陸だ！！",
-  "en": "We take it from Lushifon's army and board a ship, and this time we reach Limerin for sure!!"
+  "en": "We take it from Lushifon's army and board a ship, and this time it's Limerin for sure!!"
  },
  {
   "id": "2D8000_1FBC.0",

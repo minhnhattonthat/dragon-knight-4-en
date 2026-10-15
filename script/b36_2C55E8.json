@@ -682,7 +682,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだなあ……いじっぱりで、気が強くて、 / 話をしてるとすぐにケンカしちゃう女の子かな。",
-  "en": "Let's see... a stubborn, strong-willed girl who starts a fight with me as soon as we talk, I guess."
+  "en": "Hmm... a stubborn, feisty girl who picks a fight as soon as we talk, I guess."
  },
  {
   "id": "2C55E8_08BA.1",
@@ -1127,7 +1127,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "仲間のことを悪く言うのは勝手だが、 / 言っていいことと悪いことがあるぞ。",
-  "en": "You're free to badmouth your comrades, but there are things you can say and things you can't."
+  "en": "You're free to badmouth your comrades, but some things are better left unsaid."
  },
  {
   "id": "2C55E8_0E00.2",
@@ -1296,7 +1296,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バナナは気持ちが悪い時でも、死にそうな時でも / どんな時でもおいしい食べ物なんだ。",
-  "en": "Bananas taste good when you feel sick, when you feel like you're dying... they taste good anytime."
+  "en": "Bananas taste good when you're sick, when you're dying... they taste good anytime."
  },
  {
   "id": "2C55E8_1027.0",
@@ -1488,7 +1488,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なーんだ、あなたも彼の仲間なんだ…… / もしかして、名前はエトじゃないの？",
-  "en": "Well, what do you know, you're one of his friends... Could your name be Eto, by any chance?"
+  "en": "Well, what do you know, you're one of his friends... Is your name Eto, by any chance?"
  },
  {
   "id": "2C55E8_1258.2",
@@ -1832,7 +1832,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "クラリスはトリアノンの村の出身だったな…… / そこに、マルレーネって女は住んでたか？",
-  "en": "Clarice, you were from the village of Trianon... Did a woman named Marlene live there?"
+  "en": "Clarice, you're from the village of Trianon... Did a woman named Marlene live there?"
  },
  {
   "id": "2C55E8_17C8.1",
@@ -3017,7 +3017,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふふん、なれなれしいやつめっ…… / 貴様もあのカケルとかいう小僧の仲間なのか？",
-  "en": "Hmph, getting awfully familiar, aren't you... Are you one of that brat Kakeru's friends too?"
+  "en": "Hmph, getting awfully familiar, aren't you... Are you one of that brat Kakeru's friends?"
  },
  {
   "id": "2C55E8_2673.1",
@@ -3089,7 +3089,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私が用心棒になると色々な特典がついてくる。 / まず第一に、私たちの軍隊に入ることができる。",
-  "en": "If I become your bodyguard, it comes with all sorts of perks. First of all, you get to join our army."
+  "en": "If I'm your bodyguard, you get all sorts of perks. First, you get to join our army."
  },
  {
   "id": "2C55E8_278B.1",
@@ -3105,7 +3105,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ちっ……ルシフォンの野郎がいけねえんだよ、 / 俺をこんな屈辱的な気分にさせるのは…… / みんなあいつのせいだ！！",
-  "en": "Tch... It's that bastard Lushifon's fault, making me feel this humiliated... It's all his fault!!"
+  "en": "Tch... It's that bastard Lushifon's fault I feel this humiliated... It's all his fault!!"
  },
  {
   "id": "2C55E8_2842.0",

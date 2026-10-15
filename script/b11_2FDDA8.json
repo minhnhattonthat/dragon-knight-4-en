@@ -465,7 +465,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "変なところがあるような気がしてきた。 / でも、どこが変なのかわからないや。",
-  "en": "Now I'm starting to feel like there is something weird about you. But I can't tell what it is."
+  "en": "Now I'm starting to feel like something's weird about you. But I can't tell what it is."
  },
  {
   "id": "2FDDA8_05CB.1",
@@ -473,7 +473,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ネレイド……君はかわいいし、 / 優しい女の子だと思う。 / もっと自信を持ったほうがいいよ。",
-  "en": "Nereid... I think you're cute, and a kind girl. You should have more confidence in yourself."
+  "en": "Nereid... I think you're cute, and kind. You should have more confidence in yourself."
  },
  {
   "id": "2FDDA8_0627.0",
@@ -545,7 +545,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "カケル殿、この街の長老はルシフォン軍に / 殺されてしまったそうだ。 / 砲術隊もルシフォン軍が連れ去ったみたいだし… / 闘いはさらに厳しいものとなるだろう。",
-  "en": "Master Kakeru, I hear the elder of this town was killed by Lushifon's army. It seems Lushifon's army carried off the Gunnery Squad too... The fighting will only get harder."
+  "en": "Master Kakeru, I hear the elder of this town was killed by Lushifon's army. It seems they carried off the Gunnery Squad too... The fighting will only get harder."
  },
  {
   "id": "2FDDA8_0747.0",
@@ -705,7 +705,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルはさ、あの有名なタケルの息子なのに、 / そのことを自慢しないんだよな……どうしてだ？",
-  "en": "Y'know, Kakeru, you're the son of the famous Takeru, but you never brag about it... How come?"
+  "en": "Y'know, Kakeru, you're the famous Takeru's son, but you never brag... How come?"
  },
  {
   "id": "2FDDA8_094B.1",
@@ -933,7 +933,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "すらりと伸びた脚、大きすぎず小さすぎない胸 / ……そして均整のとれた身体。",
-  "en": "Long, slender legs, a bust neither too big nor too small... and a perfectly proportioned body."
+  "en": "Long, slender legs, a bust neither too big nor too small... and a balanced body."
  },
  {
   "id": "2FDDA8_0C0E.2",
@@ -1197,7 +1197,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、おぢいちゃんのかたきを討とうと思って、 / 友だちといっしょにずっと納屋に隠れてたの。",
-  "en": "I wanted to avenge my grampa, so I've been hiding in the barn with my friends this whole time."
+  "en": "I wanted to avenge my grampa, so I've been hiding in the barn with my friends all along."
  },
  {
   "id": "2FDDA8_0F50.1",
@@ -1787,7 +1787,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "まあまあ、いーじゃないの細かいことは。 / それよりあんた、あたしを仲間にしない？",
-  "en": "Now, now, who cares about the details? More importantly, you there, why not take me into your party?"
+  "en": "Now, now, who cares about details? More importantly, why not let me join you?"
  },
  {
   "id": "2FDDA8_1585.1",

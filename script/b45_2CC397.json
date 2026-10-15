@@ -336,7 +336,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "へレネとかいう娘も、頭ツルツルのおやじも、 / ライナスとかいうガキもあの船に乗ってるぜ。",
-  "en": "That Helene girl, the old man with the shiny bald head, and that Linus brat are all on that ship too."
+  "en": "That Helene girl, the shiny bald old guy, and that Linus brat are on that ship too."
  },
  {
   "id": "2CC397_046D.1",
@@ -803,7 +803,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "でも私…… / なぜか今日はエトさんの顔が見たくありません。 / 他の人と話をしてください。",
-  "en": "But I... for some reason, I don't want to see your face today, Eto. Please go talk to someone else."
+  "en": "But I... somehow, I don't want to see your face today, Eto. Talk to someone else."
  },
  {
   "id": "2CC397_09FD.0",
@@ -819,7 +819,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ちっともさわやかな朝じゃないですね…… / 私、こんなにいやな朝を迎えたのは初めてです。",
-  "en": "This isn't a refreshing morning at all... It's the first time I've ever woken up to such an awful morning."
+  "en": "This isn't a refreshing morning at all... I've never had such an awful morning."
  },
  {
   "id": "2CC397_0A46.0",
@@ -1250,7 +1250,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たまには、肉が喰いたいぞい…… / この島には、どうして動物がいないんだぞい。",
-  "en": "I want to eat meat once in a while, I tell ye... Why are there no animals on this island, I tell ye?"
+  "en": "I'd like meat now and then, I tell ye... Why's this island got no animals, I tell ye?"
  },
  {
   "id": "2CC397_0FBE.0",
@@ -1853,7 +1853,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "別に冒険じゃなくてもいいんだよ…… / さあ、今度は何色のノートに書くかな。",
-  "en": "It doesn't have to be an adventure... Now, what color notebook shall I write in this time?"
+  "en": "It needn't be an adventure... Now, what color notebook shall I write in this time?"
  },
  {
   "id": "2CC397_1813.0",

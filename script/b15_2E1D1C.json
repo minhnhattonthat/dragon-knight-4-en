@@ -439,7 +439,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "もしここにいる仲間たちが、 / 最初から出会う運命であったのなら…… / きっと私たちはドラゴニア大陸にも、 / ルシフォンがいる場所にも行ける気がします。",
-  "en": "If all of us friends gathered here were destined to meet from the very start... then I feel sure we can reach the Dragonia continent, and even the place where Lushifon is."
+  "en": "If all of us friends here were destined to meet from the start... then I feel sure we can reach the Dragonia continent, and even the place where Lushifon is."
  },
  {
   "id": "2E1D1C_06DB.0",
@@ -567,7 +567,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトが全体の指揮をとって、 / その指示でみんな一生懸命働いたんだ。",
-  "en": "Eto took charge of everything, and everyone worked their hardest following his orders."
+  "en": "Eto took charge of everything, and everyone worked hard following his orders."
  },
  {
   "id": "2E1D1C_08A8.1",
@@ -903,7 +903,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "な、なにっ！？　むむむ、こうはしてられん…… / さっそくバナナを集めなければ……あれれ？",
-  "en": "Wh-what?! Hmmm, I can't just lie around like this... I must go gather bananas at once... Huh?"
+  "en": "Wh-what?! Hmmm, I can't just lie around... I must go gather bananas at once... Huh?"
  },
  {
   "id": "2E1D1C_0CAA.2",
@@ -1180,7 +1180,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだ、思い出したぞ…… / ドラゴンナイトが、急襲してきたのだぞい。",
-  "en": "That's right, now I remember... the Dragon Knight launched a surprise attack on us, I tell ye."
+  "en": "That's right, I remember now... the Dragon Knight launched a surprise attack, I tell ye."
  },
  {
   "id": "2E1D1C_1043.1",
@@ -1188,7 +1188,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "うん、それでこの島に流れ着いたんだね。 / みんないるよ…… / まだ身体が動かないみたいだけど。",
-  "en": "Yeah, and then we washed up on this island. Everyone's here... though it looks like they still can't move."
+  "en": "Yeah, and then we washed up on this island. Everyone's here... but they still can't move."
  },
  {
   "id": "2E1D1C_109F.0",
@@ -1727,7 +1727,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "こんなになん度も / 私のところにくるということは…… / 母の愛を注いでほしいのですね？",
-  "en": "Coming to me again and again like this... You want me to pour a mother's love upon you, don't you?"
+  "en": "Coming to me again and again... You want me to pour a mother's love on you, yes?"
  },
  {
   "id": "2E1D1C_1714.0",

@@ -95,7 +95,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "別にきれいだから好きなわけじゃないよ…… / 彼女って、いつも悲しそうな顔をしてるでしょ？",
-  "en": "It's not that I like her because she's beautiful... She always looks so sad, doesn't she?"
+  "en": "It's not that I like her because she's beautiful... She always looks so sad, see?"
  },
  {
   "id": "2C0000_0151.3",
@@ -135,7 +135,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わっはっはっ！！ / だから、八方美人という言葉があるのだ。",
-  "en": "Wahahaha!! That's why there's a saying about pretty girls who try to please everyone."
+  "en": "Wahahaha!! That's why there's a saying about girls who try to please everyone."
  },
  {
   "id": "2C0000_0295.0",
@@ -1042,7 +1042,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "みんなと楽しく会話をして、 / それがなんになると言うのですか？ / 私たちは闘っているのですよ…… / 遊びじゃありません、",
-  "en": "Chatting cheerfully with everyone... what good would that do? We are fighting... This isn't a game."
+  "en": "Chatting cheerfully with everyone... what good is that? We are fighting... It's no game."
  },
  {
   "id": "2C0000_0DFD.0",
@@ -1058,7 +1058,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "だからこそ、身体だけでなく / 心に休息を与えるためにも笑うのだ…… / そして笑うことが、闘う闘志やルシフォンに / 対する怒りを忘れることにはならないだろう。",
-  "en": "That is exactly why we laugh, to give rest not only to the body but to the heart... And laughing will not make us forget our fighting spirit, or our anger toward Lushifon."
+  "en": "That is exactly why we laugh, to rest not only the body but the heart... And laughing will not make us forget our fighting spirit, or our anger toward Lushifon."
  },
  {
   "id": "2C0000_0E70.0",
@@ -1219,7 +1219,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街の住人は、ほとんどルシフォン軍に / 連れ去られたみたいだな……もぐもぐもぐ。",
-  "en": "Looks like most of this town's people were carried off by Lushifon's army... Munch munch munch."
+  "en": "Looks like most folks here were taken by Lushifon's army... Munch munch munch."
  },
  {
   "id": "2C0000_10D3.1",
@@ -1732,7 +1732,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "無口だな……魔法の腕がたしかなら、 / 別に無口でもいいのだが。",
-  "en": "Not much of a talker, huh... Well, if your magic is the real thing, I don't mind you being quiet."
+  "en": "Not much of a talker, huh... Well, if your magic is the real thing, quiet is fine."
  },
  {
   "id": "2C0000_1809.0",
@@ -2050,7 +2050,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル君はちゃんと話をしてくれたよ…… / エト君、今度は何色のノートに書けばいいかな？",
-  "en": "Kakeru told me his story properly... Eto, what color notebook should I write in this time?"
+  "en": "Kakeru told me his story properly... Eto, what color notebook should I write in now?"
  },
  {
   "id": "2C0000_1BC8.0",

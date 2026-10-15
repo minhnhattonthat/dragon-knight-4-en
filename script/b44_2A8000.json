@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ザム船長が迎えにきてくれるのは…… / この島に流れついてから何日目だったかな？",
-  "en": "Captain Zam comes to pick us up on... which day after we washed up on this island was it again?"
+  "en": "Captain Zam comes to pick us up on... which day after we washed up here was it again?"
  },
  {
   "id": "2A8000_00D0.1",
@@ -226,7 +226,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "よーし、俺はみんなの仕事ぶりを / 見に行くとするか…… / あとは頼んだぜ、カケル。",
-  "en": "Alll right, I think I'll go see how everyone's doing with their work... I'll leave the rest to you, Kakeru."
+  "en": "Alll right, I'll go see how everyone's working... I'll leave the rest to you, Kakeru."
  },
  {
   "id": "2A8000_041B.0",
@@ -454,7 +454,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "私がそうしたくても、 / カケルがいやだって言うわ…… / だってカケルは / 「ヤマト・タケル」の息子なのよ。",
-  "en": "Even if I want that, Kakeru will say he doesn't... After all, Kakeru is the son of 'Yamato Takeru.'"
+  "en": "Even if I want that, Kakeru won't... After all, Kakeru is the son of 'Yamato Takeru.'"
  },
  {
   "id": "2A8000_07EE.0",
@@ -785,7 +785,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "その前に聞きたいことがあります。 / エトさん、あなたは船の中で私に言いました。",
-  "en": "Before that, there's something I want to ask. Eto, on the ship you said something to me."
+  "en": "Before that, I want to ask you something. Eto, on the ship you said something to me."
  },
  {
   "id": "2A8000_0C32.2",
@@ -924,7 +924,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "君がなにも話さなくても、 / 私は君を責められない…… / 過去を変えようとしてるのは私であって、 / 君ではないのだから。",
-  "en": "Even if you tell me nothing, I can't blame you... I'm the one trying to change the past, not you."
+  "en": "Even if you tell me nothing, I can't blame you... I'm changing the past, not you."
  },
  {
   "id": "2A8000_0E5C.0",
@@ -1100,7 +1100,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たしかにそれは深く悲しい色をしていたが…… / それ以上に、優しく暖かかったんだ。",
-  "en": "It's true they were a deep, sorrowful color... but more than that, they were gentle and warm."
+  "en": "True, they were a deep, sorrowful color... but more than that, gentle and warm."
  },
  {
   "id": "2A8000_1104.2",
@@ -1667,7 +1667,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "まあ、いつでも闘えるように / 準備はしておいたほうがいいな…… / 俺なんか毎晩、腹筋１００回に / スクワット１０００回やってるんだぜ。",
-  "en": "Well, we'd better stay ready to fight at any time... Me, I do 100 sit-ups and 1000 squats every night."
+  "en": "We'd better be ready to fight anytime... Me, I do 100 sit-ups and 1000 squats a night."
  },
  {
   "id": "2A8000_19F1.0",
@@ -2049,7 +2049,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この島にある白い石と黒い石をくだいて / ……こうやって、ああやって。",
-  "en": "You crush the white stones and black stones from this island... and do it like this, and like that."
+  "en": "You crush the white and black stones from this island... and do it like this, and like that."
  },
  {
   "id": "2A8000_1F22.1",
@@ -3024,7 +3024,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "他に好きな人でもつくって、 / カケルを忘れた方がよさそうだわ…… / そう思うでしょう？",
-  "en": "Maybe I'd be better off finding someone else to like and forgetting Kakeru... Don't you think so?"
+  "en": "Maybe I'd better find someone else to like and forget Kakeru... Don't you think so?"
  },
  {
   "id": "2A8000_2C3A.0",
@@ -3751,7 +3751,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "エトは言ったわよね、 / カケルが好きと言った時は…… / 本当に好きだってことでしょ？",
-  "en": "Eto, you said it yourself... When Kakeru says he likes someone... it means he really likes them, right?"
+  "en": "Eto, you said it yourself... When Kakeru says he likes someone... he really means it, right?"
  },
  {
   "id": "2A8000_3405.0",
@@ -4474,7 +4474,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん……あらたまってお話がありますの。 / あとでまた来ていただけますか？",
-  "en": "Eto... there's something I'd like to talk to you about properly. Could you come back later?"
+  "en": "Eto... there's something I'd like to discuss properly. Could you come by later?"
  },
  {
   "id": "2A8000_3B51.1",
@@ -4735,7 +4735,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ああ、きれいな月……。 / まるで天から母の愛が降りそそいでいるようね。 / おほほほほっ！",
-  "en": "Oh, what a beautiful moon... It's as if motherly love were pouring down from the heavens. Ohohohoho!"
+  "en": "Oh, a beautiful moon... As if motherly love were pouring from the heavens. Ohohohoho!"
  },
  {
   "id": "2A8000_3FB7.0",

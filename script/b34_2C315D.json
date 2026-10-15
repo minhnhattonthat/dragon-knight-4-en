@@ -364,7 +364,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケルが石になってたら、 / なんでミネルバ大陸を出たのか / わからなくなるところだったわ。",
-  "en": "If Kakeru had been turned to stone, I wouldn't have known why I even left the Minerva continent."
+  "en": "Had Kakeru turned to stone, I'd wonder why I ever left the Minerva continent."
  },
  {
   "id": "2C315D_05D1.0",
@@ -524,7 +524,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "身体が熱い。 / きっと緊張してるのね。 / ルシフォン軍と闘ったの初めてだし、 / それに……ぽっ。",
-  "en": "My body feels hot. I must be nervous. It's my first time fighting Lushifon's army, and besides... *blush*."
+  "en": "I feel hot. I must be nervous. My first fight with Lushifon's army, and also... *blush*."
  },
  {
   "id": "2C315D_079C.0",
@@ -959,7 +959,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わざとらしいわね、なにがお嬢さんよ…… / 私の名前はネプチューンって知ってるんでしょ？",
-  "en": "How phony. What's with the \"young lady\"... You already know my name is Neptune, don't you?"
+  "en": "How phony. What's with \"young lady\"... You know my name is Neptune, don't you?"
  },
  {
   "id": "2C315D_0D3C.3",
@@ -1533,7 +1533,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "まあいい、君もカケル君の仲間なんだろう？ / カケル君みたいに話を聞かせて貰えないか？",
-  "en": "Oh well, you're one of Kakeru's friends too, right? Won't you tell me stories like Kakeru does?"
+  "en": "Oh well, you're Kakeru's friend too, right? Won't you tell me stories like he does?"
  },
  {
   "id": "2C315D_1528.1",
@@ -2197,7 +2197,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私はひとりで外に出るつもりはないぞ…… / ただ外の様子をうかがっただけだ。",
-  "en": "I have no intention of going outside alone... I was merely checking on how things look out there."
+  "en": "I have no intention of going out alone... I was merely checking on things outside."
  },
  {
   "id": "2C315D_1E60.0",

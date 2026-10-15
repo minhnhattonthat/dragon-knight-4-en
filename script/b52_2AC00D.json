@@ -892,7 +892,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャ、私が前にカケルと私は別の人間だと / 言ったことをおぼえてるか？",
-  "en": "Natasha, do you remember when I told you before that Kakeru and I are different people?"
+  "en": "Natasha, do you remember when I told you that Kakeru and I are different people?"
  },
  {
   "id": "2AC00D_0B3F.2",
@@ -999,7 +999,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャ、ひとつだけ忘れないで欲しい…… / 私も君のことを好きなカケルだったんだ。",
-  "en": "Natasha, there's just one thing I want you never to forget... I was once a Kakeru who loved you, too."
+  "en": "Natasha, never forget just one thing... I was once a Kakeru who loved you, too."
  },
  {
   "id": "2AC00D_0D3C.0",
@@ -1290,7 +1290,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "マルレーネ、 / 子供のような態度をとるのはよせ…… / 私たちは、私たちのために / 話さなければならないことがあるはずだ。",
-  "en": "Marlene, stop acting like a child... There are things we must talk about, for our own sake."
+  "en": "Marlene, stop acting like a child... We have things to talk about, for our own sake."
  },
  {
   "id": "2AC00D_102A.0",
@@ -1339,7 +1339,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "君はそのことを後悔し、 / 数年後の私の前に現れる。 / そして私に言うんだ、過去を変えてくれと。",
-  "en": "You'll come to regret it, and appear before me years later. And then you'll tell me to change the past."
+  "en": "You'll regret it, and come to me years later. And then you'll ask me to change the past."
  },
  {
   "id": "2AC00D_10D9.0",
@@ -1471,7 +1471,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもルシフォンから黒い石を盗み出せば、 / 彼はもう未来に戻ることはできません。",
-  "en": "But if I steal the black stone from Lushifon, he will never be able to return to the future."
+  "en": "But if I steal the black stone from Lushifon, he can never return to the future."
  },
  {
   "id": "2AC00D_1227.1",
@@ -1576,7 +1576,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "あなたがナターシャさんとなにをしようと、 / 私には関係ありません…… / そして私がなにをしようと、 / あなたには関係のないことです。",
-  "en": "Whatever you do with Natasha is none of my concern... And whatever I do is none of yours."
+  "en": "What you do with Natasha is none of my concern... And what I do is none of yours."
  },
  {
   "id": "2AC00D_1429.0",
@@ -1674,7 +1674,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "エトと知りあったのは、 / たしかユリシーズだったな。 / ずいぶんいっしょに闘ってきたもんだぜ。",
-  "en": "When I first met you, Eto, it was in Ulysses, right? We sure have fought a lot together, huh."
+  "en": "I first met you in Ulysses, right, Eto? We sure have fought a lot together, huh."
  },
  {
   "id": "2AC00D_1578.0",
@@ -1724,7 +1724,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "エト殿、 / 私はいっしょに闘えたことを誇りに思うぞ…… / 他のみんなもそう思ってるであろう。",
-  "en": "Master Eto, I am proud to have fought alongside you... And surely all the others feel the same."
+  "en": "Master Eto, I'm proud to have fought beside you... Surely the others feel the same."
  },
  {
   "id": "2AC00D_1634.0",
@@ -1838,7 +1838,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "はっはっは！！ / 以心伝心というやつだ…… / こうやってバナナを耳の穴に入れると。",
-  "en": "Hahaha!! It's what you call telepathy... You stick a banana in your ear hole like this, and..."
+  "en": "Hahaha!! It's what you call telepathy... You stick a banana in your ear like this, and..."
  },
  {
   "id": "2AC00D_17CE.0",
@@ -2129,7 +2129,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネに愛の告白をして、 / そしてふたりで、新たな冒険の旅に出るんだ。",
-  "en": "I'm gonna confess my love to Marlene, and then the two of us will set off on a new adventure."
+  "en": "I'm gonna confess my love to Marlene, and then we'll set off on a new adventure."
  },
  {
   "id": "2AC00D_1BEB.0",
@@ -2654,7 +2654,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "甲板に立っていたマルレーネに / 話しかけたんだが…… / まったく相手にしてもらえんのだ。",
-  "en": "I spoke to Marlene while she was standing on the deck... and she completely ignored me."
+  "en": "I spoke to Marlene while she stood on the deck... and she completely ignored me."
  },
  {
   "id": "2AC00D_22F0.0",
@@ -2671,7 +2671,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "たしかにあの女は美人だ、 / しかもとびきりの美人だ…… / それにスタイルもいい。",
-  "en": "That woman is certainly beautiful, extraordinarily beautiful... and she has a fine figure."
+  "en": "That woman is a beauty, a stunning beauty... and she has a fine figure."
  },
  {
   "id": "2AC00D_2349.0",
@@ -2687,7 +2687,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だ、だめだ……いくら冷たくされても、 / 忘れることができそうにないっ！！",
-  "en": "I-it's no use... No matter how coldly she treats me, I don't think I can ever forget her!!"
+  "en": "I-it's no use... No matter how coldly she treats me, I can never forget her!!"
  },
  {
   "id": "2AC00D_23C0.0",
@@ -2850,7 +2850,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん、この港街に停泊してる船は…… / 私たちがタスタの港街に残してきた船ですね。",
-  "en": "Eto, the ship anchored in this port town... it's the one we left behind at the port town of Tasta, isn't it?"
+  "en": "Eto, the ship anchored in this port town... is the one we left behind in Tasta, isn't it?"
  },
  {
   "id": "2AC00D_25F1.1",
@@ -2874,7 +2874,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンを倒せば、石になった人たちは / 本当に元に戻るんでしょうか？",
-  "en": "If we defeat Lushifon, will the people who were turned to stone really go back to normal?"
+  "en": "If we defeat Lushifon, will the people turned to stone really go back to normal?"
  },
  {
   "id": "2AC00D_264C.1",
@@ -2907,7 +2907,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "セイルのやつ、ドワラルの村で / あたしのお風呂をのぞいていたのよっ！ / あそこまで軟弱なやつとは思わなかったわっ！！",
-  "en": "That Seil was peeping on me in the bath in Dwaral! I never thought he was such a lowlife!!"
+  "en": "That Seil was peeping on me in the bath in Dwaral! I never knew he was such a lowlife!!"
  },
  {
   "id": "2AC00D_26FF.0",
@@ -3045,7 +3045,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル君にも同じことを言われたよ…… / でも、僕が書いてる冒険小説はどうなるんだい？",
-  "en": "Kakeru told me the same thing... But then what happens to the adventure novel I'm writing?"
+  "en": "Kakeru told me the same thing... But what about the adventure novel I'm writing?"
  },
  {
   "id": "2AC00D_28F6.1",
@@ -3390,7 +3390,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "船に乗ればライムリン大陸に行けるんだ…… / 戻ることはないじゃないか。",
-  "en": "If we board the ship we can reach the Limerin continent... There's no need to go back."
+  "en": "If we board the ship, we can reach the Limerin continent... No need to go back."
  },
  {
   "id": "2AC00D_2DA4.0",
@@ -3439,7 +3439,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "よーし、みんな！！ / 船に乗り込むんだ！！ / ……ライムリン大陸に向けて出発だぞ！！",
-  "en": "All right, everyone!! Get aboard the ship!! ...We're setting out for the Limerin continent!!"
+  "en": "All right, everyone!! Get aboard!! ...We're setting out for the Limerin continent!!"
  },
  {
   "id": "2AC00D_2E31.0",

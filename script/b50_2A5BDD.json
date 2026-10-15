@@ -313,7 +313,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私ったら、カケルの顔をまじまじと見ちゃって… / この男の子が、あなたになるんだなって。",
-  "en": "I couldn't stop staring at Kakeru's face... thinking, this boy is going to grow up into you."
+  "en": "I couldn't stop staring at Kakeru's face... thinking, this boy will grow up into you."
  },
  {
   "id": "2A5BDD_0459.1",
@@ -669,7 +669,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それを知ってるのはルシフォン軍だろう…… / やつらがこの街の住人を連れ去ったんだからな。",
-  "en": "Only Lushifon's army knows that... They're the ones who carried off the people of this town."
+  "en": "Only Lushifon's army knows that... They carried off the people of this town."
  },
  {
   "id": "2A5BDD_0829.0",
@@ -1019,7 +1019,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "まあ、それだけ俺たちがルシフォンが / いるばしょに近づいているってことだからな…… / やつらも必死なんだぜ、きっと。",
-  "en": "Well, it just means we're getting that close to where Lushifon is... They must be getting desperate, I bet."
+  "en": "Well, it means we're getting close to Lushifon... They must be desperate, I bet."
  },
  {
   "id": "2A5BDD_0D4F.0",
@@ -1176,7 +1176,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "まあ私ぐらいの人物となると、 / 嫁にする女は厳選しなければな。",
-  "en": "Of course, for a man of my caliber, the woman I take as my bride must be chosen with great care."
+  "en": "Of course, for a man of my caliber, my bride must be chosen with great care."
  },
  {
   "id": "2A5BDD_0F3E.2",
@@ -1200,7 +1200,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "馬語と羊語を勉強しなくては…… / よし、ルシフォンを倒したら留学でもするか。",
-  "en": "I must study Horse and Sheep... Right, once we've defeated Lushifon, perhaps I'll go study abroad."
+  "en": "I must study Horse and Sheep... Right, once Lushifon falls, perhaps I'll study abroad."
  },
  {
   "id": "2A5BDD_0FFD.0",
@@ -1605,7 +1605,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "エトさん、色っぽいと言われるのは / うれしいですけど…… / そんな話をしてる場合ではないと思います。",
-  "en": "Eto, I'm happy you think I'm alluring, but... I don't think this is the time for that kind of talk."
+  "en": "Eto, I'm happy you find me alluring, but... I don't think this is the time for such talk."
  },
  {
   "id": "2A5BDD_1617.0",
@@ -1750,7 +1750,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "なんでか寝られなくて……あ、そうだ。 / 忘れていました。 / 私と姉を助けてくださったこと、 / どうもありがとうございました。",
-  "en": "I just can't seem to sleep... Oh, that's right. I forgot. Thank you so much for saving my sister and me."
+  "en": "I can't sleep... Oh, right. I forgot. Thank you so much for saving my sister and me."
  },
  {
   "id": "2A5BDD_1840.0",
@@ -1798,7 +1798,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "な、なんか…… / あんまりうれしそうじゃないですね。 / ひょっとして、好きな人がいるんですか？",
-  "en": "Y-you know... you don't look very happy about it. Could it be there's someone you like?"
+  "en": "Y-you know... you don't look very happy about it. Is there someone you like?"
  },
  {
   "id": "2A5BDD_193D.0",
@@ -1959,7 +1959,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "（だからカケルと彼女が / 抱き合っているのを見た時 / ……私はあれほど取り乱してしまった）",
-  "en": "(That is why, when I saw her and Kakeru in each other's arms... I lost my composure so badly.)"
+  "en": "(That is why, when I saw her and Kakeru embracing... I lost my composure so badly.)"
  },
  {
   "id": "2A5BDD_1B14.0",
@@ -2349,7 +2349,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここを出るとドラゴンの砦に行くことになる。 / つまり戻るってことだ。",
-  "en": "Leaving here will take us to the Dragon Fortress. In other words, we'd be going back."
+  "en": "Leaving here takes us to the Dragon Fortress. In other words, we'd go back."
  },
  {
   "id": "2A5BDD_20C6.0",
@@ -2452,7 +2452,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そこをルシフォン軍から奪って船に乗れば、 / 今度こそライムリン大陸だぞ！！",
-  "en": "If we take it from Lushifon's army and board a ship, then this time it's on to the Limerin continent!!"
+  "en": "Take it from Lushifon's army and board a ship, and this time it's the Limerin continent!!"
  },
  {
   "id": "2A5BDD_21EC.0",

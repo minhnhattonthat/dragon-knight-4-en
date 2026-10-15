@@ -630,7 +630,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "……どう？　もしよかったら、 / ちょっと場所をかえて、 / 私とふたりきりでお話ししない？",
-  "en": "...Well? If you'd like, why don't we go somewhere else and have a little talk, just the two of us?"
+  "en": "...Well? If you'd like, why don't we go somewhere and talk, just the two of us?"
  },
  {
   "id": "2ED46D_08A2.0",
@@ -678,7 +678,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "その街で、パパとふたりきりで / 生活してたんだけど…… / そこにルシフォンの軍隊がやってきて、 / 街をさんざん荒し回って、焼き払ったの。 / パパは私の目の前で殺されたわ……。",
-  "en": "I lived there with my papa, just the two of us... but then Lushifon's army came, ransacked the town and burned it to the ground. Papa was killed right before my eyes..."
+  "en": "I lived there with my papa, just the two of us... but then Lushifon's army came, ransacked the town and burned it down. Papa was killed right before my eyes..."
  },
  {
   "id": "2ED46D_0919.1",
@@ -1041,7 +1041,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "僕は命ある限り、 / 今回の冒険を書き続けるつもりさ…… / よかったら君も協力してくれよ。",
-  "en": "As long as I live, I plan to keep writing about this adventure... I'd love it if you'd help me out."
+  "en": "As long as I live, I plan to keep writing about this adventure... I'd love your help."
  },
  {
   "id": "2ED46D_0DBD.0",
@@ -1785,7 +1785,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "よーし、ルシフォンを倒すために / 命がけで闘ってやる…… / がんばろうぜ、カケル。",
-  "en": "All right, I'll fight with everything I've got to take down Lushifon... Let's do this, Kakeru."
+  "en": "All right, I'll fight with all I've got to take down Lushifon... Let's do this, Kakeru."
  },
  {
   "id": "2ED46D_17E8.0",
@@ -1939,7 +1939,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "実は……トリアノンの村に、 / 力の種と守りの種を合わせて２０個隠したんだ。",
-  "en": "The truth is... I hid 20 Seeds of Power and Seeds of Defense, all told, in the village of Trianon."
+  "en": "The truth is... I hid 20 Seeds of Power and Seeds of Defense in the village of Trianon."
  },
  {
   "id": "2ED46D_19E9.1",
@@ -2044,7 +2044,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こうなりゃ、船に酔う前に酒で酔っ払って…… / 船底で寝ちまうしかないな。",
-  "en": "Guess I'll just get drunk on booze before I get seasick... and sleep it off in the ship's hold."
+  "en": "Guess I'll get drunk on booze before I get seasick... and sleep it off in the hold."
  },
  {
   "id": "2ED46D_1BF9.0",
@@ -2286,7 +2286,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "時代が時代なら、この俺と直接話ができるなんて / めったにないことだぜ…… / 俺の言ってる意味がわかるな？",
-  "en": "In the old days, getting to talk to me directly was a rare honor... You get what I'm saying?"
+  "en": "In the old days, talking to me directly was a rare honor... You get what I'm saying?"
  },
  {
   "id": "2ED46D_1FD7.0",
@@ -2302,7 +2302,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "冗談じゃないぜ……俺はな、 / 今まで人を盾にして生きてきた男だぜ。 / その俺様が、みんなのために闘うだと？ / そんなことをしたら、 / 地獄の神様にバチを当てられちまう。",
-  "en": "You gotta be kidding... I'm a man who's lived his whole life using other people as shields. Me, fighting for everybody else? If I did that, the god of hell himself would strike me down."
+  "en": "You gotta be kidding... I've lived my whole life using other people as shields. Me, fight for everybody? If I did that, the god of hell would strike me down."
  },
  {
   "id": "2ED46D_1FD7.2",

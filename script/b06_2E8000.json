@@ -465,7 +465,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それにしても、ひどいことになっちまった…… / せっかく弓使いの仲間ができると思ったのにな。",
-  "en": "Still, things turned out awful... And here I thought we were finally getting an archer on the team."
+  "en": "Still, things turned out awful... And here I thought we were getting an archer."
  },
  {
   "id": "2E8000_0674.0",
@@ -497,7 +497,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "むう、一戦ごとに目の色が変わってきておる。 / こりゃあ、将来が楽しみだな、わっはっはっ！！",
-  "en": "Mm, the look in your eyes changes with every battle. I can't wait to see what you'll become, wahahaha!!"
+  "en": "Mm, your eyes change with every battle. I can't wait to see your future, wahahaha!!"
  },
  {
   "id": "2E8000_06FE.0",
@@ -625,7 +625,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "カケル、 / 俺はバナナ売りのおぢさんではないぞ…… / 騎馬隊の隊長、 / ゴロンゴン様だ。",
-  "en": "Kakeru, I am not Mister Banana Seller... I am the captain of the cavalry, the great Gorongon."
+  "en": "Kakeru, I am not Mister Banana Seller... I am the captain of the Cavalry Squad, Gorongon."
  },
  {
   "id": "2E8000_085C.0",
@@ -657,7 +657,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そりゃあ言いすぎだ…… / バナナよりも、命の方が…… / あれ、どっちかな？",
-  "en": "Now that's going too far... My life matters more than bananas... Wait, or is it the other way around?"
+  "en": "Now that's going too far... My life matters more than bananas... Wait, or does it?"
  },
  {
   "id": "2E8000_08D5.0",
@@ -883,7 +883,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ねえ、もしよかったら今までのことを / 話してくれないか？ / レイモンド大陸に渡ってきて…… / 君が今までどんな冒険をしてきたかってことを。",
-  "en": "Hey, if you don't mind, would you tell me everything that's happened so far? About crossing over to the Raymond continent... and all the adventures you've had up to now."
+  "en": "Hey, if you don't mind, would you tell me what's happened so far? About crossing to the Raymond continent... and the adventures you've had up to now."
  },
  {
   "id": "2E8000_0B29.0",
@@ -1103,7 +1103,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私は見たんだ、 / ユリシーズの街が黒い霧に包まれるのを…… / そりゃあ、恐ろしい光景だった。",
-  "en": "I saw it... I saw the town of Ulysses swallowed by the Black Mist... It was a horrifying sight."
+  "en": "I saw it... I saw the town of Ulysses swallowed by the Black Mist... It was a horrifying sight to see."
  },
  {
   "id": "2E8000_0DCC.0",
@@ -2006,7 +2006,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私には、お前の行動が / 手にとるようにわかるんだ…… / とにかくひとりで行っちゃだめだぞ。",
-  "en": "I can read your every move like the palm of my hand... In any case, you are not to go off alone."
+  "en": "I can read your every move like the palm of my hand... Anyway, don't go off alone."
  },
  {
   "id": "2E8000_17CD.0",

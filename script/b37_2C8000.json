@@ -82,7 +82,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私は昔から剣術の練習ばかりしていたからな。 / 本のことはよくわからんのだ。",
-  "en": "I spent all my time practicing swordsmanship. I don't know much about books."
+  "en": "I've always just practiced swordsmanship. I don't know much about books."
  },
  {
   "id": "2C8000_0172.2",
@@ -362,7 +362,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルはナターシャの前にでると…… / いつもと態度がちがってしまうみたいだな。",
-  "en": "Whenever Kakeru's in front of you, Natasha... he seems to act different than usual."
+  "en": "Whenever Kakeru's in front of you, Natasha... he seems to act differently."
  },
  {
   "id": "2C8000_050F.1",
@@ -426,7 +426,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それはもう少し大人にならなくちゃだめだ。 / 男の優しさは言葉であらわすものじゃない。",
-  "en": "He'll have to grow up a bit more for that. A man's kindness isn't something he shows with words."
+  "en": "He'll need to grow up a bit for that. A man's kindness isn't shown with words."
  },
  {
   "id": "2C8000_0580.5",
@@ -506,7 +506,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "兜を取ったとたん、この街の中には / いやな雰囲気が漂い出し…… / せっかくいっしょに闘っている仲間たちは、 / 理由もわからずここにいたくなくなるだろう。",
-  "en": "The moment I took off my helmet, a foul mood would spread through this whole town... and the comrades fighting alongside us would want to leave, without even knowing why."
+  "en": "The moment I took off my helmet, a foul mood would spread through this town... and the comrades fighting alongside us would want to leave, without knowing why."
  },
  {
   "id": "2C8000_07A1.0",
@@ -893,7 +893,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "だって、私が話しかけても / ロクに返事をしないんだから、 / ちょっと美人だと思って、 / いい気になってるんじゃない？",
-  "en": "But she barely answers when I talk to her. Doesn't she think she's all that just because she's kinda pretty?"
+  "en": "She barely answers me. Does she think she's all that just because she's kind of pretty?"
  },
  {
   "id": "2C8000_0C8E.0",
@@ -973,7 +973,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "パパが生きてたころによく言われたわ…… / そういう言い方をする男には気をつけろってね。",
-  "en": "Back when Papa was alive, he used to tell me... to watch out for men who talk like that."
+  "en": "Back when Papa was alive, he often told me... to beware of men who talk like that."
  },
  {
   "id": "2C8000_0DBB.0",
@@ -981,7 +981,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト……調子のいいことばっかり言ってると、 / そのうちに火傷するわよ。",
-  "en": "Eto... if you keep saying such smooth things, you're going to get burned one of these days."
+  "en": "Eto... if you keep saying such smooth things, you'll get burned one of these days."
  },
  {
   "id": "2C8000_0DE7.0",
@@ -1086,7 +1086,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "だって、パパに何度となく / 聞かせてもらったお話の / その人の息子がいっしょに / いるんですもの。",
-  "en": "I mean, the son of the man from the stories Papa told me over and over is right here with us."
+  "en": "I mean, the son of the man from the stories Papa told me so often is right here with us."
  },
  {
   "id": "2C8000_0F28.0",
@@ -1118,7 +1118,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "もぐもぐ…… / エト、東にはロンボニ王国があるんだってな。 / その国のバナナはおいしいのか？",
-  "en": "Munch munch... Eto, I hear there's a Kingdom of Romboni to the east. Are the bananas there tasty?"
+  "en": "Munch munch... Eto, I hear the Kingdom of Romboni is east. Are its bananas tasty?"
  },
  {
   "id": "2C8000_0FAB.0",
@@ -2430,7 +2430,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私はユリシーズの街から逃げ続けてるの。 / ようするにプロの逃亡者ね。",
-  "en": "I've been on the run ever since I fled the town of Ulysses. In short, I'm a professional fugitive."
+  "en": "I've been on the run ever since I fled the town of Ulysses. In short, I'm a pro fugitive."
  },
  {
   "id": "2C8000_2198.1",
