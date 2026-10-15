@@ -60,6 +60,15 @@ def line_cells(s):
     return cells_of(s)[1] if s else 0
 
 
+# The box interior ends 9 px into cell 24 (cells start at x=120 hi-res, the frame starts at x=496), so a full
+# 24-cell line loses its last letter under the frame. Measured in-game (work/qa/deploy, Eto "Lushifon's").
+MAX_PX = 376
+
+
+def line_px(s):
+    return sum(W[c] for c in s)
+
+
 def wrap(text, first_budget=CELLS, budget=CELLS, indent=INDENT):
     """Greedy word wrap by cells. Returns list of line strings (each including the indent)."""
     words = text.split(' ')
@@ -69,7 +78,7 @@ def wrap(text, first_budget=CELLS, budget=CELLS, indent=INDENT):
             continue
         cand = cur + (w if cur == indent else ' ' + w)
         lim = first_budget if not lines else budget
-        if line_cells(cand) <= lim:
+        if line_cells(cand) <= lim and (lim < CELLS or line_px(cand) <= MAX_PX):
             cur = cand
         else:
             if cur == indent:
@@ -118,8 +127,8 @@ class Box:
 
     def text_line(self, s):
         b, c = cells_of(s)
-        if c > CELLS:
-            raise LayoutError('line over %d cells (%d): %r' % (CELLS, c, s))
+        if c > CELLS or line_px(s) > MAX_PX:
+            raise LayoutError('line over %d cells / %d px (%d): %r' % (CELLS, MAX_PX, c, s))
         self.b += b
         self.col_used = True
 

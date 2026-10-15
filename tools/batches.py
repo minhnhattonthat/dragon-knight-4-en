@@ -159,7 +159,12 @@ def check_text(row, en, names_en, rows):
         if ' / ' in en:
             errs.append("' / ' not allowed in dialogue (write one paragraph)")
         try:
-            layout.wrap(en)
+            lines = layout.wrap(en)
+            # a named box shows 2 text lines per page: an odd count leaves a last page with one short line
+            if row.get('speaker', '-') not in ('-', '') and len(lines) > 1 and len(lines) % 2 and \
+                    len(lines[-1].strip()) < 20:
+                errs.append('stub page: last page holds only %r (%d lines; make it %d or %d lines)'
+                            % (lines[-1].strip(), len(lines), len(lines) - 1, len(lines) + 1))
         except layout.LayoutError as ex:
             errs.append(str(ex))
     # glossary: JP term present -> EN form present; avoid list

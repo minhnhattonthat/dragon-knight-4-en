@@ -16,7 +16,9 @@ EMU = r'H:\translation\batch\.claude\skills\translate-retro-game\scripts\emu.py'
 def run(rom, sc, frames, out, mash, extra=(), state=True):
     d = os.path.join(out, 'scene_%02d' % sc)
     cmd = [sys.executable, '-X', 'utf8', EMU, rom, '--out', d, '--script', os.path.join(ROOT, 'tools', 'debug', 'warp.lua'),
-           '--var', 'SCENE=%d' % sc, '--frames', str(frames), '--mash', str(mash), '--shot-every', '200', '--sheet']
+           '--var', 'SCENE=%d' % sc, '--frames', str(frames), '--mash', str(mash), '--shot-every', '200', '--sheet',
+           # a fresh empty battery save per run: a leftover .srm turns the title into the notebook menu
+           '--sav', os.path.join(ROOT, 'work', 'states', 'blank.srm')]
     if state:
         cmd += ['--state-out', os.path.join(ROOT, 'work', 'states', 'scene_%02d.mss' % sc)]
     for x in extra:
