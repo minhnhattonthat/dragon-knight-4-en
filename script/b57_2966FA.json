@@ -1108,7 +1108,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "愛していると言う",
-  "en": ""
+  "en": "Say \"I love you\""
  },
  {
   "id": "2966FA_0FEE.0",
@@ -1116,7 +1116,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "なにも言わない",
-  "en": ""
+  "en": "Say nothing"
  },
  {
   "id": "2966FA_1006.0",
@@ -1124,7 +1124,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "愛している……マルレーネ。",
-  "en": ""
+  "en": "I love you... Marlene."
  },
  {
   "id": "2966FA_1016.0",
@@ -1132,7 +1132,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……。",
-  "en": ""
+  "en": "Ah..."
  },
  {
   "id": "2966FA_1021.0",
@@ -1140,7 +1140,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "元気で……な。",
-  "en": ""
+  "en": "Take care... of yourself."
  },
  {
   "id": "2966FA_102E.0",
@@ -1166,7 +1166,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さ、さようなら……エト。",
-  "en": ""
+  "en": "G-goodbye... Eto."
  },
  {
   "id": "2966FA_105A.0",
@@ -1174,7 +1174,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ……エトオオオオォォ……っ！",
-  "en": ""
+  "en": "E... ETOOOOOOO...!"
  },
  {
   "id": "2966FA_1076.0",
@@ -1182,7 +1182,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトが……消えちゃった。",
-  "en": ""
+  "en": "Eto... he vanished."
  },
  {
   "id": "2966FA_1087.0",
@@ -1207,7 +1207,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトの……ば、馬鹿……。",
-  "en": ""
+  "en": "Eto, you... y-you idiot..."
  },
  {
   "id": "2966FA_10AA.0",
@@ -1215,6 +1215,6 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "最後の言葉……絶対に忘れ……ない。",
-  "en": ""
+  "en": "Your last words... I'll never... forget them."
  }
 ]

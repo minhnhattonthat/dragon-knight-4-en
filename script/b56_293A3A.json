@@ -471,7 +471,7 @@
   "speaker": "セイラ",
   "form": "dlg",
   "nlines": 2,
-  "jp": "私がルシフォンのまわりをぐるぐる走るから、 / その陥にみんなでやっつけちゃいましょう！",
+  "jp": "私がルシフォンのまわりをぐるぐる走るから、 / その隙にみんなでやっつけちゃいましょう！",
   "en": "I'll run around and around Lushifon, so while he's distracted, let's all beat him up!"
  },
  {
@@ -831,7 +831,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ま、待て、できるだけ時間を稼ぐんだ…… / みんなはここを動いてはいけない。",
-  "en": ""
+  "en": "W-wait, we have to buy as much time as we can... Nobody moves from this spot."
  },
  {
   "id": "293A3A_0AC5.1",
@@ -839,7 +839,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ど、どうして……カケルひとりじゃ危ないよ。",
-  "en": ""
+  "en": "B-but why...? It's dangerous for Kakeru to go alone."
  },
  {
   "id": "293A3A_0B09.0",
@@ -847,7 +847,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私が様子を見てくる…… / とにかくじっとしてるんだ、いいな！！",
-  "en": ""
+  "en": "I'll go and see what's happening... Just stay put, all of you, understood!!"
  },
  {
   "id": "293A3A_0B39.0",
@@ -900,7 +900,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ど、どうして僕の名前を？",
-  "en": ""
+  "en": "H-how do you know my name?"
  },
  {
   "id": "293A3A_0BEC.0",
@@ -926,7 +926,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふっ、私はね……余裕なんだよ、カケル君。",
-  "en": ""
+  "en": "Heh, you see... I can afford to be relaxed, Kakeru."
  },
  {
   "id": "293A3A_0C5F.0",
@@ -943,7 +943,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……こうやって君がここにくることも、 / 私にとっては予定どおりのことだ。",
-  "en": ""
+  "en": "...Even your coming here like this is all going according to my plan."
  },
  {
   "id": "293A3A_0C9E.0",
@@ -951,7 +951,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もっとも、息子の君がくるとは意外だったが。 / 本当は君の父親がくると思っていたのだよ。",
-  "en": ""
+  "en": "Though I'll admit I didn't expect his son to come. I truly thought your father would be the one."
  },
  {
   "id": "293A3A_0C9E.1",
@@ -1022,7 +1022,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "フ……なるほど、 / ハーディスのことを言っているのか。",
-  "en": ""
+  "en": "Heh... I see, you're talking about Hardis."
  },
  {
   "id": "293A3A_0DFE.1",
@@ -1030,7 +1030,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうとも！　ここで貴様を倒す！！ / 貴様なんぞに使い捨てられてたまるか！",
-  "en": ""
+  "en": "That's right! I'll beat you right here!! I won't be used and thrown away by the likes of you!"
  },
  {
   "id": "293A3A_0DFE.2",
@@ -1038,7 +1038,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ははは、思い上がりもはなはだしいな。 / 貴様は仲間などという高尚な存在ではない。 / そう、あえていうなら……おもちゃだ。",
-  "en": ""
+  "en": "Hahaha, such outrageous conceit. You are nothing so lofty as a comrade. No... if I had to name it... you are a toy."
  },
  {
   "id": "293A3A_0E8E.0",
@@ -1046,7 +1046,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "自分のおもちゃをどうあつかおうと私の勝手…… / そうは思わないかね？　カケル君。",
-  "en": ""
+  "en": "What I do with my own toys is my business... Wouldn't you agree, Kakeru?"
  },
  {
   "id": "293A3A_0E8E.1",
@@ -1054,7 +1054,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "黙れえっ！ / 俺の命と引き換えにしてでも貴様を倒す！ / 貴様なんぞにマノを任せることなど、 / 俺はけっして認めん！",
-  "en": ""
+  "en": "Shut uuup! I'll take you down even if it costs me my life! I'll never accept leaving Mano to the likes of you!"
  },
  {
   "id": "293A3A_0F00.0",
@@ -1062,7 +1062,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "フフ……自分が手に入れられないものを / 私が手に入れるのが、そんなにしゃくかね？ / 嫉妬と独占欲……子供の感情だな。",
-  "en": ""
+  "en": "Heh heh... Does it gall you so, that I should obtain what you cannot? Jealousy and possessiveness... the feelings of a child."
  },
  {
   "id": "293A3A_0F47.0",
@@ -1070,7 +1070,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "き……貴様、俺をなめるなああぁっ！",
-  "en": ""
+  "en": "Y... you... don't you dare look down on meeeee!"
  },
  {
   "id": "293A3A_0F5F.0",
@@ -1078,7 +1078,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おろかものがっ！",
-  "en": ""
+  "en": "Fool!"
  },
  {
   "id": "293A3A_0F70.0",
@@ -1086,7 +1086,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "く……っ！？　か、身体が動かん！",
-  "en": ""
+  "en": "Ngh...?! M-my body won't move!"
  },
  {
   "id": "293A3A_0F86.0",
@@ -1094,7 +1094,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "貴様ごときが、魔界四天王の筆頭たるこの私と / 対等の実力をもつなどと、本気で思ってるのか？ / おろかものが……。",
-  "en": ""
+  "en": "Did you truly believe that the likes of you could stand as an equal to me, foremost of the Demon World's Four Heavenly Kings? Fool..."
  },
  {
   "id": "293A3A_0FCA.0",
@@ -1102,7 +1102,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォン……貴様のように、 / 平然と部下を切り捨てるようなやつに、 / 仲間がいつまでもついてくると思うのか？",
-  "en": ""
+  "en": "Lushifon... Do you really think your comrades will follow forever someone like you, who cuts down his own underlings without a second thought?"
  },
  {
   "id": "293A3A_100E.0",
@@ -1110,7 +1110,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "フ……なるほど、 / ハーディスのことを言っているのか。 / あれは単なる私のおもちゃだ。 / 自分のおもちゃをどうあつかおうと私の勝手…… / そうは思わないかね？　カケル君。",
-  "en": ""
+  "en": "Heh... I see, you're talking about Hardis. He is merely my toy. What I do with my own toys is my business... Wouldn't you agree, Kakeru?"
  },
  {
   "id": "293A3A_100E.1",
@@ -1136,7 +1136,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "せっかくだが、 / 君たちの言い分があやまっていることを / 証明してあげよう……こっちにこい、リディア。",
-  "en": ""
+  "en": "How kind of you, but allow me to prove that your argument is mistaken... Come here, Lydia."
  },
  {
   "id": "293A3A_10B0.1",
@@ -1153,7 +1153,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "リディアは私を裏切ることはない…… / 私がこれをどうあつかおうと、ね。",
-  "en": ""
+  "en": "Lydia will never betray me... no matter how I treat her."
  },
  {
   "id": "293A3A_10FE.1",
@@ -1161,7 +1161,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ばかなことを……。",
-  "en": ""
+  "en": "Nonsense..."
  },
  {
   "id": "293A3A_1138.0",
@@ -1178,7 +1178,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "リディアが私に反抗しない証拠 / ……楽しい余興を、ね。",
-  "en": ""
+  "en": "Proof that Lydia will not defy me... A delightful little entertainment."
  },
  {
   "id": "293A3A_1178.0",
@@ -1240,7 +1240,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "せっかく手に入れた神界の戦士だ。",
-  "en": ""
+  "en": "She is a warrior of the Divine World, and I went to the trouble of obtaining her."
  },
  {
   "id": "293A3A_125B.0",
@@ -1248,7 +1248,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "せっかくだから魂だけをつぶして、 / 私のいうがままに動く人形にしたてた…… / というわけだ。",
-  "en": ""
+  "en": "So, since I had her, I crushed only her soul and made her into a doll that moves exactly as I say... That is all."
  },
  {
   "id": "293A3A_125B.1",
@@ -1265,7 +1265,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケル君、 / 君も私にとってはリディアとかわらぬ…… / 遊び相手のひとつなのだよ。",
-  "en": ""
+  "en": "Kakeru, to me you are no different from Lydia... just another plaything."
  },
  {
   "id": "293A3A_12CD.0",
@@ -1282,7 +1282,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もうお前と話すことはないっ！！",
-  "en": ""
+  "en": "I've got nothing more to say to you!!"
  },
  {
   "id": "293A3A_12EC.0",
@@ -1317,7 +1317,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そのお強そうなやつらが、 / カケル君の仲間なのかね？",
-  "en": ""
+  "en": "And these mighty-looking fellows are your comrades, Kakeru?"
  },
  {
   "id": "293A3A_1421.1",
@@ -1325,7 +1325,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バカにするな！ / みんなほんとに強いんだぞ！",
-  "en": ""
+  "en": "Don't make fun of us! Everyone here is really strong!"
  },
  {
   "id": "293A3A_1421.2",
@@ -1369,7 +1369,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "君の仲間がどれだけクズか、 / その仲間とやらがたどる運命がどうなるのか…… / この私が教えてあげよう。",
-  "en": ""
+  "en": "I shall teach you just how worthless your comrades are... and what fate awaits these so-called comrades of yours."
  },
  {
   "id": "293A3A_14C9.1",
@@ -1440,7 +1440,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "バ、バナナ屋さんの夢が石にいいぃぃぃっ。",
-  "en": ""
+  "en": "M-my dream of a banana shop is turning to stoooone..."
  },
  {
   "id": "293A3A_15F0.0",
@@ -1556,7 +1556,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "せ、拙者の命もここまででこざるぅぅぅ。",
-  "en": ""
+  "en": "A-alas, my life endeth here, good siiir..."
  },
  {
   "id": "293A3A_1782.0",
@@ -1599,7 +1599,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ、レア……逃げて……。",
-  "en": ""
+  "en": "Ah, Rhea... run..."
  },
  {
   "id": "293A3A_17F7.0",
@@ -1607,7 +1607,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あああっ……ぁぁぁ。",
-  "en": ""
+  "en": "Aaahh... ahhh..."
  },
  {
   "id": "293A3A_180D.0",
@@ -1669,7 +1669,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おのれぇっ……！！",
-  "en": ""
+  "en": "Damn youuu...!!"
  },
  {
   "id": "293A3A_18E5.0",
@@ -1677,7 +1677,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "か、カケル、ナターシャを、みんなを頼むっ！！",
-  "en": ""
+  "en": "K-Kakeru, take care of Natasha, of everyone!!"
  },
  {
   "id": "293A3A_1901.0",
@@ -1937,7 +1937,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なぜだ！？",
-  "en": ""
+  "en": "W-why?!"
  },
  {
   "id": "293A3A_1B8D.0",
@@ -1945,7 +1945,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォン……。",
-  "en": ""
+  "en": "Lushifon..."
  },
  {
   "id": "293A3A_1CB1.0",
@@ -1953,7 +1953,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォン……この人たちを殺さないで。",
-  "en": ""
+  "en": "Lushifon... please don't kill these people."
  },
  {
   "id": "293A3A_1CC7.0",
@@ -1961,7 +1961,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "イ、イノ！？ / ……なぜお前がここにいる！？",
-  "en": ""
+  "en": "I-Ino?! ...Why are you here?!"
  },
  {
   "id": "293A3A_1CC7.1",
@@ -1969,7 +1969,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "イノ？",
-  "en": ""
+  "en": "Ino?"
  },
  {
   "id": "293A3A_1CEB.0",
@@ -1977,7 +1977,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マ、マルレーネ……？",
-  "en": ""
+  "en": "M-Marlene...?"
  },
  {
   "id": "293A3A_1D00.0",
@@ -1985,7 +1985,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お願い……ルシフォン。",
-  "en": ""
+  "en": "Please... Lushifon."
  },
  {
   "id": "293A3A_1D0E.0",
@@ -1993,7 +1993,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なぜ……我が魔力を封じる？",
-  "en": ""
+  "en": "Why... do you seal my magic?"
  },
  {
   "id": "293A3A_1D22.0",
@@ -2001,7 +2001,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マ、マルレーネ…… / どうしてルシフォンを知ってるの？",
-  "en": ""
+  "en": "M-Marlene... how do you know Lushifon?"
  },
  {
   "id": "293A3A_1D22.1",
@@ -2009,7 +2009,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……この世界にどうやってきた？",
-  "en": ""
+  "en": "...How did you come to this world?"
  },
  {
   "id": "293A3A_1D51.0",
@@ -2017,7 +2017,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お父様が持っていた……黒い石を使いました。",
-  "en": ""
+  "en": "I used... the black stone my father had."
  },
  {
   "id": "293A3A_1D6B.0",
@@ -2034,7 +2034,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか……私のあとを追ってきたのだな。",
-  "en": ""
+  "en": "I see... You followed after me."
  },
  {
   "id": "293A3A_1D8A.0",
@@ -2042,7 +2042,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前の気持ちには前から気づいていた……",
-  "en": ""
+  "en": "I have long been aware of your feelings..."
  },
  {
   "id": "293A3A_1DA4.0",
@@ -2050,7 +2050,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それにしても、ミナクス様の石を盗むとは / 大胆なことをするものだ。",
-  "en": ""
+  "en": "Even so, stealing Lord Minax's stone... how very bold of you."
  },
  {
   "id": "293A3A_1DCB.0",
@@ -2067,7 +2067,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ふふ……よかろう、 / 私もお前を愛そうではないか…… / さあ、私の横にきて、 / 魔力を封じることなどやめるのだ。",
-  "en": ""
+  "en": "Heh heh... Very well, I shall love you too... Now, come to my side, and stop this sealing of my magic."
  },
  {
   "id": "293A3A_1E15.0",
@@ -2075,7 +2075,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ミナクス様には私から説明しよう。",
-  "en": ""
+  "en": "I shall explain things to Lord Minax myself."
  },
  {
   "id": "293A3A_1E2D.0",
@@ -2083,7 +2083,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前は神の血を引く者を / 私の元に連れてきたのだ……そうだな、イノ？",
-  "en": ""
+  "en": "You have brought one with the blood of the gods to me... Is that not so, Ino?"
  },
  {
   "id": "293A3A_1E55.0",
@@ -2100,7 +2100,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マ、マルレーネ……ほ、本当なの！？",
-  "en": ""
+  "en": "M-Marlene... i-is that true?!"
  },
  {
   "id": "293A3A_1E71.0",
@@ -2117,7 +2117,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケル君、 / この女はマルレーネではないのだよ…… / 魔界の支配者、ミナクス様の娘、イノだ。",
-  "en": ""
+  "en": "Kakeru, this woman is not Marlene... She is Ino, daughter of Lord Minax, ruler of the Demon World."
  },
  {
   "id": "293A3A_1EAE.0",
@@ -2125,7 +2125,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネ……ウソだよね。",
-  "en": ""
+  "en": "Marlene... it's a lie, right?"
  },
  {
   "id": "293A3A_1EBD.0",
@@ -2133,7 +2133,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、ウソに決まってるよ！！",
-  "en": ""
+  "en": "O-of course it's a lie!!"
  },
  {
   "id": "293A3A_1ED0.0",
@@ -2141,7 +2141,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ほほう……お前がセイルか？",
-  "en": ""
+  "en": "Oho... So you are Seil?"
  },
  {
   "id": "293A3A_1EE2.0",
@@ -2149,7 +2149,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぎ、ぎくっ！！",
-  "en": ""
+  "en": "Y-yikes!!"
  },
  {
   "id": "293A3A_1EEF.0",
@@ -2157,7 +2157,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "神の血を引く者に、 / ドラゴンナイトの血を引く者か……くっくっくっ / めざわりなやつらがせいぞろいというところだな。",
-  "en": ""
+  "en": "One with the blood of the gods, and one with the blood of the Dragon Knight... Ku ku ku... All the pests gathered in one place, it seems."
  },
  {
   "id": "293A3A_1F32.0",
@@ -2165,7 +2165,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン、お願いです…… / あなたは最後の黒い石を持っているはず。",
-  "en": ""
+  "en": "Lushifon, I beg you... You should still have the last black stone."
  },
  {
   "id": "293A3A_1F32.1",
@@ -2173,7 +2173,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それを使って、未来の魔界に戻ってください。 / マノが待つ、未来の魔界ヘ。",
-  "en": ""
+  "en": "Use it and go back to the Demon World of the future. Back to the Demon World of the future, where Mano is waiting."
  },
  {
   "id": "293A3A_1F32.2",
@@ -2181,7 +2181,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "イノ、どうしたと言うのだ？",
-  "en": ""
+  "en": "Ino, what has come over you?"
  },
  {
   "id": "293A3A_1F95.0",
@@ -2189,7 +2189,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……まさか、人間どもの味方を / するわけではあるまいな？",
-  "en": ""
+  "en": "...Surely you do not mean to take the humans' side?"
  },
  {
   "id": "293A3A_1FB4.0",
@@ -2197,7 +2197,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そう、お前はミナクス様の娘だ…… / そんなことなどあるはずがない。",
-  "en": ""
+  "en": "Yes, you are Lord Minax's daughter... Such a thing could never be."
  },
  {
   "id": "293A3A_1FB4.1",
@@ -2205,7 +2205,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォン……私は……。",
-  "en": ""
+  "en": "Lushifon... I..."
  },
  {
   "id": "293A3A_1FEA.0",
@@ -2213,7 +2213,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "かわいいイノ……さあ、私の横においで。",
-  "en": ""
+  "en": "My sweet Ino... Come now, come to my side."
  },
  {
   "id": "293A3A_2004.0",
@@ -2221,7 +2221,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "い、行っちゃだめだ！！",
-  "en": ""
+  "en": "D-don't go!!"
  },
  {
   "id": "293A3A_2015.0",
@@ -2229,7 +2229,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしたのだイノ、私に愛されたいのだろう？",
-  "en": ""
+  "en": "What is the matter, Ino? You want me to love you, do you not?"
  },
  {
   "id": "293A3A_2030.0",
@@ -2237,7 +2237,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そう、お前は私に愛されるために、 / 危険をおかしてこの世界にきたのだ。",
-  "en": ""
+  "en": "Yes, you braved danger and came to this world so that I would love you."
  },
  {
   "id": "293A3A_2057.0",
@@ -2245,7 +2245,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "う、ウソです…… / あなたは私を愛することはできません…… / そして私もあなたを / 愛することはできないのです。",
-  "en": ""
+  "en": "Th-that's a lie... You cannot love me... and I cannot love you either."
  },
  {
   "id": "293A3A_2095.0",
@@ -2253,7 +2253,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんなことはない、私はお前のことを愛している / ……さあ、こっちにおいで。",
-  "en": ""
+  "en": "That is not so, I do love you... Now, come here."
  },
  {
   "id": "293A3A_2095.1",
@@ -2261,7 +2261,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私は……エトさんを愛しています。",
-  "en": ""
+  "en": "I... I love Eto."
  },
  {
   "id": "293A3A_20D5.0",
@@ -2269,7 +2269,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト？",
-  "en": ""
+  "en": "Eto?"
  },
  {
   "id": "293A3A_20DE.0",
@@ -2277,7 +2277,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私がエトだ……文句あるか？",
-  "en": ""
+  "en": "I'm Eto... Got a problem with that?"
  },
  {
   "id": "293A3A_20F3.0",
@@ -2285,7 +2285,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はっはっはっ！！　なんだ、人間ではないか！！",
-  "en": ""
+  "en": "Hahaha!! Why, he's just a human!!"
  },
  {
   "id": "293A3A_210F.0",
@@ -2293,7 +2293,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "人間のどこが悪い。",
-  "en": ""
+  "en": "What's wrong with being human?"
  },
  {
   "id": "293A3A_211E.0",
@@ -2301,7 +2301,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "イノは魔族の女だ、 / どうして人間を愛することができる？",
-  "en": ""
+  "en": "Ino is a demon woman. How could she possibly love a human?"
  },
  {
   "id": "293A3A_211E.1",
@@ -2309,7 +2309,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン、お前にその答えはわからないさ。 / たとえ何度生まれ変わろうとな。",
-  "en": ""
+  "en": "Lushifon, you'll never understand the answer to that. Not even if you were reborn a hundred times."
  },
  {
   "id": "293A3A_211E.2",
@@ -2317,7 +2317,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "聞いた風なことを言うな…… / イノ、私の横にくるのだ。",
-  "en": ""
+  "en": "Spare me your knowing airs... Ino, come to my side."
  },
  {
   "id": "293A3A_211E.3",
@@ -2325,7 +2325,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いやです。",
-  "en": ""
+  "en": "No."
  },
  {
   "id": "293A3A_2195.0",
@@ -2333,7 +2333,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさんの言うとおりでした……",
-  "en": ""
+  "en": "Eto was right..."
  },
  {
   "id": "293A3A_21AA.0",
@@ -2341,7 +2341,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォン、あなたの言葉を聞いていて、 / 私がまちがっていたことが / はっきりわかりました。",
-  "en": ""
+  "en": "Lushifon, listening to your words, I've come to see clearly that I was wrong."
  },
  {
   "id": "293A3A_21AA.1",
@@ -2349,7 +2349,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どう……わかったのだ？",
-  "en": ""
+  "en": "See... what, exactly?"
  },
  {
   "id": "293A3A_21E8.0",
@@ -2357,7 +2357,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたを愛していると錯覚していたことをです… / 私はあなたを愛してなんかいなかった。",
-  "en": ""
+  "en": "That I only fooled myself into thinking I loved you... I never loved you at all."
  },
  {
   "id": "293A3A_21E8.1",
@@ -2365,7 +2365,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はっはっはっはっはっ！！",
-  "en": ""
+  "en": "Hahahahaha!!"
  },
  {
   "id": "293A3A_222B.0",
@@ -2373,7 +2373,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "……イノ、人間どもの味方となり、 / 我が魔力を封じるとは…… / ミナクス様もさぞ悲しまれることだろう。",
-  "en": ""
+  "en": "...Ino, to side with the humans and seal my magic... Lord Minax will surely be grieved."
  },
  {
   "id": "293A3A_222B.1",
@@ -2381,7 +2381,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前が裏切ったのは、私だけではない……",
-  "en": ""
+  "en": "I am not the only one you have betrayed..."
  },
  {
   "id": "293A3A_227E.0",
@@ -2389,7 +2389,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ミナクス様はもちろん、 / 姉であるマノまでも裏切ったのだぞ！！",
-  "en": ""
+  "en": "You have betrayed not only Lord Minax, but even your own sister, Mano!!"
  },
  {
   "id": "293A3A_22A4.0",
@@ -2397,7 +2397,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いいや、ちがうぞ…… / お前は魔界全体を裏切ったことになるのだ。",
-  "en": ""
+  "en": "No, more than that... You have betrayed the entire Demon World."
  },
  {
   "id": "293A3A_22A4.1",
@@ -2405,7 +2405,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "黒い石を使って未来ヘ帰れだと！！",
-  "en": ""
+  "en": "And you tell me to use the black stone and go back to the future!!"
  },
  {
   "id": "293A3A_22E4.0",
@@ -2413,7 +2413,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……四天王のひとりであるこの私が、 / 人間ひとり殺せずに魔界ヘ戻れと言うのか！？",
-  "en": ""
+  "en": "...You would have me, one of the Four Heavenly Kings, return to the Demon World without killing a single human?!"
  },
  {
   "id": "293A3A_230F.0",
@@ -2421,7 +2421,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォン……わ、私は……。",
-  "en": ""
+  "en": "Lushifon... I-I..."
  },
  {
   "id": "293A3A_231F.0",
@@ -2429,7 +2429,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ええい、言いわけなど聞きたくもない！！",
-  "en": ""
+  "en": "Enough, I have no wish to hear your excuses!!"
  },
  {
   "id": "293A3A_2338.0",
@@ -2437,7 +2437,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……私が神の血を引く者を殺さずに戻れば、 / 姉であるマノの呪いは永遠に解けないのだ！！",
-  "en": ""
+  "en": "...If I return without killing the one with the blood of the gods, the curse on your sister Mano will never be lifted!!"
  },
  {
   "id": "293A3A_236D.0",
@@ -2454,7 +2454,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "魔力など使わなくても、 / お前たちを殺すことは造作のないことだ…… / そしてイノ、お前は最後に / 一番ひどい殺し方をしてやろう！！",
-  "en": ""
+  "en": "I need no magic to kill the lot of you, it is no effort at all... And Ino, you will die last, in the most cruel way of all!!"
  },
  {
   "id": "293A3A_23BE.0",
@@ -2462,7 +2462,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさんのためなら…… / 死ぬことだって恐くありません。",
-  "en": ""
+  "en": "For Eto's sake... I'm not even afraid to die."
  },
  {
   "id": "293A3A_23BE.1",
@@ -2479,7 +2479,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "よく言った…… / では、望みどおりにしてやろうではないか。",
-  "en": ""
+  "en": "Well said... Then I shall grant your wish."
  },
  {
   "id": "293A3A_2411.0",
@@ -2487,7 +2487,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "肉体を失った精鋭部隊の魂たちよ！！ / 再びこいつらを倒すチャンスを与えてやるぞ！！",
-  "en": ""
+  "en": "Souls of my elite troops who have lost your bodies!! I give you another chance to destroy these wretches!!"
  },
  {
   "id": "293A3A_2411.1",
@@ -2495,7 +2495,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "リディアよ、やつらを魔空間に引きずりこめ！！",
-  "en": ""
+  "en": "Lydia, drag them into the demon dimension!!"
  },
  {
   "id": "293A3A_2472.0",
@@ -2503,7 +2503,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いや……まだだ。",
-  "en": ""
+  "en": "No... not yet."
  },
  {
   "id": "293A3A_2480.0",
@@ -2511,7 +2511,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だれかを待ってるの？",
-  "en": ""
+  "en": "Are you waiting for someone?"
  },
  {
   "id": "293A3A_2490.0",
@@ -2519,7 +2519,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いいや……たとえ待ったとしても、 / その人は現われないだろう。",
-  "en": ""
+  "en": "No... Even if I waited, that person probably wouldn't come."
  },
  {
   "id": "293A3A_24B6.0",
@@ -2527,7 +2527,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネさんは……どこにいるの？",
-  "en": ""
+  "en": "Where... is Marlene?"
  },
  {
   "id": "293A3A_24CA.0",
@@ -2544,7 +2544,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんな……また同じことが起きてしまうわ。",
-  "en": ""
+  "en": "No... The same thing is going to happen all over again."
  },
  {
   "id": "293A3A_24EC.0",
@@ -2552,7 +2552,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "歴史は……時間は……人間ごとき小さな存在では / どうすることも……できないのだな……。",
-  "en": ""
+  "en": "History... time... Something as small as a human can do nothing... about any of it..."
  },
  {
   "id": "293A3A_2520.0",
@@ -2560,7 +2560,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、どうするの？　……お城の中に入るの？",
-  "en": ""
+  "en": "Eto, what are we going to do? ...Are we going into the castle?"
  },
  {
   "id": "293A3A_253C.0",
@@ -2568,7 +2568,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ここまできて……もうあとには戻れない。",
-  "en": ""
+  "en": "We've come this far... There's no turning back now."
  },
  {
   "id": "293A3A_2555.0",
@@ -2576,7 +2576,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わかったわエト…… / なにが起ころうと、精一杯闘いましょう。",
-  "en": ""
+  "en": "All right, Eto... Whatever happens, let's fight with everything we've got."
  },
  {
   "id": "293A3A_257B.0",
@@ -2584,7 +2584,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "絶対に……死なないんだから。",
-  "en": ""
+  "en": "I am absolutely... not going to die."
  },
  {
   "id": "293A3A_258D.0",
@@ -2592,7 +2592,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私の魔法ではかなわないかもしれませんが…… / 精一杯闘ってみます。",
-  "en": ""
+  "en": "My magic may not be a match for him... but I'll fight with all my might."
  },
  {
   "id": "293A3A_25B7.0",
@@ -2600,7 +2600,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトよう、心臓が破裂しそうだぜ。",
-  "en": ""
+  "en": "Hey, Eto, my heart feels like it's gonna burst."
  },
  {
   "id": "293A3A_25D0.0",
@@ -2608,7 +2608,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たとえルシフォンに破れたとしても…… / 私は仲間たちのことを忘れんぞ。",
-  "en": ""
+  "en": "Even if we are defeated by Lushifon... I will not forget my comrades."
  },
  {
   "id": "293A3A_25F7.0",
@@ -2634,7 +2634,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト……ルシフォンを倒したら、 / いっしょにお酒を飲みましょうね。",
-  "en": ""
+  "en": "Eto... once we beat Lushifon, let's have a drink together, okay?"
  },
  {
   "id": "293A3A_2659.0",
@@ -2660,7 +2660,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "エトよう、 / ルシフォンを倒して軍隊を解散しても…… / 俺のことを忘れるんじゃねーぞ。",
-  "en": ""
+  "en": "Hey, Eto, even after we beat Lushifon and the army breaks up... don't you go forgettin' about me."
  },
  {
   "id": "293A3A_26C2.0",
@@ -2677,7 +2677,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん……がんばりましょう。",
-  "en": ""
+  "en": "Eto... let's do our best."
  },
  {
   "id": "293A3A_2700.0",
@@ -2685,7 +2685,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……色々とありがとうな。",
-  "en": ""
+  "en": "Eto... thanks for everything."
  },
  {
   "id": "293A3A_2714.0",
@@ -2711,7 +2711,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なあエト、ルシフォンを倒したら…… / いっしょに酒でも飲もうぜ。",
-  "en": ""
+  "en": "Hey, Eto, once we beat Lushifon... let's go have a drink together."
  },
  {
   "id": "293A3A_2774.0",
@@ -2719,7 +2719,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私……みんなのこと、 / 絶対に忘れないからね。",
-  "en": ""
+  "en": "I... I'll never forget any of you, okay?"
  },
  {
   "id": "293A3A_2791.0",
@@ -2745,7 +2745,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト殿……拙者はがんばるでござる。",
-  "en": ""
+  "en": "Master Eto... I shall give it my all, good sir."
  },
  {
   "id": "293A3A_27EB.0",
@@ -2762,7 +2762,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……マルレーネはどこにいるのだ？",
-  "en": ""
+  "en": "...Where is Marlene?"
  },
  {
   "id": "293A3A_282A.0",
@@ -2770,7 +2770,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やあエト君……とうとう僕の小説も、 / 最終章に近づいてきたよ。",
-  "en": ""
+  "en": "Hey there, Eto... My novel is finally nearing its last chapter."
  },
  {
   "id": "293A3A_284F.0",
@@ -2778,7 +2778,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今度はどのノートに書くかな……",
-  "en": ""
+  "en": "Now, which notebook should I write in next..."
  },
  {
   "id": "293A3A_2866.0",
@@ -2795,7 +2795,7 @@
   "form": "choice",
   "nlines": 2,
   "jp": "エト君は何色が好きなんだい？ / 青色のノート",
-  "en": ""
+  "en": "Eto, what color do you like? / Blue notebook"
  },
  {
   "id": "293A3A_2893.0",
@@ -2812,7 +2812,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだな……青色のノートがいいな。",
-  "en": ""
+  "en": "Let's see... The blue notebook would be good."
  },
  {
   "id": "293A3A_28E3.0",
@@ -2829,7 +2829,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだな……赤色のノートがいいな。",
-  "en": ""
+  "en": "Let's see... The red notebook would be good."
  },
  {
   "id": "293A3A_2917.0",
@@ -2846,7 +2846,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだな……緑色のノートがいいな。",
-  "en": ""
+  "en": "Let's see... The green notebook would be good."
  },
  {
   "id": "293A3A_294B.0",
@@ -2872,7 +2872,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "とても楽しかったよ……エト君。",
-  "en": ""
+  "en": "It's been a lot of fun... Eto."
  },
  {
   "id": "293A3A_2981.0",
@@ -2880,7 +2880,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "すまないロイドン…… / 今は話をしてる気分じゃないんだ。",
-  "en": ""
+  "en": "Sorry, Roydon... I'm not in the mood to talk right now."
  },
  {
   "id": "293A3A_2981.1",
@@ -2888,7 +2888,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そりゃないよ……エト君。",
-  "en": ""
+  "en": "Aw, c-come on... Eto."
  },
  {
   "id": "293A3A_29B3.0",
@@ -2896,7 +2896,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕はルシフォンなんか恐くないよ…… / サイレスの炎で真っ黒コゲにしてやる。",
-  "en": ""
+  "en": "I'm not scared of Lushifon... I'll burn him to a crisp with Cyres's fire."
  },
  {
   "id": "293A3A_29E1.0",
@@ -2912,7 +2912,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンを倒して、 / へレネと平和に暮らしたい……。",
-  "en": ""
+  "en": "I want to defeat Lushifon and live in peace with Helene..."
  },
  {
   "id": "293A3A_2A05.0",
@@ -2920,7 +2920,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネ、ルシフォンは……必ず倒す！",
-  "en": ""
+  "en": "Helene, I'll defeat Lushifon... I swear it!"
  },
  {
   "id": "293A3A_2A16.0",
@@ -2928,7 +2928,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おい、おやじ……みんななんで並んでるんだ？",
-  "en": ""
+  "en": "Hey, old man... Why's everyone lined up?"
  },
  {
   "id": "293A3A_2A32.0",
@@ -2936,7 +2936,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それは、これから最後の闘いが始まるからだ。",
-  "en": ""
+  "en": "Because the final battle is about to begin."
  },
  {
   "id": "293A3A_2A4E.0",
@@ -2944,7 +2944,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そいつは強いのか？",
-  "en": ""
+  "en": "I-is he strong?"
  },
  {
   "id": "293A3A_2A5F.0",
@@ -2952,7 +2952,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あたり前だ……ルシフォン軍の親玉だからな。",
-  "en": ""
+  "en": "Of course... He's the boss of Lushifon's army."
  },
  {
   "id": "293A3A_2A7C.0",
@@ -2960,7 +2960,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ……なんて逃げ脚の早いやつだ。",
-  "en": ""
+  "en": "Whoa... He sure is quick to run away."
  },
  {
   "id": "293A3A_2A92.0",
@@ -2968,7 +2968,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "まあ……私たちにつき合って、 / 石になることはないだろう。",
-  "en": ""
+  "en": "Well... There's no need for him to stick with us and get turned to stone."
  },
  {
   "id": "293A3A_2AB9.0",
@@ -2985,7 +2985,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おい人間、早く城の中に入ろうぜ。",
-  "en": ""
+  "en": "Hey, human, let's hurry up and get inside the castle."
  },
  {
   "id": "293A3A_2AF5.0",

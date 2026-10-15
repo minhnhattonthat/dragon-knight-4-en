@@ -858,7 +858,7 @@
   "speaker": "カロン",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……。",
+  "jp": "ｚｚｚ……ｚｚｚ……。",
   "en": "Zzz... Zzz..."
  },
  {
@@ -874,7 +874,7 @@
   "speaker": "カロン",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……。",
+  "jp": "ｚｚｚ……ｚｚｚ……。",
   "en": "",
   "dup": "2E0000_0AEB.0"
  },
@@ -1627,7 +1627,7 @@
   "speaker": "トルへス",
   "form": "dlg",
   "nlines": 2,
-  "jp": "この街にポセイドンの像があるだろ？ / その像を曉めていたら、話しかけてきたんだ。",
+  "jp": "この街にポセイドンの像があるだろ？ / その像を眺めていたら、話しかけてきたんだ。",
   "en": "There's a statue of Poseidon in this town, right? I was looking at it, and it started talking to me."
  },
  {

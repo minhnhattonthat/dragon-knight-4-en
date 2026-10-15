@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あっ、ごめんなさい。",
-  "en": ""
+  "en": "Oh, I'm sorry."
  },
  {
   "id": "03028A_0000.1",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "げ、げほげほげほげほっ！！",
-  "en": ""
+  "en": "*Cough cough cough cough!!*"
  },
  {
   "id": "03028A_001F.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 12,
   "jp": "ネレイドはエトヘの恋慕の情を / 心の奥にそっとしまって、 / ユリシーズの街で魔法教室を / 開いています。 / 彼女に教えられる / かわいい生徒たちは、 / ちょっとドジでおマヌケな / ネレイド先生が大好きです。 / きっと彼女は / 素敵な男性を見つけて、 / かわいいお嫁さんに / なることでしょう。",
-  "en": ""
+  "en": "Nereid tucked her love for Eto quietly away in the depths of her heart, and now runs a magic class in Ulysses. Her adorable students just love Miss Nereid, who's a little clumsy and a bit of a scatterbrain. Surely she'll find a wonderful man one day and become a lovely bride."
  },
  {
   "id": "03028A_00AE.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いやだ、 / まだ結婚するつもりはないの。",
-  "en": ""
+  "en": "Oh, stop it, I'm not planning to get married yet."
  },
  {
   "id": "03028A_00CC.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さてと、今日は / どこで宿をとるかな。",
-  "en": ""
+  "en": "Well now, where should I stay tonight?"
  },
  {
   "id": "03028A_00E7.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 12,
   "jp": "カルタスはルシフォンを / 倒したあと、生まれ故郷である / ユリシーズの街に戻りました。 / しかし、カケルたちとの冒険で / すっかり放浪癖のついた彼は、 / すぐに街を飛び出し / 新しい冒険を求めて / 街から街ヘと旅を続けています。 / そして、いつの日にか再び / カケルたちといっしょに / 冒険の旅ができることを / 夢見ているのです。",
-  "en": ""
+  "en": "After defeating Lushifon, Cartas returned to his hometown of Ulysses. But his adventures with Kakeru and the others had given him a serious case of wanderlust, and he soon dashed out of town again. Now he travels from town to town in search of new adventures. And he dreams that someday he'll go adventuring with Kakeru and the others once more."
  },
  {
   "id": "03028A_0180.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルぅ、 / 俺と遊んでくれよお。",
-  "en": ""
+  "en": "Kakeruuu, come hang out with me!"
  },
  {
   "id": "03028A_019A.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだよ、文句あるのか？",
-  "en": ""
+  "en": "What? You got a problem with that?"
  },
  {
   "id": "03028A_01AF.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 8,
   "jp": "カケル…… / そしてハーディスとの / 実らぬ愛に悲観したカロンは、 / しばらくレイモンド王国で / 自暴自棄の生活を / していましたが、 / その心の痛手をバネに / 美少年雑誌「恋太郎」を創刊。",
-  "en": ""
+  "en": "Despairing over his unrequited love for Kakeru... and for Hardis, Charon spent a while in the Kingdom of Raymond living a reckless, self-destructive life. But he turned his heartache into a springboard and launched 'Lover Boy', a magazine all about pretty boys."
  },
  {
   "id": "03028A_0213.0",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "その業界では / 名前を知らない者がないほどの / 大御所になってしまいました。 / しかし心の底では / カケルと共に過ごした / 楽しい日々が忘れられません。",
-  "en": ""
+  "en": "He became such a big shot that there's no one in the business who doesn't know his name. But deep in his heart, he can't forget the happy days he spent with Kakeru."
  },
  {
   "id": "03028A_0262.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ハーディス、愛しているぞ。 / そしてカケル殿、 / やっぱり今でも愛してるぞ。",
-  "en": ""
+  "en": "Hardis, I love you. And Master Kakeru, I still love you too, after all."
  },
  {
   "id": "03028A_028C.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "リディア……魔界に…… / マノのもとに帰ろう。",
-  "en": ""
+  "en": "Lydia... let us go back... to the Demon World... back to Mano."
  },
  {
   "id": "03028A_02AD.0",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 10,
   "jp": "あの魔界での闘いで / ルシフォンが倒された時、 / リディアは / かりそめの精神をも失い、 / 魂の抜けがらに / なってしまいました。 / その彼女を連れて、 / どこヘともなく / 去っていったのが / ハーディスです。",
-  "en": ""
+  "en": "When Lushifon was defeated in that battle in the Demon World, Lydia lost even her borrowed mind and became an empty shell without a soul. It was Hardis who took her with him and left for parts unknown."
  },
  {
   "id": "03028A_0311.0",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 8,
   "jp": "彼はリディアとともに、 / 未来の魔界に帰る方法を / 探して旅に出たのです。 / 心にマノの面影をひきずって……。 / しかし彼の心の中には、 / もうひとりの人物が / 宿っていました。 / それは……",
-  "en": ""
+  "en": "He set out on a journey with Lydia to search for a way back to the Demon World of the future, still haunted by the memory of Mano... But in his heart, another person had taken up residence as well. That person was..."
  },
  {
   "id": "03028A_0374.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カロン、あなたは / どうしているだろうか……。 / マノ……私は……。",
-  "en": ""
+  "en": "Charon, I wonder how you are doing... Mano... I..."
  },
  {
   "id": "03028A_039B.0",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やっぱり魚は / こうでなくっちゃ！！",
-  "en": ""
+  "en": "Now this is what a fish should look like!!"
  },
  {
   "id": "03028A_03B4.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 8,
   "jp": "生まれ故郷であるシーボーズの / 港街に戻ったネプチューンは、 / 父親のあとを継ぎ / 漁師になりました。 / 真っ黒に日焼けさせた肌を / 輝かせながら、 / 彼女は今日も仕事に / 精を出しています。",
-  "en": ""
+  "en": "Neptune returned to her hometown, the port town of Seaboze, and took over from her father as a fisher. Her deep-tanned skin glowing, she works hard at her job again today."
  },
  {
   "id": "03028A_0416.0",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "彼女にとってエトや / カケルたちと共に闘った日々は、 / すでに思い出の１ページに / なろうとしていました。",
-  "en": ""
+  "en": "For her, the days she fought alongside Eto, Kakeru and the others were already becoming a page in her memories."
  },
  {
   "id": "03028A_044D.0",
@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "そんな彼女でも、 / ベッドに入る前に / 必ず言う言葉があります。 / そしてその言葉を言うと、 / 彼女の心は暖かい気持ちで / いっぱいになるのです。",
-  "en": ""
+  "en": "Even so, there are words she always says before she gets into bed. And when she says them, her heart fills with warmth."
  },
  {
   "id": "03028A_0498.0",
@@ -157,7 +157,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おやすみ……エト。",
-  "en": ""
+  "en": "Good night... Eto."
  },
  {
   "id": "03028A_04A9.0",
@@ -165,7 +165,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "このバナナを見てくれ！！",
-  "en": ""
+  "en": "Look at this banana!!"
  },
  {
   "id": "03028A_04BB.0",
@@ -173,7 +173,7 @@
   "form": "dlg",
   "nlines": 12,
   "jp": "孤島から持ち帰った / バナナの苗に品種改良を / 重ねに重ね、 / ついに見事なバナナを / 作り出したゴロンゴンは、 / そのバナナを / 「ゴロンゴンバナナ」と命名、 / 夢であった / バナナ屋さんチェーン店も / 大成功を収め、 / 今ではりっぱな / 実業家となりました。",
-  "en": ""
+  "en": "Gorongon crossbred the banana seedlings he brought back from the deserted island again and again, until at last he created a magnificent banana. He named it the 'Gorongon Banana', and the banana shop chain he had always dreamed of was a huge success. Now he is a fine, upstanding businessman."
  },
  {
   "id": "03028A_053F.0",
@@ -181,7 +181,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "あと彼がしなければ / ならないことは、 / かわいいお嫁さんを / もらうことだけです。",
-  "en": ""
+  "en": "All he has left to do is find himself a lovely bride."
  },
  {
   "id": "03028A_056A.0",
@@ -189,7 +189,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふん、私は女より / バナナが好きなのだ。",
-  "en": ""
+  "en": "Hmph, I like bananas more than women."
  },
  {
   "id": "03028A_0585.0",
@@ -197,7 +197,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あーら、いらっしゃい。",
-  "en": ""
+  "en": "Well, hello there, welcome."
  },
  {
   "id": "03028A_0597.0",
@@ -205,7 +205,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "パンドラは生まれ故郷である / ミシエルの街に戻ると、 / そこでルシフォンを倒した / 立役者として一軒の酒場を / プレゼントされる事になりました。",
-  "en": ""
+  "en": "When Pandora returned to her hometown of Michiel, she was to be presented with a tavern of her own as one of the heroes who defeated Lushifon."
  },
  {
   "id": "03028A_05DD.0",
@@ -213,7 +213,7 @@
   "form": "dlg",
   "nlines": 9,
   "jp": "しかし彼女は / その申し出を丁重に断ると、 / シーボーズの港街にある、 / カケルやエトと初めて出会った / 思い出の酒場に / 戻ってきてしまいました。 / そして今日も / その酒場の踊り子として / 元気に働いているのです。",
-  "en": ""
+  "en": "But she politely turned down the offer and ended up going back to the tavern in the port town of Seaboze, the place full of memories where she first met Kakeru and Eto. And today she's still working there as a dancer, full of energy."
  },
  {
   "id": "03028A_0646.0",
@@ -221,7 +221,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ただでもらうなんて、 / 私はいやなの。",
-  "en": ""
+  "en": "I just don't like getting things for free."
  },
  {
   "id": "03028A_0661.0",
@@ -229,7 +229,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さあみなさん、 / ご飯の時間ですよ。",
-  "en": ""
+  "en": "Come along, everyone, it's time to eat."
  },
  {
   "id": "03028A_067B.0",
@@ -237,7 +237,7 @@
   "form": "dlg",
   "nlines": 9,
   "jp": "ルシフォン軍に捕らえられていた / エルフ一族を助け出して、 / トリアノンの村に戻った / メイフェアは、 / 毎日が目の回るような忙しさです。 / 両親を失った子供たちの / 母親がわりとなった彼女は、 / 今日も優しい視線を / 子供たちに投げかけてます。",
-  "en": ""
+  "en": "Having rescued the elves held captive by Lushifon's army and returned to Trianon, Mayfair is dizzyingly busy every day. She has become a mother to the children who lost their parents, and today, too, she watches over them with gentle eyes."
  },
  {
   "id": "03028A_06F6.0",
@@ -245,7 +245,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "いつの日か彼女の努力はむくわれ、 / トリアノンの村は / 昔のように明るく美しい村に / 戻ることでしょう。",
-  "en": ""
+  "en": "Someday her efforts will be rewarded, and Trianon will surely become the bright, beautiful village it once was."
  },
  {
   "id": "03028A_0729.0",
@@ -253,7 +253,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん、 / 私を見守っててくださいね。",
-  "en": ""
+  "en": "Eto, please watch over me."
  },
  {
   "id": "03028A_0745.0",
@@ -261,7 +261,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さあみんな、ご飯だぞ。",
-  "en": ""
+  "en": "Okay, everybody, chow time."
  },
  {
   "id": "03028A_0758.0",
@@ -269,7 +269,7 @@
   "form": "dlg",
   "nlines": 9,
   "jp": "ルシフォン軍に捕らえられていた / エルフ一族を助け出し、 / トリアノンの村に戻った / クラリスは、 / 毎日が目の回るような忙しさです。 / 両親を失った子供たちの / 母親がわりとなった彼女は、 / 今日も優しい視線を / 子供たちに投げかけてます。",
-  "en": ""
+  "en": "Having rescued the elves held captive by Lushifon's army and returned to Trianon, Clarice is dizzyingly busy every day. She has become a mother to the children who lost their parents, and today, too, she watches over them with gentle eyes."
  },
  {
   "id": "03028A_07D2.0",
@@ -286,7 +286,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……私、がんばるからな。",
-  "en": ""
+  "en": "Eto... I'm gonna do my best, you hear?"
  },
  {
   "id": "03028A_081A.0",
@@ -294,7 +294,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "誰か、俺の相手をしてくれ。",
-  "en": ""
+  "en": "Somebody, come fight me."
  },
  {
   "id": "03028A_082F.0",
@@ -302,7 +302,7 @@
   "form": "dlg",
   "nlines": 9,
   "jp": "エトとカケルに影響された / サントスはロンボニ王国に戻らず、 / 新たなる冒険を求め、 / 一人で旅を続けています。 / 道すがら剣士を見つけては / 仲間にならないかと誘い、 / そして街にたどり着けば / どこかに悪いやつがいないか / 聞き回っています。",
-  "en": ""
+  "en": "Inspired by Eto and Kakeru, Santos didn't return to the Kingdom of Romboni. Instead he keeps traveling alone in search of new adventures. Whenever he spots a swordsman along the way, he asks them to join him, and whenever he reaches a town, he goes around asking if there are any bad guys about."
  },
  {
   "id": "03028A_08A6.0",
@@ -310,7 +310,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "しかしルシフォンはもちろん、 / エトやカケル、そして / 共に闘った仲間たちがいない今、 / 退屈な冒険に飽きているという / ウワサです。",
-  "en": ""
+  "en": "But with Lushifon gone, of course, and no Eto, no Kakeru, and none of the comrades he fought beside, rumor has it he's getting sick of these boring adventures."
  },
  {
   "id": "03028A_08EA.0",
@@ -318,7 +318,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロンボニ王国に戻ろうかな……。",
-  "en": ""
+  "en": "Maybe I'll go back to the Kingdom of Romboni..."
  },
  {
   "id": "03028A_08FC.0",
@@ -326,7 +326,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんな掃除の仕方じゃ / だめだぞい。",
-  "en": ""
+  "en": "That's no way to clean it, I tell ye."
  },
  {
   "id": "03028A_0918.0",
@@ -334,7 +334,7 @@
   "form": "dlg",
   "nlines": 8,
   "jp": "生まれ故郷である / ミシエルの街に戻ったガリバンは、 / その後レイモンド王国に招かれ、 / 今ではレイモンド王国大砲部隊長 / をしています。 / 若い砲術隊兵士を訓練しながら、 / いつもガリバンの頭に浮かぶのは / 共に闘った仲間たちのことです。",
-  "en": ""
+  "en": "Galivan returned to his hometown of Michiel, was later invited to the Kingdom of Raymond, and is now the commander of the Kingdom of Raymond's cannon corps. As he trains the young soldiers of the Gunnery Squad, what always comes to Galivan's mind are the comrades he fought beside."
  },
  {
   "id": "03028A_0987.0",
@@ -342,7 +342,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "みんなどうしてるかぞい？",
-  "en": ""
+  "en": "I wonder how everyone's doin', I tell ye?"
  },
  {
   "id": "03028A_099A.0",
@@ -350,7 +350,7 @@
   "form": "dlg",
   "nlines": 8,
   "jp": "ガリバンはピカピカに磨かれた / 大砲を見ながら思います。 / この大砲が火を吹くような / 世の中であってはいけない、と。 / しかしカケルたちと共に闘った / 熱く燃えるような日々が、 / ガリバンには / 懐かしくてならないのです。",
-  "en": ""
+  "en": "Gazing at his polished, gleaming cannons, Galivan thinks: the world must never again be a place where these cannons breathe fire. And yet Galivan can't help missing those burning, passionate days he spent fighting alongside Kakeru and the others."
  },
  {
   "id": "03028A_0A0D.0",
@@ -358,7 +358,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "アンナ、カケルさんに / 手紙を出しましたか？",
-  "en": ""
+  "en": "Anna, did you send the letter to Kakeru?"
  },
  {
   "id": "03028A_0A29.0",
@@ -366,7 +366,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はい、ビアンカ様。",
-  "en": ""
+  "en": "Yes, Lady Bianca."
  },
  {
   "id": "03028A_0A37.0",
@@ -374,7 +374,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ビアンカ姫はロンボニ王国に戻り、 / 以前と同じように / 平和な日々を送っています。",
-  "en": ""
+  "en": "Princess Bianca returned to the Kingdom of Romboni and lives peaceful days just as before."
  },
  {
   "id": "03028A_0A5F.0",
@@ -382,7 +382,7 @@
   "form": "dlg",
   "nlines": 10,
   "jp": "ロンボニ王はビアンカ姫に / レイモンド王国との / 婚姻を勧めてますが、 / ビアンカ姫は絶対に / 首を縦に振りません。 / 彼女の心の中には / エトの存在が大きすぎ、 / どんなに素敵な男性を見ても / エトと比べると / 見劣りがしてしまうのです。",
-  "en": ""
+  "en": "The King of Romboni urges Princess Bianca to marry into the Kingdom of Raymond, but Princess Bianca absolutely refuses to nod. Eto looms too large in her heart, and no matter how wonderful a man she meets, he pales next to Eto."
  },
  {
   "id": "03028A_0AD4.0",
@@ -390,7 +390,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ビアンカ、この世にいない / 男を思っていても / 仕方がないではないか。",
-  "en": ""
+  "en": "Bianca, there's no use pining for a man who is no longer in this world."
  },
  {
   "id": "03028A_0AFD.0",
@@ -398,7 +398,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いいえお父様、 / 今はいないだけですわ。",
-  "en": ""
+  "en": "No, Father. He's only not here right now."
  },
  {
   "id": "03028A_0B16.0",
@@ -406,7 +406,7 @@
   "form": "dlg",
   "nlines": 8,
   "jp": "そう言うとビアンカは、 / ロンボニ王に微笑みます。 / そう、 / 彼女の言うとおりなのです。 / エトがいないのは今だけ、 / 数年後にはエトと全く / 同じ姿をしたカケルが / いるはずなのですから。",
-  "en": ""
+  "en": "With that, Bianca smiles at the King of Romboni. Yes, she's quite right. Eto is only gone for now, for in a few years there should be a Kakeru who looks exactly like Eto."
  },
  {
   "id": "03028A_0B7A.0",
@@ -423,7 +423,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ネクラマンサーが / どうしてるかというと……。",
-  "en": ""
+  "en": "As for what the Necromancer is up to..."
  },
  {
   "id": "03028A_0B9A.0",
@@ -440,7 +440,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "それは彼自身しか知りません。 / どこかの街で今日も、 / ぶつぶつと愚痴を / 言ってるのでしょう。",
-  "en": ""
+  "en": "Only he knows that. He's probably in some town somewhere today, muttering complaints to himself."
  },
  {
   "id": "03028A_0BD7.0",
@@ -448,7 +448,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふん、大きなお世話だ。",
-  "en": ""
+  "en": "Hmph, mind your own business."
  },
  {
   "id": "03028A_0BEA.0",
@@ -456,7 +456,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃっほう！！",
-  "en": ""
+  "en": "Wahooo!!"
  },
  {
   "id": "03028A_0BF8.0",
@@ -464,7 +464,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "世の中が平和になった / ある日のこと、世界中から / 脚の速さを自慢する / 強者が集まる大会が、 / レイモンド王国で開催されました。",
-  "en": ""
+  "en": "One day, after peace had come to the world, a contest was held in the Kingdom of Raymond, gathering champions from all over the world who were proud of their fast feet."
  },
  {
   "id": "03028A_0C39.0",
@@ -472,7 +472,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "数万人の人々が見守る中、 / セイラはその大会で / 総合優勝を遂げ、 / 自慢の脚の実力を / 世界に証明したわけです。",
-  "en": ""
+  "en": "With tens of thousands of people watching, Sayla took the overall championship in that contest, proving the power of her prized legs to the whole world."
  },
  {
   "id": "03028A_0C7A.0",
@@ -480,7 +480,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "その大会後の彼女は / スターのようにもてはやされ、 / 今では各大陸から引っ張りだこの / 有名人となってしまいました。",
-  "en": ""
+  "en": "After the contest she was fawned over like a star, and now she's a celebrity in demand on every continent."
  },
  {
   "id": "03028A_0CC2.0",
@@ -488,7 +488,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ロイドンとは / どうなったかって？",
-  "en": ""
+  "en": "...What happened with Roydon, you ask?"
  },
  {
   "id": "03028A_0CD5.0",
@@ -496,7 +496,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "女は恋愛よりも仕事よ。",
-  "en": ""
+  "en": "For a woman, work comes before love."
  },
  {
   "id": "03028A_0CE9.0",
@@ -504,7 +504,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "というわけで、 / すっぱりロイドンと / 別れたセイラは、 / 今ではライムリン王国の王子と / 浮名を流しているという / うわさです。",
-  "en": ""
+  "en": "And so, having dumped Roydon cleanly, Sayla is now rumored to be romantically involved with the prince of Limerin."
  },
  {
   "id": "03028A_0D22.0",
@@ -512,7 +512,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なによ、文句ある？",
-  "en": ""
+  "en": "What? Got a problem with that?"
  },
  {
   "id": "03028A_0D3B.0",
@@ -520,7 +520,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "セイラにふられたロイドンは / 失恋の痛手を感じるヒマもなく、 / トリアノンの村でもくもくと / 冒険小説を書き上げ、 / そしてそれを各大陸に / 向けて出版。",
-  "en": ""
+  "en": "Dumped by Sayla, Roydon didn't even have time to feel the sting of heartbreak. He quietly wrote an adventure novel in Trianon and published it across every continent."
  },
  {
   "id": "03028A_0D85.0",
@@ -528,7 +528,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "エトとカケルたちがおりなす / その冒険小説は / 各大陸で売れに売れ、 / ロイドンは一躍有名小説家と / なってしまいました。",
-  "en": ""
+  "en": "The adventure novel, starring Eto, Kakeru and the others, sold like hotcakes on every continent, and Roydon became a famous novelist overnight."
  },
  {
   "id": "03028A_0DC5.0",
@@ -536,7 +536,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "ルシフォンを倒し / カケルたちと別れたロイドンは、 / トリアノンの村でもくもくと / 冒険小説を書き上げ、 / そしてそれを各大陸に / 向けて出版。",
-  "en": ""
+  "en": "After defeating Lushifon and parting ways with Kakeru and the others, Roydon quietly wrote an adventure novel in Trianon and published it across every continent."
  },
  {
   "id": "03028A_0E03.0",
@@ -553,7 +553,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……でもなあ。",
-  "en": ""
+  "en": "Hmm... but still..."
  },
  {
   "id": "03028A_0E4F.0",
@@ -561,7 +561,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "夢であった有名小説家となっても、 / ロイドンの心は / なぜか満ち足りてません。 / ある晩ロイドンは机に向かい、 / ミネルバ大陸あてに / 手紙を書いています。",
-  "en": ""
+  "en": "Even after becoming the famous novelist he dreamed of being, Roydon's heart somehow isn't satisfied. One night, Roydon sits at his desk and writes a letter addressed to the Minerva continent."
  },
  {
   "id": "03028A_0EA2.0",
@@ -569,7 +569,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "拝啓カケル殿、 / そろそろ冒険に出ませんか？",
-  "en": ""
+  "en": "Dear Kakeru, isn't it about time we set out on another adventure?"
  },
  {
   "id": "03028A_0EC2.0",
@@ -577,7 +577,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あーあ、退屈だなぁ。",
-  "en": ""
+  "en": "Haaah, I'm so bored."
  },
  {
   "id": "03028A_0ED5.0",
@@ -585,7 +585,7 @@
   "form": "dlg",
   "nlines": 10,
   "jp": "ルシフォンを倒し / ミシエルの街に戻った / ロザリンドは、 / 今は亡きおじいちゃんの / あとを継ぎ、その若さで / 街の長となってしまいました。 / 街の人々は彼女のことを / お姫様のように扱い、 / 街のシンボルとして / 大事にしてくれています。",
-  "en": ""
+  "en": "After defeating Lushifon and returning to Michiel, Rosalind succeeded her late grandpa and, young as she is, became the head of the town. The townspeople treat her like a princess and cherish her as the symbol of the town."
  },
  {
   "id": "03028A_0F44.0",
@@ -593,7 +593,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル、なにしてるのかな？",
-  "en": ""
+  "en": "I wonder what Seil's doing right now?"
  },
  {
   "id": "03028A_0F57.0",
@@ -601,7 +601,7 @@
   "form": "dlg",
   "nlines": 7,
   "jp": "今は仕方なくはなればなれに / なっていますが、 / 彼女はセイルのことを / あきらめたわけではありません。 / いつの日か街の人達の目を盗み、 / セイルのいるミネルバ大陸に / 行こうと心に決めているのです。",
-  "en": ""
+  "en": "For now they've had no choice but to be apart, but she hasn't given up on Seil. She's made up her mind that someday she'll slip past the townspeople's watchful eyes and go to the Minerva continent where Seil is."
  },
  {
   "id": "03028A_0FBD.0",
@@ -609,7 +609,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、セイルの / お嫁さんになりたいの。",
-  "en": ""
+  "en": "I want to be Seil's bride."
  },
  {
   "id": "03028A_0FD8.0",
@@ -617,7 +617,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーい、ひっく！！",
-  "en": ""
+  "en": "Woo-ee, *hic*!!"
  },
  {
   "id": "03028A_0FE8.0",
@@ -625,7 +625,7 @@
   "form": "dlg",
   "nlines": 11,
   "jp": "期待していたピエールの自伝は / 誰も書いてくれるはずもなく、 / やけになったピエールは / ホビットの村で酒びたりの / 毎日を送っているようです。 / しかしピエールは心に誓いました、 / だれも書いてくれないのなら / 自分で書いてやろうと。 / いつの日か、ピエールが主人公で / カケルとエトが脇役の冒険小説が / 世に出まわるでしょう。",
-  "en": ""
+  "en": "Of course, nobody ever wrote the autobiography Pierre was hoping for, and in despair he seems to be spending every day drowning in drink in the Hobbit village. But Pierre has sworn in his heart: if nobody will write it for him, he'll write it himself. Someday an adventure novel starring Pierre, with Kakeru and Eto as the side characters, will hit the shelves."
  },
  {
   "id": "03028A_1081.0",
@@ -633,7 +633,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ひっく、 / 絶対に書いてやるからなぁ。",
-  "en": ""
+  "en": "*Hic*, I'm totally gonna write it, you'll see."
  },
  {
   "id": "03028A_109C.0",
@@ -641,7 +641,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やっほー！！",
-  "en": ""
+  "en": "Yahooo!!"
  },
  {
   "id": "03028A_10A9.0",
@@ -649,7 +649,7 @@
   "form": "dlg",
   "nlines": 7,
   "jp": "ホビットの村に戻ったジーナは、 / ルシフォンを倒した / 英雄として迎えられました。 / そして孤島でエトに教えられた / 爆弾の作り方に改良を加え、 / さらに強力な火薬の開発に / 成功しました。",
-  "en": ""
+  "en": "Gina returned to the Hobbit village and was welcomed as a hero who defeated Lushifon. She improved on the bomb-making that Eto taught her on the deserted island, and succeeded in developing even more powerful gunpowder."
  },
  {
   "id": "03028A_110A.0",
@@ -657,7 +657,7 @@
   "form": "dlg",
   "nlines": 7,
   "jp": "今では村一番の爆弾使いとして、 / 相変わらず村の地面に穴を / 開け続けているというウワサです。 / 彼女にとって / ルシフォン軍との闘いは、 / すでに過去のものに / なろうとしてました。",
-  "en": ""
+  "en": "Now, as the best bomber in the village, rumor has it she's still blasting holes in the village grounds as always. For her, the fight against Lushifon's army was already becoming a thing of the past."
  },
  {
   "id": "03028A_1172.0",
@@ -665,7 +665,7 @@
   "form": "dlg",
   "nlines": 11,
   "jp": "いつも明るくふるまうジーナでも、 / 思い出すと胸が熱くなる / ことがあります。 / ドラゴンの砦での出来事が / 頭に浮かぶたびに、 / 彼女の心の中はカケルのことで / いっぱいになってしまうのです。 / その時だけ / 彼女の顔から笑顔が消えて、 / 遠いミネルバ大陸のほうを / ぼんやりとながめるのでした。",
-  "en": ""
+  "en": "But even Gina, who always acts so cheerful, has memories that make her heart ache. Whenever the events at the Dragon Fortress come to mind, her heart fills up with thoughts of Kakeru. Only then does the smile vanish from her face, as she gazes absently toward the faraway Minerva continent."
  },
  {
   "id": "03028A_1203.0",
@@ -673,7 +673,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今度、ミネルバ大陸に / 行ってみようかな。",
-  "en": ""
+  "en": "Maybe I'll go visit the Minerva continent sometime."
  },
  {
   "id": "03028A_1223.0",
@@ -681,7 +681,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "上手じゃない、へレネ。",
-  "en": ""
+  "en": "You're good at this, Helene."
  },
  {
   "id": "03028A_1232.0",
@@ -689,7 +689,7 @@
   "form": "dlg",
   "nlines": 7,
   "jp": "レアとへレネの姉妹は、 / 共にロンボニ王国で / 幸せに暮らしています。 / ルシフォンを倒した / 立役者として街中の / 人気者になった彼女たちには、 / たくさんの男友だちができました。",
-  "en": ""
+  "en": "The sisters Rhea and Helene live happily together in the Kingdom of Romboni. As heroes who helped defeat Lushifon, they've become the darlings of the whole town and have made lots of boy friends."
  },
  {
   "id": "03028A_1289.0",
@@ -697,7 +697,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "レアもいまでは / 普通の女の子のように、 / その男友だちと / 花や本の話をしています。 / もはや彼女に弓や武術の / 話をする人は一人もいません。",
-  "en": ""
+  "en": "Now Rhea, like any ordinary girl, chats with those boys about flowers and books. Not a single person talks to her about bows or martial arts anymore."
  },
  {
   "id": "03028A_12D5.0",
@@ -705,7 +705,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……退屈だわ。",
-  "en": ""
+  "en": "...How boring."
  },
  {
   "id": "03028A_12E5.0",
@@ -713,7 +713,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "レアは思っています。 / 普通の女の子になることが / こんなに退屈なことだったのかと。",
-  "en": ""
+  "en": "Rhea thinks to herself: she never knew becoming an ordinary girl would be this boring."
  },
  {
   "id": "03028A_1313.0",
@@ -721,7 +721,7 @@
   "form": "dlg",
   "nlines": 7,
   "jp": "そして、その思いは / へレネも同じでした。 / 冒険の旅の楽しさを / 知ってしまった彼女たちは、 / 今でもカケルが再び自分を / 冒険に連れていってくれることを / 信じています。",
-  "en": ""
+  "en": "And Helene felt the very same way. Having learned the joy of adventuring, the two still believe that Kakeru will take them on an adventure again someday."
  },
  {
   "id": "03028A_1366.0",
@@ -729,7 +729,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "レアはその日のために / へレネに一生懸命 / 弓の練習をさせているのです。",
-  "en": ""
+  "en": "For that day, Rhea is making Helene practice archery as hard as she can."
  },
  {
   "id": "03028A_138E.0",
@@ -737,7 +737,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "へレネ、今度はあなたも / 一緒に闘うのよ。",
-  "en": ""
+  "en": "Helene, next time you're going to fight with me."
  },
  {
   "id": "03028A_13AC.0",
@@ -745,7 +745,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "レアとへレネの姉妹は、 / 闘いの中ではなればなれに / なっても互いに求め合い、 / ついには再会を果たしたほどに / 深いきずなで結び合わされた / 姉妹でした。",
-  "en": ""
+  "en": "The sisters Rhea and Helene were bound by a bond so deep that even when the fighting tore them apart, they kept searching for each other until at last they were reunited."
  },
  {
   "id": "03028A_1401.0",
@@ -753,7 +753,7 @@
   "form": "dlg",
   "nlines": 10,
   "jp": "けれど闘いは、 / 結局この姉妹を一方の死によって / 引きさいてしまったのです。 / いま彼女は、 / 自分たちがもたらした / 平和な世界で、 / かつて冒険中に送った、 / 短くとも楽しかった / 姉妹いっしょの日々を / 思い返しているのです。",
-  "en": ""
+  "en": "Yet in the end, the fighting tore the sisters apart with the death of one of them. Now, in the peaceful world they helped bring about, she looks back on the days the sisters spent together on their adventure, short but full of joy."
  },
  {
   "id": "03028A_147C.0",
@@ -761,7 +761,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "レア…… / 今ここにあなたがいたら……。",
-  "en": ""
+  "en": "Rhea... if only you were here now..."
  },
  {
   "id": "03028A_1496.0",
@@ -769,7 +769,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "へレネ…… / あなたがここにいてくれたら……。",
-  "en": ""
+  "en": "Helene... if only you were here with me..."
  },
  {
   "id": "03028A_14B3.0",
@@ -777,7 +777,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "にょにょ、難しいにょ。",
-  "en": ""
+  "en": "Nyo nyo, this is hard, nyo."
  },
  {
   "id": "03028A_14C6.0",
@@ -785,7 +785,7 @@
   "form": "dlg",
   "nlines": 9,
   "jp": "生まれ故郷である / ホビットの村に戻ったラビットは、 / そこで英雄扱いされることに / 嫌気がさし、 / とうとうドラゴニア大陸にある / ドワラルの村に引っ越して / しまいました。 / どうやら彼は目立つことが / 苦手のようです。",
-  "en": ""
+  "en": "Rabbit returned to his hometown, the Hobbit village, but got fed up with being treated as a hero there, and in the end moved away to Dwaral on the Dragonia continent. It seems he's not one for standing out."
  },
  {
   "id": "03028A_1528.0",
@@ -793,7 +793,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "そして今はドワラルの村で / 鍛冶屋の見習いをしながら、 / 夜は魔法学校に通うという / 毎日を過ごしています。 / そう、ラビットは再び冒険の旅が / 始まると信じているのです。",
-  "en": ""
+  "en": "Now in Dwaral, he spends his days as a blacksmith's apprentice and goes to magic school at night. Yes, Rabbit believes that another adventure is bound to begin."
  },
  {
   "id": "03028A_1584.0",
@@ -801,7 +801,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これからの時代は、 / 魔導師だにょ。",
-  "en": ""
+  "en": "The future belongs to sorcerers, nyo."
  },
  {
   "id": "03028A_15A1.0",
@@ -809,7 +809,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "拙者が掃除する煙突は、 / ぴかぴかでござる。",
-  "en": ""
+  "en": "The chimneys I sweep, good sir, are spotless."
  },
  {
   "id": "03028A_15C5.0",
@@ -817,7 +817,7 @@
   "form": "dlg",
   "nlines": 7,
   "jp": "ミシエルの街に戻ったパウエルは、 / なんと煙突掃除屋さんを / 始めました。 / 周りの人たちは、 / ルシフォンを倒した英雄が / そんなことをする必要はないと / 言ってくれます。",
-  "en": ""
+  "en": "Powell returned to Michiel and, of all things, started a chimney sweeping business. The people around him tell him that a hero who defeated Lushifon has no need to do such work."
  },
  {
   "id": "03028A_161A.0",
@@ -825,7 +825,7 @@
   "form": "dlg",
   "nlines": 9,
   "jp": "しかしパウエルはそんな言葉を / 気にもとめず、 / 今日も元気に / 煙突掃除をしているのです。 / そう、彼は自分のことを / 英雄だとは思っていません。 / パウエルにとって本当の英雄は / エトひとりだと / 思ってるからなのです。",
-  "en": ""
+  "en": "But Powell pays their words no mind and happily sweeps chimneys again today. You see, he doesn't think of himself as a hero. To Powell, the only true hero is Eto alone."
  },
  {
   "id": "03028A_168A.0",
@@ -833,7 +833,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "拙者、 / エト殿のファンでござる。",
-  "en": ""
+  "en": "I am, good sir, a devoted admirer of Master Eto."
  },
  {
   "id": "03028A_16A5.0",
@@ -841,7 +841,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "にゃああん。",
-  "en": ""
+  "en": "Nyaaaan."
  },
  {
   "id": "03028A_16B2.0",
@@ -849,7 +849,7 @@
   "form": "dlg",
   "nlines": 10,
   "jp": "ルシフォンを倒したあと、 / ターニャンは誰にも / わからないようにそっと / 姿を消しました。 / カケルやセイルが自分を / ミネルバ大陸に誘ってくれた / ことは知っています。 / 生まれて初めて人間に / 優しくされた彼女には、 / その優しさだけで十分なのでした。",
-  "en": ""
+  "en": "After Lushifon was defeated, Tanyan quietly vanished without anyone noticing. She knows Kakeru and Seil invited her to the Minerva continent. Having been treated kindly by humans for the first time in her life, that kindness alone was enough for her."
  },
  {
   "id": "03028A_172E.0",
@@ -857,7 +857,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そして彼女は今日もどこかで、 / ひとり夜空を見上げて / 鳴き声を上げていることでしょう。",
-  "en": ""
+  "en": "And today, somewhere, she's probably gazing up at the night sky alone and crying out."
  },
  {
   "id": "03028A_175F.0",
@@ -865,7 +865,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それにしても彼女は / いったい何者だったのでしょうか？",
-  "en": ""
+  "en": "But just who in the world was she, anyway?"
  },
  {
   "id": "03028A_1779.0",
@@ -873,7 +873,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "教えない、にゃん。",
-  "en": ""
+  "en": "Not telling, nya."
  },
  {
   "id": "03028A_1789.0",
@@ -881,7 +881,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わ、私のパンツを / 洗ってください。",
-  "en": ""
+  "en": "P-please wash my underpants."
  },
  {
   "id": "03028A_17A4.0",
@@ -889,7 +889,7 @@
   "form": "dlg",
   "nlines": 11,
   "jp": "ルシフォンを倒したあと、 / ポーの港街に戻ったバルカンは / 街の名誉市民となり、 / なに不自由なく暮らしています。 / しかし実は、バルカンの心は / ぽっかりと穴が開いたような / 状態なのです。 / どんなに街の人たちから / 尊敬され敬われようと、 / 彼には足りないものが / ひとつだけあります。",
-  "en": ""
+  "en": "After Lushifon was defeated, Vulcan returned to the port town of Poe, became an honorary citizen, and now lives without want for anything. But the truth is, Vulcan's heart feels as if there's a gaping hole in it. No matter how much the townspeople respect and honor him, there's just one thing he's missing."
  },
  {
   "id": "03028A_1835.0",
@@ -897,7 +897,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "そしてそのぽっかりと / 開いた穴を埋める為に、 / 今日もバルカンは愛の告白の / 練習をしているのです。 / はたして彼に、至福の日々は / やって来るのでしょうか？",
-  "en": ""
+  "en": "And to fill that gaping hole, Vulcan is practicing his confession of love again today. Will days of bliss ever come his way?"
  },
  {
   "id": "03028A_1889.0",
@@ -905,7 +905,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "来る、必ず来る！！",
-  "en": ""
+  "en": "They will, they definitely will!!"
  },
  {
   "id": "03028A_189B.0",
@@ -913,7 +913,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ひゃっほー！！",
-  "en": ""
+  "en": "Yahooo!!"
  },
  {
   "id": "03028A_18A9.0",
@@ -921,7 +921,7 @@
   "form": "dlg",
   "nlines": 8,
   "jp": "トルルはルシフォンを倒したあと、 / ラスカスとサイレスを連れて / ドラゴンの砦に帰りました。 / 一度は人間と一緒に / 生活しろと言った長老も、 / 今ではトルルと別れることが / 辛くなったのか / 二度と口にしません。",
-  "en": ""
+  "en": "After defeating Lushifon, Torul went back to the Dragon Fortress with Lascus and Cyres. The elder, who once told him to go live with humans, now never brings it up again, perhaps because parting with Torul has become too painful."
  },
  {
   "id": "03028A_190F.0",
@@ -929,7 +929,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "そしてトルルは、 / 今日もホワイトドラゴンたちと / いっしょに、元気一杯に / 遊んでいるのです。",
-  "en": ""
+  "en": "And today, Torul is playing with the White Dragons, full of energy."
  },
  {
   "id": "03028A_193A.0",
@@ -937,7 +937,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ラスカス、 / セイルに会いに行こうよ！！",
-  "en": ""
+  "en": "Lascus, let's go see Seil!!"
  },
  {
   "id": "03028A_1955.0",
@@ -945,7 +945,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "馬鹿者、 / そのヘっぴり腰はなんだ！！",
-  "en": ""
+  "en": "Fool! What's with that wobbly stance?!"
  },
  {
   "id": "03028A_1973.0",
@@ -953,7 +953,7 @@
   "form": "dlg",
   "nlines": 8,
   "jp": "そしてトルへスはというと、 / カケルたちを助けた功績として / ロンボニ王国に招かれ、 / そこでやっぱり訓練所の / おやじをしています。 / 彼の厳しさは有名で、 / 今までに何人もの若者が / 逃げ出したという話です。",
-  "en": ""
+  "en": "As for Torhes, he was invited to the Kingdom of Romboni as a reward for helping Kakeru and the others, and there, sure enough, he runs the training ground as its old drill master. His strictness is famous, and they say quite a few young men have run away so far."
  },
  {
   "id": "03028A_19DA.0",
@@ -961,7 +961,7 @@
   "form": "dlg",
   "nlines": 7,
   "jp": "しかしトルへスは真剣なのです、 / 再び暗黒の日々が / いつ訪れるかわかりません。 / その時にカケルを助ける若者を / ひとりでも育てようと、 / 今日も若い剣士たちを / しごきまくっています。",
-  "en": ""
+  "en": "But Torhes is serious. No one knows when dark days might come again. So that he can raise even one young man to help Kakeru when that time comes, he's drilling the young swordsmen hard again today."
  },
  {
   "id": "03028A_1A3B.0",
@@ -969,7 +969,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そんな剣の腕じゃ、 / カケルの足手まといに / なるだけだ！！",
-  "en": ""
+  "en": "With sword skills like that, you'll just be dead weight to Kakeru!!"
  },
  {
   "id": "03028A_1A62.0",
@@ -977,7 +977,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さあさあ、 / これが冒険で使用した船だよ！！",
-  "en": ""
+  "en": "Step right up! This is the ship we used on our adventure!!"
  },
  {
   "id": "03028A_1A80.0",
@@ -985,7 +985,7 @@
   "form": "dlg",
   "nlines": 10,
   "jp": "エトとカケルたちが使用した船は / タスタの港街で / モニュメントとなり、 / 船長稼業を引退したザム船長は / そのモニュメントの / 館長をしています。 / そのモニュメントのおかげで / タスタの街は一大観光地となり、 / 今日もたくさんの人々が船を / 見にやってきました。",
-  "en": ""
+  "en": "The ship used by Eto, Kakeru and the others became a monument in the port town of Tasta, and Captain Zam, now retired from sailing, serves as the monument's curator. Thanks to the monument, Tasta has become a major tourist spot, and today, too, crowds of people have come to see the ship."
  },
  {
   "id": "03028A_1B10.0",
@@ -993,7 +993,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "ザム船長は船の傷の / ひとつひとつ見るたびに、 / エトやカケルのことを / 思い出します。 / 彼にとってこの船は、 / 宝物のような存在です。",
-  "en": ""
+  "en": "Every time Captain Zam looks at each and every scratch on the ship, he remembers Eto and Kakeru. To him, this ship is a treasure."
  },
  {
   "id": "03028A_1B59.0",
@@ -1001,7 +1001,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "セイルったら、 / あたしを置いて / いなくなるなんて、 / 許せないわ！！",
-  "en": ""
+  "en": "How dare Seil run off and leave me behind! I won't forgive him!!"
  },
  {
   "id": "03028A_1B85.0",
@@ -1009,7 +1009,7 @@
   "form": "dlg",
   "nlines": 8,
   "jp": "過激な魔女ウェンディは、 / 恋するセイルに逃げられて / すっかりおかんむりです。 / 欲しいものはどんな手段に / 訴えてでも / 手に入れたい彼女ですが、 / なにしろ相手は / ドラゴンナイト。",
-  "en": ""
+  "en": "The radical witch Wendy is absolutely furious that Seil, the boy she loves, got away from her. She's the type who'll use any means necessary to get what she wants, but her target is, after all, a Dragon Knight."
  },
  {
   "id": "03028A_1BDF.0",
@@ -1017,7 +1017,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "いかに彼女が優秀な魔導師でも / おいそれとはいきません。 / そこで彼女は、 / 現在魔法の修業に / 精をだしています。",
-  "en": ""
+  "en": "No matter how skilled a sorcerer she is, it won't be easy. So for now, she's working hard at her magic training."
  },
  {
   "id": "03028A_1C22.0",
@@ -1025,7 +1025,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "目標・世界征服！ / 世界まるごとのおまけつきで、 / セイルを手に入れるのよ！！",
-  "en": ""
+  "en": "Goal: world conquest! I'll get Seil, with the whole world thrown in as a bonus!!"
  },
  {
   "id": "03028A_1C54.0",
@@ -1033,7 +1033,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もう、ライナスちゃんは / いけない子ですね。",
-  "en": ""
+  "en": "My, Linus, you're such a naughty boy."
  },
  {
   "id": "03028A_1C71.0",
@@ -1041,7 +1041,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ヘっヘっ、もう少し / このままでいさせてくれよう。",
-  "en": ""
+  "en": "Heh heh, let me stay like this just a little longer."
  },
  {
   "id": "03028A_1C91.0",
@@ -1049,7 +1049,7 @@
   "form": "dlg",
   "nlines": 9,
   "jp": "セイルとマリアンに連れられて / ソニアの街に戻ったライナスは、 / 以前よりだいぶ / ましになったようです。 / マリアンの家にも子供たちが / 戻ってきていますが、 / 彼らに対しても以前のような / 冗談では済まないいたずらは / しないようになりました。",
-  "en": ""
+  "en": "Brought back to the town of Sonia by Seil and Marian, Linus seems to have gotten a lot better than before. The children have returned to Marian's House too, but he no longer plays the kind of pranks on them that went way beyond a joke."
  },
  {
   "id": "03028A_1D09.0",
@@ -1057,7 +1057,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "街の女の子たちのお尻を触ったり、 / 下着を盗むことも / なくなりましたし、 / バーンの言うことも / 素直に聞くようになりました。",
-  "en": ""
+  "en": "He's stopped touching the town girls' bottoms and stealing their underwear, and he's started listening obediently to what Bahn says."
  },
  {
   "id": "03028A_1D4B.0",
@@ -1065,15 +1065,15 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "だってよ、 / セイルが僕をおどすんだ。 / いたずらをすると、 / カケルを呼ぶぞって。",
-  "en": ""
+  "en": "Well, see, Seil threatens me. He says if I play pranks, he'll call Kakeru."
  },
  {
   "id": "03028A_1D7B.0",
   "speaker": "",
   "form": "dlg",
   "nlines": 5,
-  "jp": "一方のマリアンは、 / あの暗黒の日々など / なかったように、 / 今日も親のない子供たちを集めて、 / 母の愛を措しみなく注いでいます。",
-  "en": ""
+  "jp": "一方のマリアンは、 / あの暗黒の日々など / なかったように、 / 今日も親のない子供たちを集めて、 / 母の愛を惜しみなく注いでいます。",
+  "en": "Marian, meanwhile, gathers orphaned children again today, as if those dark days never happened, and pours a mother's love onto them without holding back."
  },
  {
   "id": "03028A_1DC2.0",
@@ -1081,7 +1081,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "あいかわらず街の人たちの / 評判は上々ですが、 / 彼女の本当の姿は子供たちにも、 / 街の人々にもわからず、 / 冒険を共にした / 仲間にもわかりません。",
-  "en": ""
+  "en": "The townspeople still speak highly of her as ever, but her true self is a mystery to the children, to the townspeople, and even to the comrades who shared her adventures."
  },
  {
   "id": "03028A_1E10.0",
@@ -1089,14 +1089,14 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "彼女はいったい / 何者だったのでしょうか？",
-  "en": ""
+  "en": "Just who in the world was she?"
  },
  {
   "id": "03028A_1E24.0",
   "speaker": "マリアン",
   "form": "dlg",
   "nlines": 1,
-  "jp": "うふ。秘窒です（にっこり）",
-  "en": ""
+  "jp": "うふ。秘密です（にっこり）",
+  "en": "Ufu. That's a secret. (*smile*)"
  }
 ]

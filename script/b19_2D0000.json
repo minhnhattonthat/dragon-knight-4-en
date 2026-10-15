@@ -1065,7 +1065,7 @@
   "speaker": "サントス",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……。",
+  "jp": "ｚｚｚ……ｚｚｚ……。",
   "en": "",
   "dup": "2F553D_0DCE.0"
  },
@@ -1091,7 +1091,7 @@
   "speaker": "ガリバン",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……。",
+  "jp": "ｚｚｚ……ｚｚｚ……。",
   "en": "",
   "dup": "2F553D_0DEE.0"
  },
@@ -1726,7 +1726,7 @@
   "speaker": "バルカン",
   "form": "dlg",
   "nlines": 2,
-  "jp": "ふむ……お前たちが、ルシフォン軍を / ドラゴニア大陸に撒退させたやつらか？",
+  "jp": "ふむ……お前たちが、ルシフォン軍を / ドラゴニア大陸に撤退させたやつらか？",
   "en": "Hmm... So you are the ones who drove Lushifon's army back to the Dragonia continent?"
  },
  {
@@ -2247,7 +2247,7 @@
   "speaker": "",
   "form": "dlg",
   "nlines": 2,
-  "jp": "……お前に復警するまでは、 / 絶対に死ねないんだよっ！！",
+  "jp": "……お前に復讐するまでは、 / 絶対に死ねないんだよっ！！",
   "en": "...I can't die until I get my revenge on you!!"
  },
  {

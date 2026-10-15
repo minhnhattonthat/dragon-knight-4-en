@@ -168,7 +168,7 @@
   "speaker": "",
   "form": "dlg",
   "nlines": 2,
-  "jp": "私が同じことをエトに言った時、 / エトは苦虫を嗜み漬したような顔をしてたよな。",
+  "jp": "私が同じことをエトに言った時、 / エトは苦虫を噛み漬したような顔をしてたよな。",
   "en": "When I said the same thing to Eto, Eto made a face like he'd just bitten into a lemon."
  },
  {
@@ -1982,7 +1982,7 @@
   "speaker": "ピエール",
   "form": "dlg",
   "nlines": 3,
-  "jp": "そうとも、俺はルシフォンを倒して / カケルのおやじみたいに有名になりたいんだ…… / 俺の肖像画が描かれ、俺の伝記が出販される。",
+  "jp": "そうとも、俺はルシフォンを倒して / カケルのおやじみたいに有名になりたいんだ…… / 俺の肖像画が描かれ、俺の伝記が出版される。",
   "en": "That's right. I want to defeat Lushifon and get famous like Kakeru's old man... They'll paint my portrait and publish my biography."
  },
  {
@@ -2195,7 +2195,7 @@
   "speaker": "エト",
   "form": "dlg",
   "nlines": 2,
-  "jp": "パウエル、頻繋に竿を動かしてたらだめだ。 / もっとじっとしてないと。",
+  "jp": "パウエル、頻繁に竿を動かしてたらだめだ。 / もっとじっとしてないと。",
   "en": "Powell, you can't keep moving your rod around so often. You have to stay still."
  },
  {
@@ -3678,7 +3678,7 @@
   "speaker": "エト",
   "form": "dlg",
   "nlines": 2,
-  "jp": "頼む、ナターシャ…… / このことはふたりだけの秘窒にしておいてくれ。",
+  "jp": "頼む、ナターシャ…… / このことはふたりだけの秘密にしておいてくれ。",
   "en": "Please, Natasha... Keep this a secret between the two of us."
  },
  {
@@ -4191,7 +4191,7 @@
   "speaker": "サントス",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……むにゃむにゃ。",
+  "jp": "ｚｚｚ……ｚｚｚ……むにゃむにゃ。",
   "en": "",
   "dup": "2E34B4_198C.0"
  },
@@ -4218,7 +4218,7 @@
   "speaker": "ガリバン",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……乙乙乙。",
+  "jp": "ｚｚｚ……ｚｚｚ……ｚｚｚ。",
   "en": "",
   "dup": "2E34B4_1A84.0"
  },
@@ -4263,7 +4263,7 @@
   "speaker": "ネクラマンサー",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……乙乙乙。",
+  "jp": "ｚｚｚ……ｚｚｚ……ｚｚｚ。",
   "en": "",
   "dup": "2E34B4_1C72.0"
  },
@@ -4281,7 +4281,7 @@
   "speaker": "ネクラマンサー",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……。",
+  "jp": "ｚｚｚ……ｚｚｚ……。",
   "en": "",
   "dup": "2E34B4_1CA1.0"
  },
@@ -4316,7 +4316,7 @@
   "speaker": "ピエール",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……乙乙乙。",
+  "jp": "ｚｚｚ……ｚｚｚ……ｚｚｚ。",
   "en": "",
   "dup": "2E34B4_1F1E.0"
  },
@@ -4378,7 +4378,7 @@
   "speaker": "パウエル",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……乙乙乙……でござる。",
+  "jp": "ｚｚｚ……ｚｚｚ……ｚｚｚ……でござる。",
   "en": "",
   "dup": "2E34B4_2230.0"
  },
@@ -4387,7 +4387,7 @@
   "speaker": "パウエル",
   "form": "dlg",
   "nlines": 1,
-  "jp": "乙乙乙……乙乙乙……乙乙乙……でござる。",
+  "jp": "ｚｚｚ……ｚｚｚ……ｚｚｚ……でござる。",
   "en": "",
   "dup": "2E34B4_2230.0"
  },
@@ -4457,7 +4457,7 @@
   "speaker": "マリアン",
   "form": "dlg",
   "nlines": 2,
-  "jp": "ええ……こんな月のいい夜、 / ただ寝てしまうには措しくて……。",
+  "jp": "ええ……こんな月のいい夜、 / ただ寝てしまうには惜しくて……。",
   "en": "Yes... On a night with such a lovely moon, it seemed a shame to just go to sleep..."
  },
  {
