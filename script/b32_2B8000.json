@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（こ、ここは……！？）",
-  "en": ""
+  "en": "(Wh-where am I...?!)"
  },
  {
   "id": "2B8000_0015.0",
@@ -148,7 +148,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（ゆ、夢じゃないよな…… / も、もうひとりの僕が目の前にいる！？）",
-  "en": ""
+  "en": "(Th-this isn't a dream, is it... Th-there's another me right in front of me?!)"
  },
  {
   "id": "2B8000_01AE.1",
@@ -156,7 +156,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（……）",
-  "en": ""
+  "en": "(......)"
  },
  {
   "id": "2B8000_01DC.0",
@@ -164,7 +164,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（エトは僕じゃなくて、私って言ってたな）",
-  "en": ""
+  "en": "(Eto didn't talk like a kid... he always talked like a grown-up.)"
  },
  {
   "id": "2B8000_01F5.0",
@@ -199,7 +199,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルっ！！　セイルっっ！！",
-  "en": ""
+  "en": "Kakeru!! Seil!!"
  },
  {
   "id": "2B8000_0257.0",
@@ -216,7 +216,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こっちだ！！　東に行くんだ！！",
-  "en": ""
+  "en": "This way!! Head east!!"
  },
  {
   "id": "2B8000_0275.0",
@@ -233,7 +233,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいから東に逃げるんだっ！！",
-  "en": ""
+  "en": "Never mind, just flee east!!"
  },
  {
   "id": "2B8000_029A.0",
@@ -250,7 +250,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（そ、そうだ……たしかこの国には、 / 軍隊が組織されてたはずだぞ）",
-  "en": ""
+  "en": "(Th-that's right... I'm pretty sure this kingdom had an army organized...)"
  },
  {
   "id": "2B8000_02B1.1",
@@ -258,7 +258,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "レイモンド王国の兵士たちよ！！ / 俺の声が聞こえるか！？ / 聞こえた者は、俺たちといっしょにくるんだ！！ / じきに黒い霧がこの街を包み込むっ！！",
-  "en": ""
+  "en": "Soldiers of the Kingdom of Raymond!! Can you hear my voice?! All who hear me, come with us!! The Black Mist will soon engulf this town!!"
  },
  {
   "id": "2B8000_0324.0",
@@ -293,7 +293,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルっ！！　セイルっ！！　急げっ！！",
-  "en": ""
+  "en": "Kakeru!! Seil!! Hurry!!"
  },
  {
   "id": "2B8000_038E.0",
@@ -337,7 +337,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "走れっ！！　みんな走るんだっ！！",
-  "en": ""
+  "en": "Run!! Everyone, run!!"
  },
  {
   "id": "2B8000_0428.0",
@@ -363,7 +363,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そ、それは……おにーさんは物知りなんだ / ……ぜいぜいぜい。",
-  "en": ""
+  "en": "W-well, that's... because this young man knows a lot of things... *pant pant pant*"
  },
  {
   "id": "2B8000_044A.2",
@@ -380,7 +380,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うるさいっ！！",
-  "en": ""
+  "en": "Sh-shut up!!"
  },
  {
   "id": "2B8000_04AF.0",
@@ -406,7 +406,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "よ、よし……ここまでくれば、 / とりあえず大丈夫だろう。",
-  "en": ""
+  "en": "R-right... now that I've come this far, I should be safe for the moment."
  },
  {
   "id": "2B8000_04FE.1",
@@ -423,7 +423,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私はおじさんではない、おにーさんだ。",
-  "en": ""
+  "en": "I am not a mister, I'm a young man."
  },
  {
   "id": "2B8000_054D.0",
@@ -440,7 +440,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、名前！？　……えーと。",
-  "en": ""
+  "en": "M-my name?! ...Um."
  },
  {
   "id": "2B8000_0579.0",
@@ -457,7 +457,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト？　……そ、そう、俺の名前はエトだ。",
-  "en": ""
+  "en": "Eto? ...Y-yes, my name is Eto."
  },
  {
   "id": "2B8000_05A5.0",
@@ -789,7 +789,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "なあに、レイモンド王国の衛兵に聞いたんだが… / ……こいつらはただの子供じゃないらしいぞ / ……そうだろ、カケル？",
-  "en": ""
+  "en": "Oh, I heard from a guard of the Kingdom of Raymond... ...that these aren't just ordinary children... ...right, Kakeru?"
  },
  {
   "id": "2B8000_0AC7.0",
@@ -887,7 +887,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "そういえば、王様が僕たちに軍隊を / あずけるって言ってたよ…… / それにしても楽しみすぎるなあ…… / わくわく、わくわく。",
-  "en": ""
+  "en": "Come to think of it, the King said he was going to entrust an army to us... I'm so excited I can't stand it... Ooh, I can't wait, I can't wait."
  },
  {
   "id": "2B8000_0C17.0",

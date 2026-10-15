@@ -20,6 +20,22 @@ L.on_exec(0x818EF1, 0x818EF1, function()
   emu.write(0x7E0834, target, mem)
   L.log(string.format("warp: scene %d at frame %d", target, L.frame))
 end)
+-- MODE: optional module switch some frames after the scene loaded ($A2 = module, $B6 = 0):
+--   --var "MODE='battle'"  -> $A2=$09 (84:800F battle on the scene's map $0C00; deployment screen first)
+--   --var "MODE='menu'"    -> $A2=$12 (81:D5AB field menu: items / status / load / options)
+--   --var "MODE='epilogue'"-> $A2=$15 (86:8000 ending epilogue)
+local MODES = { battle = 0x09, menu = 0x12, epilogue = 0x15, story = 0x0C }
+if MODE then
+  local m = assert(MODES[MODE], "unknown MODE " .. tostring(MODE))
+  L.on_frame(function(f)
+    if done and not modeDone and f >= (MODE_AT or 2300) then
+      modeDone = true
+      emu.write(0x7E00A2, m, mem)
+      emu.write(0x7E00B6, 0, mem)
+      L.log(string.format("mode %s at frame %d", MODE, f))
+    end
+  end)
+end
 -- title -> New Game
 for _, s in ipairs({{1500, "-"}, {6, "start"}, {200, "-"}, {6, "start"}, {300, "-"}, {6, "a"}, {60, "-"}}) do
   L.press(s[2], s[1])
