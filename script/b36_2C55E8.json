@@ -723,7 +723,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いやあ、エト殿…… / 私はあなたを尊敬してしまったぞ。",
-  "en": "Why, Sir Eto... I've come to respect you."
+  "en": "Why, Master Eto... I've come to respect you."
  },
  {
   "id": "2C55E8_0933.1",
@@ -747,7 +747,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ところで、エト殿はカケル殿と / 剣さばきが似ておるな。",
-  "en": "By the way, Sir Eto, your swordsmanship resembles Master Kakeru's."
+  "en": "By the way, Master Eto, your swordsmanship resembles Master Kakeru's."
  },
  {
   "id": "2C55E8_09A3.1",
@@ -763,7 +763,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト殿……一度ぐらい顔を見せてくれ。",
-  "en": "Sir Eto... show me your face, just once."
+  "en": "Master Eto... show me your face, just once."
  },
  {
   "id": "2C55E8_09EE.0",

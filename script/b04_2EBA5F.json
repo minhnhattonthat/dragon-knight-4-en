@@ -1184,7 +1184,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "ゴロンゴン隊",
-  "en": "Gorongon Unit"
+  "en": "Gorongon's Squad"
  },
  {
   "id": "2EBA5F_1159.0",
@@ -1192,7 +1192,7 @@
   "form": "choice",
   "nlines": 2,
   "jp": "ネプチューン隊 / やめる",
-  "en": "Neptune Unit / Cancel"
+  "en": "Neptune's Squad / Cancel"
  },
  {
   "id": "2EBA5F_1171.0",
@@ -1200,7 +1200,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ゴロンゴン隊は騎士の集団だ。",
-  "en": "The Gorongon Unit is a band of knights."
+  "en": "The Gorongon's Squad is a band of knights."
  },
  {
   "id": "2EBA5F_1185.0",
@@ -1243,7 +1243,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、ゴロンゴン隊に決めるんだな…… / やつには俺から連絡しておくぜ！！",
-  "en": "So, you're going with the Gorongon Unit... I'll get word to him myself!!"
+  "en": "So, you're going with the Gorongon's Squad... I'll get word to him myself!!"
  },
  {
   "id": "2EBA5F_11D0.0",
@@ -1259,7 +1259,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……ゴロンゴン隊にしないのか？",
-  "en": "What... you're not taking the Gorongon Unit?"
+  "en": "What... you're not taking the Gorongon's Squad?"
  },
  {
   "id": "2EBA5F_11ED.0",
@@ -1275,7 +1275,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネプチューン隊は剣士の集団だ……",
-  "en": "The Neptune Unit is a band of swordsmen..."
+  "en": "The Neptune's Squad is a band of swordsmen..."
  },
  {
   "id": "2EBA5F_120D.0",
@@ -1318,7 +1318,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、ネプチューン隊に決めるんだな…… / 彼女には俺から連絡しておくぜ！！",
-  "en": "So, you're going with the Neptune Unit... I'll get word to her myself!!"
+  "en": "So, you're going with the Neptune's Squad... I'll get word to her myself!!"
  },
  {
   "id": "2EBA5F_1268.0",
@@ -1334,7 +1334,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……ネプチューン隊にしないのか？",
-  "en": "What... you're not taking the Neptune Unit?"
+  "en": "What... you're not taking the Neptune's Squad?"
  },
  {
   "id": "2EBA5F_128A.0",

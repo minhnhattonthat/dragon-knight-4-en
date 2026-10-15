@@ -38,7 +38,7 @@ def jp_cells(rom, off, end=None):
 def render(text, mode):
     """Bitmap rows (list of 14 ints, arbitrary width) and width in px."""
     rows, x = [0] * 14, 0
-    unit = 2 if mode == 'hires' else 1
+    unit = 2 if mode == 'hires' else 1       # 'thin': one hi-res px per font unit (condensed UI labels)
     gap = font_en.GAP if mode == 'hires' else 1
     cols = []
     for ch in text:
@@ -161,6 +161,165 @@ def build_pool(e, rom, pre):
     return off, end - off, data + bytes([BLANK]) * (end - off - len(data))
 
 
+def lorom_off(cpu):
+    return ((cpu & 0x7F0000) >> 1) | (cpu & 0x7FFF)
+
+
+def to_cpu(off):
+    return ((off >> 15) + 0x80) << 16 | 0x8000 | (off & 0x7FFF)
+
+
+def english_cells(text, ncells, mode, pre, eid):
+    """Codes for `text` padded with BLANK to ncells (BLANK cells cost 1 byte)."""
+    cols = render(text, mode) if text else []
+    need = (len(cols) + 15) // 16
+    if need > ncells:
+        raise ValueError('%s: %r needs %d cells, has %d' % (eid, text, need, ncells))
+    return [pre.code(r) for r in cells_from_cols(cols, need)] + [BLANK] * (ncells - need)
+
+
+# Bank $84 string tables (unit types, terrain, battle panel, digits, names) are read with $02 = #$84 set at
+# these sites; the build copies bank $84 to $E2 and points them there, so strings can grow (E2:F000-FFFF).
+BANK84_COPY = 0x310000           # file offset of $E2:8000
+BANK84_SITES = [0xF47C, 0x21302, 0x22CF7, 0x25A93]   # `LDA #$84 / STA $02` (file offsets)
+E2_ALLOC = [0x317000]            # $E2:F000.. next free byte
+
+
+def bank84_copy(img, rom):
+    img[BANK84_COPY:BANK84_COPY + 0x8000] = rom[0x20000:0x28000]
+    for s in BANK84_SITES:
+        assert img[s] == 0xA9 and img[s + 1] == 0x84 and img[s + 2] == 0x85 and img[s + 3] == 0x02, hex(s)
+        img[s + 1] = 0xE2
+
+
+def build_table(e, rom, img, pre):
+    """String table: count+1 consecutive 16-bit pointers at `table` (CPU address in bank $84; last = end of
+    last string). Each entry keeps its JP cell count (blank-padded); new strings go to $E2:F000+ and the
+    pointer table in the $E2 copy is rewritten."""
+    tab = int(e['table'], 16)
+    bank = tab & 0xFF0000
+    assert bank == 0x840000
+    n = len(e['en'])
+    ptrs = [rom[lorom_off(tab) + 2 * k] | rom[lorom_off(tab) + 2 * k + 1] << 8 for k in range(n + 1)]
+    tab_off = BANK84_COPY + (lorom_off(tab) - 0x20000)
+    for k, text in enumerate(e['en']):
+        codes, _ = jp_cells(rom, lorom_off(bank | ptrs[k]), lorom_off(bank | ptrs[k + 1]))
+        cells = codes if text is None else english_cells(text, len(codes), e['mode'], pre, '%s[%d]' % (e['id'], k))
+        data = encode_cells(cells)
+        p = E2_ALLOC[0]
+        if p + len(data) > BANK84_COPY + 0x8000:
+            raise ValueError('bank $E2 string area full')
+        img[p:p + len(data)] = data
+        E2_ALLOC[0] += len(data)
+        img[tab_off + 2 * k:tab_off + 2 * k + 2] = (0x8000 | (p & 0x7FFF)).to_bytes(2, 'little')
+        if k == n - 1:   # end pointer of the last entry
+            img[tab_off + 2 * n:tab_off + 2 * n + 2] = (0x8000 | (E2_ALLOC[0] & 0x7FFF)).to_bytes(2, 'little')
+    return
+    span_lo, span_hi = lorom_off(bank | ptrs[0]), lorom_off(bank | ptrs[n])
+    data, newp = bytearray(), []
+    for k, text in enumerate(e['en']):
+        codes, _ = jp_cells(rom, lorom_off(bank | ptrs[k]), lorom_off(bank | ptrs[k + 1]))
+        if text is None:   # keep the JP string (symbols, digits)
+            cells = codes
+        else:
+            cells = english_cells(text, len(codes), e['mode'], pre, '%s[%d]' % (e['id'], k))
+        newp.append(ptrs[0] + len(data))
+        data += encode_cells(cells)
+    newp.append(ptrs[0] + len(data))
+    if len(data) > span_hi - span_lo:
+        raise ValueError('%s: %d bytes > span %d' % (e['id'], len(data), span_hi - span_lo))
+    img[span_lo:span_lo + len(data)] = data
+    for k, p in enumerate(newp):
+        img[lorom_off(tab) + 2 * k:lorom_off(tab) + 2 * k + 2] = p.to_bytes(2, 'little')
+
+
+def build_dict_names(e, rom, img, pre):
+    """Dictionary entries (85:8ED0 table) rendered as precomposed cells, padded to the JP cell count.
+    The new strings go to the relocation area; the dictionary pointer table gets their addresses only if
+    they stay in bank $85, so entries are rewritten in place when they fit (2 bytes per cell)."""
+    from dk4 import dict_entries, DICT_TABLE, DICT_FIRST
+    ents = {c: (a, raw) for c, a, raw in dict_entries(rom)}
+    # free space: the dialogue-only fragments (codes in e['free']), unused once the script is English
+    lo, hi = (int(x, 16) for x in e['free'])
+    pos, end = ents[lo][0], ents[hi][0]
+    for code_hex, text in e['en'].items():
+        code = int(code_hex, 16)
+        a, raw = ents[code]
+        codes, _ = jp_cells(rom, a, a + len(raw) - 1)
+        cells = english_cells(text, len(codes), e['mode'], pre, '%s %s' % (e['id'], code_hex))
+        data = encode_cells(cells) + b'\x00'
+        if pos + len(data) > end:
+            raise ValueError('%s: dictionary free space exhausted' % e['id'])
+        img[pos:pos + len(data)] = data
+        cpu = to_cpu(pos)
+        assert cpu >> 16 == 0x85
+        t = DICT_TABLE + 2 * (code - DICT_FIRST)
+        img[t:t + 2] = (cpu & 0xFFFF).to_bytes(2, 'little')
+        pos += len(data)
+
+
+def build_screen(e, rom, img, pre, reloc):
+    """A label pool (linear string drawn into consecutive cells; cell k = tiles 4k+4..4k+7) plus an LZ tilemap
+    (32x32 words, hi-res: a cell is one column, rows r and r+1 = tiles t and t+2) that places pool cells.
+    e: pool_ref (site of LDA #bank/STA $02/LDY #ptr), map (cpu addr), map_bank_ref, map_ptr_ref,
+       cells: [["jp", code] | ["blank"] | ["en", text, ncells]], place: [[row, col, cell_index, ncells]],
+       clear: [[row, col_from, col_to]] (pool tiles there are blanked first)."""
+    import lz
+    codes, idx = [], []
+    for c in e['cells']:
+        idx.append(len(codes))
+        if c[0] == 'jp':
+            codes.append(int(c[1], 16))
+        elif c[0] == 'blank':
+            codes.append(BLANK)
+        else:
+            codes += english_cells(c[1], c[2], e['mode'], pre, '%s %r' % (e['id'], c[1]))
+    if len(codes) * 4 + 4 > e.get('max_tile', 0xA0):
+        raise ValueError('%s: pool too big (%d cells)' % (e['id'], len(codes)))
+    data = encode_cells(codes) + b'\x00'
+    p = reloc[0]
+    img[p:p + len(data)] = data
+    reloc[0] += len(data)
+    cpu = to_cpu(p)
+    r = int(e['pool_ref'], 16)
+    assert img[r] == 0xA9 and img[r + 2] == 0x85 and img[r + 4] == 0xA0, (e['id'], hex(r))
+    img[r + 1] = cpu >> 16
+    img[r + 5:r + 7] = (cpu & 0xFFFF).to_bytes(2, 'little')
+    # tilemap
+    mcpu = int(e['map'], 16)
+    raw, _ = lz.decompress(rom, lorom_off(mcpu))
+    m = bytearray(raw)
+
+    def put(row, col, word):
+        o = (row * 32 + col) * 2
+        m[o:o + 2] = word.to_bytes(2, 'little')
+
+    def get(row, col):
+        o = (row * 32 + col) * 2
+        return m[o] | m[o + 1] << 8
+    attr = e.get('attr', 0x2000)
+    for row, c0, c1 in e['clear']:
+        for col in range(c0, c1 + 1):
+            for rr in (row, row + 1):
+                t = get(rr, col) & 0x3FF
+                if 0 < t < e.get('max_tile', 0xA0):
+                    put(rr, col, attr)
+    for row, col, ci, n in e['place']:
+        k0 = idx[ci]
+        for j in range(n):
+            t = 4 * (k0 + j + 1)
+            put(row, col + j, attr | t)
+            put(row + 1, col + j, attr | (t + 2))
+    comp = lz.compress(bytes(m))
+    p = reloc[0]
+    img[p:p + len(comp)] = comp
+    reloc[0] += len(comp)
+    cpu = to_cpu(p)
+    img[int(e['map_bank_ref'], 16)] = cpu >> 16
+    pr = int(e['map_ptr_ref'], 16)
+    img[pr:pr + 2] = (cpu & 0xFFFF).to_bytes(2, 'little')
+
+
 def load():
     return json.load(open(os.path.join(ROOT, 'ui', 'ui.json'), encoding='utf-8'))
 
@@ -172,8 +331,10 @@ def apply(img, rom, pre_off):
     """Write every UI string with English into img. Returns list of errors."""
     pre, errs = Pre(), []
     reloc = RELOC_OFF
+    bank84_copy(img, rom)
+    E2_ALLOC[0] = 0x317000
     for e in load():
-        if not e.get('en'):
+        if not e.get('en') and e['kind'] != 'screen':
             continue
         try:
             if e['kind'] == 'linear':
@@ -195,6 +356,16 @@ def apply(img, rom, pre_off):
                         img[r + 5:r + 7] = (cpu & 0xFFFF).to_bytes(2, 'little')
                     img[off:off + nbytes] = bytes([BLANK]) * (nbytes - 1) + b'\x00'
                     reloc += len(data)
+            elif e['kind'] == 'table':
+                build_table(e, rom, img, pre)
+            elif e['kind'] == 'dict':
+                build_dict_names(e, rom, img, pre)
+            elif e['kind'] == 'screen':
+                rr = [reloc]
+                build_screen(e, rom, img, pre, rr)
+                reloc = rr[0]
+                if reloc > RELOC_END:
+                    raise ValueError('UI relocation area full')
             else:
                 off, nbytes, data = build_pool(e, rom, pre)
                 img[off:off + nbytes] = data

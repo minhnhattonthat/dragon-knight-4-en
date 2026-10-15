@@ -656,7 +656,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺はな、お前のおかげで / ひどい目に合ってるんだ！！",
-  "en": "I've been thwough a wotten time because of you!!"
+  "en": "I've been through a rotten time because of you!!"
  },
  {
   "id": "2F2B41_099B.0",
@@ -664,7 +664,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "このペンは、あやしげな商人から買った / 魔法のペンなんだぞ！！ / 消せるもんなら消してみなっ！！",
-  "en": "This pen is a magic pen I bought fwom a shady mewchant!! Twy and wub it off if you can!!"
+  "en": "This pen is a magic pen I bought from a shady merchant!! Try and rub it off if you can!!"
  },
  {
   "id": "2F2B41_09DC.0",
@@ -1504,7 +1504,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ラビット隊は……工作隊の集団だな。 / こいつはホビットの村の出身だそうだ。",
-  "en": "Rabbit's Squad is... a group of engineers. This guy says he's from the Hobbit village."
+  "en": "Rabbit's Squad is... a Sapper Squad. This guy says he's from the Hobbit village."
  },
  {
   "id": "2F2B41_1293.1",
@@ -1579,7 +1579,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "パウエル隊は工作隊だぜ…… / こいつらはミシエルの街の出身だそうだ。",
-  "en": "Powell's Squad are engineers... Says they're from the town of Michiel."
+  "en": "Powell's Squad are sappers... Says they're from the town of Michiel."
  },
  {
   "id": "2F2B41_1347.1",

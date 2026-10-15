@@ -688,7 +688,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ネレイド隊は魔導師の集団だ。 / 彼女はかわいい女の子だったぞ。",
-  "en": "Nereid's Squad is a band of mages. And she's a cute girl, too."
+  "en": "Nereid's Squad is a band of sorcerers. And she's a cute girl, too."
  },
  {
   "id": "2F9C88_093E.1",
@@ -1502,7 +1502,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、ママみたいになりたくて、 / 魔導師の修業に……",
-  "en": "I wanted to be like my mom, so I'm training as a mage..."
+  "en": "I wanted to be like my mom, so I'm training as a sorcerer..."
  },
  {
   "id": "2F9C88_1550.0",
@@ -1518,7 +1518,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、彼女は魔導師だそうだぞ…… / 俺たちの軍隊に入ってもらわないか？",
-  "en": "Kakeru, she says she's a mage... Why don't we have her join our army?"
+  "en": "Kakeru, she says she's a sorcerer... Why don't we have her join our army?"
  },
  {
   "id": "2F9C88_156D.1",
@@ -1526,7 +1526,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォンの軍にも魔導師はいるはず。",
-  "en": "Lushifon's army is bound to have mages too."
+  "en": "Lushifon's army is bound to have sorcerers too."
  },
  {
   "id": "2F9C88_15AC.0",

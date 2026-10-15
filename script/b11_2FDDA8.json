@@ -1867,7 +1867,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "ネクラマンサー隊",
-  "en": "Necromancer Squad"
+  "en": "Necromancer's Squad"
  },
  {
   "id": "2FDDA8_16C1.0",
@@ -1875,7 +1875,7 @@
   "form": "choice",
   "nlines": 2,
   "jp": "セイラ隊 / やめる",
-  "en": "Sayla Squad / Cancel"
+  "en": "Sayla's Squad / Cancel"
  },
  {
   "id": "2FDDA8_16D9.0",
@@ -1883,7 +1883,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネクラマンサー隊は魔導師だったな……",
-  "en": "The Necromancer Squad were sorcerers..."
+  "en": "The Necromancer's Squad were sorcerers..."
  },
  {
   "id": "2FDDA8_16EE.0",
@@ -1926,7 +1926,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、ネクラマンサー隊に決めるんだな…… / やつには俺から連絡しておくぜ！！",
-  "en": "So you're going with the Necromancer Squad... I'll get in touch with him for you!!"
+  "en": "So you're going with Necromancer's Squad... I'll get in touch with him for you!!"
  },
  {
   "id": "2FDDA8_1734.0",
@@ -1942,7 +1942,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……ネクラマンサー隊にしないのか？",
-  "en": "What... You're not taking the Necromancer Squad?"
+  "en": "What... You're not taking Necromancer's Squad?"
  },
  {
   "id": "2FDDA8_1750.0",
@@ -1959,7 +1959,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイラ隊は忍者隊だな…… / 俺好みの女の子だったぜ。",
-  "en": "The Sayla Squad is a ninja squad... She was just my type of girl."
+  "en": "The Sayla's Squad is a ninja squad... She was just my type of girl."
  },
  {
   "id": "2FDDA8_175E.1",
@@ -1994,7 +1994,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、セイラ隊に決めるんだな…… / 彼女には俺から連絡しておくぜ！！",
-  "en": "So you're going with the Sayla Squad... I'll get in touch with her for you!!"
+  "en": "So you're going with Sayla's Squad... I'll get in touch with her for you!!"
  },
  {
   "id": "2FDDA8_17B8.0",
@@ -2010,7 +2010,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……セイラ隊にしないのか？",
-  "en": "What... You're not taking the Sayla Squad?"
+  "en": "What... You're not taking Sayla's Squad?"
  },
  {
   "id": "2FDDA8_17D4.0",

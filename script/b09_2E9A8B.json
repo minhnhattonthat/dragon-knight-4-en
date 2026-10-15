@@ -1192,7 +1192,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "サントス隊は王室に仕えていた / 忍者たちの集団だ…… / 隊長のサントスは、 / とにかくすばしっこいやつさ。",
-  "en": "The Santos Squad is a band of ninjas who once served the royal family... Their captain, Santos, is one quick fella, let me tell you."
+  "en": "The Santos's Squad is a band of ninjas who once served the royal family... Their captain, Santos, is one quick fella, let me tell you."
  },
  {
   "id": "2E9A8B_0E07.0",
@@ -1227,7 +1227,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、サントス隊に決めるんだな…… / やつには俺から連絡しておくぜ！！",
-  "en": "Okay, so you're going with the Santos Squad... I'll get word to him myself!!"
+  "en": "Okay, so you're going with Santos's Squad... I'll get word to him myself!!"
  },
  {
   "id": "2E9A8B_0E32.0",
@@ -1243,7 +1243,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……サントス隊にしないのか？",
-  "en": "What... you're not going with the Santos Squad?"
+  "en": "What... you're not going with Santos's Squad?"
  },
  {
   "id": "2E9A8B_0E4E.0",
@@ -1259,7 +1259,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ガリバン隊はミシエルの街出身の砲術使いだ。",
-  "en": "The Galivan Squad are gunners from the town of Michiel."
+  "en": "The Galivan's Squad are gunners from the town of Michiel."
  },
  {
   "id": "2E9A8B_0E83.0",
@@ -1302,7 +1302,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、ガリバン隊に決めるんだな…… / やつには俺から連絡しておくぜ！！",
-  "en": "Okay, so you're going with the Galivan Squad... I'll get word to him myself!!"
+  "en": "Okay, so you're going with Galivan's Squad... I'll get word to him myself!!"
  },
  {
   "id": "2E9A8B_0ED5.0",
@@ -1318,7 +1318,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……ガリバン隊にしないのか？",
-  "en": "What... you're not going with the Galivan Squad?"
+  "en": "What... you're not going with Galivan's Squad?"
  },
  {
   "id": "2E9A8B_0EF1.0",
