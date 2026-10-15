@@ -137,8 +137,9 @@ class Box:
         self.col_used = self.col_used or used
 
 
-def dlg_region(segs, start_line=0, trailing_nl=False):
-    """segs: [(speaker_en or '', portrait or None, english text)]. Returns (bytes, end_line)."""
+def dlg_region(segs, start_line=0, trailing_nl=False, first_budget=CELLS):
+    """segs: [(speaker_en or '', portrait or None, english text)]. Returns (bytes, end_line).
+    first_budget: cells for the very first line when the region starts mid-line (after an inserted name)."""
     box = Box(start_line)
     for si, (name, portrait, text) in enumerate(segs):
         if name:
@@ -147,7 +148,8 @@ def dlg_region(segs, start_line=0, trailing_nl=False):
             box.nl()
         elif portrait is not None:
             box.raw(bytes([0x10, 0x05, portrait]), used=False)
-        lines = wrap(text) if text else []
+        fb = first_budget if si == 0 and not name else CELLS
+        lines = wrap(text, fb) if text else []
         for j, ln in enumerate(lines):
             if box.line == 0 and not box.col_used and name and j > 0:
                 box.raw(_name(name, portrait))  # repeat the speaker on continuation pages

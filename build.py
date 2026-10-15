@@ -121,6 +121,25 @@ def marker_text(uid, n):
     return '[%s] %s' % (uid, PANGRAM[:20 * max(1, n)].rsplit(' ', 1)[0])
 
 
+MIDLINE_LEAD = 8   # cells kept free on the first line of a mid-line region (an inserted name is up to 8 cells)
+
+
+def midline_targets(rom, g):
+    """{(block file offset, body offset)} of jump targets reached from a jump that follows text with no newline,
+    e.g. "<leader name>" JUMP -> "、 / I want you to...": the English continues on a line that already holds a name."""
+    from vm import parse_block
+    out = set()
+    for blk in unique_blocks(rom):
+        try:
+            _, _, ops = parse_block(rom, g, blk)
+        except Exception:   # pseudo blocks (epilogue stream) have no jump-into-midline cases
+            continue
+        for prev, o in zip(ops, ops[1:]):
+            if o.get('targets') and prev['kind'] == 'text' and prev['raw'][-1:] != b'\x00':
+                out.update((blk[2], t) for t in o['targets'])
+    return out
+
+
 def build(mode):
     rom = load_rom()
     g = load_glyphs()
@@ -136,6 +155,7 @@ def build(mode):
     errors = []
     prev_end = {}
     shared = {}
+    midline = midline_targets(rom, g)
     for r in regions(rom, g):
         stats['regions'] += 1
         us = units(r, rom, g)
@@ -182,7 +202,8 @@ def build(mode):
                 if r['prev_op'] is None and r['off'] in prev_end.get(r['boff'], {}):
                     start_line = prev_end[r['boff']][r['off']]
                 trailing = bool(toks) and toks[-1][0] == 'nl'
-                body, end_line = layout.dlg_region(segs, start_line, trailing)
+                first = layout.CELLS - MIDLINE_LEAD if (r['boff'], r['off']) in midline else layout.CELLS
+                body, end_line = layout.dlg_region(segs, start_line, trailing, first)
         except layout.LayoutError as ex:
             stats['errors'] += 1
             errors.append('%s: %s' % (r['id'], ex))
