@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私はひとりで死にたくないのっ！！ / だれかを道連れにしてやるう！！",
-  "en": ""
+  "en": "I don't want to die alone!! I'll take someone down with me!!"
  },
  {
   "id": "2B0000_00C0.1",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃああああっ！！",
-  "en": ""
+  "en": "Kyaaaaah!!"
  },
  {
   "id": "2B0000_00F8.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マ、マルレーネ！！　危ないっ！！",
-  "en": ""
+  "en": "M-Marlene!! Look out!!"
  },
  {
   "id": "2B0000_010C.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ、エトさん！？",
-  "en": ""
+  "en": "E-Eto?!"
  },
  {
   "id": "2B0000_011B.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃっ！！　エ、エトっ！！",
-  "en": ""
+  "en": "Kya!! E-Eto!!"
  },
  {
   "id": "2B0000_012F.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ドラゴンナイトめ！！　こうしてやるっ！！",
-  "en": ""
+  "en": "Damn Dragon Knight!! Take this!!"
  },
  {
   "id": "2B0000_0147.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぎゃああああっ！！",
-  "en": ""
+  "en": "Gyaaaaah!!"
  },
  {
   "id": "2B0000_0169.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ、危なかったね……マルレーネ。",
-  "en": ""
+  "en": "Th-that was close... Marlene."
  },
  {
   "id": "2B0000_017D.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、怪我はない？",
-  "en": ""
+  "en": "Eto, are you hurt?"
  },
  {
   "id": "2B0000_018D.0",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はあはあはあ……大丈夫だ。",
-  "en": ""
+  "en": "Hah, hah, hah... I'm fine."
  },
  {
   "id": "2B0000_0199.0",
@@ -94,7 +94,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "び、びっくりしたあ…… / 心臓が止まるかと思っちゃった。",
-  "en": ""
+  "en": "Wh-whoa, that scared me... I thought my heart was gonna stop."
  },
  {
   "id": "2B0000_01A1.1",
@@ -102,7 +102,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よーし、これでホビットの村を解放したぞ！！",
-  "en": ""
+  "en": "Alright, the Hobbit village is liberated!!"
  },
  {
   "id": "2B0000_01E4.0",
@@ -110,7 +110,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふう……危なかったな。",
-  "en": ""
+  "en": "Whew... that was close."
  },
  {
   "id": "2B0000_01F6.0",
@@ -118,7 +118,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "油断をしてはいけないぞ。 / 敵も必死だからな。",
-  "en": ""
+  "en": "Don't let your guard down. The enemy is desperate too."
  },
  {
   "id": "2B0000_0235.0",
@@ -126,7 +126,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああああああああ……こわいよ～こわいよ～。",
-  "en": ""
+  "en": "Waaaaaaaah... I'm scared, I'm scared..."
  },
  {
   "id": "2B0000_0250.0",
@@ -134,7 +134,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（たしかに……ウェンディは / ルシフォンより恐いかもしれん）",
-  "en": ""
+  "en": "(True... Wendy may be scarier than Lushifon.)"
  },
  {
   "id": "2B0000_0250.1",
@@ -142,7 +142,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うううううううううううっ！",
-  "en": ""
+  "en": "Uuuuuuuuuuuh!"
  },
  {
   "id": "2B0000_0285.0",
@@ -150,7 +150,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ねえエト……マルレーネさんってさ、 / どうしていつもさびしそうな顔をしてるのかな。",
-  "en": ""
+  "en": "Hey, Eto... why does Marlene always look so lonely?"
  },
  {
   "id": "2B0000_0285.1",
@@ -158,7 +158,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それは、さびしいからだ。",
-  "en": ""
+  "en": "Because she is lonely."
  },
  {
   "id": "2B0000_02C0.0",
@@ -166,7 +166,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、そのままじゃないか。",
-  "en": ""
+  "en": "Eto, that's just saying the same thing."
  },
  {
   "id": "2B0000_02D1.0",
@@ -174,7 +174,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんなに理由を知りたいのなら、 / 直接マルレーネと話をしてくればいい。",
-  "en": ""
+  "en": "If you want to know the reason that badly, go talk to Marlene directly."
  },
  {
   "id": "2B0000_02D1.1",
@@ -182,7 +182,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それができれば、エトに聞いたりしないよ。",
-  "en": ""
+  "en": "If I could do that, I wouldn't be asking you, Eto."
  },
  {
   "id": "2B0000_0315.0",
@@ -190,7 +190,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ねえエト……さっきからだれかに / 見られているような気がするんだけど。",
-  "en": ""
+  "en": "Hey, Eto... I feel like someone's been watching me for a while now."
  },
  {
   "id": "2B0000_0343.0",
@@ -198,7 +198,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私が見ているぞ。",
-  "en": ""
+  "en": "I am watching you."
  },
  {
   "id": "2B0000_0351.0",
@@ -215,7 +215,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "すまん……つまらないことを / 言ってしまったようだ。",
-  "en": ""
+  "en": "Sorry... seems I said something pointless."
  },
  {
   "id": "2B0000_037B.0",
@@ -223,7 +223,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あそこの箱の影にロザリンドがいるだろう？ / 彼女はお前のことが気に入ったみたいだな。",
-  "en": ""
+  "en": "See Rosalind there in the shadow of those boxes? Looks like she's taken a liking to you."
  },
  {
   "id": "2B0000_037B.1",
@@ -231,7 +231,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "はあ、どうしてそうなるんだろう。 / 僕はマルレーネさんが好きなのに。",
-  "en": ""
+  "en": "Sigh, how did it end up like that? I'm the one who likes Marlene."
  },
  {
   "id": "2B0000_03CE.0",
@@ -239,7 +239,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトは……ナターシャが好きなんでしょ？",
-  "en": ""
+  "en": "Eto... you like Natasha, don't you?"
  },
  {
   "id": "2B0000_03E5.0",
@@ -247,7 +247,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "ナターシャが好き",
-  "en": ""
+  "en": "I like Natasha"
  },
  {
   "id": "2B0000_03EF.0",
@@ -255,7 +255,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "マルレーネが好き",
-  "en": ""
+  "en": "I like Marlene"
  },
  {
   "id": "2B0000_0401.0",
@@ -263,7 +263,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだな……私はナターシャが好きだ。",
-  "en": ""
+  "en": "Let's see... I like Natasha."
  },
  {
   "id": "2B0000_0416.0",
@@ -271,7 +271,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだよね…… / エトにマルレーネさんは似合わないもの。",
-  "en": ""
+  "en": "Thought so... Marlene doesn't suit you anyway, Eto."
  },
  {
   "id": "2B0000_0416.1",
@@ -279,7 +279,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゃあ、マルレーネにしよう。",
-  "en": ""
+  "en": "In that case, I'll go with Marlene."
  },
  {
   "id": "2B0000_0446.0",
@@ -287,7 +287,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "えーっ！！ / ナターシャって言ったじゃないか！！",
-  "en": ""
+  "en": "Whaaat!! You just said Natasha!!"
  },
  {
   "id": "2B0000_0461.0",
@@ -295,7 +295,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいや、私が好きなのはマルレーネだ。",
-  "en": ""
+  "en": "No, no. The one I like is Marlene."
  },
  {
   "id": "2B0000_0476.0",
@@ -303,7 +303,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "えーーーっ！？",
-  "en": ""
+  "en": "Whaaaaat?!"
  },
  {
   "id": "2B0000_0483.0",
@@ -311,7 +311,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトはナターシャが好きなのっ！！",
-  "en": ""
+  "en": "You like Natasha, Eto!!"
  },
  {
   "id": "2B0000_0496.0",
@@ -319,7 +319,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おいおい、勝手に決めるなよ。",
-  "en": ""
+  "en": "Hey now, don't go deciding that for me."
  },
  {
   "id": "2B0000_04AA.0",
@@ -327,7 +327,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトは……ナターシャにしてよ。",
-  "en": ""
+  "en": "Eto... just pick Natasha."
  },
  {
   "id": "2B0000_04BC.0",
@@ -335,7 +335,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、なにをいじけてるんだ？",
-  "en": ""
+  "en": "Kakeru, what are you sulking about?"
  },
  {
   "id": "2B0000_04D0.0",
@@ -343,7 +343,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "別にいじけてなんかいないよ…… / マルレーネのことを考えてたんだ。",
-  "en": ""
+  "en": "I'm not sulking or anything... I was just thinking about Marlene."
  },
  {
   "id": "2B0000_04D0.1",
@@ -351,7 +351,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ウソをつけ、本当はナターシャのことだろう？",
-  "en": ""
+  "en": "Liar. You were really thinking about Natasha, weren't you?"
  },
  {
   "id": "2B0000_0508.0",
@@ -359,7 +359,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ちがうよっ、 / 本当にマルレーネのことを考えてたんだよ。 / だって、最近様子が変なんだもの。",
-  "en": ""
+  "en": "Nope! I really was thinking about Marlene. She's been acting weird lately, y'know."
  },
  {
   "id": "2B0000_0539.0",
@@ -367,7 +367,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、マルレーネのことは私にまかせろ。",
-  "en": ""
+  "en": "Kakeru, leave Marlene to me."
  },
  {
   "id": "2B0000_054F.0",
@@ -375,7 +375,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前はナターシャのことを / 考えていればいいのだ。",
-  "en": ""
+  "en": "You just keep your mind on Natasha."
  },
  {
   "id": "2B0000_0568.0",
@@ -392,7 +392,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、マルレーネは大人だ。 / そして……私も大人だ。",
-  "en": ""
+  "en": "Kakeru, Marlene is an adult. And... so am I."
  },
  {
   "id": "2B0000_0577.1",
@@ -400,7 +400,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "大人のことは大人にまかせろ…… / わかったな、カケル。",
-  "en": ""
+  "en": "Leave adult matters to the adults... Understood, Kakeru?"
  },
  {
   "id": "2B0000_0577.2",
@@ -408,7 +408,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゃあ、ナターシャは子供なの？",
-  "en": ""
+  "en": "So Natasha's a kid, then?"
  },
  {
   "id": "2B0000_05C5.0",
@@ -416,7 +416,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャが子供だったら、 / エトは相手にしないんだね。",
-  "en": ""
+  "en": "So if Natasha's a kid, you won't give her the time of day, Eto?"
  },
  {
   "id": "2B0000_05E1.0",
@@ -433,7 +433,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……私は守備範囲が広いのだ。",
-  "en": ""
+  "en": "Kakeru... my strike zone is very wide."
  },
  {
   "id": "2B0000_0603.0",
@@ -441,7 +441,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルはマルレーネのことが好きみたいだな。",
-  "en": ""
+  "en": "Seems Seil has a thing for Marlene."
  },
  {
   "id": "2B0000_061A.0",
@@ -449,7 +449,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕だって好きだよ。",
-  "en": ""
+  "en": "I like her too."
  },
  {
   "id": "2B0000_0629.0",
@@ -457,7 +457,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前の好きと、セイルの好きはちがうだろ？",
-  "en": ""
+  "en": "Your kind of \"like\" and Seil's are different, aren't they?"
  },
  {
   "id": "2B0000_0642.0",
@@ -465,7 +465,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、僕の方がセイルよりも好きなんだよね。",
-  "en": ""
+  "en": "Yep. I like her way more than Seil does."
  },
  {
   "id": "2B0000_065B.0",
@@ -473,7 +473,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは……いい性格をしてるな。",
-  "en": ""
+  "en": "Kakeru... you've got quite the personality."
  },
  {
   "id": "2B0000_0672.0",
@@ -481,7 +481,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネってね、 / 僕としかまともに話をしないんだって。",
-  "en": ""
+  "en": "Y'know, they say Marlene doesn't really talk properly with anyone but me."
  },
  {
   "id": "2B0000_0672.1",
@@ -489,7 +489,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私とだってちゃんと話をしてくれるぞ。",
-  "en": ""
+  "en": "She talks properly with me too."
  },
  {
   "id": "2B0000_06A5.0",
@@ -497,7 +497,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゃあ、僕とエトだけだよ……きっと。",
-  "en": ""
+  "en": "Then it's just me and Eto... probably."
  },
  {
   "id": "2B0000_06BD.0",
@@ -523,7 +523,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なんだその目は…… / 私に対抗しようとでもいうのか？",
-  "en": ""
+  "en": "What's with that look...? You planning to compete with me?"
  },
  {
   "id": "2B0000_06EE.0",
@@ -531,7 +531,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト、早く東に出発しようよ…… / 僕は一ヶ所にじっとしてるのが苦手なんだ。",
-  "en": ""
+  "en": "Eto, c'mon, let's head east already... I'm no good at staying put in one place."
  },
  {
   "id": "2B0000_0722.0",
@@ -539,7 +539,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やあ、ナターシャ。 / どうした、元気がないな？",
-  "en": ""
+  "en": "Hello, Natasha. What's wrong? You look down."
  },
  {
   "id": "2B0000_0722.1",
@@ -547,7 +547,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "元気はあるわよ……すごく。",
-  "en": ""
+  "en": "I'm fine... totally fine."
  },
  {
   "id": "2B0000_074D.0",
@@ -555,7 +555,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私には悩んでいるように見えるが……。",
-  "en": ""
+  "en": "To me, you look troubled..."
  },
  {
   "id": "2B0000_0765.0",
@@ -563,7 +563,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そう見える？",
-  "en": ""
+  "en": "Do I look like it?"
  },
  {
   "id": "2B0000_0771.0",
@@ -571,7 +571,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん……相談にのってあげるよ。",
-  "en": ""
+  "en": "Mm... I'll hear you out."
  },
  {
   "id": "2B0000_0785.0",
@@ -579,7 +579,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルって……鈍感なんだもの。",
-  "en": ""
+  "en": "It's Kakeru... he's so clueless."
  },
  {
   "id": "2B0000_079A.0",
@@ -587,7 +587,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わっはっはっは！！ / 私も同じ意見だな。",
-  "en": ""
+  "en": "Wahahaha!! I happen to agree."
  },
  {
   "id": "2B0000_079A.1",
@@ -595,7 +595,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルがね…… / 私の相談にのってくれるって言うんだけど。",
-  "en": ""
+  "en": "Kakeru, see... he says he'll listen to my troubles."
  },
  {
   "id": "2B0000_079A.2",
@@ -603,7 +603,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "私がなんで悩んでるか、 / まったくわかってないみたい…… / カケルのことで悩んでいるのに、 / それをカケルに相談できる訳がないでしょ？",
-  "en": ""
+  "en": "He doesn't have the slightest idea why I'm troubled... I'm troubled about Kakeru, so how could I possibly talk to Kakeru about it?"
  },
  {
   "id": "2B0000_081B.0",
@@ -611,7 +611,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まあ……そりゃそうだな。",
-  "en": ""
+  "en": "Well... that's true enough."
  },
  {
   "id": "2B0000_082D.0",
@@ -619,7 +619,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんか……悲しくなっちゃうわ。",
-  "en": ""
+  "en": "It just... makes me so sad."
  },
  {
   "id": "2B0000_0843.0",
@@ -627,7 +627,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ははは、カケルのことを / カケルに相談するのは……無理だよ。",
-  "en": ""
+  "en": "Hahaha, talking to Kakeru about Kakeru... that's impossible."
  },
  {
   "id": "2B0000_0843.1",
@@ -635,7 +635,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "きっと……私のことなんか眼中にないのよね。 / ……だからあんなことを言うんだわ。",
-  "en": ""
+  "en": "He probably... doesn't even notice me. ...That's why he says things like that."
  },
  {
   "id": "2B0000_0843.2",
@@ -643,7 +643,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは単純に心配してるだけさ。",
-  "en": ""
+  "en": "Kakeru's simply worried about you, that's all."
  },
  {
   "id": "2B0000_08AB.0",
@@ -651,7 +651,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャが落ち込んだ顔をしている…… / だから僕が相談にのってあげよう、ってね。",
-  "en": ""
+  "en": "Natasha looks down in the dumps... so I'll lend her an ear. That's all he's thinking."
  },
  {
   "id": "2B0000_08D6.0",
@@ -668,7 +668,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ようするに、カケルはナターシャのことを / 気にしてるってことだ。",
-  "en": ""
+  "en": "In short, Kakeru cares about you, Natasha."
  },
  {
   "id": "2B0000_08DE.1",
@@ -676,7 +676,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは私じゃなくても心配するわ……",
-  "en": ""
+  "en": "Kakeru would worry even if it wasn't me..."
  },
  {
   "id": "2B0000_0917.0",
@@ -684,7 +684,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "自分のことしか考えてないように見えるけど、 / カケルってだれにでも優しいもの。",
-  "en": ""
+  "en": "He may look like he only thinks about himself, but Kakeru is kind to everyone."
  },
  {
   "id": "2B0000_0940.0",
@@ -692,7 +692,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "自分だけに優しくして欲しい……だろ？",
-  "en": ""
+  "en": "You want him to be kind only to you... right?"
  },
  {
   "id": "2B0000_095A.0",
@@ -709,7 +709,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私って……魅力がないのかしら？",
-  "en": ""
+  "en": "Am I... just not attractive?"
  },
  {
   "id": "2B0000_097F.0",
@@ -717,7 +717,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ、ナターシャ。",
-  "en": ""
+  "en": "Hello, Natasha."
  },
  {
   "id": "2B0000_098A.0",
@@ -734,7 +734,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……楽しそうだな。",
-  "en": ""
+  "en": "Oh... you look like you're having fun."
  },
  {
   "id": "2B0000_09A6.0",
@@ -742,7 +742,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今ね、ネプチューンと / カケルの話をしていたの……。",
-  "en": ""
+  "en": "We were just talking about Kakeru with Neptune..."
  },
  {
   "id": "2B0000_09A6.1",
@@ -750,7 +750,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "話してたって言うよりは、 / ノロケてたのよ……ナターシャは。",
-  "en": ""
+  "en": "Less talking, more gushing over him... that's Natasha for you."
  },
  {
   "id": "2B0000_09A6.2",
@@ -758,7 +758,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ノロケてた？",
-  "en": ""
+  "en": "Gushing?"
  },
  {
   "id": "2B0000_09ED.0",
@@ -766,7 +766,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ずーっとカケルの話ばかりしてるのよ……。",
-  "en": ""
+  "en": "She's been going on and on about nothing but Kakeru..."
  },
  {
   "id": "2B0000_0A05.0",
@@ -774,7 +774,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、ウソだからね、エト。",
-  "en": ""
+  "en": "Th-that's a lie, Eto."
  },
  {
   "id": "2B0000_0A17.0",
@@ -782,7 +782,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルの……なにを話してたんだ？",
-  "en": ""
+  "en": "What about Kakeru... were you talking about?"
  },
  {
   "id": "2B0000_0A2C.0",
@@ -790,7 +790,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "はじめはカケルの悪口だったんだけどね、 / だんだん、カケルのことを誉めだすのよ。",
-  "en": ""
+  "en": "At first it was all badmouthing Kakeru, but bit by bit she starts praising him."
  },
  {
   "id": "2B0000_0A2C.1",
@@ -798,7 +798,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ね、ウソでしょう！？",
-  "en": ""
+  "en": "See? It's a lie, right?!"
  },
  {
   "id": "2B0000_0A69.0",
@@ -806,7 +806,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……私がカケルのことを / 誉めるなんてありえないもの。",
-  "en": ""
+  "en": "...There's no way I'd ever praise Kakeru."
  },
  {
   "id": "2B0000_0A87.0",
@@ -814,7 +814,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あーら、そうかしら？",
-  "en": ""
+  "en": "Oh my, is that so?"
  },
  {
   "id": "2B0000_0A96.0",
@@ -822,7 +822,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "泣きそうな顔をして、カケルのことを / 話してたのは……だれだった？",
-  "en": ""
+  "en": "Then who was it... talking about Kakeru with a face like she was about to cry?"
  },
  {
   "id": "2B0000_0ABA.0",
@@ -830,7 +830,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネ、ネプチューン！！",
-  "en": ""
+  "en": "N-Neptune!!"
  },
  {
   "id": "2B0000_0AC7.0",
@@ -838,7 +838,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それ以上しゃべったら、 / 魔法をかけちゃうから！！",
-  "en": ""
+  "en": "Say one more word and I'll put a spell on you!!"
  },
  {
   "id": "2B0000_0AE9.0",
@@ -846,7 +846,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャは、カケルのことが好きなんだな。",
-  "en": ""
+  "en": "So Natasha likes Kakeru."
  },
  {
   "id": "2B0000_0B00.0",
@@ -863,7 +863,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私がかわりに答えてあげる。 / 大好きみたいよ。",
-  "en": ""
+  "en": "I'll answer for her. Looks like she loves him."
  },
  {
   "id": "2B0000_0B08.1",
@@ -871,7 +871,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もう……勝手に言ってればいいんだわ。",
-  "en": ""
+  "en": "Fine... say whatever you want."
  },
  {
   "id": "2B0000_0B3D.0",
@@ -879,7 +879,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……カケルに言わないでね。",
-  "en": ""
+  "en": "Eto... don't tell Kakeru, okay?"
  },
  {
   "id": "2B0000_0B57.0",
@@ -887,7 +887,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネ……ケガはないか？",
-  "en": ""
+  "en": "Marlene... are you hurt?"
  },
  {
   "id": "2B0000_0B67.0",
@@ -895,7 +895,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ありません……。",
-  "en": ""
+  "en": "No..."
  },
  {
   "id": "2B0000_0B74.0",
@@ -903,7 +903,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まあ……無事ならそれでいいんだ。",
-  "en": ""
+  "en": "Well... as long as you're safe, that's all that matters."
  },
  {
   "id": "2B0000_0B8A.0",
@@ -911,7 +911,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうして……あんな危険をおかしてまで、 / 私を助けたのですか？",
-  "en": ""
+  "en": "Why... did you take such a risk just to save me?"
  },
  {
   "id": "2B0000_0B8A.1",
@@ -919,7 +919,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "君が仲間だからだ。",
-  "en": ""
+  "en": "Because you're my comrade."
  },
  {
   "id": "2B0000_0BBB.0",
@@ -927,7 +927,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "仲間……だから。",
-  "en": ""
+  "en": "Because... I'm a comrade."
  },
  {
   "id": "2B0000_0BC7.0",
@@ -935,7 +935,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさんこそ、ケガをしてませんか？",
-  "en": ""
+  "en": "What about you, Eto? Aren't you hurt?"
  },
  {
   "id": "2B0000_0BDF.0",
@@ -943,7 +943,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふーん……私のことを心配してくれるのか？",
-  "en": ""
+  "en": "Hmm... are you worried about me?"
  },
  {
   "id": "2B0000_0BF5.0",
@@ -951,7 +951,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "べ、別に心配してるわけじゃありませんけど…… / 私のせいでケガをされたら困りますから。",
-  "en": ""
+  "en": "I-it's not that I'm worried or anything... It's just that it'd be a problem if you got hurt because of me."
  },
  {
   "id": "2B0000_0BF5.1",
@@ -959,7 +959,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だれが困るんだ？",
-  "en": ""
+  "en": "A problem for whom?"
  },
  {
   "id": "2B0000_0C37.0",
@@ -967,7 +967,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……もちろん、みんなです。",
-  "en": ""
+  "en": "...For everyone, of course."
  },
  {
   "id": "2B0000_0C4E.0",
@@ -975,7 +975,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あの……エトさん。",
-  "en": ""
+  "en": "Um... Eto."
  },
  {
   "id": "2B0000_0C5D.0",
@@ -992,7 +992,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……なんでもありません。",
-  "en": ""
+  "en": "...It's nothing."
  },
  {
   "id": "2B0000_0C79.0",
@@ -1000,7 +1000,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私……エトさんのことが…… / わからなくなってきました。",
-  "en": ""
+  "en": "I... I'm starting not to understand... you, Eto."
  },
  {
   "id": "2B0000_0C9A.0",
@@ -1053,7 +1053,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかりません……私には。",
-  "en": ""
+  "en": "I don't understand... it's beyond me."
  },
  {
   "id": "2B0000_0D10.0",
@@ -1061,7 +1061,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "無理にわかる必要はない。",
-  "en": ""
+  "en": "There's no need to force yourself to understand."
  },
  {
   "id": "2B0000_0D25.0",
@@ -1069,7 +1069,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おいおいおいっ！！　俺が隣にいるのに、 / なんで内緒話をするんだよっ！！",
-  "en": ""
+  "en": "Hey hey hey!! I'm standing right next to you, so why are you two whispering secrets?!"
  },
  {
   "id": "2B0000_0D25.1",
@@ -1077,7 +1077,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネ……カルタスと話をしてるのか？",
-  "en": ""
+  "en": "Marlene... are you talking with Cartas?"
  },
  {
   "id": "2B0000_0D66.0",
@@ -1085,7 +1085,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "まったく、 / カケルといいエトといい…… / いつもちょうどいいところで / 邪魔するんだよなあ。",
-  "en": ""
+  "en": "Honestly, Kakeru and Eto both... always butting in right when things get good."
  },
  {
   "id": "2B0000_0D9A.0",
@@ -1102,7 +1102,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘえ……私のことを心配してくれるのか？",
-  "en": ""
+  "en": "Oh...? Are you worried about me?"
  },
  {
   "id": "2B0000_0DCA.0",
@@ -1128,7 +1128,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……みんなです。",
-  "en": ""
+  "en": "...For everyone."
  },
  {
   "id": "2B0000_0E1A.0",
@@ -1136,7 +1136,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おいおいおいっ！！ / 俺の存在を忘れてないか！？",
-  "en": ""
+  "en": "Hey hey hey!! Haven't you forgotten I'm here?!"
  },
  {
   "id": "2B0000_0E1A.1",
@@ -1144,7 +1144,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わっはっはっ！！ / 邪魔者は去るとしよう。",
-  "en": ""
+  "en": "Wahahaha!! Then the intruder shall take his leave."
  },
  {
   "id": "2B0000_0E5A.0",
@@ -1152,7 +1152,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だーめっ！！ / マルレーネさんは、俺と話をしてるんだ。",
-  "en": ""
+  "en": "Nuh-uh!! Marlene is talking with me."
  },
  {
   "id": "2B0000_0E78.0",
@@ -1160,7 +1160,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ、エトさん……。",
-  "en": ""
+  "en": "Oh, Eto..."
  },
  {
   "id": "2B0000_0E86.0",
@@ -1168,7 +1168,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ、ネレイド。ちゃんと身体を休めてるか？",
-  "en": ""
+  "en": "Hello, Nereid. Are you resting up properly?"
  },
  {
   "id": "2B0000_0E9C.0",
@@ -1176,7 +1176,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はい、エトさんのために身体を休めます。",
-  "en": ""
+  "en": "Yes, I'll rest up for your sake, Eto."
  },
  {
   "id": "2B0000_0EB5.0",
@@ -1184,7 +1184,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まだまだ先は長いからな。",
-  "en": ""
+  "en": "We've still got a long road ahead."
  },
  {
   "id": "2B0000_0EC8.0",
@@ -1192,7 +1192,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あの……私、エトさんと話をしたいんです。",
-  "en": ""
+  "en": "Um... I'd like to talk with you, Eto."
  },
  {
   "id": "2B0000_0EE2.0",
@@ -1200,7 +1200,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいとも……なんの話をするんだい？",
-  "en": ""
+  "en": "Sure... what shall we talk about?"
  },
  {
   "id": "2B0000_0EF9.0",
@@ -1226,7 +1226,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "次の時までに……考えておきます。",
-  "en": ""
+  "en": "I'll... think of something by next time."
  },
  {
   "id": "2B0000_0F20.0",
@@ -1234,7 +1234,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、エトさんのことを考えると…… / 心臓がどきどきするんです。",
-  "en": ""
+  "en": "When I think about you, Eto... my heart starts pounding."
  },
  {
   "id": "2B0000_0F46.0",
@@ -1242,7 +1242,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、悪いが遠慮してくれよ。",
-  "en": ""
+  "en": "Eto, sorry, but could you make yourself scarce?"
  },
  {
   "id": "2B0000_0F5C.0",
@@ -1250,7 +1250,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カルタス、マルレーネとなにを話してるんだ？",
-  "en": ""
+  "en": "Cartas, what are you talking to Marlene about?"
  },
  {
   "id": "2B0000_0F72.0",
@@ -1258,7 +1258,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘっヘっヘっ……内緒だ。",
-  "en": ""
+  "en": "Heh heh heh... it's a secret."
  },
  {
   "id": "2B0000_0F86.0",
@@ -1266,7 +1266,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……頼むから邪魔をしないでくれ。",
-  "en": ""
+  "en": "Eto... please, don't get in the way."
  },
  {
   "id": "2B0000_0FA0.0",
@@ -1274,7 +1274,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "別に邪魔をしてるつもりはないぞ…… / ただここに立っていたいだけだ。",
-  "en": ""
+  "en": "I don't mean to get in the way... I simply want to stand here."
  },
  {
   "id": "2B0000_0FA0.1",
@@ -1282,7 +1282,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それが邪魔だって言ってるんだよ……もう。",
-  "en": ""
+  "en": "That's exactly what's in the way... jeez."
  },
  {
   "id": "2B0000_0FE4.0",
@@ -1290,7 +1290,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なあエト……この状況を見て、 / 遠慮しようっていう気が起こらないのか？",
-  "en": ""
+  "en": "C'mon, Eto... looking at this situation, doesn't it make you want to make yourself scarce?"
  },
  {
   "id": "2B0000_1011.0",
@@ -1307,7 +1307,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト殿、火薬の入った袋を触らぬ方がいいぞ…… / いつ爆発するかわからないからな。",
-  "en": ""
+  "en": "Master Eto, you'd best not touch the bags of gunpowder... there's no telling when they'll explode."
  },
  {
   "id": "2B0000_1064.1",
@@ -1315,7 +1315,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ううむ……火薬のように / 燃え上がる恋をしてみたいものだ。",
-  "en": ""
+  "en": "Hmm... I should like to have a romance that burns as fiercely as gunpowder."
  },
  {
   "id": "2B0000_10C4.0",
@@ -1323,7 +1323,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト、ここだけの話だけど、 / ナターシャって、カケルに惚れてるわよ。",
-  "en": ""
+  "en": "Eto, just between us... Natasha's head over heels for Kakeru."
  },
  {
   "id": "2B0000_10C4.1",
@@ -1331,7 +1331,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネプチューン、なにを話してるのよ。",
-  "en": ""
+  "en": "Neptune, what are you talking about?"
  },
  {
   "id": "2B0000_10FB.0",
@@ -1339,7 +1339,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今日はいい天気ねって。",
-  "en": ""
+  "en": "Just saying it's nice weather today."
  },
  {
   "id": "2B0000_110D.0",
@@ -1347,7 +1347,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、本当？",
-  "en": ""
+  "en": "Eto, is that true?"
  },
  {
   "id": "2B0000_1119.0",
@@ -1355,7 +1355,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいや、ウソだ。",
-  "en": ""
+  "en": "No, it's a lie."
  },
  {
   "id": "2B0000_1127.0",
@@ -1363,7 +1363,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふーんだ、もうエトには教えてあげないわ。",
-  "en": ""
+  "en": "Hmph! I'm not telling you anything anymore, Eto."
  },
  {
   "id": "2B0000_1141.0",
@@ -1371,7 +1371,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャの話を聞いてると、 / 私の方が赤くなっちゃうわ。",
-  "en": ""
+  "en": "Listening to Natasha talk makes even me blush."
  },
  {
   "id": "2B0000_1141.1",
@@ -1379,7 +1379,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ひ、ひどいわ、ネプチューン。",
-  "en": ""
+  "en": "Th-that's mean, Neptune."
  },
  {
   "id": "2B0000_1171.0",
@@ -1387,7 +1387,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "エトもナターシャの話を / 聞いてごらんなさいよ…… / 私の言った意味がわかるから。",
-  "en": ""
+  "en": "Eto, you should try listening to Natasha talk too... then you'll see what I mean."
  },
  {
   "id": "2B0000_119D.0",
@@ -1395,7 +1395,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルのことはいいとして…… / エトはどんな女の子が好きなのかしら？",
-  "en": ""
+  "en": "Kakeru aside... what kind of girl do you like, Eto?"
  },
  {
   "id": "2B0000_119D.1",
@@ -1403,7 +1403,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私は世界中の女が好きだ…… / ただし美人に限るがな。",
-  "en": ""
+  "en": "I like all the women in the world... provided they're beautiful."
  },
  {
   "id": "2B0000_119D.2",
@@ -1411,7 +1411,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャ、安心していいわよ…… / エトだってこんな感じだもの。",
-  "en": ""
+  "en": "Natasha, you can relax... even Eto's like this."
  },
  {
   "id": "2B0000_1206.0",
@@ -1419,7 +1419,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト、ナターシャって純情なのよ。 / ……自分の若い時を思い出すわね。",
-  "en": ""
+  "en": "Eto, Natasha's so innocent. ...Reminds me of when I was young."
  },
  {
   "id": "2B0000_1206.1",
@@ -1427,7 +1427,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え、ネプチューンにも純情な時があったのか？",
-  "en": ""
+  "en": "Huh, you were innocent once too, Neptune?"
  },
  {
   "id": "2B0000_1246.0",
@@ -1435,7 +1435,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "当たり前じゃない！",
-  "en": ""
+  "en": "Of course I was!"
  },
  {
   "id": "2B0000_1253.0",
@@ -1443,7 +1443,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私だって、男の人の顔を見ただけで / 顔が赤くなる時代があったんだから。",
-  "en": ""
+  "en": "There was a time when I'd blush just from looking at a man's face, you know."
  },
  {
   "id": "2B0000_1279.0",
@@ -1451,7 +1451,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今度変なことを言ったら…… / この軍隊をやめてやるから。",
-  "en": ""
+  "en": "Say one more weird thing... and I'll quit this army."
  },
  {
   "id": "2B0000_129B.0",
@@ -1459,7 +1459,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト、ここの井戸水はおいしいぞ…… / なんたってバナナ味だからな。",
-  "en": ""
+  "en": "Eto, the well water here is delicious... it tastes like banana, after all."
  },
  {
   "id": "2B0000_129B.1",
@@ -1467,7 +1467,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしてバナナ味なんだ？",
-  "en": ""
+  "en": "Why does it taste like banana?"
  },
  {
   "id": "2B0000_12D4.0",
@@ -1475,7 +1475,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふっふっふっ、内緒だ…… / さっきカケルに言って馬鹿にされたからな。",
-  "en": ""
+  "en": "Heh heh heh, it's a secret... I told Kakeru earlier and he made fun of me."
  },
  {
   "id": "2B0000_12FF.0",
@@ -1483,7 +1483,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さあ、飲んでみろ。",
-  "en": ""
+  "en": "Go on, have a drink."
  },
  {
   "id": "2B0000_130F.0",
@@ -1491,7 +1491,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "遠慮しておくよ。",
-  "en": ""
+  "en": "I'll pass."
  },
  {
   "id": "2B0000_131F.0",
@@ -1499,7 +1499,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしてだ？",
-  "en": ""
+  "en": "Why not?"
  },
  {
   "id": "2B0000_132B.0",
@@ -1507,7 +1507,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "言いたくはないが、私はバナナが嫌いなのだ。",
-  "en": ""
+  "en": "I'd rather not say, but I hate bananas."
  },
  {
   "id": "2B0000_1345.0",

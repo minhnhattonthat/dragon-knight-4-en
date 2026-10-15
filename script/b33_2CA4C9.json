@@ -2375,7 +2375,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトは力の種を１個見つけた！！",
-  "en": ""
+  "en": "Eto found 1 Seed of Power!!"
  },
  {
   "id": "2CA4C9_1EBB.0",
@@ -2383,6 +2383,6 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトは守りの種を１個見つけた！！",
-  "en": ""
+  "en": "Eto found 1 Seed of Defense!!"
  }
 ]
