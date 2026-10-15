@@ -506,8 +506,8 @@
   "id": "2C315D_0744.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "もちろんする / ",
+  "nlines": 1,
+  "jp": "もちろんする",
   "en": ""
  },
  {
@@ -1005,8 +1005,8 @@
   "id": "2C315D_0E12.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "くどいてごまかす / ",
+  "nlines": 1,
+  "jp": "くどいてごまかす",
   "en": ""
  },
  {
@@ -1868,8 +1868,8 @@
   "id": "2C315D_1A24.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "ゴロンゴン隊 / ",
+  "nlines": 1,
+  "jp": "ゴロンゴン隊",
   "en": "",
   "dup": "2EBA5F_1151.0"
  },
@@ -1913,8 +1913,8 @@
   "id": "2C315D_1A7E.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -1994,8 +1994,8 @@
   "id": "2C315D_1B04.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -2228,8 +2228,8 @@
   "id": "2C315D_1E98.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "もう寝る / ",
+  "nlines": 1,
+  "jp": "もう寝る",
   "en": ""
  },
  {
@@ -2619,8 +2619,8 @@
   "id": "2C315D_23DF.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },

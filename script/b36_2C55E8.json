@@ -616,8 +616,8 @@
   "id": "2C55E8_081C.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "いる / ",
+  "nlines": 1,
+  "jp": "いる",
   "en": ""
  },
  {
@@ -873,8 +873,8 @@
   "id": "2C55E8_0B77.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "徹底的に叱る / ",
+  "nlines": 1,
+  "jp": "徹底的に叱る",
   "en": ""
  },
  {
@@ -1141,8 +1141,8 @@
   "id": "2C55E8_0E6F.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "もちろん許す / ",
+  "nlines": 1,
+  "jp": "もちろん許す",
   "en": ""
  },
  {
@@ -2453,8 +2453,8 @@
   "id": "2C55E8_1FEE.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "メイフェア隊 / ",
+  "nlines": 1,
+  "jp": "メイフェア隊",
   "en": "",
   "dup": "2ED46D_11BF.0"
  },
@@ -2471,8 +2471,8 @@
   "id": "2C55E8_2004.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "メイフェア隊 / ",
+  "nlines": 1,
+  "jp": "メイフェア隊",
   "en": "",
   "dup": "2ED46D_11BF.0"
  },
@@ -2507,8 +2507,8 @@
   "id": "2C55E8_2052.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -2579,8 +2579,8 @@
   "id": "2C55E8_20E0.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -2686,8 +2686,8 @@
   "id": "2C55E8_21C6.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "聞きたい / ",
+  "nlines": 1,
+  "jp": "聞きたい",
   "en": "",
   "dup": "2ED46D_19C1.0"
  },
@@ -2697,7 +2697,8 @@
   "form": "choice",
   "nlines": 1,
   "jp": "聞きたくない",
-  "en": ""
+  "en": "",
+  "dup": "2ED46D_19CA.0"
  },
  {
   "id": "2C55E8_21E2.0",
@@ -2907,8 +2908,8 @@
   "id": "2C55E8_2505.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },

@@ -51,16 +51,16 @@
   "id": "2FB86E_01B4.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "聞く / ",
+  "nlines": 1,
+  "jp": "聞く",
   "en": ""
  },
  {
   "id": "2FB86E_01BB.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "聞かない / ",
+  "nlines": 1,
+  "jp": "聞かない",
   "en": ""
  },
  {

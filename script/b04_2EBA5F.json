@@ -1182,8 +1182,8 @@
   "id": "2EBA5F_1151.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "ゴロンゴン隊 / ",
+  "nlines": 1,
+  "jp": "ゴロンゴン隊",
   "en": ""
  },
  {
@@ -1223,8 +1223,8 @@
   "id": "2EBA5F_11AB.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -1232,10 +1232,10 @@
   "id": "2EBA5F_11B1.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "やめる / ",
+  "nlines": 1,
+  "jp": "やめる",
   "en": "",
-  "dup": "2F9C88_08EA.0"
+  "dup": "2F9C88_088C.0"
  },
  {
   "id": "2EBA5F_11C0.0",
@@ -1298,8 +1298,8 @@
   "id": "2EBA5F_1233.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -1307,10 +1307,10 @@
   "id": "2EBA5F_1239.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "やめる / ",
+  "nlines": 1,
+  "jp": "やめる",
   "en": "",
-  "dup": "2F9C88_08EA.0"
+  "dup": "2F9C88_088C.0"
  },
  {
   "id": "2EBA5F_1248.0",
@@ -1701,8 +1701,8 @@
   "id": "2EBA5F_190F.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },
@@ -1710,9 +1710,10 @@
   "id": "2EBA5F_1916.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "いいえ / ",
-  "en": ""
+  "nlines": 1,
+  "jp": "いいえ",
+  "en": "",
+  "dup": "2F9C88_11A3.0"
  },
  {
   "id": "2EBA5F_1929.0",

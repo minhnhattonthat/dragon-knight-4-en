@@ -903,8 +903,8 @@
   "id": "2DE230_0AAF.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "このまま見続ける / ",
+  "nlines": 1,
+  "jp": "このまま見続ける",
   "en": ""
  },
  {
@@ -1848,8 +1848,8 @@
   "id": "2DE230_16E2.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },

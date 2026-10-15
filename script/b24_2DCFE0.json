@@ -455,8 +455,8 @@
   "id": "2DCFE0_04F2.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "キスをする / ",
+  "nlines": 1,
+  "jp": "キスをする",
   "en": ""
  },
  {
@@ -1143,8 +1143,8 @@
   "id": "2DCFE0_0C33.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },

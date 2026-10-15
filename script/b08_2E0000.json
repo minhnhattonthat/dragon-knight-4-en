@@ -467,16 +467,16 @@
   "id": "2E0000_06AE.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "話しかける / ",
+  "nlines": 1,
+  "jp": "話しかける",
   "en": ""
  },
  {
   "id": "2E0000_06B8.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "話しかけない / ",
+  "nlines": 1,
+  "jp": "話しかけない",
   "en": ""
  },
  {
@@ -676,8 +676,8 @@
   "id": "2E0000_094A.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "話しかける / ",
+  "nlines": 1,
+  "jp": "話しかける",
   "en": "",
   "dup": "2E0000_06AE.0"
  },
@@ -685,8 +685,8 @@
   "id": "2E0000_0954.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "話しかけない / ",
+  "nlines": 1,
+  "jp": "話しかけない",
   "en": "",
   "dup": "2E0000_06B8.0"
  },
@@ -1600,8 +1600,8 @@
   "id": "2E0000_12F1.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "聞きたい / ",
+  "nlines": 1,
+  "jp": "聞きたい",
   "en": "",
   "dup": "2ED46D_19C1.0"
  },
@@ -1609,8 +1609,8 @@
   "id": "2E0000_12FA.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "聞きたくない / ",
+  "nlines": 1,
+  "jp": "聞きたくない",
   "en": "",
   "dup": "2ED46D_19CA.0"
  },
@@ -2051,8 +2051,8 @@
   "id": "2E0000_1A14.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },
@@ -2060,10 +2060,10 @@
   "id": "2E0000_1A1B.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "いいえ / ",
+  "nlines": 1,
+  "jp": "いいえ",
   "en": "",
-  "dup": "2EBA5F_1916.0"
+  "dup": "2F9C88_11A3.0"
  },
  {
   "id": "2E0000_1A2E.0",
@@ -2174,8 +2174,8 @@
   "id": "2E0000_1BF6.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "ぬちたたちぬ / ",
+  "nlines": 1,
+  "jp": "ぬちたたちぬ",
   "en": ""
  },
  {
@@ -2214,8 +2214,8 @@
   "id": "2E0000_1C70.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "すなみみなす / ",
+  "nlines": 1,
+  "jp": "すなみみなす",
   "en": ""
  },
  {

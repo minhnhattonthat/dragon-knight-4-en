@@ -245,8 +245,8 @@
   "id": "2B0000_03E5.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "ナターシャが好き / ",
+  "nlines": 1,
+  "jp": "ナターシャが好き",
   "en": ""
  },
  {
@@ -1830,8 +1830,8 @@
   "id": "2B0000_17DF.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "納得させる / ",
+  "nlines": 1,
+  "jp": "納得させる",
   "en": ""
  },
  {
@@ -3303,8 +3303,8 @@
   "id": "2B0000_2BA8.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "ピエール隊 / ",
+  "nlines": 1,
+  "jp": "ピエール隊",
   "en": "",
   "dup": "2F553D_15B4.0"
  },
@@ -3348,8 +3348,8 @@
   "id": "2B0000_2C20.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -3446,8 +3446,8 @@
   "id": "2B0000_2D03.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -3597,8 +3597,8 @@
   "id": "2B0000_2EE5.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },

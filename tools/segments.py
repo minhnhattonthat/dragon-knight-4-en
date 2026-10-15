@@ -125,9 +125,8 @@ def units(region, rom, glyphs):
     """Translation units of a region: list of dicts {sid, form, speaker, portrait, jp, lines}."""
     toks = tokens(region['codes'], rom, glyphs)
     if is_choice(region, toks):
-        ls = lines_of(toks)
-        jp = ' / '.join(' | '.join(f[1] for f in choice_fields(l)) for l in ls)
-        return [{'sid': 0, 'form': 'choice', 'speaker': '', 'jp': jp, 'nlines': len(ls)}]
+        ls = [l for l in (' | '.join(f[1] for f in choice_fields(x)) for x in lines_of(toks)) if l]
+        return [{'sid': 0, 'form': 'choice', 'speaker': '', 'jp': ' / '.join(ls), 'nlines': len(ls)}]
     segs, cur = [], None
     for t in toks:
         if t[0] == 'name':

@@ -1031,8 +1031,8 @@
   "id": "29AAF3_0F20.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "好きだと言う / ",
+  "nlines": 1,
+  "jp": "好きだと言う",
   "en": ""
  },
  {
@@ -1178,8 +1178,8 @@
   "id": "29AAF3_113F.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "強く抱きしめる / ",
+  "nlines": 1,
+  "jp": "強く抱きしめる",
   "en": ""
  },
  {
@@ -1266,8 +1266,8 @@
   "id": "29AAF3_125E.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "思い出を作る / ",
+  "nlines": 1,
+  "jp": "思い出を作る",
   "en": ""
  },
  {
@@ -3440,8 +3440,8 @@
   "id": "29AAF3_2FF3.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },

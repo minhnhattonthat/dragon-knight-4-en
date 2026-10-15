@@ -375,8 +375,8 @@
   "id": "2CA4C9_0539.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },
@@ -1065,8 +1065,8 @@
   "id": "2CA4C9_0CD6.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "もちろん助ける / ",
+  "nlines": 1,
+  "jp": "もちろん助ける",
   "en": "",
   "dup": "2F9C88_02DA.0"
  },
@@ -1076,7 +1076,8 @@
   "form": "choice",
   "nlines": 1,
   "jp": "絶対に助けない",
-  "en": ""
+  "en": "",
+  "dup": "2F9C88_02E6.0"
  },
  {
   "id": "2CA4C9_0CF6.0",
@@ -1671,8 +1672,8 @@
   "id": "2CA4C9_149C.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "カルタス隊 / ",
+  "nlines": 1,
+  "jp": "カルタス隊",
   "en": "",
   "dup": "2F9C88_0884.0"
  },
@@ -1689,8 +1690,8 @@
   "id": "2CA4C9_14B2.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "カルタス隊 / ",
+  "nlines": 1,
+  "jp": "カルタス隊",
   "en": "",
   "dup": "2F9C88_0884.0"
  },
@@ -1725,8 +1726,8 @@
   "id": "2CA4C9_14FB.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -1797,8 +1798,8 @@
   "id": "2CA4C9_1583.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -2276,8 +2277,8 @@
   "id": "2CA4C9_1D7A.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },

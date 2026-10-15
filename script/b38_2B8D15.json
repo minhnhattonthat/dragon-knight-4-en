@@ -796,8 +796,8 @@
   "id": "2B8D15_0AC8.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "ある / ",
+  "nlines": 1,
+  "jp": "ある",
   "en": ""
  },
  {
@@ -2898,8 +2898,8 @@
   "id": "2B8D15_2995.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "サントス隊 / ",
+  "nlines": 1,
+  "jp": "サントス隊",
   "en": "",
   "dup": "2E9A8B_0DAB.0"
  },
@@ -2933,8 +2933,8 @@
   "id": "2B8D15_29EF.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -3014,8 +3014,8 @@
   "id": "2B8D15_2A7F.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -3248,8 +3248,8 @@
   "id": "2B8D15_2E28.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },

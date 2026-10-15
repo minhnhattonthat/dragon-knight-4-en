@@ -1356,16 +1356,16 @@
   "id": "2F0269_136B.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "入る / ",
+  "nlines": 1,
+  "jp": "入る",
   "en": ""
  },
  {
   "id": "2F0269_1371.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "入らない / ",
+  "nlines": 1,
+  "jp": "入らない",
   "en": ""
  },
  {
@@ -1537,8 +1537,8 @@
   "id": "2F0269_15FC.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "入る / ",
+  "nlines": 1,
+  "jp": "入る",
   "en": "",
   "dup": "2F0269_136B.0"
  },
@@ -1546,8 +1546,8 @@
   "id": "2F0269_1602.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "入らない / ",
+  "nlines": 1,
+  "jp": "入らない",
   "en": "",
   "dup": "2F0269_1371.0"
  },

@@ -75,8 +75,8 @@
   "id": "2E34B4_019E.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "西に走ってったよ / ",
+  "nlines": 1,
+  "jp": "西に走ってったよ",
   "en": ""
  },
  {
@@ -85,7 +85,8 @@
   "form": "choice",
   "nlines": 1,
   "jp": "北に走ってったよ",
-  "en": ""
+  "en": "",
+  "dup": "2F2B41_1D3D.0"
  },
  {
   "id": "2E34B4_01D5.0",
@@ -726,8 +727,8 @@
   "id": "2E34B4_099B.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "交替する / ",
+  "nlines": 1,
+  "jp": "交替する",
   "en": ""
  },
  {
@@ -1116,8 +1117,8 @@
   "id": "2E34B4_0EC2.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "寝る / ",
+  "nlines": 1,
+  "jp": "寝る",
   "en": ""
  },
  {

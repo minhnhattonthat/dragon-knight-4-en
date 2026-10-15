@@ -2077,8 +2077,8 @@
   "id": "2B3278_1B7C.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "ラビット隊 / ",
+  "nlines": 1,
+  "jp": "ラビット隊",
   "en": "",
   "dup": "2F2B41_1273.0"
  },
@@ -2122,8 +2122,8 @@
   "id": "2B3278_1BF8.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -2202,8 +2202,8 @@
   "id": "2B3278_1CA0.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "決定する / ",
+  "nlines": 1,
+  "jp": "決定する",
   "en": "",
   "dup": "2F9C88_08E4.0"
  },
@@ -2681,8 +2681,8 @@
   "id": "2B3278_240C.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "東に走ってったぞ / ",
+  "nlines": 1,
+  "jp": "東に走ってったぞ",
   "en": ""
  },
  {
@@ -2851,8 +2851,8 @@
   "id": "2B3278_267C.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },

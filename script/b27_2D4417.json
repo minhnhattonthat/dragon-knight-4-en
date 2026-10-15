@@ -761,8 +761,8 @@
   "id": "2D4417_09AD.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "湧いてくる / ",
+  "nlines": 1,
+  "jp": "湧いてくる",
   "en": ""
  },
  {
@@ -2181,8 +2181,8 @@
   "id": "2D4417_1B5D.0",
   "speaker": "",
   "form": "choice",
-  "nlines": 2,
-  "jp": "はい / ",
+  "nlines": 1,
+  "jp": "はい",
   "en": "",
   "dup": "2F9C88_119C.0"
  },
