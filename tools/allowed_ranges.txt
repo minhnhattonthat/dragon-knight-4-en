@@ -31,4 +31,10 @@ F47D          bank-84 string table bank byte -> $E2
 290000-2FFFFF script blocks (patched in place with far-call tokens)
 3028C-320C7   ending epilogue stream (86:828C)
 4DABC-4E2BB   battle command button graphics
+210D9-210DF   battle popup graphics loader: block moved to $E0:E000 (tools/gfx_popups.py)
+2A44A         notebook place-name bank operand -> $E1
+2A470         notebook place-name bank operand -> $E1
+2A5A3-2A5E0   notebook place-name pointer table (ui.json notebook_places)
+2A68A-2A6C7   notebook route pointer table
+2A8C5-2ACC4   battle popup tilemaps (save / end turn / yield / saved)
 300000-3FFFFF expansion banks E0-FF (engine, font, English text)

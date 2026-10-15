@@ -436,6 +436,47 @@ def build_strset(e, rom, img, pre, reloc):
         img[r:r + 3] = to_cpu(p).to_bytes(3, 'little')
 
 
+def build_ptrtables(e, rom, img, pre, reloc):
+    """In-place 16-bit pointer tables (read as LDA abs,x in their own bank) whose strings move to the UI area.
+    e: tables: [[file_off, count]], bank_refs: [LDA #bank operand offsets], line_cells, strings: {cpu_addr: text}.
+    Text: '\\n' pads the line with blanks to line_cells; leading spaces of a line = that many blank cells."""
+    new = {}
+    for a_hex, text in e['strings'].items():
+        cells = []
+        lines = text.split('\n')
+        for i, line in enumerate(lines):
+            lead = len(line) - len(line.lstrip(' '))
+            row = [BLANK] * lead
+            if line.strip():
+                cols = render(line.strip(), e['mode'])
+                row += [pre.code(r) for r in cells_from_cols(cols, (len(cols) + 15) // 16)]
+            if len(row) > e['line_cells']:
+                raise ValueError('%s: %r is %d cells > %d' % (e['id'], line, len(row), e['line_cells']))
+            if i < len(lines) - 1:
+                row += [BLANK] * (e['line_cells'] - len(row))
+            cells += row
+        data = encode_cells(cells or [BLANK]) + b'\x00'
+        p = reloc[0]
+        img[p:p + len(data)] = data
+        reloc[0] += len(data)
+        new[int(a_hex, 16) & 0xFFFF] = to_cpu(p)
+    banks = {v >> 16 for v in new.values()}
+    assert len(banks) == 1, e['id']
+    bank = banks.pop()
+    for off_hex, n in e['tables']:
+        off = int(off_hex, 16)
+        for k in range(n):
+            o = off + 2 * k
+            old = rom[o] | rom[o + 1] << 8
+            if old not in new:
+                raise ValueError('%s: table %s[%d] -> %04X has no English' % (e['id'], off_hex, k, old))
+            img[o:o + 2] = (new[old] & 0xFFFF).to_bytes(2, 'little')
+    for r in e['bank_refs']:
+        r = int(r, 16)
+        assert img[r - 1] == 0xA9, (e['id'], hex(r))
+        img[r] = bank
+
+
 def load():
     return json.load(open(os.path.join(ROOT, 'ui', 'ui.json'), encoding='utf-8'))
 
@@ -450,7 +491,7 @@ def apply(img, rom, pre_off):
     bank84_copy(img, rom)
     E2_ALLOC[0] = 0x317000
     for e in load():
-        if not e.get('en') and e['kind'] not in ('screen', 'namelist', 'strset'):
+        if not e.get('en') and e['kind'] not in ('screen', 'namelist', 'strset', 'ptrtables'):
             continue
         try:
             if e['kind'] == 'linear':
@@ -480,10 +521,10 @@ def apply(img, rom, pre_off):
                 img[off:off + len(data)] = data
             elif e['kind'] == 'dict':
                 build_dict_names(e, rom, img, pre)
-            elif e['kind'] in ('screen', 'namelist', 'strset'):
+            elif e['kind'] in ('screen', 'namelist', 'strset', 'ptrtables'):
                 rr = [reloc]
-                {'screen': build_screen, 'namelist': build_namelist,
-                 'strset': build_strset}[e['kind']](e, rom, img, pre, rr)
+                {'screen': build_screen, 'namelist': build_namelist, 'strset': build_strset,
+                 'ptrtables': build_ptrtables}[e['kind']](e, rom, img, pre, rr)
                 reloc = rr[0]
                 if reloc > RELOC_END:
                     raise ValueError('UI relocation area full')
