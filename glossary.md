@@ -79,3 +79,18 @@ Speaker name tags come from `tbl/names_en.tsv` (also binding: use the same spell
 | エルフ(一族) | elf / the elves | |
 
 ## Decisions from earlier batches
+| JP | EN | notes |
+|---|---|---|
+| 闇界 | the Dark Realm | 闇界の王ディード = Deed, King of the Dark Realm |
+| 魔界 | the Demon World | |
+| ディード | Deed | |
+| ヤマト・タケル | Yamato Takeru | Takeru's full name |
+| マリアンの家 | Marian's House | orphanage |
+| テレスの村 | the village of Teres | |
+| 復活の種 | Seed of Revival | |
+| 復活の泉 | Spring of Revival | |
+| 先鋒隊 | the vanguard | |
+| ドラゴンナイト一族 | the Dragon Knight clan | |
+| バーンおじさん | Uncle Bahn | Kakeru/Seil to Bahn |
+| 次元の狭間 | the rift between dimensions | |
+| 天界 | the Heavens | |

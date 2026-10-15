@@ -1226,7 +1226,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "闇界を利用し、愚かな人間たちを利用すれば / 造作のないことであろう…… / ディードのいない闇界など恐れることはない。",
-  "en": ""
+  "en": "Make use of the Dark Realm, make use of foolish humans, and it should be no trouble at all... A Dark Realm without Deed is nothing to fear."
  },
  {
   "id": "2F8000_122A.1",
@@ -1234,7 +1234,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "闇界が閉じ込められている、 / 次元の狭間を解放するのですね…… / やつらを利用すれば、 / タケルの方から私の元にやってくるでしょう。",
-  "en": ""
+  "en": "So you will release the rift between dimensions where the Dark Realm is sealed... If I make use of them, Takeru will come to me of his own accord."
  },
  {
   "id": "2F8000_12BF.0",
@@ -1242,7 +1242,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "くっくっくっ、お前が戻ってきた時、 / 人間界は我が魔族が支配しているだろう…… / 楽しみにしているぞ、ルシフォン。",
-  "en": ""
+  "en": "Ku ku ku... When you return, the human world shall be ruled by our demon race... I look forward to it, Lushifon."
  },
  {
   "id": "2F8000_1304.0",
@@ -1250,7 +1250,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……あなた、 / 「ソニアの街」からお手紙がきてるわよ。",
-  "en": ""
+  "en": "...Dear, there's a letter for you from \"the town of Sonia.\""
  },
  {
   "id": "2F8000_1304.1",
@@ -1258,7 +1258,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "手紙……いったいだれからだろ？",
-  "en": ""
+  "en": "A letter... I wonder who it's from?"
  },
  {
   "id": "2F8000_133A.0",
@@ -1266,7 +1266,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "やだ、ソニアの街って言ったら / バーンが住んでいる街じゃない…… / この間、引越しの案内をもらったでしょ？",
-  "en": ""
+  "en": "Oh my, isn't the town of Sonia where Bahn lives...? We got a notice that he'd moved just the other day, remember?"
  },
  {
   "id": "2F8000_1373.0",
@@ -1274,7 +1274,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "バーンかあ……懐かしい名前だな。",
-  "en": ""
+  "en": "Bahn, huh... Now there's a name I haven't heard in a while."
  },
  {
   "id": "2F8000_138F.0",
@@ -1298,7 +1298,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルよ……バーンの名前は知ってるな？",
-  "en": ""
+  "en": "Kakeru... You know the name Bahn, don't you?"
  },
  {
   "id": "2F8000_13B0.0",
@@ -1306,7 +1306,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うん、お父さん…… / バーンおじさんの話は何度も聞いてるよ。",
-  "en": ""
+  "en": "Yeah, Dad... I've heard stories about Uncle Bahn tons of times."
  },
  {
   "id": "2F8000_13B0.1",
@@ -1314,7 +1314,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そのバーンおじさんから手紙がきた。",
-  "en": ""
+  "en": "Well, Uncle Bahn has sent us a letter."
  },
  {
   "id": "2F8000_13EB.0",
@@ -1322,7 +1322,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "悪いやつが「ドラゴンナイト一族」だと名乗り、 / 街を占領し、悪事の限りをつくしているそうだ。",
-  "en": ""
+  "en": "It says some bad guy calling himself \"the Dragon Knight clan\" has taken over a town and is doing every kind of evil there is."
  },
  {
   "id": "2F8000_1420.0",
@@ -1330,7 +1330,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "悪いやつは退治しないといけないよ…… / そうだよね、お父さん。",
-  "en": ""
+  "en": "Bad guys have to be beaten... Right, Dad?"
  },
  {
   "id": "2F8000_1420.1",
@@ -1338,7 +1338,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "バーンも同じことを書いている……",
-  "en": ""
+  "en": "Bahn writes the same thing..."
  },
  {
   "id": "2F8000_145B.0",
@@ -1346,7 +1346,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "悪いやつを退治するために / 手伝ってくれと書いてあるんだ。",
-  "en": ""
+  "en": "He's asking us to help him beat the bad guy."
  },
  {
   "id": "2F8000_147E.0",
@@ -1354,7 +1354,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うわあ、お父さん…… / また冒険の旅に出かけるんだね！！",
-  "en": ""
+  "en": "Wow, Dad... You're going off on an adventure again!!"
  },
  {
   "id": "2F8000_147E.1",
@@ -1362,7 +1362,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、お前がバーンのところに行くんだ。",
-  "en": ""
+  "en": "Kakeru, YOU are the one going to Bahn."
  },
  {
   "id": "2F8000_14B8.0",
@@ -1370,7 +1370,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お父さんもいっしょに行くんでしょ？",
-  "en": ""
+  "en": "You're coming too, right, Dad?"
  },
  {
   "id": "2F8000_14CD.0",
@@ -1378,7 +1378,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいや、私は行かない。",
-  "en": ""
+  "en": "No, I'm not going."
  },
  {
   "id": "2F8000_14DE.0",
@@ -1386,7 +1386,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕ひとりで行くの？",
-  "en": ""
+  "en": "I'm going all by myself?"
  },
  {
   "id": "2F8000_14EB.0",
@@ -1394,7 +1394,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私がお前ぐらいの歳の時、 / すでにひとりで旅をしたもんだ…… / お前は私の息子だ、強くならなくてはならない。",
-  "en": ""
+  "en": "When I was your age, I was already traveling on my own... You're my son. You have to grow strong."
  },
  {
   "id": "2F8000_1526.0",
@@ -1402,7 +1402,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わーい！！　僕もお父さんみたいに / 冒険ができるんだ、うれしいなっ！！",
-  "en": ""
+  "en": "Yaaay!! I get to go on an adventure just like Dad! I'm so happy!!"
  },
  {
   "id": "2F8000_1526.1",
@@ -1410,7 +1410,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ひとりで行くのが恐いのはわかる…… / 不安な気持ちで一杯だろう。",
-  "en": ""
+  "en": "I know you're scared to go alone... Your heart must be full of worry."
  },
  {
   "id": "2F8000_1526.2",
@@ -1418,7 +1418,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わーい、わーい！！",
-  "en": ""
+  "en": "Yaaay, yaaay!!"
  },
  {
   "id": "2F8000_1582.0",
@@ -1426,7 +1426,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもお父さんは行かないぞ…… / そう、お前ひとりで行くのだ。",
-  "en": ""
+  "en": "But your father isn't going... That's right, you're going alone."
  },
  {
   "id": "2F8000_1582.1",
@@ -1434,7 +1434,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ねえねえお父さん、明日すぐに行ってもいい？",
-  "en": ""
+  "en": "Hey, hey, Dad, can I leave first thing tomorrow?"
  },
  {
   "id": "2F8000_15BF.0",
@@ -1442,7 +1442,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前が泣いて頼んでも、私は行かないぞ…… / 私は強い父親なのだ。",
-  "en": ""
+  "en": "Even if you cry and beg, I'm not going... I am a strong father."
  },
  {
   "id": "2F8000_15BF.1",
@@ -1450,7 +1450,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "わくわく、わくわく……お父さん、 / 冒険に出かける時ってなにを持って行けばいい？ / そうだ、お願いがあるんだ…… / お父さんが使っていた剣を / 持っていってもいいでしょ？",
-  "en": ""
+  "en": "So exciting, so exciting... Dad, what should I take when I go on an adventure? Oh yeah, I've got a favor to ask... Can I take the sword you used to use?"
  },
  {
   "id": "2F8000_15BF.2",
@@ -1458,7 +1458,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……持っていっていいって / ……お前のうしろにある剣はなんだ？",
-  "en": ""
+  "en": "...\"Can I take it,\" he says... Then what's that sword behind your back?"
  },
  {
   "id": "2F8000_15BF.3",
@@ -1466,7 +1466,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あはははは……バレた？",
-  "en": ""
+  "en": "Ahahahaha... Busted?"
  },
  {
   "id": "2F8000_1673.0",
@@ -1474,7 +1474,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……全然不安そうじゃないな。",
-  "en": ""
+  "en": "Kakeru... You don't look worried at all."
  },
  {
   "id": "2F8000_168A.0",
@@ -1482,7 +1482,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "全然不安なんかないよ……",
-  "en": ""
+  "en": "I'm not worried one bit..."
  },
  {
   "id": "2F8000_169E.0",
@@ -1490,7 +1490,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だってお父さんが冒険してた時とちがって、 / モンスターもいないし。",
-  "en": ""
+  "en": "'Cause it's not like when you were adventuring, Dad. There aren't any monsters anymore."
  },
  {
   "id": "2F8000_16C3.0",
@@ -1498,7 +1498,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たしかにモンスターはいないが、 / 悪い人間に襲われるかもしれないぞ。",
-  "en": ""
+  "en": "True, there are no monsters, but bad people might attack you."
  },
  {
   "id": "2F8000_16C3.1",
@@ -1506,7 +1506,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うわあ、楽しみだなあ！！ / どんなやつかなあ！？",
-  "en": ""
+  "en": "Wow, I can't wait!! I wonder what they'll be like?!"
  },
  {
   "id": "2F8000_16C3.2",
@@ -1514,7 +1514,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "その悪いやつが、 / 剣を振り回すかもしれないんだぞ。",
-  "en": ""
+  "en": "Those bad people might come at you swinging swords, you know."
  },
  {
   "id": "2F8000_16C3.3",
@@ -1522,7 +1522,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わくわくするなあ！！",
-  "en": ""
+  "en": "This is so exciting!!"
  },
  {
   "id": "2F8000_1736.0",
@@ -1530,7 +1530,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "き、斬られると……痛いぞう。",
-  "en": ""
+  "en": "G-getting cut... hurts a lot, you know."
  },
  {
   "id": "2F8000_174C.0",
@@ -1538,7 +1538,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "す、すごいなあ！！ / ねえねえ、明日の朝出かけてもいいでしょう！？",
-  "en": ""
+  "en": "W-wow, that's amazing!! Hey, hey, I can leave tomorrow morning, right?!"
  },
  {
   "id": "2F8000_174C.1",
@@ -1546,7 +1546,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ち、ちょっと待て、 / 冒険に出るには準備が必要なんだぞ…… / 干し肉やらなんやら用意しないといけないしな。",
-  "en": ""
+  "en": "W-wait a minute. You have to prepare before you go on an adventure... We'll need to get jerky and whatnot ready."
  },
  {
   "id": "2F8000_17B5.0",
@@ -1554,7 +1554,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お父さん、大丈夫だよ！！ / お腹がすいたら木の実でも食べるから！！",
-  "en": ""
+  "en": "It's okay, Dad!! If I get hungry, I'll just eat nuts and berries or something!!"
  },
  {
   "id": "2F8000_17B5.1",
@@ -1562,7 +1562,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "でも……まだお母さんに話をしてないしな。",
-  "en": ""
+  "en": "But... I haven't talked it over with your mother yet."
  },
  {
   "id": "2F8000_17F8.0",
@@ -1570,7 +1570,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "楽しみだなあ！！　わくわくするなあ！！",
-  "en": ""
+  "en": "I can't wait!! This is so exciting!!"
  },
  {
   "id": "2F8000_180E.0",
@@ -1578,7 +1578,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2F8000_1816.0",
@@ -1586,7 +1586,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どきどきどき、わくわくわく…… / 明日出かけたいなあ。",
-  "en": ""
+  "en": "Thump thump thump, tingle tingle tingle... I wanna leave tomorrow."
  },
  {
   "id": "2F8000_1816.1",
@@ -1594,7 +1594,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "とにかく今日はもう寝なさい…… / 話は明日にしよう。",
-  "en": ""
+  "en": "Anyway, go to bed for tonight... We'll talk about it tomorrow."
  },
  {
   "id": "2F8000_185A.0",
@@ -1602,7 +1602,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そして数日後……。",
-  "en": ""
+  "en": "And a few days later..."
  },
  {
   "id": "2F8000_1869.0",
@@ -1610,7 +1610,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "なんとかルナを説得したタケルは、 / ルナと共にカケルを冒険の旅ヘと / 送り出すのであった。",
-  "en": ""
+  "en": "Having somehow persuaded Luna, Takeru, together with Luna, sent Kakeru off on his journey of adventure."
  },
  {
   "id": "2F8000_1869.1",
@@ -1618,7 +1618,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "カケルちゃーん！！ / 気をつけて行くんですよ！！ / ……恐い目に会ったら、 / すぐに戻るんですよお！！",
-  "en": ""
+  "en": "Kakeru sweetie!! Be careful out there!! ...If anything scary happens, come straight back hooome!!"
  },
  {
   "id": "2F8000_18D2.0",
@@ -1626,7 +1626,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あいつは俺以上の大物かも知れない…… / そう思わないか、ルナ？",
-  "en": ""
+  "en": "He might turn out to be an even bigger deal than me... Don't you think, Luna?"
  },
  {
   "id": "2F8000_18D2.1",
@@ -1634,7 +1634,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ずんちゃ、ずんちゃ……行ってきまーす！！",
-  "en": ""
+  "en": "Dum-da, dum-da... I'm off!!"
  },
  {
   "id": "2F8000_1919.0",
@@ -1642,7 +1642,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あれれ、ナターシャじゃないか…… / ずいぶんと早起きだね。",
-  "en": ""
+  "en": "Huh? Isn't that Natasha... You're up awfully early."
  },
  {
   "id": "2F8000_1919.1",
@@ -1650,7 +1650,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふん……。",
-  "en": ""
+  "en": "Hmph..."
  },
  {
   "id": "2F8000_193E.0",
@@ -1658,7 +1658,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ……もしかして見送りにきてくれたの！？",
-  "en": ""
+  "en": "Huh... Don't tell me you came to see me off?!"
  },
  {
   "id": "2F8000_195C.0",
@@ -1666,7 +1666,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "じ、冗談じゃないわ…… / 偶然、ここで考えごとをしてただけ。",
-  "en": ""
+  "en": "D-don't be ridiculous... I just happened to be here thinking about stuff."
  },
  {
   "id": "2F8000_195C.1",
@@ -1674,7 +1674,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こんなに朝早くに？",
-  "en": ""
+  "en": "This early in the morning?"
  },
  {
   "id": "2F8000_1991.0",
@@ -1682,7 +1682,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うるさいわねえ……。",
-  "en": ""
+  "en": "O-oh, be quiet..."
  },
  {
   "id": "2F8000_19A1.0",
@@ -1690,7 +1690,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕がいなくなると、さびしいでしょ？",
-  "en": ""
+  "en": "You'll be lonely when I'm gone, won't you?"
  },
  {
   "id": "2F8000_19B6.0",
@@ -1698,7 +1698,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふ、ふん！！　だれがさびしくなるのよっ！！",
-  "en": ""
+  "en": "H-hmph!! Who'd be lonely?!"
  },
  {
   "id": "2F8000_19D1.0",
@@ -1706,7 +1706,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだね、僕がいなくてもさびしくないよね。",
-  "en": ""
+  "en": "Yeah, you're right, you won't be lonely without me."
  },
  {
   "id": "2F8000_19EB.0",
@@ -1714,7 +1714,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルなんて、どっかに行っちゃえばいいんだわ / ……いじわるされないですむし。",
-  "en": ""
+  "en": "I wish you'd just go away somewhere, Kakeru... Then nobody would pick on me anymore."
  },
  {
   "id": "2F8000_19EB.1",
@@ -1722,7 +1722,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ははは……よかったねナターシャ。",
-  "en": ""
+  "en": "Hahaha... Good for you, Natasha."
  },
  {
   "id": "2F8000_1A29.0",
@@ -1730,7 +1730,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2F8000_1A31.0",
@@ -1738,7 +1738,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ばいばい、ナターシャ！！",
-  "en": ""
+  "en": "Bye-bye, Natasha!!"
  },
  {
   "id": "2F8000_1A40.0",
@@ -1746,7 +1746,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ばいばいって……も、もう行っちゃうの！？",
-  "en": ""
+  "en": "Bye-bye...? Y-you're leaving already?!"
  },
  {
   "id": "2F8000_1A5A.0",
@@ -1754,7 +1754,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ずんちゃ、ずんちゃ……。",
-  "en": ""
+  "en": "Dum-da, dum-da..."
  },
  {
   "id": "2F8000_1A6B.0",
@@ -1762,7 +1762,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルっ……こ、これを持っていきなさいよ。",
-  "en": ""
+  "en": "Kakeru... T-take this with you."
  },
  {
   "id": "2F8000_1A85.0",
@@ -1770,7 +1770,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……なに、これ？",
-  "en": ""
+  "en": "...What's this?"
  },
  {
   "id": "2F8000_1A93.0",
@@ -1778,7 +1778,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私が作った不幸のお守りよ。",
-  "en": ""
+  "en": "It's a bad-luck charm I made."
  },
  {
   "id": "2F8000_1AA8.0",
@@ -1786,7 +1786,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふ、不幸のお守りぃ！？",
-  "en": ""
+  "en": "A b-bad-luck charm?!"
  },
  {
   "id": "2F8000_1ABC.0",
@@ -1794,7 +1794,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そう、不幸のお守り……。",
-  "en": ""
+  "en": "Y-yes, a bad-luck charm..."
  },
  {
   "id": "2F8000_1AD1.0",
@@ -1802,7 +1802,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふーん。",
-  "en": ""
+  "en": "Hmm."
  },
  {
   "id": "2F8000_1ADA.0",
@@ -1810,7 +1810,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なによ……。",
-  "en": ""
+  "en": "Wh-what...?"
  },
  {
   "id": "2F8000_1AE7.0",
@@ -1818,7 +1818,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ありがとう、せっかくだからもらっておくよ。 / 元気でね、ナターシャ！！",
-  "en": ""
+  "en": "Thanks. Since you went to the trouble, I'll take it. Take care, Natasha!!"
  },
  {
   "id": "2F8000_1AE7.1",
@@ -1826,7 +1826,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……。",
-  "en": ""
+  "en": "Ah..."
  },
  {
   "id": "2F8000_1B1B.0",
@@ -1834,7 +1834,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おひさしゅうございます、ルシフォン様……。",
-  "en": ""
+  "en": "It has been a long time, Lord Lushifon..."
  },
  {
   "id": "2F8000_1B33.0",
@@ -1842,7 +1842,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "リディアか……うむ。",
-  "en": ""
+  "en": "Lydia, is it... Indeed."
  },
  {
   "id": "2F8000_1B45.0",
@@ -1850,7 +1850,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "これより再び、 / 私のために……そしてマノのために / 我が力となるのだ……よいな。",
-  "en": ""
+  "en": "From this day forth, you shall once again be my strength... for my sake, and for Mano's... Understood?"
  },
  {
   "id": "2F8000_1B45.1",
@@ -1858,7 +1858,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……はい。",
-  "en": ""
+  "en": "...Yes."
  },
  {
   "id": "2F8000_1B7C.0",
@@ -1866,7 +1866,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おまかせください。",
-  "en": ""
+  "en": "Leave it to me."
  },
  {
   "id": "2F8000_1B8B.0",
@@ -1874,7 +1874,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "我が力、我が命、 / すべてルシフォン様とマノ様のもの。",
-  "en": ""
+  "en": "My strength, my life, all belong to Lord Lushifon and Lady Mano."
  },
  {
   "id": "2F8000_1BA6.0",
@@ -1882,7 +1882,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どのようなご命令でも、 / 必ずや成功させてみせましょう。",
-  "en": ""
+  "en": "Whatever your orders, I shall see them carried out without fail."
  },
  {
   "id": "2F8000_1BC9.0",
@@ -1890,7 +1890,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "少し口をつつしみなさい。",
-  "en": ""
+  "en": "Mind your tongue a little."
  },
  {
   "id": "2F8000_1BDC.0",
@@ -1898,7 +1898,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "調子にのって口数を多くする戦士は / あまりに下品……。",
-  "en": ""
+  "en": "A warrior who gets carried away and runs his mouth is simply too vulgar..."
  },
  {
   "id": "2F8000_1BFF.0",
@@ -1906,7 +1906,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なんだと！？",
-  "en": ""
+  "en": "Wh-what did you say?!"
  },
  {
   "id": "2F8000_1C0D.0",
@@ -1914,7 +1914,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "フフ……まぁよい。",
-  "en": ""
+  "en": "Heh heh... Enough."
  },
  {
   "id": "2F8000_1C1C.0",
@@ -1922,7 +1922,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "我らが目的はタケルの抹殺だ。 / わざわざ私が手をくだすまでもあるまい。",
-  "en": ""
+  "en": "Our goal is the elimination of Takeru. There is no need for me to dirty my own hands."
  },
  {
   "id": "2F8000_1C44.0",
@@ -1930,6 +1930,6 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "相手はたかだか人間１匹。 / お前たちのやりたいようにやるがよい。 / 【リディア＆ハーディス】 / はっ！！",
-  "en": ""
+  "en": "He is a mere human, one and no more. Deal with him however you please. Lydia & Hardis: Yes, my lord!!"
  }
 ]

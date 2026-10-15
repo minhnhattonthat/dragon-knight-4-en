@@ -43,6 +43,13 @@ Run `python -X utf8 tools/batches.py check <batch>` and fix every reported id un
 - Kakeru: casual, cheeky boy ("Dad", "Yay!", "c'mon"). Eto: commanding, curt, a bit pompous ("Hmph."). Lushifon
   and Minax: formal, archaic villain register. Children talk like children.
 
+## Notes from earlier batches
+- レイモンド王国 = "the Kingdom of Raymond"; レイモンド王 = "the King of Raymond". The checker now tells them apart.
+- Name checks are case-insensitive and allow drawn-out shouts ("SEEEIL!!", "Torhes!!").
+- Deliberate name mix-ups in the Japanese (e.g. Kakeru calling Torhes "Hortes") stay mix-ups.
+- 殿 from guards/servants to Kakeru -> "Master Kakeru". おじさん to a stranger -> "mister" (keep jokes about
+  おじさん vs おにいさん as "mister" vs "big brother"/"old man" vs "young man").
+
 ## Consistency
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.
 

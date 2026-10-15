@@ -172,11 +172,18 @@ def check_text(row, en, names_en, rows):
         for a in [x.strip() for x in avoid.split(',') if x.strip()]:
             if re.search(r'\b%s\b' % re.escape(a), en):
                 errs.append('glossary: avoid %r' % a)
+    longer = [k for k in names_en if k in row['jp']] + ['レイモンド王国', 'ロンボニ王国']
     for jp, enn in names_en.items():
-        if len(jp) >= 2 and jp in row['jp'] and not jp.startswith(('街', '女', '男', '子', '部', '右', '左', 'みんな', '生徒')):
+        # an occurrence that only exists inside a longer name/term (レイモンド王 in レイモンド王国) does not count
+        rest = row['jp']
+        for k in longer:
+            if k != jp and jp in k:
+                rest = rest.replace(k, '')
+        if len(jp) >= 2 and jp in rest and not jp.startswith(('街', '女', '男', '子', '部', '右', '左', 'みんな', '生徒')):
             first = enn.split(' ')[0] if not enn.startswith(('The ', 'Captain', 'Elder', 'King')) else enn
             core = enn.split(' the ')[0]
-            if core not in en and first not in en:
+            low = re.sub(r'(.)\1+', r'\1', en.lower())  # case- and elongation-insensitive ("SEEEIL!!")
+            if core.lower() not in low and first.lower() not in low and core not in en and first not in en:
                 errs.append('name: %s -> %s missing' % (jp, enn))
     return errs
 

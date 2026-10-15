@@ -20,4 +20,9 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Script blocks are patched IN PLACE (far-call tokens), so unknown pointers in headers/object tables stay valid. Never move bytes inside a block.
 
 ## Status
-- Done: Step 0, recon of text VM/font/dict. Next: debug tool, identity build, extract. Open bugs: none.
+- Done: Step 0, recon, debug warp (tools/debug/warp.lua, regen.py), extract (script/*.json, 85 batches in work/tl),
+  engine (asm/dk4.asm: far calls + VWF), marker/stress builds verified in-game, pilot b000 merged.
+- Phase 6 in progress: translators run per batch (docs/translator-brief.md); `tools/batches.py status|check|merge`.
+  Merge each checked batch, then reviewer pass. Don't edit tools/layout.py or batches.py while agents run.
+- Next: UI text (menus, status, battle, items, save/load), graphics text survey (docs/re/graphics.md).
+- Open bugs: none known. Region 2C0000_0BC1 (lone 。, 1 byte) stays Japanese.

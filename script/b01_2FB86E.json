@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "つ、着いたあ……ここがソニアの街だ。",
-  "en": ""
+  "en": "W-we're here... So this is the town of Sonia."
  },
  {
   "id": "2FB86E_00F7.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ばうず、見かけない顔だな。 / ひとりでこの街にきたのか？",
-  "en": ""
+  "en": "Kid, I don't recognize your face. Did you come to this town alone?"
  },
  {
   "id": "2FB86E_00F7.1",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか……「マリアンの家」を頼って / この街にきたんだな？",
-  "en": ""
+  "en": "I see... So you came to town to rely on \"Marian's House,\" huh?"
  },
  {
   "id": "2FB86E_00F7.2",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "今の「マリアンの家」には、 / ライナスっていう孤児しかいないんだ…… / あいつにだけは気をつけた方がいいぜ。",
-  "en": ""
+  "en": "Right now there's nobody at \"Marian's House\" but an orphan named Linus... You'd better watch out for that one, at least."
  },
  {
   "id": "2FB86E_0176.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さてと、これから仕事だ。 / じゃあな、ばうず。",
-  "en": ""
+  "en": "Well then, time to get to work. See ya, kid."
  },
  {
   "id": "2FB86E_0194.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "坊や、耳よりな情報を聞きたくないかい？",
-  "en": ""
+  "en": "Little one, wouldn't you like to hear some juicy information?"
  },
  {
   "id": "2FB86E_01B4.0",
@@ -53,7 +53,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "聞く",
-  "en": ""
+  "en": "Listen"
  },
  {
   "id": "2FB86E_01BB.0",
@@ -61,7 +61,7 @@
   "form": "choice",
   "nlines": 1,
   "jp": "聞かない",
-  "en": ""
+  "en": "Don't listen"
  },
  {
   "id": "2FB86E_01CD.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふぉ、ふぉ……それでは教えてあげよう。",
-  "en": ""
+  "en": "Ho, ho... Then I shall tell you."
  },
  {
   "id": "2FB86E_01E7.0",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この世界の街や村には、 / 『力の種』と『守りの種』が、 / あちらこちらに落ちているのぢゃ。",
-  "en": ""
+  "en": "In the towns and villages of this world, Seeds of Power and Seeds of Defense lie scattered here and there."
  },
  {
   "id": "2FB86E_0222.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "これは、それぞれ『攻撃力』『防御力』が / １ポイントずつ上がるという、 / ありがた～い種ぢゃ。",
-  "en": ""
+  "en": "These are mighty precious seeds that raise \"Attack\" and \"Defense\" by 1 point each."
  },
  {
   "id": "2FB86E_0264.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この種を見つけることも、 / お前さんの役目となるはずぢゃ。 / がんばるんぢゃぞ。",
-  "en": ""
+  "en": "Finding these seeds will surely be one of your duties too, sonny. Do your best, now."
  },
  {
   "id": "2FB86E_0296.0",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "話を聞いてくれたおれいに / 『復活の種』をあげよう。",
-  "en": ""
+  "en": "As thanks for listening to my story, I'll give you a Seed of Revival."
  },
  {
   "id": "2FB86E_0296.1",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "この種は戦闘不能の仲間を / 回復してくれるんじゃ。 / ただし、戦闘不能の仲間は / つぎの街でしか回復できないから、 / 気をつけるんじゃぞ。 / カケルは復活の種を１個手に入れた！！",
-  "en": ""
+  "en": "This seed revives an ally who can no longer fight. But be careful: allies who can no longer fight can only be revived in the next town. Kakeru got 1 Seed of Revival!!"
  },
  {
   "id": "2FB86E_032A.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか……残念ぢゃな。",
-  "en": ""
+  "en": "I see... What a pity."
  },
  {
   "id": "2FB86E_033A.0",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "腹が減ってきたからな。 / 今日はもう家に帰るとするかの。",
-  "en": ""
+  "en": "I'm getting hungry. I think I'll head home for today."
  },
  {
   "id": "2FB86E_0360.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "最近バーン様の様子がおかしいのぢゃ。 / なにか悩んでおられるご様子だ。",
-  "en": ""
+  "en": "Lord Bahn's been acting strange lately. He seems troubled by something."
  },
  {
   "id": "2FB86E_0360.1",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "出てった奥さんのことでも思い出してるのかな / ……おっと、よけいなことを言ってしまったわ。",
-  "en": ""
+  "en": "Maybe he's thinking about the wife who walked out on him... Whoops, I've gone and said too much."
  },
  {
   "id": "2FB86E_0360.2",
@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さてと、山に芝刈りにでも行くかのう。",
-  "en": ""
+  "en": "Well now, I suppose I'll go gather firewood in the mountains."
  },
  {
   "id": "2FB86E_03D8.0",
@@ -157,7 +157,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よう、小僧……俺と話がしたいんだな？",
-  "en": ""
+  "en": "Hey, kid... You wanna talk to me, huh?"
  },
  {
   "id": "2FB86E_03F1.0",
@@ -165,7 +165,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "「レイモンド王国」から、 / バーン様に手紙が届いたんだ…… / いったいどんな内容だったんだろ？",
-  "en": ""
+  "en": "A letter came for Lord Bahn from the King of Raymond... I wonder what it said?"
  },
  {
   "id": "2FB86E_0425.0",
@@ -173,7 +173,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "「レイモンド王国」から手紙がきて以来、 / バーン様の様子がおかしいんだ。 / 妙に落ち着きがなくて、そわそわしてるなあ。",
-  "en": ""
+  "en": "Ever since that letter came from the King of Raymond, Lord Bahn's been acting strange. He's oddly restless, all fidgety."
  },
  {
   "id": "2FB86E_0466.0",
@@ -181,7 +181,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ、いけねえ……彼女と約束をしてたんだ！！",
-  "en": ""
+  "en": "Ah, crap... I promised to meet my girlfriend!!"
  },
  {
   "id": "2FB86E_0481.0",
@@ -189,7 +189,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この街にはバーン様が牧師をやっておられる / 教会があるのさ。",
-  "en": ""
+  "en": "This town has the church where Lord Bahn serves as priest."
  },
  {
   "id": "2FB86E_0481.1",
@@ -197,7 +197,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "あの方が住んでる街にいられるなんて…… / 俺は幸せ者だよ。 / バーン様のおかげで、 / 街の外にモンスターがいなくなったんだからな。",
-  "en": ""
+  "en": "Getting to live in the same town as him... I'm a lucky guy. Thanks to Lord Bahn, there aren't any monsters outside town anymore."
  },
  {
   "id": "2FB86E_04F0.0",
@@ -205,7 +205,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "これでライナスさえいなければなあ……",
-  "en": ""
+  "en": "If only Linus weren't around..."
  },
  {
   "id": "2FB86E_0508.0",
@@ -213,7 +213,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "しかたがない、 / となり街にでも行って遊んでくるか。",
-  "en": ""
+  "en": "Oh well, guess I'll go have some fun in the next town over."
  },
  {
   "id": "2FB86E_052C.0",
@@ -221,7 +221,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ……君はだれ？",
-  "en": ""
+  "en": "Huh... Who are you?"
  },
  {
   "id": "2FB86E_0539.0",
@@ -229,7 +229,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2FB86E_0547.0",
@@ -237,7 +237,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いじめないでね。",
-  "en": ""
+  "en": "Please don't bully me."
  },
  {
   "id": "2FB86E_0555.0",
@@ -245,7 +245,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだよ……なにもしてないじゃないか。",
-  "en": ""
+  "en": "What? I haven't done anything to you."
  },
  {
   "id": "2FB86E_056C.0",
@@ -253,7 +253,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "気安くセイルなんて呼ぶなよう……。",
-  "en": ""
+  "en": "Don't go calling me Seil like we're friends..."
  },
  {
   "id": "2FB86E_0599.0",
@@ -261,7 +261,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ……こんにちは。",
-  "en": ""
+  "en": "Hi there... Hello."
  },
  {
   "id": "2FB86E_05A1.0",
@@ -269,7 +269,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こんにちは、おにーさん。",
-  "en": ""
+  "en": "Hello, mister."
  },
  {
   "id": "2FB86E_05A8.0",
@@ -277,7 +277,7 @@
   "form": "dlg",
   "nlines": 7,
   "jp": "僕は冒険小説家を目指してる、 / ロイドンっていうんだ。 / なんでもレイモンドの王様が、 / あの伝説の勇者・バーン様に / 手紙をたくしたといううわさを聞いてね、 / なにか事件が起これば小説のネタに / なるんじゃないかと思ってここまできたんだ。",
-  "en": ""
+  "en": "My name's Roydon, and I want to be an adventure novelist. I heard a rumor that the King of Raymond entrusted a letter to the legendary hero, Lord Bahn, so I came all the way here thinking that if something happened, it might make good material for a novel."
  },
  {
   "id": "2FB86E_061B.0",
@@ -285,7 +285,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふーん……。",
-  "en": ""
+  "en": "Hmm..."
  },
  {
   "id": "2FB86E_0622.0",
@@ -293,7 +293,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "君は……どこからきたんだい？",
-  "en": ""
+  "en": "And you... where are you from?"
  },
  {
   "id": "2FB86E_0629.0",
@@ -301,7 +301,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ここからずっと西にあるテレスの村だよ。",
-  "en": ""
+  "en": "The village of Teres, way off to the west of here."
  },
  {
   "id": "2FB86E_0645.0",
@@ -309,7 +309,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕はお父さんにたのまれて、 / そのバーンおじさんに会いに行くところなんだ。",
-  "en": ""
+  "en": "My dad asked me to go see Uncle Bahn, so that's where I'm headed."
  },
  {
   "id": "2FB86E_066D.0",
@@ -317,7 +317,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "驚いたな、 / 君はあのバーン様と知り合いなのかい？ / いったいどういう……。",
-  "en": ""
+  "en": "Well, I'm surprised. You know THE Lord Bahn? How on earth..."
  },
  {
   "id": "2FB86E_0699.0",
@@ -325,7 +325,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "そういえば……君の顔、 / どこかで見たことがあるな。 / たしかこの街にあったタケル様と / バーン様の肖像画……あれれ？",
-  "en": ""
+  "en": "Come to think of it... I feel like I've seen your face somewhere. There was that portrait of Lord Takeru and Lord Bahn in this town... Huh?"
  },
  {
   "id": "2FB86E_06DA.0",
@@ -333,7 +333,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "も、もしかして君は…… / カケルって名前なんじゃないか！？",
-  "en": ""
+  "en": "C-could it be... Is your name Kakeru?!"
  },
  {
   "id": "2FB86E_06DA.1",
@@ -341,7 +341,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだよ、どうして僕の名前を知ってるの？",
-  "en": ""
+  "en": "Yeah, how do you know my name?"
  },
  {
   "id": "2FB86E_06EA.0",
@@ -349,7 +349,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そうか！！　君がカケル君かっ！！",
-  "en": ""
+  "en": "I-I knew it!! So you're Kakeru!!"
  },
  {
   "id": "2FB86E_06FE.0",
@@ -357,7 +357,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いやあ、あのタケル様の / 息子に会えるとは光栄だよ！！",
-  "en": ""
+  "en": "Wow, it's an honor to meet the son of THE Lord Takeru!!"
  },
  {
   "id": "2FB86E_071D.0",
@@ -365,7 +365,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふーん……お父さんって、有名なんだなあ。",
-  "en": ""
+  "en": "Huh... I guess Dad's famous."
  },
  {
   "id": "2FB86E_0724.0",
@@ -373,7 +373,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "なあ、よかったら今までの冒険のことを / 話してくれないかな？ / そしてこれからの冒険のこともいずれ、 / いろいろと聞かせてほしいな。",
-  "en": ""
+  "en": "Hey, if you don't mind, would you tell me about your adventures so far? And someday I'd love to hear all about your adventures to come, too."
  },
  {
   "id": "2FB86E_076C.0",
@@ -381,7 +381,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいよ、まだたいした旅もしていないけどね。",
-  "en": ""
+  "en": "Sure, though I haven't really had much of a journey yet."
  },
  {
   "id": "2FB86E_0787.0",
@@ -389,7 +389,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そうか……うれしいな。",
-  "en": ""
+  "en": "R-really... That makes me happy."
  },
  {
   "id": "2FB86E_079C.0",
@@ -397,7 +397,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ……今度こそ僕に話をしてくれるんだね。",
-  "en": ""
+  "en": "Hi there... You'll tell me your story this time, right?"
  },
  {
   "id": "2FB86E_07B2.0",
@@ -405,7 +405,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さてと、どのノートに書くかな……",
-  "en": ""
+  "en": "Now then, which notebook should I write it in..."
  },
  {
   "id": "2FB86E_07BC.0",
@@ -413,7 +413,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ……また僕に話をしてくれるんだね。",
-  "en": ""
+  "en": "Hi there... You'll tell me your story again, right?"
  },
  {
   "id": "2FB86E_07D0.0",
@@ -421,7 +421,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さてと、今度はどのノートに書くかな……",
-  "en": ""
+  "en": "Now then, which notebook should I write it in this time..."
  },
  {
   "id": "2FB86E_07EA.0",
@@ -429,7 +429,7 @@
   "form": "choice",
   "nlines": 2,
   "jp": "君は何色が好きなんだい？ / 青色のノート",
-  "en": ""
+  "en": "What color do you like? / Blue notebook"
  },
  {
   "id": "2FB86E_07FF.0",
@@ -437,7 +437,7 @@
   "form": "choice",
   "nlines": 2,
   "jp": "赤色のノート / 緑色のノート | 次の機会にする",
-  "en": ""
+  "en": "Red notebook / Green notebook | Maybe next time"
  },
  {
   "id": "2FB86E_0830.0",
@@ -445,7 +445,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕、青色のノートがいいな。",
-  "en": ""
+  "en": "I'd like the blue notebook."
  },
  {
   "id": "2FB86E_084F.0",
@@ -453,7 +453,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、じゃあ / 青色のノート",
-  "en": ""
+  "en": "All right, then I'll use the blue notebook"
  },
  {
   "id": "2FB86E_0864.0",
@@ -461,7 +461,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕、赤色のノートがいいな。",
-  "en": ""
+  "en": "I'd like the red notebook."
  },
  {
   "id": "2FB86E_0883.0",
@@ -469,7 +469,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、じゃあ / 赤色のノート",
-  "en": ""
+  "en": "All right, then I'll use the red notebook"
  },
  {
   "id": "2FB86E_0898.0",
@@ -477,7 +477,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕、緑色のノートがいいな。",
-  "en": ""
+  "en": "I'd like the green notebook."
  },
  {
   "id": "2FB86E_08B8.0",
@@ -485,7 +485,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、じゃあ / 緑色のノート",
-  "en": ""
+  "en": "All right, then I'll use the green notebook"
  },
  {
   "id": "2FB86E_08C9.0",
@@ -493,7 +493,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "に君の冒険を書き込もう。",
-  "en": ""
+  "en": "to write down your adventures."
  },
  {
   "id": "2FB86E_08C9.1",
@@ -501,7 +501,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いやあ、とても楽しかったよ…… / よかったらまた話を聞かせてくれ。",
-  "en": ""
+  "en": "Well, that was a real pleasure... Come tell me more stories sometime, if you like."
  },
  {
   "id": "2FB86E_08FF.0",
@@ -509,7 +509,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ごめん、やっぱり話をするのはやめるよ。",
-  "en": ""
+  "en": "Sorry, I think I'll skip the story after all."
  },
  {
   "id": "2FB86E_0918.0",
@@ -517,7 +517,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか・・・また今度話を聞かせてくれよ。",
-  "en": ""
+  "en": "I see... Well, tell me your story some other time."
  },
  {
   "id": "2FB86E_0943.0",
@@ -525,7 +525,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "『タケルとバーン、永遠の友』……。",
-  "en": ""
+  "en": "\"Takeru and Bahn, Friends Forever\"..."
  },
  {
   "id": "2FB86E_095E.0",
@@ -533,7 +533,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……お父さんとバーンおじさんがふたりで / 並んでいるな。仲がよさそうだなあ。",
-  "en": ""
+  "en": "...It's Dad and Uncle Bahn standing side by side. They look like really good friends."
  },
  {
   "id": "2FB86E_098A.0",
@@ -541,7 +541,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "天にまします我らが父よ…… / 迷える子羊、ライナスを救いたまえ。",
-  "en": ""
+  "en": "Our Father, who art in Heaven... Save this lost lamb, Linus."
  },
  {
   "id": "2FB86E_098A.1",
@@ -549,7 +549,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ねえ、おじさん。",
-  "en": ""
+  "en": "Hey, mister."
  },
  {
   "id": "2FB86E_09C1.0",
@@ -557,7 +557,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ライナスは悪い子ではないのです。ただ、 / 普通よりも乱暴で手クセが悪いだけなのです。",
-  "en": ""
+  "en": "Linus is not a bad child. He is merely more violent than most, and has rather sticky fingers."
  },
  {
   "id": "2FB86E_09C1.1",
@@ -565,7 +565,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おじさんがバーンさん？",
-  "en": ""
+  "en": "Mister, are you Bahn?"
  },
  {
   "id": "2FB86E_0A06.0",
@@ -573,7 +573,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "たしかにあの子供のおかげで、 / 我が妻も出て行ってしまいました…… / それどころかこの街の女たちは、 / 次々と出て行ってしまい、 / 今ではマリアンを残すのみです。",
-  "en": ""
+  "en": "True, it is because of that child that my wife left me... And not only her, the women of this town have left one after another, until now only Marian remains."
  },
  {
   "id": "2FB86E_0A06.1",
@@ -581,7 +581,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おじさんってば。",
-  "en": ""
+  "en": "Mister, c'mon!"
  },
  {
   "id": "2FB86E_0A6A.0",
@@ -589,7 +589,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私の腕力をもってすれば、 / ライナスなどひとたまりもないでしょう…… / しかし、それでは彼の心が救われません。",
-  "en": ""
+  "en": "With my strength, Linus would not stand a chance... But that would not save his soul."
  },
  {
   "id": "2FB86E_0AA9.0",
@@ -597,7 +597,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お・じ・さ・んっ！！",
-  "en": ""
+  "en": "MIS-TER!!"
  },
  {
   "id": "2FB86E_0ABC.0",
@@ -605,7 +605,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああ神よ……どうか私に、 / ライナスを救う方法をお教えください。",
-  "en": ""
+  "en": "O Lord... I beseech thee, show me the way to save Linus."
  },
  {
   "id": "2FB86E_0ABC.1",
@@ -613,7 +613,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よーし……。",
-  "en": ""
+  "en": "Right then......"
  },
  {
   "id": "2FB86E_0AF6.0",
@@ -621,7 +621,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いでででっ！！　ス、スネをけりやがった！！",
-  "en": ""
+  "en": "Owowow!! Th-the brat kicked my shin!!"
  },
  {
   "id": "2FB86E_0B12.0",
@@ -629,7 +629,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おじさんが悪いんだからね、 / 僕のことを無視するから。",
-  "en": ""
+  "en": "It's your own fault, mister, for ignoring me."
  },
  {
   "id": "2FB86E_0B3F.0",
@@ -637,7 +637,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だれだお前は？　なるほど。",
-  "en": ""
+  "en": "Who the heck are you? Ah, I get it."
  },
  {
   "id": "2FB86E_0B52.0",
@@ -645,7 +645,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前も「マリアンの家」の話を聞いて / この街にきたんだな。",
-  "en": ""
+  "en": "You heard about \"Marian's House\" and came to this town too, huh?"
  },
  {
   "id": "2FB86E_0B73.0",
@@ -653,7 +653,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちがうってば、僕はお父さんの息子なんだ。",
-  "en": ""
+  "en": "No, no! I'm my dad's son."
  },
  {
   "id": "2FB86E_0B8D.0",
@@ -661,7 +661,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "俺はお前のお父さんなんか知らないぜ。",
-  "en": ""
+  "en": "I don't know your dad from Adam, kid."
  },
  {
   "id": "2FB86E_0BA5.0",
@@ -669,7 +669,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "知ってるよ……だってお父さんは、 / よくバーンおじさんの話をするもの。",
-  "en": ""
+  "en": "Sure you do... 'cause Dad talks about Uncle Bahn all the time."
  },
  {
   "id": "2FB86E_0BA5.1",
@@ -677,7 +677,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いーや、知らん！　お前のとーちゃんは、 / 俺のことが書かれた本でも読んだんだろ？",
-  "en": ""
+  "en": "Nope, don't know him! Your old man probably just read some book about me, right?"
  },
  {
   "id": "2FB86E_0BA5.2",
@@ -685,7 +685,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "「ヤマト・タケル」を知らないんだ。",
-  "en": ""
+  "en": "You don't know \"Yamato Takeru\"?"
  },
  {
   "id": "2FB86E_0C0E.0",
@@ -693,7 +693,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "タ、タケルゥ！？",
-  "en": ""
+  "en": "T-Takeruuu?!"
  },
  {
   "id": "2FB86E_0C1D.0",
@@ -701,7 +701,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだよ、その息子でカケルっていうんだ。",
-  "en": ""
+  "en": "Yep, and I'm his son. My name's Kakeru."
  },
  {
   "id": "2FB86E_0C36.0",
@@ -709,7 +709,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "たしかに、タケルに似た顔をしてるな…… / それにカケルといえば、タケルの息子の名前だ。 / ……で、タケルはどこにいるんだい？",
-  "en": ""
+  "en": "You do have Takeru's face, now that I look... And Kakeru is the name of Takeru's son, all right. ...So, where's Takeru?"
  },
  {
   "id": "2FB86E_0C7A.0",
@@ -717,7 +717,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "家にいるよ。",
-  "en": ""
+  "en": "At home."
  },
  {
   "id": "2FB86E_0C87.0",
@@ -725,7 +725,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2FB86E_0C8F.0",
@@ -733,7 +733,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "つまり……お前ひとりできたってことか？",
-  "en": ""
+  "en": "So... you're saying you came here all by yourself?"
  },
  {
   "id": "2FB86E_0CA6.0",
@@ -741,7 +741,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、僕ひとり。",
-  "en": ""
+  "en": "Yep, just me."
  },
  {
   "id": "2FB86E_0CB4.0",
@@ -749,7 +749,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "タケルの野郎ぉっ！！ / 俺の手紙を冗談だと思ったのか！？ / どうしてお前ひとりでくるんだよっ！！",
-  "en": ""
+  "en": "Takeru, you lousy bum!! Did you think my letter was a joke?! Why'd you send a kid here all alone?!"
  },
  {
   "id": "2FB86E_0CED.0",
@@ -757,7 +757,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お父さんが僕の歳には、 / もうひとりで旅をしてたんだって。",
-  "en": ""
+  "en": "Dad says that when he was my age, he was already traveling on his own."
  },
  {
   "id": "2FB86E_0CED.1",
@@ -765,7 +765,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そーゆー問題じゃないだろっ！！",
-  "en": ""
+  "en": "That's not the point!!"
  },
  {
   "id": "2FB86E_0D24.0",
@@ -773,7 +773,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "仮にも苦楽を共にした、 / このバーン様が手紙を出したんだぜ！！",
-  "en": ""
+  "en": "This is the great Bahn writing to him, the guy who went through thick and thin with him!!"
  },
  {
   "id": "2FB86E_0D4B.0",
@@ -781,7 +781,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "はあ……なんてこったい…… / またタケルといっしょに / 旅ができると思ったのに。",
-  "en": ""
+  "en": "Sigh... What a mess... And here I thought I'd get to travel with Takeru again."
  },
  {
   "id": "2FB86E_0D4B.1",
@@ -789,7 +789,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "大丈夫だよ、僕だってお父さんの子供なんだ。",
-  "en": ""
+  "en": "It's okay! I'm Dad's kid too, y'know."
  },
  {
   "id": "2FB86E_0D8F.0",
@@ -797,7 +797,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "……そうか、わかったぞ。 / これは神がお導きくださったのだ。 / 本当にタケルの息子なんだな？",
-  "en": ""
+  "en": "...I see. I understand now. The Lord has guided you here. You really are Takeru's son?"
  },
  {
   "id": "2FB86E_0DC3.0",
@@ -805,7 +805,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだよ……何度も言ってるじゃないか。",
-  "en": ""
+  "en": "Yes... How many times do I have to say it?"
  },
  {
   "id": "2FB86E_0DDA.0",
@@ -813,7 +813,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "タケルの息子なら、無二の親友である / バーン様の頼みをきかないはずがない。",
-  "en": ""
+  "en": "If you are Takeru's son, you could hardly refuse a favor from the great Bahn, his one and only best friend."
  },
  {
   "id": "2FB86E_0DDA.1",
@@ -821,7 +821,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "悪いやつを、倒しに行くんでしょう？",
-  "en": ""
+  "en": "We're going to go beat up some bad guys, right?"
  },
  {
   "id": "2FB86E_0E1F.0",
@@ -829,7 +829,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いーや、その前にやってもらいたいことがある",
-  "en": ""
+  "en": "Nope. Before that, there's something I want you to do."
  },
  {
   "id": "2FB86E_0E3A.0",
@@ -837,7 +837,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……お前がタケルの息子なら、 / こんなことぐらい朝飯前のはずさ。",
-  "en": ""
+  "en": "...If you're really Takeru's son, this should be a piece of cake."
  },
  {
   "id": "2FB86E_0E5F.0",
@@ -845,7 +845,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やってもらいたいことって？",
-  "en": ""
+  "en": "Something you want me to do?"
  },
  {
   "id": "2FB86E_0E72.0",
@@ -853,7 +853,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "この街のはずれには「マリアンの家」がある。",
-  "en": ""
+  "en": "On the edge of this town there's \"Marian's House.\""
  },
  {
   "id": "2FB86E_0E90.0",
@@ -861,7 +861,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "もともとそこはマリアンって娘が、 / 天涯孤独な子供たちの面倒をみるための / 家だったんだ。",
-  "en": ""
+  "en": "It was originally a home where a girl named Marian took care of children who had no family in the world."
  },
  {
   "id": "2FB86E_0E90.1",
@@ -869,7 +869,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘえ……マリアンさんって優しいんだね。",
-  "en": ""
+  "en": "Wow... Marian sounds really nice."
  },
  {
   "id": "2FB86E_0EDC.0",
@@ -877,7 +877,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "そこにライナスって子供がいるんだが、 / こいつがとんでもないやつでな。 / どのくらいひどいかというと…… / 子供のクセに女とみればイタズラするし、 / 手クセもひっじょー……に悪い。",
-  "en": ""
+  "en": "There's a kid named Linus living there, and he's a real piece of work. How bad, you ask...? He's just a kid, but he pulls pranks on every woman he sees, and his fingers are stickyyyy... beyond belief."
  },
  {
   "id": "2FB86E_0EDC.1",
@@ -885,7 +885,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "おかげでこの街の女性から、 / やつがいなくなるまで戻らないって言われて…… / 私の妻まで出て行ってしまったのだ。",
-  "en": ""
+  "en": "Thanks to him, the women of this town said they wouldn't come back until he was gone... and even my own wife left."
  },
  {
   "id": "2FB86E_0F80.0",
@@ -893,7 +893,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そう言えば、この街で女の人を見かけないね。",
-  "en": ""
+  "en": "Now that you mention it, I haven't seen any women in this town."
  },
  {
   "id": "2FB86E_0F9B.0",
@@ -901,7 +901,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それだけじゃない……",
-  "en": ""
+  "en": "And that's not all..."
  },
  {
   "id": "2FB86E_0FA9.0",
@@ -909,7 +909,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やつは「マリアンの家」の、 / 他の子供たちまで追い出しやがった。",
-  "en": ""
+  "en": "The brat even drove the other kids out of \"Marian's House.\""
  },
  {
   "id": "2FB86E_0FD1.0",
@@ -917,7 +917,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ひどいなあ……バーンおじさん、 / どうしてほっておいたの？",
-  "en": ""
+  "en": "That's awful... Uncle Bahn, why didn't you do something?"
  },
  {
   "id": "2FB86E_0FD1.1",
@@ -925,7 +925,7 @@
   "form": "dlg",
   "nlines": 6,
   "jp": "私は大人だ、 / 子供を相手にケンカなどできない…… / しかしお前は子供だ。 / そして私は神に仕える身だ、 / 暴力などふるえない…… / しかしお前は牧師ではない。",
-  "en": ""
+  "en": "I am an adult; I cannot pick a fight with a child... But you are a child. And I am a servant of the Lord; I cannot resort to violence... But you are not a priest."
  },
  {
   "id": "2FB86E_1050.0",
@@ -933,7 +933,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "つまり……僕がそのライナスってやつを、 / どうにかすればいいんだね？",
-  "en": ""
+  "en": "So... you want me to do something about this Linus guy?"
  },
  {
   "id": "2FB86E_1050.1",
@@ -941,7 +941,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そのとおりっ！！ / 子供は子供同士で解決するのが一番だからな。",
-  "en": ""
+  "en": "Exactly!! It's best for kids to settle things among kids, after all."
  },
  {
   "id": "2FB86E_1050.2",
@@ -949,7 +949,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "言っておくけど、僕は子供じゃないよ…… / 僕は剣士なんだ。",
-  "en": ""
+  "en": "Just so you know, I'm not a kid... I'm a swordsman."
  },
  {
   "id": "2FB86E_1050.3",
@@ -957,7 +957,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前がライナスをこの街から追い出してくれたら / 剣士と認めようじゃないか。",
-  "en": ""
+  "en": "If you drive Linus out of this town, I'll acknowledge you as a swordsman."
  },
  {
   "id": "2FB86E_1050.4",
@@ -965,7 +965,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふーん……そうしたら、 / 僕といっしょに旅に出てくれるんだね？",
-  "en": ""
+  "en": "Hmm... And then you'll come on a journey with me, right?"
  },
  {
   "id": "2FB86E_1050.5",
@@ -973,7 +973,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "約束しよう……でもライナスは手ごわいぞお。",
-  "en": ""
+  "en": "You have my word... But Linus is a tough one, I tell ya."
  },
  {
   "id": "2FB86E_1125.0",
@@ -981,7 +981,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わくわくするなあ……どんなやつなんだろ？",
-  "en": ""
+  "en": "This is so exciting... I wonder what he's like?"
  },
  {
   "id": "2FB86E_1139.0",
@@ -989,7 +989,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "実際に会ってみるがいい……",
-  "en": ""
+  "en": "Go meet him and see for yourself..."
  },
  {
   "id": "2FB86E_114E.0",
@@ -997,7 +997,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やつは街はずれにある / 「マリアンの家」にいるはずさ。",
-  "en": ""
+  "en": "He should be at \"Marian's House\" on the edge of town."
  },
  {
   "id": "2FB86E_117C.0",
@@ -1005,7 +1005,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なんだカケル…… / もうライナスを追い出しちゃったのか？",
-  "en": ""
+  "en": "What's this, Kakeru... You've already driven Linus out?"
  },
  {
   "id": "2FB86E_117C.1",
@@ -1013,7 +1013,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううん、まだだよ。",
-  "en": ""
+  "en": "Nope, not yet."
  },
  {
   "id": "2FB86E_11AA.0",
@@ -1021,7 +1021,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それなら剣士とは認められないな。",
-  "en": ""
+  "en": "Then I can't acknowledge you as a swordsman."
  },
  {
   "id": "2FB86E_11C1.0",
@@ -1029,7 +1029,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "つまり……いっしょに旅に出ることは / できないってことだ。",
-  "en": ""
+  "en": "Which means... I can't go on a journey with you."
  },
  {
   "id": "2FB86E_11E7.0",
@@ -1037,7 +1037,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル……今度こそ、 / ライナスを追い出したんだろうな？",
-  "en": ""
+  "en": "Kakeru... This time you've driven Linus out for sure, right?"
  },
  {
   "id": "2FB86E_1211.0",
@@ -1054,7 +1054,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、僕に一生つきまとうって。",
-  "en": ""
+  "en": "Yep. He says he'll follow me around for the rest of his life."
  },
  {
   "id": "2FB86E_1245.0",
@@ -1062,7 +1062,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだそりゃ！？",
-  "en": ""
+  "en": "What the heck?!"
  },
  {
   "id": "2FB86E_1253.0",
@@ -1070,7 +1070,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕がこの街を出ればライナスもいなくなるよ。 / だから追い出したことと同じでしょ？",
-  "en": ""
+  "en": "When I leave this town, Linus will be gone too. So it's the same as driving him out, right?"
  },
  {
   "id": "2FB86E_1253.1",
@@ -1078,7 +1078,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル……あんなやつにつきまとわれて、 / 平気なのか？",
-  "en": ""
+  "en": "Kakeru... You're really okay with that guy following you around?"
  },
  {
   "id": "2FB86E_1253.2",
@@ -1086,7 +1086,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ものごとはいつも前向きに明るく考えろって、 / お父さんに言われてるから。",
-  "en": ""
+  "en": "Dad always tells me to look on the bright side and think positive."
  },
  {
   "id": "2FB86E_1253.3",
@@ -1094,7 +1094,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さすがタケルだ。 / ……カケルを男らしい子に育てたな。",
-  "en": ""
+  "en": "That's Takeru for you. ...He's raised Kakeru into a real man."
  },
  {
   "id": "2FB86E_1253.4",
@@ -1102,7 +1102,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "さあバーンおじさん、約束だよ…… / いっしょに冒険の旅に出かけようよ。",
-  "en": ""
+  "en": "Okay, Uncle Bahn, a promise is a promise... Let's go off on an adventure together."
  },
  {
   "id": "2FB86E_1253.5",
@@ -1110,7 +1110,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "冗談じゃない……お前と旅をしたら、 / ライナスともいっしょってことじゃないか。",
-  "en": ""
+  "en": "You've gotta be kidding... If I travel with you, that means traveling with Linus too."
  },
  {
   "id": "2FB86E_1253.6",
@@ -1118,7 +1118,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、そうだよ。",
-  "en": ""
+  "en": "Yep, that's right."
  },
  {
   "id": "2FB86E_134A.0",
@@ -1126,7 +1126,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お断りだ。",
-  "en": ""
+  "en": "I decline."
  },
  {
   "id": "2FB86E_1356.0",
@@ -1134,7 +1134,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "せっかくライナスとおさらばできるのに、 / あえてイバラの道を歩くことはなかろう。",
-  "en": ""
+  "en": "Just when I finally get to say goodbye to Linus, there is no reason to choose to walk a path of thorns."
  },
  {
   "id": "2FB86E_1382.0",
@@ -1142,7 +1142,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "バーンおじさんは牧師なんだから、 / イバラの道を歩くのが好きなんでしょ？",
-  "en": ""
+  "en": "But Uncle Bahn, you're a priest, so you like walking paths of thorns, don't you?"
  },
  {
   "id": "2FB86E_1382.1",
@@ -1150,7 +1150,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなことはない。",
-  "en": ""
+  "en": "I do not."
  },
  {
   "id": "2FB86E_13BC.0",
@@ -1158,7 +1158,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "だいたいタケルが出てこないのに、 / 私が出るというのもくやしいではないか / ……いや待てよ。",
-  "en": ""
+  "en": "Besides, if Takeru isn't coming out, it'd be galling for me to go... No, wait a minute."
  },
  {
   "id": "2FB86E_13BC.1",
@@ -1166,7 +1166,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "？？？",
-  "en": ""
+  "en": "???"
  },
  {
   "id": "2FB86E_13F5.0",
@@ -1174,7 +1174,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……そうか。",
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "2FB86E_1401.0",
@@ -1182,7 +1182,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "これもきっと神のお導きかもしれない。 / うん、きっとそうだ。おーい、セイル！！ / こっちにくるのだ！！",
-  "en": ""
+  "en": "Surely this too may be the Lord's guidance. Yes, surely it is. Hey, Seil!! Come over here!!"
  },
  {
   "id": "2FB86E_144A.0",
@@ -1190,7 +1190,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なあに、パパ。",
-  "en": ""
+  "en": "What is it, Papa?"
  },
  {
   "id": "2FB86E_1457.0",
@@ -1198,7 +1198,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "“パパ”はよせといつも言ってるだろ？ / ……カケル、こいつが俺の息子のセイルだ。",
-  "en": ""
+  "en": "How many times have I told you to stop calling me \"Papa\"? ...Kakeru, this is my son, Seil."
  },
  {
   "id": "2FB86E_1457.1",
@@ -1206,7 +1206,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕はカケル、よろしくね。",
-  "en": ""
+  "en": "I'm Kakeru. Nice to meet you!"
  },
  {
   "id": "2FB86E_1495.0",
@@ -1214,7 +1214,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2FB86E_149D.0",
@@ -1222,7 +1222,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こら、ちゃんとあいさつをせんか。",
-  "en": ""
+  "en": "Hey, say hello properly."
  },
  {
   "id": "2FB86E_14B1.0",
@@ -1230,7 +1230,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パパ、この子……だれなの？",
-  "en": ""
+  "en": "Papa, who... is this kid?"
  },
  {
   "id": "2FB86E_14C4.0",
@@ -1238,7 +1238,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これからお前といっしょに旅をするカケル君だ / ……仲良くしないといけないぞ。",
-  "en": ""
+  "en": "This is Kakeru, who'll be traveling with you from now on... You two had better get along."
  },
  {
   "id": "2FB86E_14C4.1",
@@ -1246,7 +1246,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "2FB86E_14F7.0",
@@ -1254,7 +1254,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わっはっはっ！！　タケルに負けられるかっ！！ / タケルが息子なら、私も息子だ！！",
-  "en": ""
+  "en": "Wahahaha!! I can't let Takeru beat me!! If Takeru sends his son, I'll send mine!!"
  },
  {
   "id": "2FB86E_14F7.1",
@@ -1262,7 +1262,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ば、僕が旅に出る！？　き、きいてないよー！！",
-  "en": ""
+  "en": "Wh-what, I'm going on a journey?! N-nobody told me that!!"
  },
  {
   "id": "2FB86E_1540.0",
@@ -1270,7 +1270,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "セイルよ、 / カケルは普通の子ではない……　父が昔、 / 共に闘ったタケルという剣士の息子なのだ。",
-  "en": ""
+  "en": "Seil, Kakeru is no ordinary child... He is the son of Takeru, the swordsman your father once fought alongside."
  },
  {
   "id": "2FB86E_1578.0",
@@ -1287,7 +1287,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "そしてセイル、 / お前も普通の子ではないのだぞ……父の血、 / つまりドラゴンナイト一族の血を受け継ぐ者だ。",
-  "en": ""
+  "en": "And Seil, you too are no ordinary child... You carry your father's blood, the blood of the Dragon Knight clan."
  },
  {
   "id": "2FB86E_15BF.0",
@@ -1295,7 +1295,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だって僕、知らない人が大きらいなんだ。",
-  "en": ""
+  "en": "But I really hate strangers."
  },
  {
   "id": "2FB86E_15D8.0",
@@ -1303,7 +1303,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルよ、私はタケルと知り合うことで、自分が / ドラゴンナイトの一族であることを知った。",
-  "en": ""
+  "en": "Seil, it was through meeting Takeru that I learned I was of the Dragon Knight clan."
  },
  {
   "id": "2FB86E_15D8.1",
@@ -1311,7 +1311,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなの、僕には関係ないよ！！",
-  "en": ""
+  "en": "That's got nothing to do with me!!"
  },
  {
   "id": "2FB86E_161D.0",
@@ -1319,7 +1319,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だって、今はモンスターもいない / 平和な世の中じゃないか！！",
-  "en": ""
+  "en": "Besides, there aren't even any monsters now. The world's at peace!!"
  },
  {
   "id": "2FB86E_163E.0",
@@ -1327,7 +1327,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いーや……お前はカケルと旅をし、",
-  "en": ""
+  "en": "Nope... You will travel with Kakeru,"
  },
  {
   "id": "2FB86E_1653.0",
@@ -1335,7 +1335,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンナイト一族の血を受け継ぐ者として / 成長するのだ。",
-  "en": ""
+  "en": "and grow up as one who carries the blood of the Dragon Knight clan."
  },
  {
   "id": "2FB86E_1676.0",
@@ -1343,7 +1343,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いやだあ！！　めちゃくちゃだあ！！ / 僕、この街から出たくない！！",
-  "en": ""
+  "en": "No waaay!! This is crazy!! I don't wanna leave this town!!"
  },
  {
   "id": "2FB86E_1676.1",
@@ -1351,7 +1351,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルがこの街にきたことこそ神のお導きだ。 / お前は彼といっしょに旅をしなければならん。",
-  "en": ""
+  "en": "Kakeru coming to this town is the Lord's guidance itself. You must travel with him."
  },
  {
   "id": "2FB86E_1676.2",
@@ -1359,7 +1359,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パパは僕のことが心配じゃないの？",
-  "en": ""
+  "en": "Papa, aren't you worried about me?"
  },
  {
   "id": "2FB86E_16E1.0",
@@ -1367,7 +1367,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "子供のことを心配しない親はいない…… / しかし父は、お前を甘やかしていたようだ。",
-  "en": ""
+  "en": "There is no parent who does not worry for their child... But it seems your father has been spoiling you."
  },
  {
   "id": "2FB86E_16E1.1",
@@ -1375,7 +1375,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕は……この街から出たくない。",
-  "en": ""
+  "en": "I... don't want to leave this town."
  },
  {
   "id": "2FB86E_1727.0",
@@ -1383,7 +1383,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルよ、セイルのことを頼むぞ……",
-  "en": ""
+  "en": "Kakeru, I'm counting on you to look after Seil..."
  },
  {
   "id": "2FB86E_173D.0",
@@ -1391,7 +1391,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こいつとレイモンドの国に行き、 / 王様に会ってくれ。",
-  "en": ""
+  "en": "Go with him to Raymond and meet the King."
  },
  {
   "id": "2FB86E_175D.0",
@@ -1399,7 +1399,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レイモンドの王様？",
-  "en": ""
+  "en": "The King of Raymond?"
  },
  {
   "id": "2FB86E_176E.0",
@@ -1407,7 +1407,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レイモンド王から手紙をもらったのだ……",
-  "en": ""
+  "en": "I received a letter from the King of Raymond..."
  },
  {
   "id": "2FB86E_178A.0",
@@ -1415,7 +1415,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ライムリン王国で、 / ドラゴンナイトを名乗るやつらが / 悪事の限りをつくしていると。",
-  "en": ""
+  "en": "He says a gang calling themselves Dragon Knights is committing every evil imaginable in the Kingdom of Limerin."
  },
  {
   "id": "2FB86E_178A.1",
@@ -1423,7 +1423,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ただのうわさかも知れん…… / しかしレイモンド王から手紙までもらったのだ。 / それを無視するわけにはいかないだろう。",
-  "en": ""
+  "en": "It may be nothing more than a rumor... But the King of Raymond himself sent me a letter. I cannot simply ignore it."
  },
  {
   "id": "2FB86E_17F4.0",
@@ -1431,7 +1431,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いやだあ、いやだあ！！",
-  "en": ""
+  "en": "No, no, nooo!!"
  },
  {
   "id": "2FB86E_1805.0",
@@ -1439,7 +1439,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル、行きたくなければそれでもいい。 / いいぞ、行かなくても。",
-  "en": ""
+  "en": "Seil, if you don't want to go, that's fine. It's fine, you don't have to go."
  },
  {
   "id": "2FB86E_1805.1",
@@ -1447,7 +1447,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ほ、本当？",
-  "en": ""
+  "en": "R-really?"
  },
  {
   "id": "2FB86E_1834.0",
@@ -1455,7 +1455,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ、いいとも……ボキボキボキっ。",
-  "en": ""
+  "en": "Yes, quite fine... Crack crack crack."
  },
  {
   "id": "2FB86E_184E.0",
@@ -1463,7 +1463,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ど、どうして指の骨を鳴らすのさ。",
-  "en": ""
+  "en": "Wh-why are you cracking your knuckles?"
  },
  {
   "id": "2FB86E_1867.0",
@@ -1471,7 +1471,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "行きたくないんだよな、セイルは…… / これほど私が頼んでいるのに、だ。",
-  "en": ""
+  "en": "So Seil doesn't want to go... even though I'm asking this nicely."
  },
  {
   "id": "2FB86E_1867.1",
@@ -1479,7 +1479,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こ、恐い顔をしないでよ……パパ。",
-  "en": ""
+  "en": "D-don't make that scary face... Papa."
  },
  {
   "id": "2FB86E_18A3.0",
@@ -1487,7 +1487,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "行こうよ、僕といっしょに。きっと楽しいよ。",
-  "en": ""
+  "en": "C'mon, come with me. It'll be fun, I bet."
  },
  {
   "id": "2FB86E_18BF.0",
@@ -1495,7 +1495,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケル、レイモンド王国は / 海を渡らなければ行くことができない…… / 長い旅になるぞ。",
-  "en": ""
+  "en": "Kakeru, the Kingdom of Raymond can only be reached by crossing the sea... It'll be a long journey."
  },
  {
   "id": "2FB86E_18EC.0",
@@ -1503,7 +1503,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わくわく……楽しみだなあ。",
-  "en": ""
+  "en": "So exciting... I can't wait."
  },
  {
   "id": "2FB86E_1904.0",
@@ -1511,7 +1511,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、セイルを頼んだぞ。",
-  "en": ""
+  "en": "Kakeru, I'm counting on you to look after Seil."
  },
  {
   "id": "2FB86E_1916.0",
@@ -1519,7 +1519,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイル、早く旅に出ようよ…… / 僕、街の出口で待ってるからね。",
-  "en": ""
+  "en": "Seil, let's hurry up and start our journey... I'll be waiting at the town exit."
  },
  {
   "id": "2FB86E_1916.1",
@@ -1545,7 +1545,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これから楽しい冒険が始まるんだ…… / 戻ることはないだろう？",
-  "en": ""
+  "en": "A fun adventure is about to start... No reason to go back, right?"
  },
  {
   "id": "2FB86E_1997.0",
@@ -1553,7 +1553,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もう冒険をやめるのかい？ / ……ちょっと早すぎるよ。",
-  "en": ""
+  "en": "Quitting the adventure already? ...That's a little too soon."
  },
  {
   "id": "2FB86E_19BB.0",
@@ -1561,7 +1561,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あれれ…… / どうして僕は街を出ようとしてるんだろう？",
-  "en": ""
+  "en": "Huh...? Why am I trying to leave town?"
  },
  {
   "id": "2FB86E_19BB.1",
@@ -1569,7 +1569,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕はまだ、 / バーンおじさんに会ってないじゃないか。",
-  "en": ""
+  "en": "I haven't even met Uncle Bahn yet."
  },
  {
   "id": "2FB86E_19FC.0",
@@ -1577,7 +1577,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕はまだ、ライナスを更生させてないぞ……。",
-  "en": ""
+  "en": "I haven't set Linus straight yet..."
  },
  {
   "id": "2FB86E_1A1D.0",
@@ -1585,7 +1585,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あ、いけない…… / もう一度バーンおじさんに会わないと。",
-  "en": ""
+  "en": "Oh, right... I've gotta go see Uncle Bahn one more time."
  },
  {
   "id": "2FB86E_1A3F.0",
@@ -1593,7 +1593,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルは……きてないな。",
-  "en": ""
+  "en": "Seil's... not here yet."
  },
  {
   "id": "2FB86E_1A5D.0",
@@ -1601,7 +1601,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はあはあはあ……。",
-  "en": ""
+  "en": "Huff huff huff......"
  },
  {
   "id": "2FB86E_1A66.0",
@@ -1609,7 +1609,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ、セイル……待ってたよ。",
-  "en": ""
+  "en": "Hey, Seil... I was waiting for you."
  },
  {
   "id": "2FB86E_1A78.0",
@@ -1617,7 +1617,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんなに息を切らせてくるってことは…… / よっぽど楽しみにしてたんだね。",
-  "en": ""
+  "en": "If you came running here so out of breath... you must've been really looking forward to this."
  },
  {
   "id": "2FB86E_1A78.1",
@@ -1625,7 +1625,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じ、冗談じゃないよ……",
-  "en": ""
+  "en": "Y-you've gotta be kidding..."
  },
  {
   "id": "2FB86E_1AB4.0",
@@ -1633,7 +1633,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "行きたくないってぐずってたら、 / パパが昔使ってた斧を振り上げて / 追いかけてきたんだ！！",
-  "en": ""
+  "en": "I was whining that I didn't wanna go, and Papa grabbed the axe he used to use and came chasing after me with it raised!!"
  },
  {
   "id": "2FB86E_1AB4.1",
@@ -1641,7 +1641,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "セイルっ！！ / まだカケルと旅に出ないと言うのかあっ！！ / 父さんは悲しいぞおぉぉっ！！",
-  "en": ""
+  "en": "Seeeil!! You still say you won't go on a journey with Kakeru?! Your father is so sa-a-a-ad!!"
  },
  {
   "id": "2FB86E_1B19.0",
@@ -1649,7 +1649,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "き、きたあっ！！　カケル君っ！！ / は、早く街の外に逃げるんだあっ！！",
-  "en": ""
+  "en": "H-he's here!! Kakeru!! W-we've gotta get out of town, quick!!"
  },
  {
   "id": "2FB86E_1B4F.0",
@@ -1657,7 +1657,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いらっしゃい、「マリアンの家」にようこそ。",
-  "en": ""
+  "en": "Welcome to \"Marian's House.\""
  },
  {
   "id": "2FB86E_1B6D.0",
@@ -1665,7 +1665,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おねーさん、ライナスはいる？",
-  "en": ""
+  "en": "Miss, is Linus here?"
  },
  {
   "id": "2FB86E_1B81.0",
@@ -1673,7 +1673,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ライナスちゃんは、出かけていますけど？",
-  "en": ""
+  "en": "Linus is out right now, though?"
  },
  {
   "id": "2FB86E_1B9A.0",
@@ -1681,7 +1681,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちょうどいいや。",
-  "en": ""
+  "en": "Perfect."
  },
  {
   "id": "2FB86E_1BA8.0",
@@ -1689,7 +1689,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ねえ、どうしておねーさんは / ライナスから逃げださないの？",
-  "en": ""
+  "en": "Hey, Miss, why don't you run away from Linus?"
  },
  {
   "id": "2FB86E_1BC8.0",
@@ -1697,7 +1697,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私があの子を救ってあげなければ、 / だれが救うというのですか？",
-  "en": ""
+  "en": "If I don't save that child, who will?"
  },
  {
   "id": "2FB86E_1BC8.1",
@@ -1705,7 +1705,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だって、ライナスはすごいイタズラをする / 悪い子なんでしょ？",
-  "en": ""
+  "en": "But Linus is a bad kid who pulls awful pranks, right?"
  },
  {
   "id": "2FB86E_1BC8.2",
@@ -1713,7 +1713,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私があの子にイタズラされるなんて…… / そんなこと、一度もありません。",
-  "en": ""
+  "en": "That child playing pranks on me...? Why, that has never happened even once."
  },
  {
   "id": "2FB86E_1BC8.3",
@@ -1721,7 +1721,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ええと……じゃ、 / ここにはたくさんの子供たちがいたんでしょ？ / ライナスが彼らを追い出したって聞いたよ。",
-  "en": ""
+  "en": "Umm... well then, there used to be lots of children here, right? I heard Linus chased them out."
  },
  {
   "id": "2FB86E_1C71.0",
@@ -1729,7 +1729,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれは……私がいけないんです。",
-  "en": ""
+  "en": "That... was my fault."
  },
  {
   "id": "2FB86E_1C86.0",
@@ -1737,7 +1737,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私、子供たちみんなに母親の愛を / 与えてあげようと思って…… / そしたらライナスちゃんがすごく怒りだして。",
-  "en": ""
+  "en": "I wanted to give all the children a mother's love... and then Linus got terribly angry."
  },
  {
   "id": "2FB86E_1C86.1",
@@ -1745,7 +1745,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なーんだ、子供の嫉妬か。",
-  "en": ""
+  "en": "Oh, so it's just a kid being jealous."
  },
  {
   "id": "2FB86E_1CD7.0",
@@ -1753,7 +1753,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ライナスちゃん、 / 食べ物の中にしびれ薬を入れて…… / 私以外のみんなをひどいめに / あわせようとしたんです。",
-  "en": ""
+  "en": "Linus put paralysis medicine in the food... and tried to do horrible things to everyone except me."
  },
  {
   "id": "2FB86E_1D17.0",
@@ -1761,7 +1761,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "げげげのげ！？",
-  "en": ""
+  "en": "Yikes-yikes-YIKES?!"
  },
  {
   "id": "2FB86E_1D24.0",
@@ -1769,7 +1769,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それに失敗すると、今度は子供たちのベッドに / 毒へビと毒サソリと毒カブト虫を入れて……。",
-  "en": ""
+  "en": "When that failed, he put poison snakes, poison scorpions and poison beetles in the children's beds......"
  },
  {
   "id": "2FB86E_1D24.1",
@@ -1777,7 +1777,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そりゃあみんな逃げ出すや。",
-  "en": ""
+  "en": "W-well, no wonder everyone ran away."
  },
  {
   "id": "2FB86E_1D76.0",
@@ -1785,7 +1785,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でも、そこまでライナスが怒るって、 / いったいなにをしたの？",
-  "en": ""
+  "en": "But what did you even do to make Linus that mad?"
  },
  {
   "id": "2FB86E_1D98.0",
@@ -1793,7 +1793,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "別にたいしたことじゃありません。",
-  "en": ""
+  "en": "Oh, nothing much."
  },
  {
   "id": "2FB86E_1DAE.0",
@@ -1801,7 +1801,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "興味があるなあ。",
-  "en": ""
+  "en": "Now I'm curious."
  },
  {
   "id": "2FB86E_1DBC.0",
@@ -1809,7 +1809,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あなたは……お母さんがいないのですか？",
-  "en": ""
+  "en": "You... don't you have a mother?"
  },
  {
   "id": "2FB86E_1DD3.0",
@@ -1817,7 +1817,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううん、いるよ……",
-  "en": ""
+  "en": "Nope, I've got one..."
  },
  {
   "id": "2FB86E_1DE2.0",
@@ -1825,7 +1825,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもひとりで旅をしてきたから、 / 最近は会ってないけど。",
-  "en": ""
+  "en": "But I've been traveling on my own, so I haven't seen her lately."
  },
  {
   "id": "2FB86E_1DFF.0",
@@ -1833,7 +1833,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まあ……ひとりで旅をしてきたのですかっ？",
-  "en": ""
+  "en": "My... you've been traveling all on your own?!"
  },
  {
   "id": "2FB86E_1E17.0",
@@ -1841,7 +1841,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "なんてかわいそうなんでしょう…… / まだこんな子供なのに、 / たったひとりで旅をしてくるなんて！！",
-  "en": ""
+  "en": "You poor, poor thing... Still such a child, and making a journey all by yourself!!"
  },
  {
   "id": "2FB86E_1E17.1",
@@ -1849,7 +1849,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕は子供じゃない……剣士だい。",
-  "en": ""
+  "en": "I'm not a child... I'm a swordsman!"
  },
  {
   "id": "2FB86E_1E5D.0",
@@ -1857,7 +1857,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ああっ、けなげだわっ、けなげすぎるわっ…… / あなたも母の愛に飢えているのですね。",
-  "en": ""
+  "en": "Oh, how brave, far too brave... You're starving for a mother's love too, aren't you?"
  },
  {
   "id": "2FB86E_1E5D.1",
@@ -1865,7 +1865,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はあ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "2FB86E_1E94.0",
@@ -1873,7 +1873,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ、かわいそうに。",
-  "en": ""
+  "en": "Oh, you poor thing."
  },
  {
   "id": "2FB86E_1EA4.0",
@@ -1881,7 +1881,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうしてかわいそうな子供たちが、 / 世の中にはたくさんいるんでしょう。",
-  "en": ""
+  "en": "Why are there so many poor children in this world?"
  },
  {
   "id": "2FB86E_1ECB.0",
@@ -1889,7 +1889,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ひとりで旅をしてきて、あなたの心は母親の愛が / １ミリも残ってないほど、渇ききってるのね。",
-  "en": ""
+  "en": "Traveling all alone, your heart has dried up so much there isn't a single drop of a mother's love left in it."
  },
  {
   "id": "2FB86E_1ECB.1",
@@ -1897,7 +1897,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そう言われると…… / なんだか自分がかわいそうになってきたな。",
-  "en": ""
+  "en": "When you put it like that... I'm starting to feel sorry for myself."
  },
  {
   "id": "2FB86E_1ECB.2",
@@ -1905,7 +1905,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私、母性に飢えている子がいると / 我慢できないんです…… / さあ、こっちにきなさい。",
-  "en": ""
+  "en": "I just can't bear it when there's a child starving for motherly love... Now, come over here."
  },
  {
   "id": "2FB86E_1F63.0",
@@ -1913,7 +1913,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたの渇いた心に、 / 母親の愛を注いであげます……するするする。",
-  "en": ""
+  "en": "I will pour a mother's love into your parched heart... Slip, slip, slip."
  },
  {
   "id": "2FB86E_1F91.0",
@@ -1921,7 +1921,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "は、母親の愛を教えるのと / ……服を脱ぐのと関係があるの？",
-  "en": ""
+  "en": "Wh-what does teaching me a mother's love have to do with... taking your clothes off?"
  },
  {
   "id": "2FB86E_1FBE.0",
@@ -1929,7 +1929,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あるのです（きっぱり）。",
-  "en": ""
+  "en": "Everything. (firmly)"
  },
  {
   "id": "2FB86E_1FD4.0",
@@ -1937,7 +1937,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……断言されちゃった。",
-  "en": ""
+  "en": "...She said it like it's a fact."
  },
  {
   "id": "2FB86E_1FE8.0",
@@ -1945,7 +1945,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さあ、はやくこっちヘ。この私と……。",
-  "en": ""
+  "en": "Now, come here quickly. With me..."
  },
  {
   "id": "2FB86E_2006.0",
@@ -1953,7 +1953,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんな服をぬいだまま迫られても……わっ！？ / わ、わわわわ……♥",
-  "en": ""
+  "en": "Even if you come at me with your clothes off like that... Whoa?! Wh-whoa whoa whoa..."
  },
  {
   "id": "2FB86E_2006.1",
@@ -1961,7 +1961,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……私といっしょにお風呂に入りましょう。",
-  "en": ""
+  "en": "...let's take a bath together."
  },
  {
   "id": "2FB86E_204B.0",
@@ -1969,7 +1969,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2FB86E_2053.0",
@@ -1977,7 +1977,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ヘ？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "2FB86E_205D.0",
@@ -1985,7 +1985,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "あなたが遠き昔、 / 記憶の彼方に置き去りにしてしまった / 母親の愛とぬくもりを…… / もういちど思い出させてあげます。",
-  "en": ""
+  "en": "The love and warmth of a mother that you left behind long ago, far beyond the reach of memory... I will help you remember them once more."
  },
  {
   "id": "2FB86E_20A7.0",
@@ -1993,7 +1993,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たしかにお母さんとお風呂に入ったのなんて / 記憶の彼方のことだけど……。",
-  "en": ""
+  "en": "Sure, taking a bath with my mom is something from way beyond the reach of memory, but..."
  },
  {
   "id": "2FB86E_20A7.1",
@@ -2001,7 +2001,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それみたことですか。 / あなたは母親の愛に飢えているのです。",
-  "en": ""
+  "en": "You see? You are starving for a mother's love."
  },
  {
   "id": "2FB86E_20A7.2",
@@ -2009,7 +2009,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちょっ……おねえさん！",
-  "en": ""
+  "en": "Wait... Miss!"
  },
  {
   "id": "2FB86E_210B.0",
@@ -2017,7 +2017,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "悲しいわ。 / 私はお姉さんではありません。 / ……遠庫せずにお母さんとお呼びなさい。",
-  "en": ""
+  "en": "How sad. I am not \"Miss.\" ...Don't be shy, call me Mother."
  },
  {
   "id": "2FB86E_2141.0",
@@ -2025,7 +2025,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……お母さんっっ！？",
-  "en": ""
+  "en": "...MOTHER?!"
  },
  {
   "id": "2FB86E_2152.0",
@@ -2033,7 +2033,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうです。……するするっ。",
-  "en": ""
+  "en": "That's right. ...Slip, slip."
  },
  {
   "id": "2FB86E_2165.0",
@@ -2041,7 +2041,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ってちょっと、ああああああああっっ！",
-  "en": ""
+  "en": "...H-hey, wait, aaaaaaaaah!"
  },
  {
   "id": "2FB86E_218A.0",
@@ -2049,7 +2049,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ―――――っ！！",
-  "en": ""
+  "en": "Aaaaaaah!!"
  },
  {
   "id": "2FB86E_219F.0",
@@ -2057,7 +2057,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ラ、ライナスちゃん！？",
-  "en": ""
+  "en": "L-Linus?!"
  },
  {
   "id": "2FB86E_21B0.0",
@@ -2065,7 +2065,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こ、このやろーっ！！　おめーはだれだ！！",
-  "en": ""
+  "en": "Wh-why you!! Who the heck are you?!"
  },
  {
   "id": "2FB86E_21CA.0",
@@ -2073,7 +2073,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕の名前はカケル。",
-  "en": ""
+  "en": "My name's Kakeru."
  },
  {
   "id": "2FB86E_21D8.0",
@@ -2081,7 +2081,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "離れろっっ！！",
-  "en": ""
+  "en": "Get away from her!!"
  },
  {
   "id": "2FB86E_21E6.0",
@@ -2089,7 +2089,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺様がやっとの思いで他のガキどもを / 追い出したんだぞおっっ！",
-  "en": ""
+  "en": "I worked my butt off to chase all the other brats out!"
  },
  {
   "id": "2FB86E_220A.0",
@@ -2097,7 +2097,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "この女はこれから俺が独占して / たーっぷりじっくりと / 甘えてやろうと思ったのにぃ！！",
-  "en": ""
+  "en": "I was gonna have this woman all to myself from now on and get her to spoil me nice and long!!"
  },
  {
   "id": "2FB86E_220A.1",
@@ -2105,7 +2105,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うーん……やっぱり、 / こいつはとんでもないやつみたいだな。",
-  "en": ""
+  "en": "Hmm... looks like this guy really is a piece of work."
  },
  {
   "id": "2FB86E_220A.2",
@@ -2113,7 +2113,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マリアンとなにをしたんだっ！！",
-  "en": ""
+  "en": "What did you do with Marian?!"
  },
  {
   "id": "2FB86E_2271.0",
@@ -2121,7 +2121,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "見てのとおりだよ、ただ話をしてるだけさ。",
-  "en": ""
+  "en": "Like you can see, we're just talking."
  },
  {
   "id": "2FB86E_228B.0",
@@ -2129,7 +2129,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいえ、ちがいます。",
-  "en": ""
+  "en": "No, that is not so."
  },
  {
   "id": "2FB86E_229B.0",
@@ -2137,7 +2137,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私はもうたっぷり母の愛をそそぎ込んでしまい… / あまつさえいっしょに / お風呂にまで入ってしまったのです。",
-  "en": ""
+  "en": "I have already poured plenty of a mother's love into him... and what's more, we even took a bath together."
  },
  {
   "id": "2FB86E_229B.1",
@@ -2145,7 +2145,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え！？　う、うそ！？",
-  "en": ""
+  "en": "Huh?! N-no way?!"
  },
  {
   "id": "2FB86E_22E4.0",
@@ -2153,7 +2153,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだとおおおおおぉっ！！",
-  "en": ""
+  "en": "WHAAAAAAAT?!"
  },
  {
   "id": "2FB86E_22F7.0",
@@ -2161,7 +2161,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お風呂……いっしょに入ったっけ？",
-  "en": ""
+  "en": "A bath... did we take one together?"
  },
  {
   "id": "2FB86E_230F.0",
@@ -2169,7 +2169,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "入りました。",
-  "en": ""
+  "en": "We did."
  },
  {
   "id": "2FB86E_231A.0",
@@ -2177,7 +2177,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふたりとも服を着ていないのが / なによりの証拠です。",
-  "en": ""
+  "en": "The fact that neither of you is wearing clothes is the best proof."
  },
  {
   "id": "2FB86E_233A.0",
@@ -2185,7 +2185,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "この女を独占して、 / たっぷりねちねちと / 甘えてやろうという、 / 俺の澄んだ青空のような夢をくだきやがって…… / ああ、どうしてくれようっっ！！",
-  "en": ""
+  "en": "You crushed my dream, as pure as a clear blue sky, of having this woman all to myself and getting her to spoil me nice and slow... Ohhh, what am I gonna do to you?!"
  },
  {
   "id": "2FB86E_233A.1",
@@ -2193,7 +2193,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もう遅いです……",
-  "en": ""
+  "en": "It's too late..."
  },
  {
   "id": "2FB86E_239F.0",
@@ -2201,7 +2201,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ライナスちゃんに注ぐはずの愛は、 / このカケルちゃんに最後の一滴まで / しばりとられてしまいました。",
-  "en": ""
+  "en": "The love meant for Linus has been squeezed out of me, down to the last drop, by little Kakeru here."
  },
  {
   "id": "2FB86E_239F.1",
@@ -2209,7 +2209,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "ちっくしょうっっ！！　復警してやるうっっ！！ / せっかくとっておいたお菓子を / 食べようと思って戸棚を開けたら、 / 「あれ、ないや」……という気分を / お前にもたっぷり味あわせてやるうっ！！",
-  "en": ""
+  "en": "Daaaamn it!! I'll get my revenge!! You know that feeling when you open the cupboard to eat the snack you were saving, and it's like, \"Huh? It's gone\"...? I'm gonna make you feel that, big time!!"
  },
  {
   "id": "2FB86E_2441.0",
@@ -2217,7 +2217,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "つきまとってやるうっ！！ / 一生お前につきまとってやるからなあぁぁぁっ！",
-  "en": ""
+  "en": "I'll stick to you!! I'll stick to you for the rest of your liiiife!"
  },
  {
   "id": "2FB86E_2470.0",
@@ -2225,7 +2225,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぁぁぁぁぁ……。",
-  "en": ""
+  "en": "...iiiiiife......"
  },
  {
   "id": "2FB86E_2487.0",
@@ -2233,7 +2233,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ……泣きながら走って行っちゃった。",
-  "en": ""
+  "en": "Whoa... he ran off crying."
  },
  {
   "id": "2FB86E_249E.0",
@@ -2241,7 +2241,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おほほほほほっ……ライナスちゃんは、 / どこに行ってしまったんでしょう？",
-  "en": ""
+  "en": "Ohohohoho... Wherever could Linus have gone?"
  },
  {
   "id": "2FB86E_249E.1",
@@ -2249,7 +2249,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……そんなことより、ウソを言わないでよ。",
-  "en": ""
+  "en": "...Never mind that, quit telling lies."
  },
  {
   "id": "2FB86E_24DF.0",
@@ -2257,7 +2257,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ライナスちゃん、壊れちゃったかしら？",
-  "en": ""
+  "en": "Did I break Linus, I wonder?"
  },
  {
   "id": "2FB86E_24F5.0",
@@ -2265,7 +2265,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おねえさんの方が壊れてるよ。",
-  "en": ""
+  "en": "You're the one who's broken, Miss."
  },
  {
   "id": "2FB86E_250E.0",
