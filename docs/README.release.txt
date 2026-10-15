@@ -33,6 +33,12 @@ Notes
 
 Known issues
 - The battle panel shows "Gnd" (Ground) for the ground-unit percentage: the slot fits 3 letters.
+- The surrender popup reads "Yield?" (the popup graphics have room for 128 tiles only).
+- The unit information box uses a narrow font so its columns stay inside the window.
+- A name the game inserts into a sentence keeps its fixed width, so a small gap can appear before
+  the comma that follows it ("Rabbit , I want you to...").
+- The battle animation screen could not be reached by the automated tests; no Japanese is expected
+  there, but it was not seen.
 - Please report anything odd with the screen and a screenshot.
 
 Credits

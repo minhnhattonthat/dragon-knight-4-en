@@ -32,5 +32,10 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
   --script tools/lua/jpdraw.lua` then `python -X utf8 tools/jpdraw.py work/qa/tour`. ALWAYS pass `--sav work/states/blank.srm`
   to emu.py runs (a battle SAVE writes tools/mesen/Saves/dk4_en.srm and the title then shows the notebook menu).
   Battle SAVE route + popups: see work/qa notes in docs/re/graphics.md. work/states/en_save.srm = a real save.
+- Page tour: `python -X utf8 tools/debug/pagetour.py build/dk4_en.sfc --out work/qa/pages3` (warp.lua START = script
+  offset; reaches town NPC text). The first 3 glyphs after a START jump are junk (artifact: the op before is skipped).
+- Layout fixes from QA: MAX_PX, mid-line continuations (build.midline_targets), conditional-jump line carry
+  (FALLTHROUGH_OPS), page-edge padding when the JP region ends on a page edge.
+- Not reached: battle animation screen (End-turn panel button ignores the scripted cursor).
 - Next: phase 9 release (`python -X utf8 tools/release.py`).
 - Open bugs: none known. Region 2C0000_0BC1 (lone 。, 1 byte) stays Japanese.
