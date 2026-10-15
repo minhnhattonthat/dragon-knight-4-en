@@ -22,7 +22,8 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 ## Status
 - Done: Step 0, recon, debug warp (tools/debug/warp.lua, regen.py), extract (script/*.json, 85 batches in work/tl),
   engine (asm/dk4.asm: far calls + VWF), marker/stress builds verified in-game, pilot b000 merged.
-- Phase 6 in progress: translators run per batch (docs/translator-brief.md); `tools/batches.py status|check|merge`.
-  Merge each checked batch, then reviewer pass. Don't edit tools/layout.py or batches.py while agents run.
-- Next: UI text (menus, status, battle, items, save/load), graphics text survey (docs/re/graphics.md).
+- Phase 6 done: 12103/12103 units translated + reviewed (fix001/fix002 merged).
+- UI (ui/ui.json via tools/ui.py) done + seen in-game: main menu, options, status, party list, battle panel,
+  unit types, enemy names, command buttons, unit info box (op 21), item list/count/stat box, combat labels.
+- Next: phase 7 checks, phase 8 QA (regen states, warp sheets per scene incl. save/load, ending, staff roll), phase 9 release.
 - Open bugs: none known. Region 2C0000_0BC1 (lone 。, 1 byte) stays Japanese.
