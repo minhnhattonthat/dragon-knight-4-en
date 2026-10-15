@@ -17,6 +17,7 @@ from segments import units, tokens, lines_of, choice_fields, is_choice  # noqa: 
 import layout  # noqa: E402
 import font_en  # noqa: E402
 import ui  # noqa: E402
+import gfx_buttons  # noqa: E402
 
 ASAR = os.path.join(ROOT, 'tools', 'asar', 'asar.exe')
 SIZE = 0x400000
@@ -208,6 +209,7 @@ def build(mode):
         stats['english'] += 1
     # assemble the engine last (it patches code only)
     if mode == 'build':
+        img[gfx_buttons.OFF:gfx_buttons.OFF + gfx_buttons.NT * 32] = gfx_buttons.patch(rom)
         ui_errs = ui.apply(img, rom, PRE_OFF)
         errors += ['UI ' + x for x in ui_errs]
     return bytes(img), stats, errors
