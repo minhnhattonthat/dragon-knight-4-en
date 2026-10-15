@@ -41,6 +41,10 @@ org $80B169             ; menu string renderer: CMP #$06CC / BCC single glyph (e
 org $80B1B0             ; menu glyph draw: PHB / LDX #$8800
     JML b1b0_hook
 
+org $80C3F0             ; unit-info box string printer (op 21): CMP #$06CC / BCS dictionary
+    JML c3f0_hook
+    NOP
+
 org $81F0E5             ; menu-string upload buffer 7E:B312: flush every 64 cells instead of 56 (the English
     CPY #$C312          ; party-name pool is 60 cells; 7E:C112-C312 is unused, zero in every RAM dump)
 
@@ -184,6 +188,18 @@ pre_ptr:
     CLC
     ADC #$8000
     RTS
+
+c3f0_hook:              ; M=16, A = 2-byte code: precomposed cells are glyphs, not dictionary entries
+    CMP #!PRE_FIRST
+    BCC .orig
+    CMP #!PRE_END
+    BCS .orig
+    JML $80C3F5         ; SEP #$20 / draw one cell
+.orig:
+    CMP #$06CC
+    BCS +
+    JML $80C3F5
++   JML $80C40F
 
 b160_hook:              ; M=16, A = code. Precomposed cells take the single-glyph path.
     CMP #!PRE_FIRST
