@@ -14,7 +14,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前の軍隊はぜんぶやっつけたぞっ！ / もうあきらめろ！",
-  "en": ""
+  "en": "We beat your whole army! Just give up already!"
  },
  {
   "id": "2CF0C2_0007.2",
@@ -31,7 +31,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "俺が……この俺が、 / 下等な人間ふぜいに敗れるはずがない！",
-  "en": ""
+  "en": "I... I, of all beings, cannot possibly lose to mere lowly humans!"
  },
  {
   "id": "2CF0C2_007A.0",
@@ -39,7 +39,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなことがあっていいはずは……！！",
-  "en": ""
+  "en": "Such a thing cannot be allowed...!!"
  },
  {
   "id": "2CF0C2_008F.0",
@@ -47,7 +47,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "むだな抗戦はやめろ！",
-  "en": ""
+  "en": "Stop this pointless resistance!"
  },
  {
   "id": "2CF0C2_00A0.0",
@@ -55,7 +55,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンにとって、 / お前は捨てゴマに過ぎないんだぞ。 / これ以上闘う意味はない！",
-  "en": ""
+  "en": "To Lushifon, you're nothing but a pawn to be thrown away. There's no point fighting any longer!"
  },
  {
   "id": "2CF0C2_00A0.1",
@@ -63,7 +63,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "認めん……私は認めん！！",
-  "en": ""
+  "en": "I refuse... I refuse to accept it!!"
  },
  {
   "id": "2CF0C2_00E1.0",
@@ -71,7 +71,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この私が人間ごときに敗れるなど…… / あっていいはずがない！！",
-  "en": ""
+  "en": "That I should be defeated by mere humans... It cannot be allowed!!"
  },
  {
   "id": "2CF0C2_0104.0",
@@ -79,7 +79,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "お前はなかなかの武人だと / 思っていたのだが…… / その程度の器量なのか。 / 見そこなったぞ。",
-  "en": ""
+  "en": "I thought you were quite the warrior... Is that the full measure of you? I misjudged you."
  },
  {
   "id": "2CF0C2_013D.0",
@@ -87,7 +87,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うるさいっ！　なんとでも言え！",
-  "en": ""
+  "en": "Silence! Say what you like!"
  },
  {
   "id": "2CF0C2_0152.0",
@@ -95,7 +95,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "人間ごとき下等な奴を相手に / 敗北を認めてたまるか！",
-  "en": ""
+  "en": "As if I'd admit defeat to lowly creatures like humans!"
  },
  {
   "id": "2CF0C2_0175.0",
@@ -103,7 +103,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "闘いは勝たねばならんのだ！ / 勝たねばな！ / そうさ、マノを救うためには、 / 俺には敗北は許されないのだ！",
-  "en": ""
+  "en": "A battle must be won! It must be won! That's right, to save Mano, I cannot be allowed to lose!"
  },
  {
   "id": "2CF0C2_01B4.0",
@@ -120,7 +120,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "俺はいつかこの手でマノを抱きしめる！！",
-  "en": ""
+  "en": "One day I'll hold Mano in these arms!!"
  },
  {
   "id": "2CF0C2_01D6.0",
@@ -137,7 +137,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ならば、私がこの手でその首を落として、 / そのゆがんだ執着を断ち切ろう！",
-  "en": ""
+  "en": "...Then I will take your head with my own hands and sever that twisted obsession!"
  },
  {
   "id": "2CF0C2_0203.1",
@@ -145,7 +145,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト！？",
-  "en": ""
+  "en": "Eto?!"
  },
  {
   "id": "2CF0C2_023E.0",
@@ -153,7 +153,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "フン……人間ふぜいが！　来い！！",
-  "en": ""
+  "en": "Hmph... You mere human! Come!!"
  },
  {
   "id": "2CF0C2_0254.0",
@@ -161,7 +161,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おおおおおおっ！",
-  "en": ""
+  "en": "Ooooooh!"
  },
  {
   "id": "2CF0C2_0262.0",
@@ -169,7 +169,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ハーディス、よけろっ！",
-  "en": ""
+  "en": "...Hardis, dodge!"
  },
  {
   "id": "2CF0C2_0272.0",
@@ -177,7 +177,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……なにっ！？",
-  "en": ""
+  "en": "...What?!"
  },
  {
   "id": "2CF0C2_0285.0",
@@ -185,7 +185,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なっ……リディア！？",
-  "en": ""
+  "en": "Wha... Lydia?!"
  },
  {
   "id": "2CF0C2_0297.0",
@@ -211,7 +211,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "『なぜ！？　なぜ読めたのだ、私の動きが！？ / 人間には見切れるはずが……』",
-  "en": ""
+  "en": "'Why?! How did you read my movements?! No human should be able to see through them...'"
  },
  {
   "id": "2CF0C2_02AF.1",
@@ -219,7 +219,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "おまえの身体を借りている / ルシフォンに伝えておけ。 / たとえはかない人間であっても…… / いつまでも貴様の手のひらで / おどってはいないとな！",
-  "en": ""
+  "en": "Give a message to Lushifon, who is borrowing your body. Tell him that frail as humans may be... we will not dance in the palm of his hand forever!"
  },
  {
   "id": "2CF0C2_02AF.2",
@@ -227,7 +227,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "『……そこまで見抜いているのか。 / ……何者だ、貴様！？』",
-  "en": ""
+  "en": "'...You have seen through even that? ...Who are you?!'"
  },
  {
   "id": "2CF0C2_02AF.3",
@@ -244,7 +244,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "『……ふむ。 / どうやら、いささか分が悪いようだな。 / そちらの君には、 / そのうち改めてごあいさつさせていただこう。 / ……リディア、引け』",
-  "en": ""
+  "en": "'...Hmm. It seems the odds are somewhat against me. To you over there, I shall pay my proper respects another time. ...Lydia, withdraw.'"
  },
  {
   "id": "2CF0C2_0365.1",
@@ -252,7 +252,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ル、ルシフォン……待て！",
-  "en": ""
+  "en": "L-Lushifon... wait!"
  },
  {
   "id": "2CF0C2_03CC.0",
@@ -260,7 +260,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……おい……貴様……。",
-  "en": ""
+  "en": "...Hey... you..."
  },
  {
   "id": "2CF0C2_03DD.0",
@@ -268,7 +268,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私の名はエトだ。 / おぼえておいていただこう。",
-  "en": ""
+  "en": "My name is Eto. Kindly remember it."
  },
  {
   "id": "2CF0C2_03DD.1",
@@ -276,7 +276,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……エト。 / なぜ……なぜ私を助けた！",
-  "en": ""
+  "en": "...Eto. Why... why did you save me?!"
  },
  {
   "id": "2CF0C2_03DD.2",
@@ -284,7 +284,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "理由などない……",
-  "en": ""
+  "en": "I have no reason..."
  },
  {
   "id": "2CF0C2_0421.0",
@@ -292,7 +292,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "強いて言えば、ハーディスという敵を、 / 私は好敵手として認めているからだ。",
-  "en": ""
+  "en": "If I had to name one, it is because I acknowledge my enemy Hardis as a worthy rival."
  },
  {
   "id": "2CF0C2_0449.0",
@@ -300,7 +300,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "背後から刃をつきたてられるような、 / つまらない形で死なせるには措しい。",
-  "en": ""
+  "en": "It would be a waste to let you die so pointlessly, with a blade thrust into your back."
  },
  {
   "id": "2CF0C2_0474.0",
@@ -308,7 +308,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こ、殺せ！",
-  "en": ""
+  "en": "K-kill me!"
  },
  {
   "id": "2CF0C2_047F.0",
@@ -316,7 +316,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "敵に……それも人間ごときに情をかけられて、 / おめおめ生きていられるか！！",
-  "en": ""
+  "en": "Shown mercy by an enemy... by a mere human, no less... How could I go on living in such shame?!!"
  },
  {
   "id": "2CF0C2_04A9.0",
@@ -324,7 +324,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "斬ってしまってもいいが…… / おまえが死んだらマノとかいう女性はどうなる？",
-  "en": ""
+  "en": "I could cut you down... but if you die, what becomes of that woman Mano?"
  },
  {
   "id": "2CF0C2_04A9.1",
@@ -332,7 +332,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "く……っ！",
-  "en": ""
+  "en": "Ngh...!"
  },
  {
   "id": "2CF0C2_04E0.0",
@@ -340,7 +340,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "それに……私は情をかけたのでは断じてない。 / 今や我々の共通の敵はルシフォンであるはずだ。 / 少なくとも我々には、 / それ以外の相手と闘う意味はない、 / それだけのことだ。",
-  "en": ""
+  "en": "Besides... I most certainly did not show you mercy. By now, our common enemy should be Lushifon. At the very least, we have no reason to fight anyone else. That is all."
  },
  {
   "id": "2CF0C2_04E0.1",
@@ -357,7 +357,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ハーディス殿……私たちの仲間にならぬか？",
-  "en": ""
+  "en": "Master Hardis... will you not join us?"
  },
  {
   "id": "2CF0C2_0569.0",
@@ -365,7 +365,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "な、なんだとっ！？ / こ、この私に、人間と手を組めというのか！？",
-  "en": ""
+  "en": "Wh-what?! Y-you want me to join hands with humans?!"
  },
  {
   "id": "2CF0C2_0569.1",
@@ -373,7 +373,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ハーディス殿、私の瞳を……見てくれ……。",
-  "en": ""
+  "en": "Master Hardis, look... into my eyes..."
  },
  {
   "id": "2CF0C2_05A6.0",
@@ -381,7 +381,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "目を見ろ、だと……？ / 術にでもかけようというならそうはいかんぞ！",
-  "en": ""
+  "en": "Look into your eyes...? If you mean to cast some spell on me, it won't work!"
  },
  {
   "id": "2CF0C2_05A6.1",
@@ -389,7 +389,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私は魔術など使えん。",
-  "en": ""
+  "en": "I cannot use magic."
  },
  {
   "id": "2CF0C2_05DE.0",
@@ -397,7 +397,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お主の瞳の中にきらめく光には、 / 私と共通のなにかを感じるのだ……。",
-  "en": ""
+  "en": "In the light that sparkles in your eyes, I sense something we share..."
  },
  {
   "id": "2CF0C2_0607.0",
@@ -405,7 +405,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "人間ふぜいが……私と……同じ？",
-  "en": ""
+  "en": "A mere human... the same... as me?"
  },
  {
   "id": "2CF0C2_061C.0",
@@ -413,7 +413,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ハーディス殿、お主「愛」を知っておるか？",
-  "en": ""
+  "en": "Master Hardis, do you know of \"love\"?"
  },
  {
   "id": "2CF0C2_0636.0",
@@ -421,7 +421,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "あ、愛……むろん知っているともっ / ……それがどうした。 / なんの関係がある！",
-  "en": ""
+  "en": "L-love... Of course I know of it! ...What of it? What does that have to do with anything?!"
  },
  {
   "id": "2CF0C2_0665.0",
@@ -429,7 +429,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私はカケル殿を愛している。",
-  "en": ""
+  "en": "I love Master Kakeru."
  },
  {
   "id": "2CF0C2_0677.0",
@@ -437,7 +437,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（おひ……）",
-  "en": ""
+  "en": "(Oh, boy...)"
  },
  {
   "id": "2CF0C2_0683.0",
@@ -445,7 +445,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "しかし……ある時より / その純粋な気持ちにただ一点、 / 疑問を投げかける存在があったのだ。",
-  "en": ""
+  "en": "However... from a certain moment, there appeared one being who cast a single doubt upon those pure feelings."
  },
  {
   "id": "2CF0C2_06BF.0",
@@ -453,7 +453,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……それがお主だ。 / ハーディス殿。",
-  "en": ""
+  "en": "...That being is you, Master Hardis."
  },
  {
   "id": "2CF0C2_06BF.1",
@@ -461,7 +461,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（……いきなりなにを言うのかこの人は）",
-  "en": ""
+  "en": "(...What on earth is this person saying all of a sudden?)"
  },
  {
   "id": "2CF0C2_06EC.0",
@@ -469,7 +469,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "ハーディス殿…… / いままでのお主は、たった今死んだのだ。 / 生まれ変わって、 / 新しい愛に生きようではないか……。 / さすれば……。",
-  "en": ""
+  "en": "Master Hardis... the you of before has just now died. Let us be reborn and live for a new love... And then..."
  },
  {
   "id": "2CF0C2_06EC.1",
@@ -477,7 +477,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……私も新しい愛をはじめられる。",
-  "en": ""
+  "en": "...I too can begin a new love."
  },
  {
   "id": "2CF0C2_0748.0",
@@ -485,7 +485,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "！？",
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "2CF0C2_0750.0",
@@ -493,7 +493,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……今度は我々の愛のために、 / その力を使ってはくれぬか……？",
-  "en": ""
+  "en": "...Will you not use that strength for the sake of our love this time...?"
  },
  {
   "id": "2CF0C2_0750.1",
@@ -501,7 +501,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "貴様、人間の分際で、こ、この俺を……。",
-  "en": ""
+  "en": "You... a mere human, d-dare to make me..."
  },
  {
   "id": "2CF0C2_078F.0",
@@ -509,7 +509,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ハーディス殿……。",
-  "en": ""
+  "en": "...Master Hardis..."
  },
  {
   "id": "2CF0C2_079C.0",
@@ -517,7 +517,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（な、なんだ……この感覚は！？）",
-  "en": ""
+  "en": "(Wh-what... is this feeling?!)"
  },
  {
   "id": "2CF0C2_07AF.0",
@@ -525,7 +525,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "エト殿…… / カケル殿に貴殿の口から伝えてほしい…… / 「すまぬ」と。",
-  "en": ""
+  "en": "Master Eto... I would ask that you tell Master Kakeru yourself... \"Forgive me.\""
  },
  {
   "id": "2CF0C2_07DD.0",
@@ -533,7 +533,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……い、いいとも。",
-  "en": ""
+  "en": "...S-sure thing."
  },
  {
   "id": "2CF0C2_07EC.0",
@@ -541,7 +541,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "き……きき貴様の言い分はさっぱりわからぬ！ / と、とにかく、俺は人間などとは手は組まん！",
-  "en": ""
+  "en": "I-I-I don't understand a word of what you're saying! A-anyway, I will not join hands with humans!"
  },
  {
   "id": "2CF0C2_07EC.1",
@@ -549,7 +549,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ハーディス殿！！",
-  "en": ""
+  "en": "Master Hardis!!"
  },
  {
   "id": "2CF0C2_082D.0",
@@ -557,7 +557,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……貴様らの言い分はわからぬでもない。 / しかし、俺は人間などとは手は組まぬ！",
-  "en": ""
+  "en": "...I am not without some understanding of what you say. But I will not join hands with humans!"
  },
  {
   "id": "2CF0C2_082D.1",
@@ -565,7 +565,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ハーディス！！",
-  "en": ""
+  "en": "Hardis!!"
  },
  {
   "id": "2CF0C2_0867.0",
@@ -573,6 +573,6 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……さらばだ、また会おう！！",
-  "en": ""
+  "en": "...Farewell, until we meet again!!"
  }
 ]

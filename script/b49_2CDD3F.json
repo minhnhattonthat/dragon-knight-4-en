@@ -32,7 +32,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、セイルは呆然自失状態だ…… / しばらく側についててやったらどうだ？",
-  "en": ""
+  "en": "Kakeru, Seil is in a complete daze... Why don't you stay by his side for a while?"
  },
  {
   "id": "2CDD3F_00E0.1",
@@ -40,7 +40,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、わかったよ。",
-  "en": ""
+  "en": "Yeah, okay."
  },
  {
   "id": "2CDD3F_011F.0",
@@ -57,7 +57,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まだ呆然自失状態か……しかたがないな。",
-  "en": ""
+  "en": "Still in a daze, huh... Can't be helped."
  },
  {
   "id": "2CDD3F_014C.0",
@@ -65,7 +65,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぐうぐう……ぐうぐう……。",
-  "en": ""
+  "en": "Snore, snore... snore, snore..."
  },
  {
   "id": "2CDD3F_015E.0",
@@ -73,7 +73,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ……立ったまま寝てるぞ。",
-  "en": ""
+  "en": "Huh?... He's asleep standing up."
  },
  {
   "id": "2CDD3F_0171.0",
@@ -81,7 +81,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……セイルの様子はどうだ？",
-  "en": ""
+  "en": "Kakeru... how's Seil doing?"
  },
  {
   "id": "2CDD3F_0185.0",
@@ -89,7 +89,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "見てのとおりだよエト。",
-  "en": ""
+  "en": "See for yourself, Eto."
  },
  {
   "id": "2CDD3F_0196.0",
@@ -97,7 +97,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "カケル、しばらくすればセイルも / 元にもどるんじゃないか？ / ……このままそっとしておこう。",
-  "en": ""
+  "en": "Kakeru, won't Seil go back to normal after a while? ...Let's just leave him be for now."
  },
  {
   "id": "2CDD3F_01CC.0",
@@ -105,7 +105,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふああ……エト、 / なんだか眠くなっちゃった。",
-  "en": ""
+  "en": "Yawn... Eto, I'm getting kinda sleepy."
  },
  {
   "id": "2CDD3F_01CC.1",
@@ -113,7 +113,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルもそろそろ寝た方がいいな…… / 明日の朝には出発しなければならないんだ。",
-  "en": ""
+  "en": "You should get to bed soon too, Kakeru... We have to set out tomorrow morning."
  },
  {
   "id": "2CDD3F_01CC.2",
@@ -121,7 +121,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルはどうするの？",
-  "en": ""
+  "en": "What about Seil?"
  },
  {
   "id": "2CDD3F_0221.0",
@@ -129,7 +129,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そのうちに疲れて寝るだろう…… / このままほっておこう。",
-  "en": ""
+  "en": "He'll get tired and fall asleep eventually... Let's leave him like this."
  },
  {
   "id": "2CDD3F_0221.1",
@@ -137,7 +137,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかったよ、エト……じゃあおやすみ。",
-  "en": ""
+  "en": "Okay, Eto... Good night, then."
  },
  {
   "id": "2CDD3F_0256.0",
@@ -145,7 +145,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……おやすみ、カケル。",
-  "en": ""
+  "en": "Yes... good night, Kakeru."
  },
  {
   "id": "2CDD3F_027C.0",
@@ -153,7 +153,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、僕はここで寝るよ。",
-  "en": ""
+  "en": "Eto, I'll sleep here."
  },
  {
   "id": "2CDD3F_028E.0",
@@ -161,7 +161,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "遠慮しないで、ナターシャの横で / 寝ればいいじゃないか。",
-  "en": ""
+  "en": "Don't be shy. Why not sleep next to Natasha?"
  },
  {
   "id": "2CDD3F_02AE.0",
@@ -169,7 +169,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふぁぁぁ……明日の朝に出発するんだよね。",
-  "en": ""
+  "en": "Yaaawn... We set out tomorrow morning, right?"
  },
  {
   "id": "2CDD3F_02C7.0",
@@ -186,7 +186,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんか……さびしい気分になるな。",
-  "en": ""
+  "en": "Somehow... I feel a little lonely."
  },
  {
   "id": "2CDD3F_02EC.0",
@@ -203,7 +203,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネ……君の瞳の色が、あの時の瞳の色に / どんどん近づいているような気がする。",
-  "en": ""
+  "en": "Marlene... I feel as if the color of your eyes is growing closer and closer to the color they were back then."
  },
  {
   "id": "2CDD3F_02F5.1",
@@ -211,7 +211,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すうすう……すうすう……。",
-  "en": ""
+  "en": "Zzz... Zzz..."
  },
  {
   "id": "2CDD3F_0336.0",
@@ -219,7 +219,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "君になにか変化があったのか……それとも、 / 君に対する私の感情が変わり始めているのか？",
-  "en": ""
+  "en": "Has something changed in you... or are my feelings toward you beginning to change?"
  },
  {
   "id": "2CDD3F_0336.1",
@@ -227,7 +227,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……いくら考えてもわかりそうにない。",
-  "en": ""
+  "en": "...No matter how much I think about it, I can't seem to figure it out."
  },
  {
   "id": "2CDD3F_0385.0",
@@ -379,7 +379,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ジーナ、眠れないのか？",
-  "en": ""
+  "en": "Gina, can't sleep?"
  },
  {
   "id": "2CDD3F_0488.0",
@@ -387,7 +387,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん……なんか色々と考えちゃって。",
-  "en": ""
+  "en": "Yeah... I've just got a lot on my mind."
  },
  {
   "id": "2CDD3F_049D.0",
@@ -395,7 +395,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なにを考えてるんだ？ / ……よかったら、私が相談にのろう。",
-  "en": ""
+  "en": "What are you thinking about? ...If you like, I'll lend you an ear."
  },
  {
   "id": "2CDD3F_049D.1",
@@ -403,7 +403,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううん、いいの……もう平気だから。",
-  "en": ""
+  "en": "No, it's fine... I'm all right now."
  },
  {
   "id": "2CDD3F_04DB.0",
@@ -411,7 +411,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、私は平気よ……。",
-  "en": ""
+  "en": "Eto, I'm fine..."
  },
  {
   "id": "2CDD3F_04F1.0",
@@ -419,7 +419,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（あれれ！？）",
-  "en": ""
+  "en": "(Huh?!)"
  },
  {
   "id": "2CDD3F_04FC.0",
@@ -463,7 +463,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（お前たち、いつまでキスしているつもりだ？）",
-  "en": ""
+  "en": "(How long do you two plan to keep kissing?)"
  },
  {
   "id": "2CDD3F_054A.0",
@@ -525,7 +525,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……おや、レアとへレネだ。",
-  "en": ""
+  "en": "...Oh, it's Rhea and Helene."
  },
  {
   "id": "2CDD3F_05F3.0",
@@ -533,7 +533,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "感動の再会をしたばかりだからな…… / つもる話もあるだろう。",
-  "en": ""
+  "en": "They've only just had their emotional reunion... They must have a lot to catch up on."
  },
  {
   "id": "2CDD3F_0627.0",
@@ -541,7 +541,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レア……。",
-  "en": ""
+  "en": "Rhea..."
  },
  {
   "id": "2CDD3F_0631.0",
@@ -549,7 +549,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いいの、もうなにも言わないで……。",
-  "en": ""
+  "en": "It's all right, you don't have to say anything more..."
  },
  {
   "id": "2CDD3F_0647.0",
@@ -557,7 +557,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "家にはまだ帰れないけど、 / しばらくはタスタの港街で、 / ふたりで静かに暮らしましょうね……。",
-  "en": ""
+  "en": "We can't go home yet, but for a while let's live quietly together in the port town of Tasta, just the two of us..."
  },
  {
   "id": "2CDD3F_0688.0",
@@ -565,7 +565,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なにを言うの、へレネ！ / 戦場がどんなに恐いところだか知っているの！？",
-  "en": ""
+  "en": "What are you saying, Helene?! Do you know how frightening a battlefield is?!"
  },
  {
   "id": "2CDD3F_0688.1",
@@ -573,7 +573,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "知ってる……私だって、あの人たちについて / ルシフォンの軍隊の中をくぐりぬけてきたのよ。",
-  "en": ""
+  "en": "I know... I came through Lushifon's army too, following those people."
  },
  {
   "id": "2CDD3F_0688.2",
@@ -581,7 +581,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それでも闘いに参加するっていうの？ / 剣も弓も馬も、なにもできないあなたが……。",
-  "en": ""
+  "en": "And you still want to join the fight? You, who can't use a sword or a bow or ride a horse..."
  },
  {
   "id": "2CDD3F_0688.3",
@@ -589,7 +589,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "……レアの言うとおり、 / 私には闘うことはできないわ。 / でも、傷ついた人を手当したり、闘っている人を / 応援することくらいはできると思うの。",
-  "en": ""
+  "en": "...You're right, Rhea, I can't fight. But I think I can at least tend to the wounded and cheer on the ones who are fighting."
  },
  {
   "id": "2CDD3F_075B.0",
@@ -597,7 +597,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうして、そこまでして……？",
-  "en": ""
+  "en": "Why go that far...?"
  },
  {
   "id": "2CDD3F_076F.0",
@@ -605,7 +605,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "レア……私を闘いにまきこみたくないっていう / 気持ちは、とてもうれしいの…… / でも、私はレアに闘ってもらいたいの……。",
-  "en": ""
+  "en": "Rhea... I'm really happy that you don't want to drag me into the fighting... But I want you to fight, Rhea..."
  },
  {
   "id": "2CDD3F_07B0.0",
@@ -613,7 +613,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "この闘いがはじまってから、 / ルシフォンの軍隊のために / みんなひどい目にあわされてきたわ…… / もちろん、私たちだって。",
-  "en": ""
+  "en": "Ever since this war began, everyone has suffered terribly because of Lushifon's army... and of course, so have we."
  },
  {
   "id": "2CDD3F_07F0.0",
@@ -621,7 +621,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "レアはロンボニ王国一の弓使いですもの。 / きっと貴重な戦力になる…… / 私も私のやりかたでがんばるから、 / レアもがんばって！",
-  "en": ""
+  "en": "You're the best archer in the Kingdom of Romboni, Rhea. You'd be a real asset to them... I'll do my best in my own way, so you do your best too, Rhea!"
  },
  {
   "id": "2CDD3F_0834.0",
@@ -629,7 +629,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネ……強くなったわね。",
-  "en": ""
+  "en": "Helene... you've grown strong."
  },
  {
   "id": "2CDD3F_0846.0",
@@ -637,7 +637,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……お姉ちゃん……。",
-  "en": ""
+  "en": "...Big sister..."
  },
  {
   "id": "2CDD3F_0858.0",
@@ -645,7 +645,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "やあ、ウェンディ。 / あのヘんに温泉の出そうな岩場があったぞ。",
-  "en": ""
+  "en": "Hey, Wendy. There's a rocky spot over there that looks like a hot spring might bubble up."
  },
  {
   "id": "2CDD3F_0858.1",
@@ -662,7 +662,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあエト君、まだ寝ないのかい？",
-  "en": ""
+  "en": "Hey, Eto, not asleep yet?"
  },
  {
   "id": "2CDD3F_08B0.0",
@@ -670,7 +670,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロイドンこそ……まだ起きてるのか？",
-  "en": ""
+  "en": "I could say the same to you, Roydon... You're still up?"
  },
  {
   "id": "2CDD3F_08C5.0",
@@ -687,7 +687,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "机もない岩場で、よく文字が書けるな。",
-  "en": ""
+  "en": "I'm amazed you can write out here on the rocks with no desk."
  },
  {
   "id": "2CDD3F_08FF.0",
@@ -695,7 +695,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ははは、そんなことで文句を言うようじゃ / まだシロウトなのさ。 / ようするに道具じゃないんだ、 / 物書きは腕で書くのさ。",
-  "en": ""
+  "en": "Hahaha, anyone who complains about that is still an amateur. It's not about the tools, you see. A writer writes with his skill."
  },
  {
   "id": "2CDD3F_0946.0",
@@ -703,7 +703,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト君だって、高価な剣じゃないと / 強くなれないのかい？",
-  "en": ""
+  "en": "You don't need an expensive sword to be strong, do you, Eto?"
  },
  {
   "id": "2CDD3F_0965.0",
@@ -711,7 +711,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ははは、まさか。",
-  "en": ""
+  "en": "Hahaha, of course not."
  },
  {
   "id": "2CDD3F_0973.0",
@@ -719,7 +719,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だろう？　それと同じさ……",
-  "en": ""
+  "en": "See? It's the same thing..."
  },
  {
   "id": "2CDD3F_0986.0",
@@ -727,7 +727,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんなことよりエト君、 / まだ寝ないなら話をしてくれないかな？",
-  "en": ""
+  "en": "More importantly, Eto, if you're not going to sleep yet, how about telling me a story?"
  },
  {
   "id": "2CDD3F_09A8.0",
@@ -735,7 +735,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え！？　……こんな時間に！？",
-  "en": ""
+  "en": "What?! ...At this hour?!"
  },
  {
   "id": "2CDD3F_09BC.0",
@@ -743,7 +743,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕にとってはまだお昼だよ。 / さあ、今度は何色のノートに書くかな。",
-  "en": ""
+  "en": "For me it's still noon. Now, which color notebook shall I write in this time?"
  },
  {
   "id": "2CDD3F_09EC.0",
@@ -931,7 +931,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ここを出れば、 / デス・バレーの村に戻ることになる…… / 出発するのは明日の朝で、 / ついでに出口もここではない。",
-  "en": ""
+  "en": "If I leave here, I'll end up back in the village of Death Valley... We set out tomorrow morning, and besides, the exit isn't this way."
  },
  {
   "id": "2CDD3F_0C19.0",
@@ -939,7 +939,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふう……そろそろ寝るかな。",
-  "en": ""
+  "en": "Phew... Guess I'll turn in soon."
  },
  {
   "id": "2CDD3F_0C2F.0",
@@ -974,7 +974,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん、いろいろお世話になりました。",
-  "en": ""
+  "en": "Eto, thank you for everything."
  },
  {
   "id": "2CDD3F_0C84.0",
@@ -982,7 +982,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私たちはとりあえずタスタの港街に帰ります。",
-  "en": ""
+  "en": "For now, we're going back to the port town of Tasta."
  },
  {
   "id": "2CDD3F_0C9D.0",
@@ -990,7 +990,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そこで……しばらく姉妹ふたりで / 静かに暮らしていこうと思います。",
-  "en": ""
+  "en": "There... we plan to live quietly for a while, just the two of us sisters."
  },
  {
   "id": "2CDD3F_0CC5.0",
@@ -998,7 +998,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん、 / いろいろと本当にありがとうございました。",
-  "en": ""
+  "en": "Eto, thank you so much for everything."
  },
  {
   "id": "2CDD3F_0CF5.0",
@@ -1006,7 +1006,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "待ってください！",
-  "en": ""
+  "en": "Please wait!"
  },
  {
   "id": "2CDD3F_0D03.0",
@@ -1014,7 +1014,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "へレネにはげまされて……決心したんです。 / 私を仲間にしてくれないでしょうか？",
-  "en": ""
+  "en": "Helene encouraged me... and I've made up my mind. Would you let me join you?"
  },
  {
   "id": "2CDD3F_0D03.1",
@@ -1022,7 +1022,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私、へレネと私が受けた屈辱を…… / ルシフォンにも味合わせてやりたいんです。",
-  "en": ""
+  "en": "The humiliation that Helene and I suffered... I want to make Lushifon taste it too."
  },
  {
   "id": "2CDD3F_0D03.2",
@@ -1030,7 +1030,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん、お願いです…… / 私たちをあなたたちの仲間にしてください。",
-  "en": ""
+  "en": "Please, Eto... Let us join your company."
  },
  {
   "id": "2CDD3F_0D03.3",
@@ -1038,7 +1038,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "その言葉を待っていたよ。もちろん大歓迎さ。",
-  "en": ""
+  "en": "I've been waiting to hear those words. Of course you're more than welcome."
  },
  {
   "id": "2CDD3F_0D9D.0",
@@ -1046,7 +1046,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レアが仲間に加わった！！",
-  "en": ""
+  "en": "Rhea joined the party!!"
  },
  {
   "id": "2CDD3F_0DA7.0",
@@ -1054,7 +1054,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネが仲間に加わった！！",
-  "en": ""
+  "en": "Helene joined the party!!"
  },
  {
   "id": "2CDD3F_0DB1.0",
@@ -1062,7 +1062,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "共にがんばろう、レア、へレネ。",
-  "en": ""
+  "en": "Let's do our best together, Rhea, Helene."
  },
  {
   "id": "2CDD3F_0E3E.0",
@@ -1070,7 +1070,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふあああっ……よく寝たな。",
-  "en": ""
+  "en": "Yaaawn... I slept well."
  },
  {
   "id": "2CDD3F_0E5B.0",
@@ -1078,7 +1078,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "はあはあはあ、 / おはようエト……みんなまだ寝てるよ。",
-  "en": ""
+  "en": "Huff, huff, huff... Morning, Eto... Everyone's still asleep."
  },
  {
   "id": "2CDD3F_0E5B.1",
@@ -1086,7 +1086,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もう朝だぞ…… / カケル、みんなを起こしてきてくれ。",
-  "en": ""
+  "en": "It's already morning... Kakeru, go wake everyone up."
  },
  {
   "id": "2CDD3F_0E5B.2",
@@ -1094,7 +1094,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうこなくっちゃ！！……実は僕、 / 出発したくってうずうずしてたんだ。",
-  "en": ""
+  "en": "Now you're talkin'!! ...Actually, I've been itching to get going."
  },
  {
   "id": "2CDD3F_0E5B.3",
@@ -1102,7 +1102,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……なんかナターシャの匂いがするな。",
-  "en": ""
+  "en": "Kakeru... you smell kind of like Natasha."
  },
  {
   "id": "2CDD3F_0ED5.0",
@@ -1119,7 +1119,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふっふっ、カケルぅ…… / お前、ナターシャの横で寝たんじゃないのか？",
-  "en": ""
+  "en": "Heh heh, Kakeruuu... Didn't you sleep next to Natasha?"
  },
  {
   "id": "2CDD3F_0EDD.1",
@@ -1127,7 +1127,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ち、ちがうよっ……",
-  "en": ""
+  "en": "N-no way..."
  },
  {
   "id": "2CDD3F_0F0F.0",
@@ -1135,7 +1135,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕は寝相が悪いから、 / 気がついたらナターシャの横にいただけだい。",
-  "en": ""
+  "en": "I just toss and turn a lot in my sleep, so when I woke up I happened to be next to Natasha, that's all!"
  },
  {
   "id": "2CDD3F_0F31.0",
@@ -1143,7 +1143,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "まあいい……それよりカケル、 / 東にはドワラルの村があるそうだ。 / そこを占領している / ルシフォン軍を蹴散らすぞうっ！！",
-  "en": ""
+  "en": "Very well... More importantly, Kakeru, I hear there's the village of Dwaral to the east. We're going to scatter Lushifon's army occupying it!!"
  },
  {
   "id": "2CDD3F_0F84.0",
@@ -1151,7 +1151,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、ちょっとまってくれない？",
-  "en": ""
+  "en": "Eto, could you wait a moment?"
  },
  {
   "id": "2CDD3F_0F97.0",
@@ -1159,7 +1159,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ん？　どうした、ネプチューン。",
-  "en": ""
+  "en": "Hm? What is it, Neptune?"
  },
  {
   "id": "2CDD3F_0FA8.0",
@@ -1167,7 +1167,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ゆうべ考えたんだけど……正直、 / いまの私はこれから先の戦力にならないわ……。 / ほかのみんなとくらべると、 / 腕に差がありすぎるの。",
-  "en": ""
+  "en": "I thought it over last night... Honestly, as I am now, I won't be much use in the fighting ahead... Compared to everyone else, the gap in skill is too big."
  },
  {
   "id": "2CDD3F_0FF6.0",
@@ -1175,7 +1175,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "だから、この砦の近くで、 / すこし腕をみがいていこうと思う。 / ここなら訓練する場所にはこと欠かないし、 / なによりルシフォンの軍隊が近づかないから……",
-  "en": ""
+  "en": "So I'm thinking of polishing my skills a bit near this fort. There's no shortage of places to train here, and above all, Lushifon's army doesn't come near..."
  },
  {
   "id": "2CDD3F_104C.0",
@@ -1183,7 +1183,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "十分訓練を積んで、戦力になって / みんなの役に立ちたいのよ……お願い、エト。",
-  "en": ""
+  "en": "I want to train hard, become a real fighter, and be useful to everyone... Please, Eto."
  },
  {
   "id": "2CDD3F_104C.1",
@@ -1191,7 +1191,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかったよ、ネプチューン。",
-  "en": ""
+  "en": "All right, Neptune."
  },
  {
   "id": "2CDD3F_1095.0",
@@ -1199,7 +1199,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、ちょっとまってくれない？",
-  "en": ""
+  "en": "Eto, could you wait a moment?"
  },
  {
   "id": "2CDD3F_10A8.0",
@@ -1207,7 +1207,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ん？　どうした、パンドラ。",
-  "en": ""
+  "en": "Hm? What is it, Pandora?"
  },
  {
   "id": "2CDD3F_10B9.0",
@@ -1215,7 +1215,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ゆうべ考えたの……いまの私は / これから先の闘いでは戦力になれないわ…… / ほかのみんなとくらべると、 / 力に差がありすぎるのよ。",
-  "en": ""
+  "en": "I thought it over last night... As I am now, I won't be much use in the battles ahead... Compared to everyone else, the gap in strength is too big."
  },
  {
   "id": "2CDD3F_1103.0",
@@ -1223,7 +1223,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "だから、この砦の近くで、 / すこし腕をみがいていこうと思うの。 / ここなら訓練する場所には事欠かないし、 / なによりルシフォンの軍隊が近づきっこないし…",
-  "en": ""
+  "en": "So I'm thinking of polishing my skills a bit near this fort. There's no shortage of places to train here, and above all, Lushifon's army would never come near..."
  },
  {
   "id": "2CDD3F_1159.0",
@@ -1231,7 +1231,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "十分訓練を積んで、戦力になって / みんなの役に立ちたいのよ……お願い、エト。",
-  "en": ""
+  "en": "I want to train hard, become a real fighter, and be useful to everyone... Please, Eto."
  },
  {
   "id": "2CDD3F_1159.1",
@@ -1239,7 +1239,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかったよ、パンドラ。",
-  "en": ""
+  "en": "All right, Pandora."
  },
  {
   "id": "2CDD3F_11A2.0",
@@ -1247,7 +1247,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、ちょっとまってくれないか？",
-  "en": ""
+  "en": "Eto, could you wait a moment?"
  },
  {
   "id": "2CDD3F_11B4.0",
@@ -1255,7 +1255,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ん？　どうした、カルタス。",
-  "en": ""
+  "en": "Hm? What is it, Cartas?"
  },
  {
   "id": "2CDD3F_11C5.0",
@@ -1263,7 +1263,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ゆうべ考えたんだが……いまの俺は / これから先の闘いでは戦力にならない…… / ほかのみんなと比べると、 / 力に差がありすぎるんだ。",
-  "en": ""
+  "en": "I thought it over last night... As I am now, I won't be much use in the battles ahead... Compared to everyone else, the gap in strength is too big."
  },
  {
   "id": "2CDD3F_1210.0",
@@ -1271,7 +1271,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "だから、この砦の近くで、 / すこし腕をみがいていこうと思うんだ。 / ここなら訓練する場所には事欠かないし、 / なによりここならルシフォンの軍隊が / 近づきっこない。",
-  "en": ""
+  "en": "So I'm thinking of honing my skills a bit near this fort. There's no shortage of places to train here, and above all, Lushifon's army would never come near this place."
  },
  {
   "id": "2CDD3F_1210.1",
@@ -1279,7 +1279,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "十分に訓練を積んで、戦力になって / みんなの役に立ちたいんだ……頼む、エト。",
-  "en": ""
+  "en": "I want to train hard, become a real fighter, and be useful to everyone... Please, Eto."
  },
  {
   "id": "2CDD3F_1210.2",
@@ -1287,7 +1287,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかったよ、カルタス。",
-  "en": ""
+  "en": "All right, Cartas."
  },
  {
   "id": "2CDD3F_12AF.0",
@@ -1295,7 +1295,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ほかに、ここで修業していきたいという / 者はいるか？ / 最大６人まで、修業させることができます。",
-  "en": ""
+  "en": "Is there anyone else who wants to stay here and train? Up to 6 people can be left to train."
  },
  {
   "id": "2CDD3F_12F0.0",
@@ -1303,7 +1303,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "……しっかり鍛えて、 / 力をつけて帰ってきてくれよ。 / 期待してるぞ……。",
-  "en": ""
+  "en": "...Train hard, and come back stronger. I'm counting on you..."
  },
  {
   "id": "2CDD3F_131D.0",
@@ -1311,7 +1311,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "それよりカケル、 / 東にはドワラルの村があるそうだ。 / そこを占領しているルシフォン軍を / 蹴散らすぞうっ！！",
-  "en": ""
+  "en": "More importantly, Kakeru, I hear there's the village of Dwaral to the east. We're going to scatter Lushifon's army occupying it!!"
  },
  {
   "id": "2CDD3F_135A.0",
@@ -1319,6 +1319,6 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "出発するのは明日の朝だったな…… / もう少し、散歩でもするか。",
-  "en": ""
+  "en": "We set out tomorrow morning, didn't we... Maybe I'll take a little more of a walk."
  }
 ]

@@ -14,7 +14,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、この港街はなんていう名前なのかしら？",
-  "en": ""
+  "en": "Eto, I wonder what this port town is called?"
  },
  {
   "id": "298744_0097.0",
@@ -58,7 +58,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルも、最近は大人っぽくなったな。",
-  "en": ""
+  "en": "Seil, you've grown quite grown-up lately."
  },
  {
   "id": "298744_012C.0",
@@ -66,7 +66,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトって……女の子とキスしたことあるよね？",
-  "en": ""
+  "en": "Eto... you've kissed a girl before, right?"
  },
  {
   "id": "298744_0146.0",
@@ -74,7 +74,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わっはっはっ！！　もちろんだぞ。",
-  "en": ""
+  "en": "Wahahaha!! Of course I have."
  },
  {
   "id": "298744_015C.0",
@@ -82,7 +82,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "最初からうまくいった？",
-  "en": ""
+  "en": "Did it go well from the start?"
  },
  {
   "id": "298744_016E.0",
@@ -90,7 +90,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "昔の話だから忘れてしまったが…… / 最初は女性にリードしてもらったおぼえがある。",
-  "en": ""
+  "en": "It was long ago, so I've forgotten... but I remember the woman took the lead the first time."
  },
  {
   "id": "298744_016E.1",
@@ -98,7 +98,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうなんだ……エトが最初にキスした / 女の子って、どんな人なの？",
-  "en": ""
+  "en": "I see... Eto, what was the first girl you kissed like?"
  },
  {
   "id": "298744_016E.2",
@@ -106,7 +106,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "きれいな人だったな…… / まぶしいぐらい、美しい人だ。",
-  "en": ""
+  "en": "She was beautiful... so lovely it was dazzling."
  },
  {
   "id": "298744_016E.3",
@@ -114,7 +114,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うわあ……僕だったら緊張しちゃって / 声もだせないよ、きっと。",
-  "en": ""
+  "en": "Wow... If it were me, I'd be so nervous I couldn't even make a sound, I bet."
  },
  {
   "id": "298744_0208.0",
@@ -122,7 +122,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕も女の子にリードしてもらわないと…… / だめなのかなあ。",
-  "en": ""
+  "en": "Maybe I need a girl to take the lead too... or I'm hopeless."
  },
  {
   "id": "298744_0233.0",
@@ -130,7 +130,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あのね、エト……僕はマルレーネと……。",
-  "en": ""
+  "en": "Hey, Eto... me and Marlene..."
  },
  {
   "id": "298744_0247.0",
@@ -138,7 +138,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "その話は聞きたくないな。",
-  "en": ""
+  "en": "I don't want to hear about that."
  },
  {
   "id": "298744_0259.0",
@@ -164,7 +164,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト……変だよ。 / なんかムキになってなあい？",
-  "en": ""
+  "en": "Eto... you're acting weird. Aren't you getting kinda worked up?"
  },
  {
   "id": "298744_0271.1",
@@ -172,7 +172,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "しつこいぞ、カケル。",
-  "en": ""
+  "en": "Enough, Kakeru."
  },
  {
   "id": "298744_029D.0",
@@ -180,7 +180,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネと、ルシフォンについて話をしたのに / ……エトは聞きたくないんだね。",
-  "en": ""
+  "en": "Marlene and I talked about Lushifon... but I guess you don't want to hear it, Eto."
  },
  {
   "id": "298744_02C5.0",
@@ -206,7 +206,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "聞きたいぞ、カケル。",
-  "en": ""
+  "en": "I want to hear it, Kakeru."
  },
  {
   "id": "298744_02F0.0",
@@ -214,7 +214,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もう遅いよ…… / エトと話をしているうちに忘れちゃった。",
-  "en": ""
+  "en": "Too late... I forgot while I was talking to you, Eto."
  },
  {
   "id": "298744_02F0.1",
@@ -222,7 +222,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ、あのなあ……。",
-  "en": ""
+  "en": "N-now look here..."
  },
  {
   "id": "298744_0320.0",
@@ -230,7 +230,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "き、聞きたくないな……だれが聞くものか。",
-  "en": ""
+  "en": "I-I don't want to hear it... Who would want to listen?"
  },
  {
   "id": "298744_033A.0",
@@ -238,7 +238,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんか変だなあ……エトの態度。",
-  "en": ""
+  "en": "Something's weird... the way Eto's acting."
  },
  {
   "id": "298744_0350.0",
@@ -246,7 +246,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……僕になにか用なの？",
-  "en": ""
+  "en": "Eto... do you need something from me?"
  },
  {
   "id": "298744_0380.0",
@@ -263,7 +263,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……前に教えてくれた人がいてね……。",
-  "en": ""
+  "en": "...Somebody told me once..."
  },
  {
   "id": "298744_03A3.0",
@@ -271,7 +271,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……なにを？",
-  "en": ""
+  "en": "...Told you what?"
  },
  {
   "id": "298744_03AF.0",
@@ -279,7 +279,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "愛っていうのは、 / 相手になにかを求めるもんじゃないんだって。",
-  "en": ""
+  "en": "That love isn't about wanting something from the other person."
  },
  {
   "id": "298744_03AF.1",
@@ -287,7 +287,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ただ一生懸命に、相手の幸せを願う気持ち……",
-  "en": ""
+  "en": "It's just wishing with all your heart for the other person's happiness..."
  },
  {
   "id": "298744_03EF.0",
@@ -295,7 +295,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "相手のために一番いいようになることを願うのが / 愛なんだってその人は言ってた。",
-  "en": ""
+  "en": "That person said love is wishing for whatever's best for the one you care about."
  },
  {
   "id": "298744_041A.0",
@@ -303,7 +303,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うまく言えないんだけど……。",
-  "en": ""
+  "en": "I can't really explain it well..."
  },
  {
   "id": "298744_042D.0",
@@ -311,7 +311,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でも、相手を思い続けるのが大事だっていう / ことはなんとなくわかったわ。",
-  "en": ""
+  "en": "But I sort of get that what matters is to keep caring for the other person."
  },
  {
   "id": "298744_042D.1",
@@ -319,7 +319,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（うーん……ほほえましい光景だ）",
-  "en": ""
+  "en": "(Hmm... what a heartwarming sight.)"
  },
  {
   "id": "298744_046B.0",
@@ -327,7 +327,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（セイルがヤキモチをやくかもしれないな）",
-  "en": ""
+  "en": "(Seil might get jealous.)"
  },
  {
   "id": "298744_0486.0",
@@ -335,7 +335,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "押しの一手で、セイルにきっと私のことを / 振り返らせて見せるわっ！",
-  "en": ""
+  "en": "I'll keep pushing, and I'll make Seil turn and look my way for sure!"
  },
  {
   "id": "298744_04AF.0",
@@ -343,7 +343,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうしたんだナターシャ、元気がないな…… / またカケルとケンカでもしたのか？",
-  "en": ""
+  "en": "What's wrong, Natasha? You look down... Did you fight with Kakeru again?"
  },
  {
   "id": "298744_04AF.1",
@@ -351,7 +351,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やっぱりカケルは誤解してるわ……",
-  "en": ""
+  "en": "Kakeru has the wrong idea after all..."
  },
  {
   "id": "298744_04EC.0",
@@ -359,7 +359,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私がなにか話をしようとすると、 / 必ずエトと話してればって言うんですもの。",
-  "en": ""
+  "en": "Whenever I try to talk to him, he always says, \"Why don't you go talk to Eto?\""
  },
  {
   "id": "298744_0515.0",
@@ -367,7 +367,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "このままだと今のカケルも…… / マルレーネさんが好きになってしまうのかしら？",
-  "en": ""
+  "en": "If this goes on, will the Kakeru of now... fall in love with Marlene too?"
  },
  {
   "id": "298744_0515.1",
@@ -375,7 +375,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それは、今のカケルにしかわからない。",
-  "en": ""
+  "en": "Only the Kakeru of now can know that."
  },
  {
   "id": "298744_0552.0",
@@ -383,7 +383,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ウソつき……",
-  "en": ""
+  "en": "Liar..."
  },
  {
   "id": "298744_055E.0",
@@ -391,7 +391,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あなたを信じれば平気だって言ったじゃない。",
-  "en": ""
+  "en": "You said it would be all right if I trusted you."
  },
  {
   "id": "298744_0575.0",
@@ -399,7 +399,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだかカケルをだましてるみたいで……",
-  "en": ""
+  "en": "It feels like we're deceiving Kakeru..."
  },
  {
   "id": "298744_058D.0",
@@ -407,7 +407,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私……いやなの！",
-  "en": ""
+  "en": "I... I hate it!"
  },
  {
   "id": "298744_0598.0",
@@ -415,7 +415,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャ……我慢してくれ。",
-  "en": ""
+  "en": "Natasha... please bear with it."
  },
  {
   "id": "298744_05AA.0",
@@ -423,7 +423,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いやいやっ……カケルが私のことを / 誤解してるなんて、絶対にいや！！",
-  "en": ""
+  "en": "No, no... I absolutely can't stand Kakeru getting the wrong idea about me!!"
  },
  {
   "id": "298744_05DA.0",
@@ -440,7 +440,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトって勝手なのね……",
-  "en": ""
+  "en": "Eto, you're so selfish..."
  },
  {
   "id": "298744_05FE.0",
@@ -448,7 +448,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたはマルレーネさんが好きだから、 / 私たちのことなんかどうでもいいんでしょ！？",
-  "en": ""
+  "en": "You like Marlene, so you don't care about the rest of us, do you?!"
  },
  {
   "id": "298744_0627.0",
@@ -456,7 +456,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ば、バカなことを……。",
-  "en": ""
+  "en": "D-don't be foolish..."
  },
  {
   "id": "298744_0637.0",
@@ -464,7 +464,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうせ私はバカですよ！！",
-  "en": ""
+  "en": "Fine, so I'm a fool!!"
  },
  {
   "id": "298744_0649.0",
@@ -472,7 +472,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "でもバカなりに誤解を解く方法を / 考えたんだから！！",
-  "en": ""
+  "en": "But even a fool like me thought of a way to clear up the misunderstanding!!"
  },
  {
   "id": "298744_0668.0",
@@ -480,7 +480,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ちゃんとカケルに話せば、 / 彼だってわかってくれるはず…… / 絶対にわかってくれるわ！！",
-  "en": ""
+  "en": "If I just tell Kakeru properly, he'll understand... I know he'll understand!!"
  },
  {
   "id": "298744_0693.0",
@@ -488,7 +488,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だめだ、それをしてはいけない！！",
-  "en": ""
+  "en": "No, you mustn't do that!!"
  },
  {
   "id": "298744_06A9.0",
@@ -496,7 +496,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "このままカケルに誤解されてるのはいや…… / 絶対にいやなの！！",
-  "en": ""
+  "en": "I don't want Kakeru to keep misunderstanding me... I absolutely don't!!"
  },
  {
   "id": "298744_06A9.1",
@@ -504,7 +504,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ならばみんなの最後を教えてやる！！",
-  "en": ""
+  "en": "Then I'll tell you how everyone ended up!!"
  },
  {
   "id": "298744_06E5.0",
@@ -512,7 +512,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "私は見たんだ！ / ……ひとりひとりが、ルシフォンに石にされ / ……生きたまま砕かれていくのを！",
-  "en": ""
+  "en": "I saw it! ...One by one, Lushifon turned them to stone... and shattered them while they still lived!"
  },
  {
   "id": "298744_06E5.1",
@@ -520,7 +520,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ナターシャ、君もだ。",
-  "en": ""
+  "en": "...You too, Natasha."
  },
  {
   "id": "298744_0723.0",
@@ -537,7 +537,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私はナターシャの手をにぎり……絶叫した！ / しかし……どうすることもできなかった！",
-  "en": ""
+  "en": "I held Natasha's hand... and screamed! But... there was nothing I could do!"
  },
  {
   "id": "298744_0730.1",
@@ -545,7 +545,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォンは……どうなったの？",
-  "en": ""
+  "en": "What... happened to Lushifon?"
  },
  {
   "id": "298744_076E.0",
@@ -553,7 +553,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "あいつにとって私たちを殺すことは、 / 奴を殺すよりも簡単なんだ。 / やつには強大な魔力がある。",
-  "en": ""
+  "en": "For him, killing us is easier than us killing him. He has immense magic power."
  },
  {
   "id": "298744_07A6.0",
@@ -561,7 +561,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じ、じゃあ……。",
-  "en": ""
+  "en": "Th-then..."
  },
  {
   "id": "298744_07B3.0",
@@ -569,7 +569,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "またそうなることがわかっているのに、どうして / ライムリン大陸にきたのかと聞きたいんだろ？",
-  "en": ""
+  "en": "You want to ask why I came to the Limerin continent when I know it will happen again, right?"
  },
  {
   "id": "298744_07B3.1",
@@ -577,7 +577,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "みんなが石にされ……砕かれていった時、 / ひとりだけそこにいない人物がいた…… / その人物がいれば、 / 未来は変わるかも知れないのだ。",
-  "en": ""
+  "en": "When everyone was turned to stone... and shattered, there was one person who wasn't there... If that person is here, the future may change."
  },
  {
   "id": "298744_0829.0",
@@ -585,7 +585,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もしかして……それがマルレーネさん？",
-  "en": ""
+  "en": "Could it be... that's Marlene?"
  },
  {
   "id": "298744_083E.0",
@@ -593,7 +593,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そう……彼女なんだ。",
-  "en": ""
+  "en": "Yes... it's her."
  },
  {
   "id": "298744_084C.0",
@@ -601,7 +601,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャ、理解してほしい…… / 私がいなければ、再び同じことがくり返される。",
-  "en": ""
+  "en": "Natasha, I need you to understand... If I'm not here, the same thing will happen all over again."
  },
  {
   "id": "298744_084C.1",
@@ -609,7 +609,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みんな石にされ砕かれた後、カケルだけが / 魔法をかけられ牢獄に幽閉されるんだ。",
-  "en": ""
+  "en": "After everyone is turned to stone and shattered, Kakeru alone is put under a spell and locked away in a prison."
  },
  {
   "id": "298744_084C.2",
@@ -617,7 +617,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "どこかで過去を変えなければ、 / 永遠に同じことのくり返しだ…… / あんな悲しい光景を見るのは、 / 今の私で最後にしたいのだ。",
-  "en": ""
+  "en": "Unless the past is changed somewhere, the same thing will repeat forever... I want the me of now to be the last one who ever has to see such a sad sight."
  },
  {
   "id": "298744_08F7.0",
@@ -625,7 +625,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ごめんなさい……エト。",
-  "en": ""
+  "en": "I'm sorry... Eto."
  },
  {
   "id": "298744_0904.0",
@@ -633,7 +633,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャ、わかってくれたんだな。",
-  "en": ""
+  "en": "Natasha, you understand, then."
  },
  {
   "id": "298744_0918.0",
@@ -641,7 +641,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私、自分のことばかり考えてて……",
-  "en": ""
+  "en": "I was only thinking about myself..."
  },
  {
   "id": "298744_092E.0",
@@ -649,7 +649,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたがそんな悲しい思いをしてるなんて / 知らなかった。",
-  "en": ""
+  "en": "I didn't know you were carrying such sad memories."
  },
  {
   "id": "298744_094E.0",
@@ -657,7 +657,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "本当は言うべきことではなかったのだが……。",
-  "en": ""
+  "en": "The truth is, I should never have told you..."
  },
  {
   "id": "298744_0968.0",
@@ -665,7 +665,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "安心して、エト…… / もう二度とカケルに話すなんて言わないわ。",
-  "en": ""
+  "en": "Don't worry, Eto... I won't say I'll tell Kakeru ever again."
  },
  {
   "id": "298744_0990.0",
@@ -673,7 +673,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どうしてあなたが悲しい目をしているのか / ……その理由がやっとわかったわ。",
-  "en": ""
+  "en": "I finally understand... why you have such sad eyes."
  },
  {
   "id": "298744_09BE.0",
@@ -681,7 +681,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネ……海を見てるのか？",
-  "en": ""
+  "en": "Marlene... watching the sea?"
  },
  {
   "id": "298744_09D1.0",
@@ -689,7 +689,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "口をきいてくれないんだな……。",
-  "en": ""
+  "en": "So you won't talk to me..."
  },
  {
   "id": "298744_09E6.0",
@@ -697,7 +697,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私と話す時間があったら、 / ナターシャさんのところにいればいいでしょう。",
-  "en": ""
+  "en": "If you have time to talk to me, you should be with Natasha."
  },
  {
   "id": "298744_09E6.1",
@@ -705,7 +705,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私はマルレーネといっしょにいたいのだ。",
-  "en": ""
+  "en": "I want to be with you, Marlene."
  },
  {
   "id": "298744_0A22.0",
@@ -713,7 +713,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よくそんなことが言えますね……",
-  "en": ""
+  "en": "How can you say such a thing..."
  },
  {
   "id": "298744_0A37.0",
@@ -721,7 +721,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私といっしょにいることは、 / あなたの大事な仲間に対する裏切り行為ですよ。",
-  "en": ""
+  "en": "Being with me is a betrayal of your precious comrades."
  },
  {
   "id": "298744_0A62.0",
@@ -729,7 +729,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "前に言ったろう、君のことを信じていると。",
-  "en": ""
+  "en": "I told you before, didn't I? That I believe in you."
  },
  {
   "id": "298744_0A7D.0",
@@ -737,7 +737,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私の瞳の色の話ですか？",
-  "en": ""
+  "en": "You mean what you said about the color of my eyes?"
  },
  {
   "id": "298744_0A8F.0",
@@ -745,7 +745,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたに対する視線に、優しさや暖かさなど / あるとは思えませんが。",
-  "en": ""
+  "en": "I hardly think there's any kindness or warmth in the way I look at you."
  },
  {
   "id": "298744_0AB7.0",
@@ -753,7 +753,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それでも……私は君のことを信じるだろう。",
-  "en": ""
+  "en": "Even so... I will still believe in you."
  },
  {
   "id": "298744_0AD2.0",
@@ -761,7 +761,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォンは魔界の四天王のひとりなのです……",
-  "en": ""
+  "en": "Lushifon is one of the Four Heavenly Kings of the Demon World..."
  },
  {
   "id": "298744_0AED.0",
@@ -769,7 +769,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたたち人間がまとめてかかっても、 / 勝てる相手ではありません。",
-  "en": ""
+  "en": "Even if all of you humans attacked him at once, you could never win."
  },
  {
   "id": "298744_0B11.0",
@@ -777,7 +777,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ま、魔界の四天王のひとり！？",
-  "en": ""
+  "en": "O-one of the Four Heavenly Kings of the Demon World?!"
  },
  {
   "id": "298744_0B27.0",
@@ -785,7 +785,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ここから引き返すべきです……",
-  "en": ""
+  "en": "You should turn back from here..."
  },
  {
   "id": "298744_0B3D.0",
@@ -793,7 +793,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だいじな仲間のためにも、 / それ以外の道はありません。",
-  "en": ""
+  "en": "For the sake of your precious comrades, there is no other way."
  },
  {
   "id": "298744_0B5E.0",
@@ -801,7 +801,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふ……ふふふ。",
-  "en": ""
+  "en": "Heh... heh heh heh."
  },
  {
   "id": "298744_0B6B.0",
@@ -809,7 +809,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な、なにがおかしいのですか！？",
-  "en": ""
+  "en": "Wh-what's so funny?!"
  },
  {
   "id": "298744_0B80.0",
@@ -817,7 +817,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうして私たちを助けようとする……",
-  "en": ""
+  "en": "Why do you try to help us..."
  },
  {
   "id": "298744_0B97.0",
@@ -825,7 +825,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "君はカケルをルシフォンの前に連れて行き、 / ルシフォンから愛されたいんじゃないのか？",
-  "en": ""
+  "en": "Don't you want to bring Kakeru before Lushifon and win Lushifon's love?"
  },
  {
   "id": "298744_0BBB.0",
@@ -833,7 +833,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そ、それは……カケルさんがいなくても、 / ルシフォンに愛される自信があるからです。",
-  "en": ""
+  "en": "Th-that's... because I'm confident Lushifon will love me even without Kakeru."
  },
  {
   "id": "298744_0BBB.1",
@@ -841,7 +841,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ウソだ。",
-  "en": ""
+  "en": "That's a lie."
  },
  {
   "id": "298744_0BF0.0",
@@ -849,7 +849,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いいかげんにしてください……もうエトさんと / 話をすることなんかありませんっ！！",
-  "en": ""
+  "en": "That's enough... I have nothing more to say to you, Eto!!"
  },
  {
   "id": "298744_0BF0.1",
@@ -875,7 +875,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしてそんな悲しそうな顔をする。",
-  "en": ""
+  "en": "Why do you look so sad?"
  },
  {
   "id": "298744_0C47.0",
@@ -883,7 +883,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "別に悲しくなんかありません…… / もともとこういう顔です。",
-  "en": ""
+  "en": "I'm not sad at all... This is just how my face is."
  },
  {
   "id": "298744_0C47.1",
@@ -891,7 +891,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ならば私が答えてあげよう…… / それは君が優しい女性だからだ。",
-  "en": ""
+  "en": "Then I'll tell you why... It's because you're a kind woman."
  },
  {
   "id": "298744_0C47.2",
@@ -899,7 +899,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "優しいからこそ、君は悲しい顔をするんだ。",
-  "en": ""
+  "en": "It's precisely because you're kind that you look sad."
  },
  {
   "id": "298744_0CAD.0",
@@ -907,7 +907,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "もし君が優しさを持ち合わせていないのなら、 / 微笑みながら芝居を続けているんじゃないか？",
-  "en": ""
+  "en": "If you had no kindness in you, wouldn't you just keep up the act with a smile?"
  },
  {
   "id": "298744_0CE0.0",
@@ -915,7 +915,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "優しくありませんっ！！",
-  "en": ""
+  "en": "I'm not kind!!"
  },
  {
   "id": "298744_0CF2.0",
@@ -923,7 +923,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ま、魔界の王の娘である私が、 / どうして優しいのですかっ！！ / ……私のことをすべて知っているように / 言わないでくださいっ！！",
-  "en": ""
+  "en": "H-how could I, daughter of the King of the Demon World, be kind?! ...Don't talk as if you know everything about me!!"
  },
  {
   "id": "298744_0D3A.0",
@@ -931,7 +931,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "魔界の王の娘！？",
-  "en": ""
+  "en": "Daughter of the King of the Demon World?!"
  },
  {
   "id": "298744_0D49.0",
@@ -939,7 +939,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうです。",
-  "en": ""
+  "en": "That's right."
  },
  {
   "id": "298744_0D54.0",
@@ -947,7 +947,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私の本当の名は、 / 魔界の王ミナクスの娘……イノ。",
-  "en": ""
+  "en": "My true name is Ino... daughter of Minax, King of the Demon World."
  },
  {
   "id": "298744_0D72.0",
@@ -955,7 +955,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そうだったのか……。",
-  "en": ""
+  "en": "S-so that's how it was..."
  },
  {
   "id": "298744_0D83.0",
@@ -963,7 +963,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私のことが大嫌いになりましたでしょ？ / あなたは神の血を引く方ですもの。",
-  "en": ""
+  "en": "You must hate me now, don't you? After all, you carry the blood of the gods."
  },
  {
   "id": "298744_0D83.1",
@@ -971,7 +971,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "君が魔族だろうが、悪魔だろうが関係ないな。",
-  "en": ""
+  "en": "It doesn't matter to me whether you're a demon or a devil."
  },
  {
   "id": "298744_0DCA.0",
@@ -979,7 +979,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "信じるということは、相手の姿や立場で / 変わるものではない。",
-  "en": ""
+  "en": "Believing in someone doesn't change with how they look or where they stand."
  },
  {
   "id": "298744_0DEE.0",
@@ -987,7 +987,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もうやめてください……エトさん。",
-  "en": ""
+  "en": "Please stop... Eto."
  },
  {
   "id": "298744_0E08.0",
@@ -995,7 +995,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私はミナクスの娘です…… / 優しいはずがありません。",
-  "en": ""
+  "en": "I am Minax's daughter... I can't possibly be kind."
  },
  {
   "id": "298744_0E2B.0",
@@ -1012,7 +1012,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうだな、ネレイドの胸とおなじくらいかな。",
-  "en": ""
+  "en": "Let's see, about the same as Nereid's chest, I guess."
  },
  {
   "id": "298744_0E56.0",
@@ -1020,7 +1020,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゃあ……小さいんですね。",
-  "en": ""
+  "en": "Then... it's small, isn't it?"
  },
  {
   "id": "298744_0E69.0",

@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よし、これで勝った。",
-  "en": ""
+  "en": "Good, that's our victory."
  },
  {
   "id": "2AEFAB_0060.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんでこんなに戦力が少なかったのかしら？",
-  "en": ""
+  "en": "I wonder why they had so few troops?"
  },
  {
   "id": "2AEFAB_0079.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これは本隊ではなく、ただの讐戒部隊だからな。 / 敵の本隊はデス・バレーに置いてあるはずだ。",
-  "en": ""
+  "en": "Because this wasn't their main force, just a scouting unit. The enemy's main force should be stationed at Death Valley."
  },
  {
   "id": "2AEFAB_0079.1",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "それでカケルを怒らせて、 / わざわざ回り道させたの…… / それも過去の知識なの？",
-  "en": ""
+  "en": "So that's why you made Kakeru angry and sent him the long way around... Is that from your knowledge of the past too?"
  },
  {
   "id": "2AEFAB_00DE.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャ！",
-  "en": ""
+  "en": "Natasha!"
  },
  {
   "id": "2AEFAB_00E7.0",
@@ -54,7 +54,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いや……まあいい。",
-  "en": ""
+  "en": "No... never mind."
  },
  {
   "id": "2AEFAB_0102.0",
@@ -62,7 +62,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "それより、 / もうひとりのお客さんがやってくるぞ。 / ナターシャ、私のそばを離れるな！",
-  "en": ""
+  "en": "More importantly, our other guest is on the way. Natasha, stay by my side!"
  },
  {
   "id": "2AEFAB_0102.1",
@@ -70,7 +70,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おのれ……よくもやってくれたな！ / かくなる上は、その女はいただいていくぞっ！",
-  "en": ""
+  "en": "Curse you... You'll pay for this! If it's come to this, I'm taking that woman with me!"
  },
  {
   "id": "2AEFAB_0102.2",
@@ -78,7 +78,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "させるかあっ！！",
-  "en": ""
+  "en": "Like I'd let you!!"
  },
  {
   "id": "2AEFAB_016C.0",
@@ -86,7 +86,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……お、俺の動きを読んでいた……だとおっ！？",
-  "en": ""
+  "en": "...Y-you read my moves... WHAT?!"
  },
  {
   "id": "2AEFAB_0189.0",
@@ -94,7 +94,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ハーディス、",
-  "en": ""
+  "en": "Hardis,"
  },
  {
   "id": "2AEFAB_0192.0",
@@ -102,7 +102,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前は敵ながらなかなかの武人だと / 評価していたのだが……",
-  "en": ""
+  "en": "enemy though you are, I had judged you to be quite the warrior..."
  },
  {
   "id": "2AEFAB_01B6.0",
@@ -110,7 +110,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "誇り高き魔族の戦士が人質を取ろうなどとは…… / 堕ちたものだな、ハーディス！！",
-  "en": ""
+  "en": "A proud demon warrior, stooping to take a hostage... How far you have fallen, Hardis!!"
  },
  {
   "id": "2AEFAB_01E3.0",
@@ -118,7 +118,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やかましいっ！",
-  "en": ""
+  "en": "Shut up!"
  },
  {
   "id": "2AEFAB_01F0.0",
@@ -126,7 +126,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "虫ケラどもを相手にするのに / 卑怯もなにもあるかっ！ / 要は勝てばいいのだ、勝てばな！",
-  "en": ""
+  "en": "Against a bunch of insects, who cares about fighting dirty?! All that matters is winning, I tell you, winning!"
  },
  {
   "id": "2AEFAB_01F0.1",
@@ -134,7 +134,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "それは自分のプライドを守ろうとする / 言いわけに過ぎない。 / 自分でもよくわかっているはずだろう！",
-  "en": ""
+  "en": "That's nothing but an excuse to protect your own pride. Surely you know that full well yourself!"
  },
  {
   "id": "2AEFAB_025A.0",
@@ -142,7 +142,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぐっ……！！",
-  "en": ""
+  "en": "Ngh...!!"
  },
  {
   "id": "2AEFAB_0266.0",
@@ -150,7 +150,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "つまらぬプライドは捨てろ！",
-  "en": ""
+  "en": "Throw away your petty pride!"
  },
  {
   "id": "2AEFAB_027C.0",
@@ -158,7 +158,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "自分の信念を曲げ、 / 戦士としての誇りを捨てて、 / なにが残るというのだ！ / ルシフォンに利用されているだけだというのが、 / まだわからんのか！！",
-  "en": ""
+  "en": "If you bend your own convictions and cast aside your honor as a warrior, what is left?! Do you still not see that Lushifon is merely using you?!"
  },
  {
   "id": "2AEFAB_02CC.0",
@@ -166,7 +166,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "……プライド！？　誇り！？ / それがなんになる！ / 利用されているだと？ / そんなことはわかっているさ！",
-  "en": ""
+  "en": "...Pride?! Honor?! What good are they?! Using me, you say? I know that already!"
  },
  {
   "id": "2AEFAB_030A.0",
@@ -174,7 +174,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "しかしそれでもかまわん、 / マノを救うためならば！",
-  "en": ""
+  "en": "But I don't care, if it means saving Mano!"
  },
  {
   "id": "2AEFAB_0327.0",
@@ -182,7 +182,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マノ……？",
-  "en": ""
+  "en": "Mano...?"
  },
  {
   "id": "2AEFAB_0332.0",
@@ -190,7 +190,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "俺はマノのためだけに生きる！",
-  "en": ""
+  "en": "I live for Mano alone!"
  },
  {
   "id": "2AEFAB_0346.0",
@@ -198,7 +198,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "永遠に彼女を守る！ / 俺はそのためにだけ存在するのだ！！",
-  "en": ""
+  "en": "I will protect her forever! That is the only reason I exist!!"
  },
  {
   "id": "2AEFAB_0369.0",
@@ -206,7 +206,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マノという女が何者かは知らん。",
-  "en": ""
+  "en": "I don't know who this woman Mano is."
  },
  {
   "id": "2AEFAB_037E.0",
@@ -214,7 +214,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "しかし……戦士としての誇りを捨てたお前を、 / その女は喜ぶと思うのかっ！？",
-  "en": ""
+  "en": "But... do you think she would be glad of you, now that you've thrown away your honor as a warrior?!"
  },
  {
   "id": "2AEFAB_03A9.0",
@@ -222,7 +222,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……っ！！",
-  "en": ""
+  "en": "...!!"
  },
  {
   "id": "2AEFAB_03B4.0",
@@ -230,7 +230,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォンに駒として使われ、 / 自分の誇りすら無くした男に、 / 他の者を守ることができると思っているのかっ！",
-  "en": ""
+  "en": "Do you really think a man used as a pawn by Lushifon, who has lost even his own honor, can protect anyone else?!"
  },
  {
   "id": "2AEFAB_03EE.0",
@@ -238,7 +238,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "貴様ああっ！",
-  "en": ""
+  "en": "You bastaaard!"
  },
  {
   "id": "2AEFAB_03FB.0",
@@ -246,7 +246,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "我々と闘うか？",
-  "en": ""
+  "en": "Will you fight us?"
  },
  {
   "id": "2AEFAB_0408.0",
@@ -254,7 +254,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "人間相手に無意味な闘いを挑み、 / 無様に死にたいというならそれもよかろう。",
-  "en": ""
+  "en": "If you wish to pick a pointless fight with humans and die a disgraceful death, so be it."
  },
  {
   "id": "2AEFAB_0431.0",
@@ -262,7 +262,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "それとも、たったひとりで / 我々全員に勝てるつもりか！！",
-  "en": ""
+  "en": "Or do you think you can beat all of us by yourself?!"
  },
  {
   "id": "2AEFAB_044F.0",
@@ -270,7 +270,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "………くっ、おぼえておれ！ / この借りはいずれ必ず返すぞ！！",
-  "en": ""
+  "en": "...Tch, you'll regret this! I'll pay you back for this someday, mark my words!!"
  },
  {
   "id": "2AEFAB_0479.0",
@@ -278,7 +278,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……守った……私は…… / ナターシャを守り抜いたんだ！",
-  "en": ""
+  "en": "...I protected her... I... I protected Natasha to the end!"
  },
  {
   "id": "2AEFAB_0479.1",
@@ -286,7 +286,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（やれる！　私の力でも過去を変えて / ナターシャやみんなを救うことができる！）",
-  "en": ""
+  "en": "(I can do it! Even with my own power, I can change the past and save Natasha and everyone!)"
  },
  {
   "id": "2AEFAB_0479.2",
@@ -294,7 +294,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "（私はあきらめないぞ…… / 最後の最後まで、闘い抜いてやる！ / ルシフォン、 / お前らが虫ケラとしか思っていない人間が / どれほどの力を持つものか、見ているがいい！）",
-  "en": ""
+  "en": "(I won't give up... I'll fight to the very end! Lushifon, watch and see just how much power the humans you think of as mere insects truly have!)"
  },
  {
   "id": "2AEFAB_053B.0",
@@ -302,7 +302,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やっとドラゴンの砦にたどり着いたぞ。",
-  "en": ""
+  "en": "We've finally reached the Dragon Fortress."
  },
  {
   "id": "2AEFAB_054F.0",
@@ -310,7 +310,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……エト……ドラゴンが見張ってるわ。 / 大丈夫かしら？",
-  "en": ""
+  "en": "...Eto... there's a dragon standing guard. Will we be all right?"
  },
  {
   "id": "2AEFAB_054F.1",
@@ -318,7 +318,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "大丈夫だろう。 / あそこにいるのはホワイトドラゴンだ。 / ホワイトドラゴンは、ドラゴンナイト以外の / 人間の指示には決して従わない。",
-  "en": ""
+  "en": "We should be fine. That's the White Dragon over there. The White Dragon never obeys the commands of any human but a Dragon Knight."
  },
  {
   "id": "2AEFAB_05AA.0",
@@ -326,7 +326,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンも彼らを仲間にすることは / できないはずだ。",
-  "en": ""
+  "en": "Even Lushifon shouldn't be able to make them his allies."
  },
  {
   "id": "2AEFAB_05C9.0",
@@ -334,7 +334,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "待て！",
-  "en": ""
+  "en": "Halt!"
  },
  {
   "id": "2AEFAB_05D2.0",
@@ -342,7 +342,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この砦はドラゴンナイト様の / おわしますところだ！",
-  "en": ""
+  "en": "This fortress is where the Dragon Knight resides!"
  },
  {
   "id": "2AEFAB_05ED.0",
@@ -350,7 +350,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ただの人間が近づいてはならぬ！",
-  "en": ""
+  "en": "No mere human may approach!"
  },
  {
   "id": "2AEFAB_0601.0",
@@ -358,7 +358,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンナイトですって！？ / や、やっぱりルシフォンの手が回って……。",
-  "en": ""
+  "en": "A Dragon Knight?! Th-then Lushifon got to them after all..."
  },
  {
   "id": "2AEFAB_0601.1",
@@ -366,7 +366,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いや……そうではないだろう。",
-  "en": ""
+  "en": "No... I don't think that's it."
  },
  {
   "id": "2AEFAB_063C.0",
@@ -374,7 +374,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そこのドラゴン！",
-  "en": ""
+  "en": "You there, dragon!"
  },
  {
   "id": "2AEFAB_0648.0",
@@ -382,7 +382,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "君の名はラスカスか、さもなければ / サイレスというのではないか！？",
-  "en": ""
+  "en": "Your name is Lascus, or else... Cyres, is it not?!"
  },
  {
   "id": "2AEFAB_066E.0",
@@ -390,7 +390,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "な……なんだと！？",
-  "en": ""
+  "en": "Wh... what?!"
  },
  {
   "id": "2AEFAB_067D.0",
@@ -398,7 +398,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なぜ人間が私の名を知っているのだ…… / しかもラスカスの名まで……？",
-  "en": ""
+  "en": "How does a human know my name... and Lascus's name as well...?"
  },
  {
   "id": "2AEFAB_06A2.0",
@@ -406,7 +406,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "私はバーンの子息にして新たなる / ドラゴンナイト・セイル殿の友人だ！ / 疑うなら砦の中にカケルという少年がいるはず。 / 彼に確認させていただきたい！",
-  "en": ""
+  "en": "I am a friend of Seil, son of Bahn and the new Dragon Knight! If you doubt me, there should be a boy named Kakeru inside the fortress. Let him vouch for me!"
  },
  {
   "id": "2AEFAB_06F6.0",
@@ -414,7 +414,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……。",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "2AEFAB_0702.0",
@@ -422,7 +422,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイルがドラゴンナイトですって！？",
-  "en": ""
+  "en": "Seil is a Dragon Knight?!"
  },
  {
   "id": "2AEFAB_0717.0",
@@ -430,7 +430,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "驚くことはないさ。彼は正真正銘、 / ドラゴンナイト・バーンの息子なんだからな。 / これで我々の軍にも / ドラゴンナイトが誕生したわけだ。",
-  "en": ""
+  "en": "It's no surprise. He's the genuine article, the son of the Dragon Knight Bahn after all. Now our army has a Dragon Knight of its own."
  },
  {
   "id": "2AEFAB_0764.0",
@@ -438,7 +438,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おおいっ、ナターシャぁ！ / エトぉ！　久しぶりだねえっ！",
-  "en": ""
+  "en": "Heeey, Natashaaa! Etooo! Long time no see!"
  },
  {
   "id": "2AEFAB_0787.0",
@@ -446,7 +446,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おおカケル、セイル。やったな！",
-  "en": ""
+  "en": "Oh, Kakeru, Seil. You did it!"
  },
  {
   "id": "2AEFAB_079A.0",
@@ -454,7 +454,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うんっ！　ドラゴンナイトが加われば / ルシフォンなんかイチコロさっ！",
-  "en": ""
+  "en": "Yup! With a Dragon Knight on our side, Lushifon's a goner!"
  },
  {
   "id": "2AEFAB_079A.1",
@@ -471,7 +471,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "あはははっ！ / 気にしないでよ、ふたりとも。 / セイルはあんまり感動が激しすぎて、 / ずっとこんな調子なんだ。",
-  "en": ""
+  "en": "Ahahaha! Don't mind him, you two. Seil's been so overwhelmed with emotion, he's been like this the whole time."
  },
  {
   "id": "2AEFAB_0807.0",
@@ -479,7 +479,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "……カケルの笑い声を聞くのって、 / なんだかとっても久しぶりみたいな気がするわ。 / こっちまでうれしくなっちゃう。",
-  "en": ""
+  "en": "...Hearing you laugh, Kakeru, feels like it's been such a long time. It makes me happy too."
  },
  {
   "id": "2AEFAB_0848.0",
@@ -487,7 +487,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネ、 / 君も無事でなによりだ……ありがとう。",
-  "en": ""
+  "en": "Marlene, I'm glad you're safe too... Thank you."
  },
  {
   "id": "2AEFAB_0848.1",
@@ -495,7 +495,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト……あなたこそ、 / よく……無事で……。",
-  "en": ""
+  "en": "Eto... I'm the one who's... glad you're... safe..."
  },
  {
   "id": "2AEFAB_0848.2",
@@ -503,7 +503,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あれ？ / なんで泣いてんの、マルレーネ？",
-  "en": ""
+  "en": "Huh? Why're you crying, Marlene?"
  },
  {
   "id": "2AEFAB_0848.3",
@@ -511,7 +511,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……もう、タケルの鈍感！",
-  "en": ""
+  "en": "...Honestly, Kakeru, you're so dense!"
  },
  {
   "id": "2AEFAB_08A9.0",
@@ -519,7 +519,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだよぉ。",
-  "en": ""
+  "en": "What's that supposed to mean?"
  },
  {
   "id": "2AEFAB_08B5.0",
@@ -527,7 +527,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こらこら、こんな時にケンカをしてどうする。",
-  "en": ""
+  "en": "Now, now, what good is quarreling at a time like this?"
  },
  {
   "id": "2AEFAB_08D4.0",
@@ -535,7 +535,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "！　へレネ！！",
-  "en": ""
+  "en": "! Helene!!"
  },
  {
   "id": "2AEFAB_08E0.0",
@@ -543,7 +543,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……レア！",
-  "en": ""
+  "en": "...Rhea!"
  },
  {
   "id": "2AEFAB_08EB.0",
@@ -551,7 +551,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "へレネ……やっと会えた！ / 私の妹……！！",
-  "en": ""
+  "en": "Helene... I finally found you! My little sister...!!"
  },
  {
   "id": "2AEFAB_08EB.1",
@@ -559,7 +559,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……お姉……お姉ちゃん、お姉ちゃあんっ！！",
-  "en": ""
+  "en": "...Sis... Sis, Siiis!!"
  },
  {
   "id": "2AEFAB_0923.0",
@@ -567,7 +567,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "へレネ……よかった……（くすん）",
-  "en": ""
+  "en": "Helene... I'm so glad... (sniff)"
  },
  {
   "id": "2AEFAB_0938.0",
@@ -575,7 +575,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ、トルル……久しぶりだな。",
-  "en": ""
+  "en": "Hey, Torul... It's been a while."
  },
  {
   "id": "2AEFAB_094C.0",
@@ -583,7 +583,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "え？　僕はお前なんかにあったことはないぞ。 / それになんで名前を知ってるんだ？",
-  "en": ""
+  "en": "Huh? I've never met you before. And how do you know my name?"
  },
  {
   "id": "2AEFAB_094C.1",
@@ -591,7 +591,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（……しまった）",
-  "en": ""
+  "en": "(...Oops.)"
  },
  {
   "id": "2AEFAB_0986.0",
@@ -599,7 +599,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト、それとね……このトルルが / 僕たちといっしょに闘ってくれるんだって！",
-  "en": ""
+  "en": "Eto, and guess what... Torul here says he'll fight with us!"
  },
  {
   "id": "2AEFAB_0986.1",
@@ -607,7 +607,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ほんとはいやなんだけどね。",
-  "en": ""
+  "en": "Not that I really want to."
  },
  {
   "id": "2AEFAB_09C0.0",
@@ -615,7 +615,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "はっはっは、そうか。 / トルル、期待してるぞ。",
-  "en": ""
+  "en": "Ha ha ha, I see. Torul, I'm counting on you."
  },
  {
   "id": "2AEFAB_09DF.0",
@@ -623,7 +623,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "トルルはすでに仲間に加わっていた！！",
-  "en": ""
+  "en": "Torul had already joined the party!!"
  },
  {
   "id": "2AEFAB_09FD.0",
@@ -631,7 +631,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ね、ねえ、こんなおめでたいことが / あったんですもの、細かいことはいいじゃない？ / それより私たち、中に入れてもらえるの？",
-  "en": ""
+  "en": "S-say, after something this wonderful, let's not fuss over the details, okay? More importantly, will they let us inside?"
  },
  {
   "id": "2AEFAB_0A3F.0",
@@ -639,7 +639,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルがドラゴンの長老に頼んでたから / 大丈夫だと思うけど……。",
-  "en": ""
+  "en": "Seil asked the dragon elder, so I think it'll be fine..."
  },
  {
   "id": "2AEFAB_0A3F.1",
@@ -647,7 +647,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はっはっは。",
-  "en": ""
+  "en": "Ha ha ha."
  },
  {
   "id": "2AEFAB_0A6D.0",
@@ -655,7 +655,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "砦に入ってみてとがめだてされなければ、 / それは許可されたということだろう。",
-  "en": ""
+  "en": "If we go into the fort and nobody stops us, I guess that means we have permission."
  },
  {
   "id": "2AEFAB_0A99.0",
@@ -663,6 +663,6 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みんな、今日はここで身体を休めてくれ…… / 明日の朝には出発するぞ！！",
-  "en": ""
+  "en": "Everyone, rest up here today... We set out tomorrow morning!!"
  }
 ]
