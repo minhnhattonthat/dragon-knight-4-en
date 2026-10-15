@@ -25,5 +25,12 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Phase 6 done: 12103/12103 units translated + reviewed (fix001/fix002 merged).
 - UI (ui/ui.json via tools/ui.py) done + seen in-game: main menu, options, status, party list, battle panel,
   unit types, enemy names, command buttons, unit info box (op 21), item list/count/stat box, combat labels.
-- Next: phase 7 checks, phase 8 QA (regen states, warp sheets per scene incl. save/load, ending, staff roll), phase 9 release.
+- Phase 7: tests/test_build.py (own build, layout, JP-in-en, romdiff vs tools/allowed_ranges.txt). Layout MAX_PX=376
+  (last cell is under the box frame); stub-page check in batches.py; fix003-006 merged (0 stub pages).
+- Graphics: docs/re/graphics.md (buttons, battle popups via tools/gfx_popups.py). Notebook place names: ui.json notebook_places.
+- Phase 8: tour = `python -X utf8 tools/debug/regen.py build/dk4_en.sfc --frames 18000 --no-state --out work/qa/tour
+  --script tools/lua/jpdraw.lua` then `python -X utf8 tools/jpdraw.py work/qa/tour`. ALWAYS pass `--sav work/states/blank.srm`
+  to emu.py runs (a battle SAVE writes tools/mesen/Saves/dk4_en.srm and the title then shows the notebook menu).
+  Battle SAVE route + popups: see work/qa notes in docs/re/graphics.md. work/states/en_save.srm = a real save.
+- Next: phase 9 release (`python -X utf8 tools/release.py`).
 - Open bugs: none known. Region 2C0000_0BC1 (lone 。, 1 byte) stays Japanese.
