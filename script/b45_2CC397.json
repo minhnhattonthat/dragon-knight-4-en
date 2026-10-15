@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……ん？",
-  "en": ""
+  "en": "...Hm?"
  },
  {
   "id": "2CC397_0070.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いつのまにか……寝てしまったようだ。",
-  "en": ""
+  "en": "It seems... I fell asleep at some point."
  },
  {
   "id": "2CC397_0092.0",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "僕たちって、ここでずっと暮らすのかな？",
-  "en": ""
+  "en": "Are we going to live here forever?"
  },
  {
   "id": "2CC397_00AC.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "大丈夫だ、そのうちになんとかなるだろう。",
-  "en": ""
+  "en": "Don't worry, something will work out sooner or later."
  },
  {
   "id": "2CC397_00C5.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル……なにしてるんだ？",
-  "en": ""
+  "en": "Seil... what are you doing?"
  },
  {
   "id": "2CC397_00D7.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "聞いてよ、昨日の夜ロザリンドに誘われて…… / ずっと浜辺で話をしていたんだ。",
-  "en": ""
+  "en": "Listen, last night Rosalind invited me out... and we talked on the beach the whole time."
  },
  {
   "id": "2CC397_00D7.1",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うんうん。",
-  "en": ""
+  "en": "Uh-huh."
  },
  {
   "id": "2CC397_010D.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうしたらさ、いきなり腕を組んできて…… / 僕にキスをしようとするんだよ。",
-  "en": ""
+  "en": "And then, all of a sudden she hooked her arm in mine... and tried to kiss me."
  },
  {
   "id": "2CC397_010D.1",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕は逃げようとしたんだけど、 / 彼女がしっかり腕を組んでて離さないんだ。",
-  "en": ""
+  "en": "I tried to get away, but she had my arm locked tight and wouldn't let go."
  },
  {
   "id": "2CC397_010D.2",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……結局、ロザリンドとキスをしちゃった。",
-  "en": ""
+  "en": "...In the end, I ended up kissing Rosalind."
  },
  {
   "id": "2CC397_017C.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか、おめでとう。",
-  "en": ""
+  "en": "I see. Congratulations."
  },
  {
   "id": "2CC397_0189.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ちっともおめでたくないよ……",
-  "en": ""
+  "en": "It's not something to congratulate at all..."
  },
  {
   "id": "2CC397_019C.0",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕はマルレーネさんとはキスしたいけど、 / ロザリンドとはキスなんかしたくないんだ。",
-  "en": ""
+  "en": "I want to kiss Marlene, but I don't want to kiss Rosalind or anything."
  },
  {
   "id": "2CC397_01C2.0",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネともキスすればいいじゃないか。",
-  "en": ""
+  "en": "Then why not kiss Marlene too?"
  },
  {
   "id": "2CC397_01D7.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト……一度キスしたら、 / その人としかキスできないんじゃないの？",
-  "en": ""
+  "en": "Eto... once you kiss someone, doesn't that mean you can only ever kiss that person?"
  },
  {
   "id": "2CC397_01D7.1",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だれがそんなことを決めたんだ？",
-  "en": ""
+  "en": "Who decided a thing like that?"
  },
  {
   "id": "2CC397_0210.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そ、そうだったのか…… / 他の人とキスしてもいいんだ。",
-  "en": ""
+  "en": "R-really... So it's okay to kiss other people."
  },
  {
   "id": "2CC397_0231.0",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト……僕がここにいることは、 / ロザリンドには内緒だよ。",
-  "en": ""
+  "en": "Eto... don't tell Rosalind I'm here."
  },
  {
   "id": "2CC397_026B.0",
@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだカケル、まだ機嫌が悪いのか？",
-  "en": ""
+  "en": "What's this, Kakeru? Still in a bad mood?"
  },
  {
   "id": "2CC397_0282.0",
@@ -166,7 +166,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おい、話ぐらいしてもいいだろ？",
-  "en": ""
+  "en": "Hey, you could at least talk to me, couldn't you?"
  },
  {
   "id": "2CC397_029F.0",
@@ -174,7 +174,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "し――――――っ！！ / 静かにしてよ、エト。",
-  "en": ""
+  "en": "Shhhhhhhhh!! Be quiet, Eto."
  },
  {
   "id": "2CC397_029F.1",
@@ -182,7 +182,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ほら……耳をすまして。",
-  "en": ""
+  "en": "Listen... listen closely."
  },
  {
   "id": "2CC397_02CD.0",
@@ -190,7 +190,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "船だよ、エト！！ / ……こっちに向かってくる！！",
-  "en": ""
+  "en": "It's a ship, Eto!! ...It's coming this way!!"
  },
  {
   "id": "2CC397_02CD.1",
@@ -198,7 +198,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そうか……やっときたか！！",
-  "en": ""
+  "en": "R-really... At last it's come!!"
  },
  {
   "id": "2CC397_02FC.0",
@@ -206,7 +206,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルっ！！　浜辺に行こう！！",
-  "en": ""
+  "en": "Kakeru!! Let's go to the beach!!"
  },
  {
   "id": "2CC397_0312.0",
@@ -259,7 +259,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォン軍の船でなければ / なんの問題もないし、",
-  "en": ""
+  "en": "If it isn't a ship from Lushifon's army, there's no problem at all,"
  },
  {
   "id": "2CC397_037E.0",
@@ -267,7 +267,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "ルシフォン軍の船なら / 乗ってるやつをやっつけて、 / 船を奪ってしまえばいい。",
-  "en": ""
+  "en": "and if it is one of Lushifon's army's ships, we just beat up whoever's aboard and steal the ship."
  },
  {
   "id": "2CC397_037E.1",
@@ -302,7 +302,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "わっはっはっはっ！！ / やっぱり生きていやがったかっ！！ / タスタに流れ着かなきゃ、 / あとはここだと思ったんだ。",
-  "en": ""
+  "en": "Wahahahaha!! I knew you were still alive!! If you didn't wash up in Tasta, I figured this was the only other place you'd be."
  },
  {
   "id": "2CC397_0429.0",
@@ -328,7 +328,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うん、みんな元気だよ。",
-  "en": ""
+  "en": "Y-yeah, everyone's doing fine."
  },
  {
   "id": "2CC397_046D.0",
@@ -336,7 +336,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "へレネとかいう娘も、頭ツルツルのおやじも、 / ライナスとかいうガキもあの船に乗ってるぜ。",
-  "en": ""
+  "en": "That Helene girl, the old man with the shiny bald head, and that Linus brat are all on that ship too."
  },
  {
   "id": "2CC397_046D.1",
@@ -506,7 +506,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おはよう、カケル……今日もいい天気だな。",
-  "en": ""
+  "en": "Good morning, Kakeru... Another fine day today."
  },
  {
   "id": "2CC397_0683.0",
@@ -532,7 +532,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "機嫌は悪くないよ…… / 用がないならあっちに行ってよ。",
-  "en": ""
+  "en": "I'm not in a bad mood... If you don't need anything, go over there."
  },
  {
   "id": "2CC397_0691.2",
@@ -557,7 +557,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（そ、そうか……思い出したぞ）",
-  "en": ""
+  "en": "(R-right... Now I remember.)"
  },
  {
   "id": "2CC397_06F2.0",
@@ -565,7 +565,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（私がカケルだった時も…… / エトとナターシャが抱き合っているを見たんだ）",
-  "en": ""
+  "en": "(Back when I was Kakeru... I saw Eto and Natasha holding each other too.)"
  },
  {
   "id": "2CC397_0719.0",
@@ -573,7 +573,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（まあ、誤解するのも無理もないな……）",
-  "en": ""
+  "en": "(Well, no wonder he misunderstood...)"
  },
  {
   "id": "2CC397_0730.0",
@@ -608,7 +608,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "用がないならあっちに行ってよ。",
-  "en": ""
+  "en": "If you don't need anything, go over there."
  },
  {
   "id": "2CC397_0787.0",
@@ -625,7 +625,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ナターシャ……まさか、私は / いっしょのベッドで寝てしまったのか？",
-  "en": ""
+  "en": "Natasha... don't tell me I fell asleep in the same bed as you?"
  },
  {
   "id": "2CC397_0794.1",
@@ -633,7 +633,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "心配しないでエト…… / 私が目をさましたら、エトが床で寝ていたから。",
-  "en": ""
+  "en": "Don't worry, Eto... When I woke up, you were sleeping on the floor."
  },
  {
   "id": "2CC397_0794.2",
@@ -641,7 +641,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私、カケルに会ってくる。",
-  "en": ""
+  "en": "I'm going to go see Kakeru."
  },
  {
   "id": "2CC397_07F2.0",
@@ -649,7 +649,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルの顔を見て、カケルと話をして、 / カケルといっしょにご飯を食べるの。",
-  "en": ""
+  "en": "I'm going to see Kakeru's face, and talk with Kakeru, and eat breakfast with Kakeru."
  },
  {
   "id": "2CC397_0818.0",
@@ -665,7 +665,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか……カケルもきっと喜ぶだろう。",
-  "en": ""
+  "en": "I see... Kakeru will surely be glad."
  },
  {
   "id": "2CC397_0835.0",
@@ -673,7 +673,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "い、いや……ナターシャ。",
-  "en": ""
+  "en": "N-no... Natasha."
  },
  {
   "id": "2CC397_0841.0",
@@ -690,7 +690,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いや、なんでもないんだ。",
-  "en": ""
+  "en": "No, it's nothing."
  },
  {
   "id": "2CC397_085B.0",
@@ -698,7 +698,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "大丈夫、安心して…… / エトのことはだれにも言わないわ。",
-  "en": ""
+  "en": "It's okay, don't worry... I won't tell anyone about you, Eto."
  },
  {
   "id": "2CC397_087F.0",
@@ -706,7 +706,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おはようございます、エトさん。",
-  "en": ""
+  "en": "Good morning, Eto."
  },
  {
   "id": "2CC397_0894.0",
@@ -714,7 +714,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おはよう……マルレーネ。",
-  "en": ""
+  "en": "Good morning... Marlene."
  },
  {
   "id": "2CC397_08A3.0",
@@ -722,7 +722,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……今日は私に、なにも聞かないんですね。",
-  "en": ""
+  "en": "...You're not asking me anything today, are you?"
  },
  {
   "id": "2CC397_08BD.0",
@@ -730,7 +730,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こんないい天気なんだ…… / 朝から深刻な話をすることもないだろう。",
-  "en": ""
+  "en": "It's such a nice day... No need to start the morning with serious talk."
  },
  {
   "id": "2CC397_08BD.1",
@@ -738,7 +738,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "天気のせいかしら？ / ……それとも、昨日の夜のできごとのせい？",
-  "en": ""
+  "en": "Is that because of the weather? ...Or because of what happened last night?"
  },
  {
   "id": "2CC397_08BD.2",
@@ -746,7 +746,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（ぎくうっ！！）",
-  "en": ""
+  "en": "(Gulp!!)"
  },
  {
   "id": "2CC397_0917.0",
@@ -754,7 +754,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "昨日の夜…… / ナターシャさんといっしょにいませんでしたか？",
-  "en": ""
+  "en": "Last night... weren't you with Natasha?"
  },
  {
   "id": "2CC397_0917.1",
@@ -762,7 +762,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ど、どうして知ってるんだ？",
-  "en": ""
+  "en": "H-how did you know that?"
  },
  {
   "id": "2CC397_094C.0",
@@ -770,7 +770,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やはりいっしょだったのですね……。",
-  "en": ""
+  "en": "So you were with her after all..."
  },
  {
   "id": "2CC397_0962.0",
@@ -778,7 +778,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "誤解をするな……話をしてただけだ。",
-  "en": ""
+  "en": "Don't misunderstand... We were only talking."
  },
  {
   "id": "2CC397_097A.0",
@@ -786,7 +786,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "誤解もなにも、 / エトさんがなにをしようと勝手です…… / エトさんこそ誤解しないでくださいね、 / 私は全然気にしてませんから。",
-  "en": ""
+  "en": "There's nothing to misunderstand. Whatever you do, Eto, is your own business... And don't you misunderstand either, Eto. I don't mind at all."
  },
  {
   "id": "2CC397_09C2.0",
@@ -803,7 +803,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "でも私…… / なぜか今日はエトさんの顔が見たくありません。 / 他の人と話をしてください。",
-  "en": ""
+  "en": "But I... for some reason, I don't want to see your face today, Eto. Please go talk to someone else."
  },
  {
   "id": "2CC397_09FD.0",
@@ -811,7 +811,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やっぱり……気にしてるんじゃないか？",
-  "en": ""
+  "en": "So... you do mind, don't you?"
  },
  {
   "id": "2CC397_0A13.0",
@@ -819,7 +819,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ちっともさわやかな朝じゃないですね…… / 私、こんなにいやな朝を迎えたのは初めてです。",
-  "en": ""
+  "en": "This isn't a refreshing morning at all... It's the first time I've ever woken up to such an awful morning."
  },
  {
   "id": "2CC397_0A46.0",
@@ -836,7 +836,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おはよう、ネレイド。",
-  "en": ""
+  "en": "Good morning, Nereid."
  },
  {
   "id": "2CC397_0A64.0",
@@ -844,7 +844,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ずっと……こうやって / 朝のあいさつができたらいいですね。",
-  "en": ""
+  "en": "It would be nice... if we could always greet each other in the morning like this."
  },
  {
   "id": "2CC397_0A64.1",
@@ -852,7 +852,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そうだな……同感だ。",
-  "en": ""
+  "en": "Y-yes... I agree."
  },
  {
   "id": "2CC397_0A99.0",
@@ -860,7 +860,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん……私、 / 昨日の夜……エトさんの夢を見ました。",
-  "en": ""
+  "en": "Eto... last night... I dreamed about you, Eto."
  },
  {
   "id": "2CC397_0A99.1",
@@ -868,7 +868,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか……どんな夢だったんだ？",
-  "en": ""
+  "en": "I see... What kind of dream was it?"
  },
  {
   "id": "2CC397_0ACF.0",
@@ -876,7 +876,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "恥ずかしくて……言えない夢です。",
-  "en": ""
+  "en": "It's... too embarrassing to tell."
  },
  {
   "id": "2CC397_0AE7.0",
@@ -884,7 +884,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん……夢が本当になればいいのに。",
-  "en": ""
+  "en": "Eto... I wish that dream would come true."
  },
  {
   "id": "2CC397_0B01.0",
@@ -910,7 +910,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じゃぶじゃぶじゃぶ……エト殿、おはよう。",
-  "en": ""
+  "en": "Splish splash splish... Good morning, Master Eto."
  },
  {
   "id": "2CC397_0B3E.0",
@@ -918,7 +918,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カロン……どうして自分で洗濯してるんだ？",
-  "en": ""
+  "en": "Charon... why are you doing your own laundry?"
  },
  {
   "id": "2CC397_0B59.0",
@@ -926,7 +926,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うむ……まあいいではないか。",
-  "en": ""
+  "en": "W-well... never mind that, eh?"
  },
  {
   "id": "2CC397_0B6F.0",
@@ -934,7 +934,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さては……おねしょをしたな。",
-  "en": ""
+  "en": "Aha... You wet the bed."
  },
  {
   "id": "2CC397_0B83.0",
@@ -942,7 +942,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……まあ、そのようなものだ。",
-  "en": ""
+  "en": "...Well, something of that sort."
  },
  {
   "id": "2CC397_0B97.0",
@@ -950,7 +950,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト殿……みんなには内緒にしておいてくれ。",
-  "en": ""
+  "en": "Master Eto... please keep this a secret from everyone."
  },
  {
   "id": "2CC397_0BB4.0",
@@ -958,7 +958,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト殿……だれにも言わないでくれ、頼む。",
-  "en": ""
+  "en": "Master Eto... don't tell anyone, I beg you."
  },
  {
   "id": "2CC397_0BCF.0",
@@ -966,7 +966,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネプチューン……なにをしてるんだ？",
-  "en": ""
+  "en": "Neptune... what are you doing?"
  },
  {
   "id": "2CC397_0BE2.0",
@@ -974,7 +974,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "朝ご飯を採ってるのよ……",
-  "en": ""
+  "en": "I'm gathering breakfast..."
  },
  {
   "id": "2CC397_0BF7.0",
@@ -982,7 +982,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カラフルな魚を食べるより、 / 果物の方がマシだもの。",
-  "en": ""
+  "en": "Fruit is better than eating those colorful fish."
  },
  {
   "id": "2CC397_0C17.0",
@@ -990,7 +990,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト……いつになったら、 / この島から出られるのかしら？",
-  "en": ""
+  "en": "Eto... when do you think we'll get off this island?"
  },
  {
   "id": "2CC397_0C17.1",
@@ -998,7 +998,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "予定ではそろそろのはずなんだが……。",
-  "en": ""
+  "en": "According to the plan, it should be any time now..."
  },
  {
   "id": "2CC397_0C50.0",
@@ -1006,7 +1006,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "予定って？",
-  "en": ""
+  "en": "The plan?"
  },
  {
   "id": "2CC397_0C5D.0",
@@ -1014,7 +1014,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……いや……なんでもないぞ。",
-  "en": ""
+  "en": "Ah... no... it's nothing."
  },
  {
   "id": "2CC397_0C6E.0",
@@ -1031,7 +1031,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "おおおおおっ！！ / こ、こんなに長いバナナもある…… / うーん、幸せだなあ。",
-  "en": ""
+  "en": "Ooooooh!! Th-there's even a banana this long... Mmm, I'm so happy."
  },
  {
   "id": "2CC397_0CB6.0",
@@ -1048,7 +1048,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "おはよう、パンドラ…… / 魚でも釣ってるのか？",
-  "en": ""
+  "en": "Good morning, Pandora... Are you fishing?"
  },
  {
   "id": "2CC397_0CE2.1",
@@ -1056,7 +1056,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あはははは、ちがうわよ…… / ロンボニ大陸の方を見てただけ。",
-  "en": ""
+  "en": "Ahahahaha, no, silly... I was just looking toward the Romboni continent."
  },
  {
   "id": "2CC397_0CE2.2",
@@ -1064,7 +1064,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なにか……見えるのか？",
-  "en": ""
+  "en": "Can you... see anything?"
  },
  {
   "id": "2CC397_0D2C.0",
@@ -1072,7 +1072,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ううん、見えるのは海だけ…… / もちろん黒い霧も見えないわよ。",
-  "en": ""
+  "en": "Nope, all I can see is the sea... And of course I can't see the Black Mist either."
  },
  {
   "id": "2CC397_0D4F.0",
@@ -1080,7 +1080,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……私たちって、変な関係よね。",
-  "en": ""
+  "en": "Eto... we have a strange relationship, don't we?"
  },
  {
   "id": "2CC397_0D67.0",
@@ -1088,7 +1088,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……そうだな。変な関係だ。",
-  "en": ""
+  "en": "......Yes. A strange relationship."
  },
  {
   "id": "2CC397_0D7C.0",
@@ -1096,7 +1096,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん……いっしょに食事でもどうですか？",
-  "en": ""
+  "en": "Eto... would you like to have a meal with me?"
  },
  {
   "id": "2CC397_0D97.0",
@@ -1104,7 +1104,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ありがとうメイフェア…… / でも起きたばかりで食欲がないんだ。",
-  "en": ""
+  "en": "Thank you, Mayfair... but I just woke up, so I have no appetite."
  },
  {
   "id": "2CC397_0D97.1",
@@ -1112,7 +1112,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうですか……。",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "2CC397_0DC6.0",
@@ -1120,7 +1120,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今度いっしょに食事をしよう……約束するよ。",
-  "en": ""
+  "en": "Let's eat together next time... I promise."
  },
  {
   "id": "2CC397_0DE3.0",
@@ -1128,7 +1128,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はい……楽しみにしてます。",
-  "en": ""
+  "en": "Okay... I'll look forward to it."
  },
  {
   "id": "2CC397_0DF7.0",
@@ -1136,7 +1136,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんていい天気なんでしょう……。",
-  "en": ""
+  "en": "What lovely weather..."
  },
  {
   "id": "2CC397_0E0D.0",
@@ -1144,7 +1144,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、お腹がすいてるだろ？",
-  "en": ""
+  "en": "Eto, you must be hungry, right?"
  },
  {
   "id": "2CC397_0E21.0",
@@ -1152,7 +1152,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いや、起きたばかりだからな。",
-  "en": ""
+  "en": "No, I just woke up."
  },
  {
   "id": "2CC397_0E35.0",
@@ -1169,7 +1169,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ありがとうクラリス…… / 今度いっしょに食事をしよう。",
-  "en": ""
+  "en": "Thank you, Clarice... Let's eat together next time."
  },
  {
   "id": "2CC397_0E35.2",
@@ -1177,7 +1177,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今度か……いったいいつになることやら。",
-  "en": ""
+  "en": "Next time, huh... Who knows when that'll be."
  },
  {
   "id": "2CC397_0E91.0",
@@ -1185,7 +1185,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さてと……昨日釣ったヒトデでも食べるか。",
-  "en": ""
+  "en": "Well then... guess I'll eat that starfish I caught yesterday."
  },
  {
   "id": "2CC397_0EAF.0",
@@ -1193,7 +1193,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ようエト……ポカポカしてて気持ちがいいな。",
-  "en": ""
+  "en": "Hey, Eto... Nice and warm out, feels good."
  },
  {
   "id": "2CC397_0ECC.0",
@@ -1201,7 +1201,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今日もまた野生の生活が始まるのか…… / はっきり言ってうんざりだぜ。",
-  "en": ""
+  "en": "Another day of living in the wild starts again... Frankly, I'm sick of it."
  },
  {
   "id": "2CC397_0ECC.1",
@@ -1209,7 +1209,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そう言うな、サントス…… / そのうちにだれかが助けてくれるさ。",
-  "en": ""
+  "en": "Don't say that, Santos... Someone will come rescue us sooner or later."
  },
  {
   "id": "2CC397_0F17.0",
@@ -1226,7 +1226,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "１００回に１回でいいから牛が釣れないかな。",
-  "en": ""
+  "en": "I wish I'd hook a cow, even just once in 100 tries."
  },
  {
   "id": "2CC397_0F52.0",
@@ -1234,7 +1234,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト殿ではないか……今日も暑いぞい。",
-  "en": ""
+  "en": "Why, if it isn't Master Eto... It's hot again today, I tell ye."
  },
  {
   "id": "2CC397_0F6B.0",
@@ -1242,7 +1242,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "暑さだけなら我慢できるが、 / 肌がべとべとしていかんぞい。",
-  "en": ""
+  "en": "I could stand the heat alone, but this sticky skin is no good, I tell ye."
  },
  {
   "id": "2CC397_0F90.0",
@@ -1250,7 +1250,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たまには、肉が喰いたいぞい…… / この島には、どうして動物がいないんだぞい。",
-  "en": ""
+  "en": "I want to eat meat once in a while, I tell ye... Why are there no animals on this island, I tell ye?"
  },
  {
   "id": "2CC397_0FBE.0",
@@ -1267,7 +1267,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そんなことは絶対に許さない…… / ルシフォンなんかに取られてたまるか。",
-  "en": ""
+  "en": "I'll never allow such a thing... I won't let the likes of Lushifon take it."
  },
  {
   "id": "2CC397_0FBE.2",
@@ -1275,7 +1275,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "素敵です、エトさん……あなた以外に / ロンボニ王国を継ぐ方は考えられません。",
-  "en": ""
+  "en": "How wonderful, Eto... I can't imagine anyone but you inheriting the Kingdom of Romboni."
  },
  {
   "id": "2CC397_0FBE.3",
@@ -1283,7 +1283,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ビ、ビアンカ……その話はまたにしよう。",
-  "en": ""
+  "en": "B-Bianca... let's talk about that some other time."
  },
  {
   "id": "2CC397_1047.0",
@@ -1291,7 +1291,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私、絶対にエトさんをあきらめません。",
-  "en": ""
+  "en": "I will never give up on you, Eto."
  },
  {
   "id": "2CC397_105F.0",
@@ -1299,7 +1299,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私にはだれもおはようと言わないのだ。",
-  "en": ""
+  "en": "No one ever says good morning to me."
  },
  {
   "id": "2CC397_1077.0",
@@ -1307,7 +1307,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネクラマンサー、自分から言えばいいんだ。",
-  "en": ""
+  "en": "Necromancer, you should just say it first yourself."
  },
  {
   "id": "2CC397_108C.0",
@@ -1315,7 +1315,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お、お、おは……よう。",
-  "en": ""
+  "en": "G-g-good... morning."
  },
  {
   "id": "2CC397_109D.0",
@@ -1323,7 +1323,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうしてくちごもるんだ？",
-  "en": ""
+  "en": "Why are you stammering?"
  },
  {
   "id": "2CC397_10AF.0",
@@ -1331,7 +1331,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "こんなさわやかな朝におはようと言うなんて、 / 生まれて初めてのことなのだ。",
-  "en": ""
+  "en": "Saying good morning on such a refreshing morning... is the first time in my life."
  },
  {
   "id": "2CC397_10DC.0",
@@ -1339,7 +1339,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "次におはようと言うのは、１０年後だろうか。",
-  "en": ""
+  "en": "I wonder if the next time I say good morning will be 10 years from now."
  },
  {
   "id": "2CC397_10FB.0",
@@ -1347,7 +1347,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おはよう、エト……今日もいい天気ね。",
-  "en": ""
+  "en": "Good morning, Eto... Lovely weather again today."
  },
  {
   "id": "2CC397_1114.0",
@@ -1355,7 +1355,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイラ、なにをしてるんだ？",
-  "en": ""
+  "en": "Sayla, what are you doing?"
  },
  {
   "id": "2CC397_1126.0",
@@ -1363,7 +1363,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふふふっ、すらりと伸びた脚を鍛えてたのよ。 / エト、私と競走してみない？",
-  "en": ""
+  "en": "Fufufu, I was training these long, slender legs of mine. Eto, want to race me?"
  },
  {
   "id": "2CC397_1126.1",
@@ -1371,7 +1371,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いいや、遠慮しておくよ…… / 足の速さでセイラにかなうとは思えないからな。",
-  "en": ""
+  "en": "No, I'll pass... I don't think I could ever match you in speed, Sayla."
  },
  {
   "id": "2CC397_117A.0",
@@ -1379,7 +1379,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、早くルシフォン軍と闘いたいわ。",
-  "en": ""
+  "en": "Eto, I can't wait to fight Lushifon's army."
  },
  {
   "id": "2CC397_118E.0",
@@ -1387,7 +1387,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私ね、セイルとキスをしちゃった。",
-  "en": ""
+  "en": "Guess what, I kissed Seil."
  },
  {
   "id": "2CC397_11A1.0",
@@ -1395,7 +1395,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルの唇って、すっごく柔らかいの…… / エトは知ってた？",
-  "en": ""
+  "en": "Seil's lips are sooo soft... Did you know that, Eto?"
  },
  {
   "id": "2CC397_11A1.1",
@@ -1403,7 +1403,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "知ってたら大変だろ？",
-  "en": ""
+  "en": "It'd be a problem if I did, wouldn't it?"
  },
  {
   "id": "2CC397_11D4.0",
@@ -1411,7 +1411,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ……そうか。",
-  "en": ""
+  "en": "Oh... I guess so."
  },
  {
   "id": "2CC397_11E1.0",
@@ -1428,7 +1428,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ふう……また一日が始まってしまう。",
-  "en": ""
+  "en": "Phew... another day is starting."
  },
  {
   "id": "2CC397_121B.0",
@@ -1436,7 +1436,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "なあ、俺たちはいつまで / この島にいればいいんだろう？ / ……カケルの言ってたとおり、 / 泳いでドラゴニア大陸に行った方が / いいんじゃないか？",
-  "en": ""
+  "en": "Hey, how long do we have to stay on this island? ...Like Kakeru said, wouldn't it be better to just swim to the Dragonia continent?"
  },
  {
   "id": "2CC397_1262.0",
@@ -1444,7 +1444,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……早く船がとおりかかってくれないかなあ。",
-  "en": ""
+  "en": "...I wish a ship would hurry up and pass by."
  },
  {
   "id": "2CC397_127C.0",
@@ -1452,7 +1452,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "で、できたあ。",
-  "en": ""
+  "en": "I-I did it!"
  },
  {
   "id": "2CC397_1289.0",
@@ -1460,7 +1460,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ジーナ……なにができたんだ？",
-  "en": ""
+  "en": "Gina... what did you make?"
  },
  {
   "id": "2CC397_129C.0",
@@ -1468,7 +1468,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "火薬が作れたの……",
-  "en": ""
+  "en": "I made gunpowder..."
  },
  {
   "id": "2CC397_12AD.0",
@@ -1476,7 +1476,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "火をつけてないからまだわからないけど、 / きっとうまくいくわよ。",
-  "en": ""
+  "en": "I haven't lit it yet so I can't tell, but I'm sure it'll work."
  },
  {
   "id": "2CC397_12D1.0",
@@ -1484,7 +1484,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "この火薬を使えば、魚がいっぱい採れるわよ。",
-  "en": ""
+  "en": "With this gunpowder, we can catch loads of fish."
  },
  {
   "id": "2CC397_12EE.0",
@@ -1492,7 +1492,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうやって採るんだ？",
-  "en": ""
+  "en": "How will you catch them?"
  },
  {
   "id": "2CC397_12FF.0",
@@ -1500,7 +1500,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "決まってるじゃない、 / 海の中に爆弾を放り込んでやるの。",
-  "en": ""
+  "en": "Isn't it obvious? I'll toss a bomb into the sea."
  },
  {
   "id": "2CC397_12FF.1",
@@ -1508,7 +1508,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "けっこう過激なことをするんだな……。",
-  "en": ""
+  "en": "That's pretty extreme..."
  },
  {
   "id": "2CC397_133B.0",
@@ -1525,7 +1525,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、おはようにょ。",
-  "en": ""
+  "en": "Eto, good morning, nyo."
  },
  {
   "id": "2CC397_1368.0",
@@ -1533,7 +1533,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おはよう、ラビット。",
-  "en": ""
+  "en": "Good morning, Rabbit."
  },
  {
   "id": "2CC397_1376.0",
@@ -1541,7 +1541,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "今日もいい天気だにょ。 / きっと暑くなるにょ。",
-  "en": ""
+  "en": "It's nice weather again today, nyo. It's sure to get hot, nyo."
  },
  {
   "id": "2CC397_1395.0",
@@ -1549,7 +1549,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "今日は魚がいっぱい採れる予感がするにょ。",
-  "en": ""
+  "en": "I have a feeling we'll catch lots of fish today, nyo."
  },
  {
   "id": "2CC397_13B0.0",
@@ -1557,7 +1557,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト殿、おはようでござる。",
-  "en": ""
+  "en": "Good morrow to thee, Master Eto."
  },
  {
   "id": "2CC397_13C3.0",
@@ -1565,7 +1565,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パウエル、おはよう。",
-  "en": ""
+  "en": "Good morning, Powell."
  },
  {
   "id": "2CC397_13D1.0",
@@ -1573,7 +1573,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "拙者、新しい小屋を建てるでござる……",
-  "en": ""
+  "en": "I shall build a new hut, good sir..."
  },
  {
   "id": "2CC397_13ED.0",
@@ -1581,7 +1581,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みんなが寝れる場所を作った方が / いいでござるからな。",
-  "en": ""
+  "en": "For it would be best to make a place where all may sleep."
  },
  {
   "id": "2CC397_140C.0",
@@ -1589,7 +1589,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト殿、この島で暮らすのも / 長くなりそうでござるな。",
-  "en": ""
+  "en": "Master Eto, it seems our life on this island shall be a long one."
  },
  {
   "id": "2CC397_142E.0",
@@ -1597,7 +1597,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おはよう、レア。",
-  "en": ""
+  "en": "Good morning, Rhea."
  },
  {
   "id": "2CC397_143C.0",
@@ -1605,7 +1605,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おはようございます……エトさん。",
-  "en": ""
+  "en": "Good morning... Eto."
  },
  {
   "id": "2CC397_1452.0",
@@ -1613,7 +1613,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "何度も言うが…… / 私たちといっしょに闘わないか？",
-  "en": ""
+  "en": "I'll say it again... Won't you fight alongside us?"
  },
  {
   "id": "2CC397_1452.1",
@@ -1621,7 +1621,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "カケルさんにも言いましたけど、 / この島に閉じ込められているのに / いっしょに闘わないかなんてよく言えますね…… / 魚とでも闘うつもりですか？",
-  "en": ""
+  "en": "As I told Kakeru, how can you ask me to fight with you when we're trapped on this island... Are you planning to fight fish?"
  },
  {
   "id": "2CC397_14BB.0",
@@ -1629,7 +1629,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん……私にかまわないでください。",
-  "en": ""
+  "en": "Eto... please leave me alone."
  },
  {
   "id": "2CC397_14D4.0",
@@ -1637,7 +1637,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おや？　ウェンディではないか。",
-  "en": ""
+  "en": "Oh? If it isn't Wendy."
  },
  {
   "id": "2CC397_14E6.0",
@@ -1645,7 +1645,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんとかしてよ、エトっ！！",
-  "en": ""
+  "en": "Do something about it, Eto!!"
  },
  {
   "id": "2CC397_14F9.0",
@@ -1653,7 +1653,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なにを？",
-  "en": ""
+  "en": "About what?"
  },
  {
   "id": "2CC397_1503.0",
@@ -1670,7 +1670,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……マリアンのことか。",
-  "en": ""
+  "en": "Ah... you mean Marian."
  },
  {
   "id": "2CC397_1529.0",
@@ -1678,7 +1678,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "朝からずううぅっと / 追いかけ回されてんのよ、あたしはっ！ / あんたもリーダーなら、 / この状況をなんとかしなさいっ！！",
-  "en": ""
+  "en": "She's been chaaasing me around since this morning! If you're the leader, do something about this situation!!"
  },
  {
   "id": "2CC397_1572.0",
@@ -1686,7 +1686,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "別にリーダーになったおぼえはないが……。",
-  "en": ""
+  "en": "I don't recall ever becoming the leader..."
  },
  {
   "id": "2CC397_158C.0",
@@ -1730,7 +1730,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……さて、逃げきれるかな？",
-  "en": ""
+  "en": "...Now, I wonder if she'll get away?"
  },
  {
   "id": "2CC397_1627.0",
@@ -1738,7 +1738,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "も、もーだめ……。",
-  "en": ""
+  "en": "I-I can't take it anymore..."
  },
  {
   "id": "2CC397_1639.0",
@@ -1746,7 +1746,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ウェンディ、 / 「因果応報」という言葉を知っているか？",
-  "en": ""
+  "en": "Wendy, do you know the phrase \"you reap what you sow\"?"
  },
  {
   "id": "2CC397_1639.1",
@@ -1763,7 +1763,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "知らない。",
-  "en": ""
+  "en": "Nope."
  },
  {
   "id": "2CC397_1670.0",
@@ -1780,7 +1780,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん……私、母の愛を / 世界中にそそぐためにがんばりますね。",
-  "en": ""
+  "en": "Eto... I will do my best to pour a mother's love upon the whole world."
  },
  {
   "id": "2CC397_16A9.0",
@@ -1788,7 +1788,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "ウェンディさあぁぁん！ / どこにいるのですかあああっ？ / 母の愛を注いであげますから、 / 出ていらっしゃああああい！",
-  "en": ""
+  "en": "Wendyyyy! Where are youuuuu? I'll pour a mother's love on you, so come on ouuuuut!"
  },
  {
   "id": "2CC397_16E6.0",
@@ -1796,7 +1796,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "（ウェンディ、見つかったら / 大変なことになるだろうな……）",
-  "en": ""
+  "en": "(Wendy... if she finds you, you'll be in big trouble...)"
  },
  {
   "id": "2CC397_1712.0",
@@ -1804,7 +1804,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おはよう、エト君……すがすがしい朝だね。",
-  "en": ""
+  "en": "Good morning, Eto... What a refreshing morning."
  },
  {
   "id": "2CC397_172C.0",
@@ -1812,7 +1812,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こんな朝早くから小説を書いてるのか？",
-  "en": ""
+  "en": "You're writing your novel this early in the morning?"
  },
  {
   "id": "2CC397_1745.0",
@@ -1829,7 +1829,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ロイドンはすばらしい / 小説家になれるな……きっと。",
-  "en": ""
+  "en": "Roydon, you'll make a wonderful novelist... I'm sure of it."
  },
  {
   "id": "2CC397_1745.2",
@@ -1837,7 +1837,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あはははは、ありがとう…… / 誉めてくれたついでに、今日も話をしてくれよ。",
-  "en": ""
+  "en": "Ahahahaha, thank you... And since you've praised me, tell me another story today."
  },
  {
   "id": "2CC397_1745.3",
@@ -1845,7 +1845,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ロイドン、島の生活を小説に書いたって / しかたないじゃないか。",
-  "en": ""
+  "en": "Roydon, there's no point writing a novel about life on this island."
  },
  {
   "id": "2CC397_1745.4",
@@ -1853,7 +1853,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "別に冒険じゃなくてもいいんだよ…… / さあ、今度は何色のノートに書くかな。",
-  "en": ""
+  "en": "It doesn't have to be an adventure... Now, what color notebook shall I write in this time?"
  },
  {
   "id": "2CC397_1813.0",

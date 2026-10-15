@@ -1,0 +1,12 @@
+[
+ {"id": "menu_main", "kind": "linear", "off": "0xEE86", "mode": "hires", "refs": ["0xEB02", "0xECEB"],
+  "en": "Items | Status | Load | Options | Cancel"},
+ {"id": "options", "kind": "linear", "off": "0xE54B", "mode": "hires", "refs": ["0xE425"],
+  "en": "Mouse Speed | Sound"},
+ {"id": "notebooks_title", "kind": "linear", "off": "0x2A53B", "mode": "hires", "split": 1, "refs": ["0x2A330"],
+  "en": "Blue Notebook | Red Notebook | Green Notebook | Continue | New Game"},
+ {"id": "no_save", "kind": "linear", "off": "0x2A58A", "mode": "hires", "refs": ["0x2A47A"],
+  "en": "There is no save data."},
+ {"id": "blank_notebook", "kind": "linear", "off": "0x2A57E", "mode": "hires", "refs": ["0x2A485"],
+  "en": "Blank notebook."}
+]

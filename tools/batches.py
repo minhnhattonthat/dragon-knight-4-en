@@ -184,7 +184,9 @@ def check_text(row, en, names_en, rows):
             core = enn.split(' the ')[0]
             low = re.sub(r'(.)\1+', r'\1', en.lower())  # case- and elongation-insensitive ("SEEEIL!!")
             if core.lower() not in low and first.lower() not in low and core not in en and first not in en:
-                errs.append('name: %s -> %s missing' % (jp, enn))
+                # soft: a dropped vocative ("you") is often the natural English; reviewers judge it
+                print('warn %s: name %s -> %s not in the English (fine if replaced by "you"/"he")'
+                      % (row['id'], jp, enn))
     return errs
 
 

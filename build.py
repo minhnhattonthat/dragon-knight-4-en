@@ -16,6 +16,7 @@ from regions import regions, unique_blocks  # noqa: E402
 from segments import units, tokens, lines_of, choice_fields, is_choice  # noqa: E402
 import layout  # noqa: E402
 import font_en  # noqa: E402
+import ui  # noqa: E402
 
 ASAR = os.path.join(ROOT, 'tools', 'asar', 'asar.exe')
 SIZE = 0x400000
@@ -206,6 +207,9 @@ def build(mode):
         img[at:at + r['len']] = tok + b'\x11' * (r['len'] - len(tok))
         stats['english'] += 1
     # assemble the engine last (it patches code only)
+    if mode == 'build':
+        ui_errs = ui.apply(img, rom, PRE_OFF)
+        errors += ['UI ' + x for x in ui_errs]
     return bytes(img), stats, errors
 
 

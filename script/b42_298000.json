@@ -176,7 +176,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "みんな……寝てしまいましたね。",
-  "en": ""
+  "en": "Everyone's... fallen asleep."
  },
  {
   "id": "298000_02A0.0",
@@ -184,7 +184,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……そうみたいだな。",
-  "en": ""
+  "en": "Yes... so it seems."
  },
  {
   "id": "298000_02B0.0",
@@ -192,7 +192,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネの目的は…… / ルシフォンに会うことだって言ったな。",
-  "en": ""
+  "en": "Marlene... you said your goal... was to meet Lushifon."
  },
  {
   "id": "298000_02B0.1",
@@ -200,7 +200,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンに会ってどうするつもりだ？ / 私たちがやつを倒そうとするのを邪魔するのか？",
-  "en": ""
+  "en": "What do you intend to do once you meet Lushifon? Will you get in our way when we try to defeat him?"
  },
  {
   "id": "298000_02B0.2",
@@ -208,7 +208,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "と、突然変なことを言わないでくださいっ…… / どうしてそんなことを言うのですか？",
-  "en": ""
+  "en": "P-please don't say such strange things out of nowhere... Why would you say something like that?"
  },
  {
   "id": "298000_02B0.3",
@@ -216,7 +216,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さあ……どうしてだろう？",
-  "en": ""
+  "en": "Hmm... why indeed?"
  },
  {
   "id": "298000_033A.0",
@@ -224,7 +224,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "君は遠いところからきたと私に教えてくれた。 / 私も君に話さなければならないことがある。",
-  "en": ""
+  "en": "You told me that you came from a faraway place. I have something I must tell you, too."
  },
  {
   "id": "298000_033A.1",
@@ -232,7 +232,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私も遠い世界からきたのだ…… / 君からもらった黒い石でね。",
-  "en": ""
+  "en": "I too came from a faraway world... by way of the black stone you gave me."
  },
  {
   "id": "298000_033A.2",
@@ -240,7 +240,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "え！？",
-  "en": ""
+  "en": "What?!"
  },
  {
   "id": "298000_0399.0",
@@ -248,7 +248,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネ……私はカケルなんだ。",
-  "en": ""
+  "en": "Marlene... I am Kakeru."
  },
  {
   "id": "298000_03AB.0",
@@ -256,7 +256,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘ、変なことを言わないでください……。",
-  "en": ""
+  "en": "P-please don't say such strange things..."
  },
  {
   "id": "298000_03C3.0",
@@ -264,7 +264,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "黒い石がなんであるかは私も知らない…… / でも未来の君は、その使い方を知っていた。",
-  "en": ""
+  "en": "I don't know what the black stone is either... But the future you knew how to use it."
  },
  {
   "id": "298000_03C3.1",
@@ -272,7 +272,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そんな……馬鹿なことが。",
-  "en": ""
+  "en": "Th-that's... ridiculous."
  },
  {
   "id": "298000_0409.0",
@@ -280,7 +280,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "信じてくれないのかい？",
-  "en": ""
+  "en": "You don't believe me?"
  },
  {
   "id": "298000_041B.0",
@@ -288,7 +288,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ、当たり前です。",
-  "en": ""
+  "en": "O-of course not."
  },
  {
   "id": "298000_042A.0",
@@ -296,7 +296,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ならば教えてあげよう。",
-  "en": ""
+  "en": "Then let me tell you something."
  },
  {
   "id": "298000_043C.0",
@@ -304,7 +304,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネ、こうして話をしてるのは私ではなく / 本当はカケルのはずだったんだ。",
-  "en": ""
+  "en": "Marlene, the one talking with you like this shouldn't be me. It was supposed to be Kakeru."
  },
  {
   "id": "298000_0460.0",
@@ -312,7 +312,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私はカケルが寝るまでいっしょにいた。 / 過去が変えられるかどうか確認するためにね。",
-  "en": ""
+  "en": "I stayed with Kakeru until he fell asleep. To see whether the past can be changed."
  },
  {
   "id": "298000_0460.1",
@@ -320,7 +320,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "そして今こうやって話をしてるのは、 / カケルではなくて私だ…… / しかし私がカケルの時、 / こうして話をしていたのはエトではないんだ。",
-  "en": ""
+  "en": "And now the one talking with you like this is me, not Kakeru... But back when I was Kakeru, the one talking with you like this wasn't Eto."
  },
  {
   "id": "298000_04D8.0",
@@ -328,7 +328,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エトさん……なんのことを言ってるのか、 / 私にはわかりません。",
-  "en": ""
+  "en": "Eto... I don't understand what you're talking about."
  },
  {
   "id": "298000_04D8.1",
@@ -336,7 +336,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "証拠を見せてあげるよマルレーネ…… / この船は沈む。",
-  "en": ""
+  "en": "I'll show you proof, Marlene... This ship is going to sink."
  },
  {
   "id": "298000_04D8.2",
@@ -344,7 +344,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "カケルの時の私と君が、 / ここでこうやって話をしていた時…… / そう、ちょうど話し初めて / 今ぐらい時間がたった時だ。",
-  "en": ""
+  "en": "Back when I was Kakeru, you and I were talking here like this... and yes, it happened right about when as much time had passed since we started talking as has passed now."
  },
  {
   "id": "298000_0567.0",
@@ -352,7 +352,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "た、大変だあっ！！",
-  "en": ""
+  "en": "Wh-we're in trouble!!"
  },
  {
   "id": "298000_0576.0",
@@ -360,7 +360,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ほら……ね。",
-  "en": ""
+  "en": "See...?"
  },
  {
   "id": "298000_0582.0",
@@ -368,7 +368,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "！？",
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "298000_058A.0",
@@ -376,7 +376,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ドラゴンナイトの攻撃だあっ！！ / このままじゃ船を沈められちまうぞっ！！",
-  "en": ""
+  "en": "It's a Dragon Knight attack!! At this rate they'll sink the ship!!"
  },
  {
   "id": "298000_05BA.0",
@@ -384,7 +384,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ、エトっ！！",
-  "en": ""
+  "en": "E-Eto!!"
  },
  {
   "id": "298000_05C8.0",
@@ -392,7 +392,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルっ！！　海に飛び込めっ！！",
-  "en": ""
+  "en": "Kakeru!! Jump into the sea!!"
  },
  {
   "id": "298000_05DF.0",
@@ -400,7 +400,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "い、いやだあっ！！　僕は泳げないんだ！！",
-  "en": ""
+  "en": "N-no way!! I can't swim!!"
  },
  {
   "id": "298000_05FA.0",
@@ -408,7 +408,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "船からできるだけ離れるんだっ！！",
-  "en": ""
+  "en": "Get as far away from the ship as you can!!"
  },
  {
   "id": "298000_0610.0",
@@ -416,7 +416,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……そうしないと、 / 船といっしょに沈むことになるぞ！！",
-  "en": ""
+  "en": "...Otherwise, you'll go down with the ship!!"
  },
  {
   "id": "298000_0630.0",
@@ -424,7 +424,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ、エト！！　あ、危ないっ！！",
-  "en": ""
+  "en": "E-Eto!! L-look out!!"
  },
  {
   "id": "298000_064A.0",
@@ -432,7 +432,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マ、マルレーネ！？",
-  "en": ""
+  "en": "M-Marlene?!"
  },
  {
   "id": "298000_0656.0",
@@ -440,7 +440,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う……。",
-  "en": ""
+  "en": "Ugh..."
  },
  {
   "id": "298000_065F.0",
@@ -448,7 +448,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だ、大丈夫！？　マルレーネ！？",
-  "en": ""
+  "en": "A-are you okay?! Marlene?!"
  },
  {
   "id": "298000_0670.0",
@@ -456,7 +456,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘ、平気です。",
-  "en": ""
+  "en": "I-I'm fine."
  },
  {
   "id": "298000_067D.0",
@@ -464,7 +464,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕につかまってっ！！ / 早く海に飛び込まないと死んじゃうよ！！",
-  "en": ""
+  "en": "Grab onto me!! If we don't jump into the sea soon, we'll die!!"
  },
  {
   "id": "298000_067D.1",
@@ -472,7 +472,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネさんを助けるためだったら、 / 泳いでみせるよっ！！",
-  "en": ""
+  "en": "If it's to save you, Marlene, I'll swim no matter what!!"
  },
  {
   "id": "298000_06C5.0",
@@ -480,7 +480,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルじゃだめだ！！ / ……僕は泳げる、だから僕の腕につかまって！！",
-  "en": ""
+  "en": "Not you, Seil!! ...I can swim, so grab onto my arm!!"
  },
  {
   "id": "298000_06C5.1",
@@ -488,7 +488,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前はナターシャの側についていろ！！",
-  "en": ""
+  "en": "You stay by Natasha's side!!"
  },
  {
   "id": "298000_0703.0",
@@ -496,7 +496,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネ、私といっしょに / 海に飛び込むんだ！！",
-  "en": ""
+  "en": "Marlene, jump into the sea with me!!"
  },
  {
   "id": "298000_071E.0",
@@ -504,7 +504,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "は、はい……。",
-  "en": ""
+  "en": "Y-yes..."
  },
  {
   "id": "298000_072A.0",
@@ -512,6 +512,6 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "みんな！！　早く飛び込めっ！！",
-  "en": ""
+  "en": "Everyone!! Jump, quickly!!"
  }
 ]

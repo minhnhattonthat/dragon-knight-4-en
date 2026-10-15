@@ -14,7 +14,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううーん……。",
-  "en": ""
+  "en": "Nnngh..."
  },
  {
   "id": "2B6754_0054.0",
@@ -22,7 +22,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……はっ！？",
-  "en": ""
+  "en": "...Huh?!"
  },
  {
   "id": "2B6754_0060.0",
@@ -30,7 +30,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "また……孤島での生活が始まるのか。",
-  "en": ""
+  "en": "So... life on a deserted island begins again."
  },
  {
   "id": "2B6754_0082.0",
@@ -38,7 +38,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル、大丈夫だよな？",
-  "en": ""
+  "en": "Seil, you're all right, aren't you?"
  },
  {
   "id": "2B6754_0091.0",
@@ -55,7 +55,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "海水を飲んでるが、平気みたいだ。",
-  "en": ""
+  "en": "He swallowed some seawater, but he seems fine."
  },
  {
   "id": "2B6754_00B9.0",
@@ -72,7 +72,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……みんなの様子はどう？",
-  "en": ""
+  "en": "Eto... how's everyone doing?"
  },
  {
   "id": "2B6754_00F0.0",
@@ -80,7 +80,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "意識はあるが、みんな身体が動かないようだ。",
-  "en": ""
+  "en": "They're conscious, but none of them seem able to move."
  },
  {
   "id": "2B6754_010B.0",
@@ -88,7 +88,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "これから……どうするの？",
-  "en": ""
+  "en": "What... do we do now?"
  },
  {
   "id": "2B6754_011D.0",
@@ -96,7 +96,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どうするって、ここで暮らすしかないだろう。",
-  "en": ""
+  "en": "What do we do? We have no choice but to live here."
  },
  {
   "id": "2B6754_0139.0",
@@ -122,7 +122,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "せっかく助かった命を無駄にするつもりか？",
-  "en": ""
+  "en": "Do you mean to waste the lives we were lucky enough to save?"
  },
  {
   "id": "2B6754_017F.0",
@@ -166,7 +166,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "休んでもらったよ……私たちでどうするか / 決めていいことになっている。",
-  "en": ""
+  "en": "I had them rest... It's been left to us to decide what to do."
  },
  {
   "id": "2B6754_027A.1",
@@ -201,7 +201,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕はレイモンドの王様や / ロンボニの王様と約束したんだ！",
-  "en": ""
+  "en": "I made a promise to the King of Raymond and the King of Romboni!"
  },
  {
   "id": "2B6754_02E0.1",
@@ -290,7 +290,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……カケル。 / 私があげたお守りを返して。",
-  "en": ""
+  "en": "...Kakeru. Give me back the charm I gave you."
  },
  {
   "id": "2B6754_0350.7",
@@ -334,7 +334,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "お前の剣の力はみんな知っている…… / だからお前のことをみんなは頼ってるんだ。",
-  "en": ""
+  "en": "Everyone knows the power of your sword... That's why they all rely on you."
  },
  {
   "id": "2B6754_0478.2",
@@ -351,7 +351,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "みんなお前と話し、お前といっしょに / 闘ってそう思うようになったんだ。 / 俺もそのひとりだ。",
-  "en": ""
+  "en": "They came to feel that way by talking with you and fighting alongside you. I'm one of them, too."
  },
  {
   "id": "2B6754_04E1.1",
@@ -440,7 +440,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "もしここにいる仲間たちが、 / 最初から出会う運命であったのなら…… / きっと私たちはドラゴニア大陸にも、 / ルシフォンがいる場所にも行けます。",
-  "en": ""
+  "en": "If all of us friends here were fated to meet from the very beginning... then surely we can reach the Dragonia continent, and the place where Lushifon is, too."
  },
  {
   "id": "2B6754_064D.0",
@@ -448,7 +448,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だからカケルさん、今は我慢の時です……。",
-  "en": ""
+  "en": "So, Kakeru, now is the time to be patient..."
  },
  {
   "id": "2B6754_0666.0",
@@ -465,7 +465,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "じっと待っていればこのあたりの海を / 通る船がいるかもしれない",
-  "en": ""
+  "en": "If we wait patiently, a ship might pass through these waters."
  },
  {
   "id": "2B6754_069C.0",
@@ -473,7 +473,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……いや、きっといるさ。",
-  "en": ""
+  "en": "...No, I'm sure one will."
  },
  {
   "id": "2B6754_06AB.0",
@@ -517,7 +517,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ケンカはよせ……",
-  "en": ""
+  "en": "Stop fighting..."
  },
  {
   "id": "2B6754_0719.0",
@@ -525,7 +525,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "これから私たちは協力しあって、 / この島で生活するんだからな。",
-  "en": ""
+  "en": "From now on, we have to work together to live on this island."
  },
  {
   "id": "2B6754_073D.0",
@@ -578,7 +578,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "翌日から、私たちはこの島の開拓をはじめた。",
-  "en": ""
+  "en": "The next day, we began clearing the island."
  },
  {
   "id": "2B6754_081C.0",
@@ -586,7 +586,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私が全体の指揮をとって、 / その指示でみんな一生懸命働いた。",
-  "en": ""
+  "en": "I took overall command, and everyone worked hard following my instructions."
  },
  {
   "id": "2B6754_081C.1",
@@ -594,7 +594,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "船がこないかと海の方を見張りながら……。",
-  "en": ""
+  "en": "All while keeping watch on the sea for any passing ship..."
  },
  {
   "id": "2B6754_0860.0",
@@ -602,7 +602,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "小屋を建て……。",
-  "en": ""
+  "en": "We built huts..."
  },
  {
   "id": "2B6754_086F.0",
@@ -610,7 +610,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "食べ物を集め……。",
-  "en": ""
+  "en": "We gathered food..."
  },
  {
   "id": "2B6754_087E.0",
@@ -618,7 +618,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そしてあっというまに、 / 遭難から５日が過ぎようとしていた。",
-  "en": ""
+  "en": "And before we knew it, nearly 5 days had passed since we were shipwrecked."
  },
  {
   "id": "2B6754_08B3.0",
@@ -626,7 +626,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ、エト。",
-  "en": ""
+  "en": "Hey, Eto."
  },
  {
   "id": "2B6754_08BE.0",
@@ -634,7 +634,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なにがやあ、だ……お前、 / いつもと変わらないじゃないか。",
-  "en": ""
+  "en": "What do you mean, \"hey\"... You're the same as ever."
  },
  {
   "id": "2B6754_08BE.1",
@@ -642,7 +642,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "お前って……丈夫な身体をしてるなあ。",
-  "en": ""
+  "en": "You really... have a tough body, don't you."
  },
  {
   "id": "2B6754_08F6.0",
@@ -650,7 +650,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕、さっきみんなの様子を見に行ったんだ…… / ナターシャも無事だったみたいだね。",
-  "en": ""
+  "en": "I went to check on everyone a minute ago... Looks like Natasha made it too."
  },
  {
   "id": "2B6754_08F6.1",
@@ -658,7 +658,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……側についててやれよ。",
-  "en": ""
+  "en": "...Go stay by her side."
  },
  {
   "id": "2B6754_0932.0",
@@ -666,7 +666,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕が？　……エトがついてた方が、 / ナターシャだって喜ぶよ。",
-  "en": ""
+  "en": "Me? ...Natasha would be happier if you were with her, Eto."
  },
  {
   "id": "2B6754_0932.1",
@@ -674,7 +674,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いいから、側についていてやれよ。 / 私はみんなの様子を見てくるから。",
-  "en": ""
+  "en": "Just go stay by her side. I'll go check on everyone."
  },
  {
   "id": "2B6754_0932.2",
@@ -682,7 +682,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかったよ……ナターシャの側にいるよ。",
-  "en": ""
+  "en": "Okay, okay... I'll stay with Natasha."
  },
  {
   "id": "2B6754_0998.0",
@@ -690,7 +690,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、ナターシャは平気みたいだよ。",
-  "en": ""
+  "en": "Eto, Natasha seems to be okay."
  },
  {
   "id": "2B6754_09AC.0",
@@ -698,7 +698,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "気がつくまで横にいてやれよ……な？",
-  "en": ""
+  "en": "Stay beside her until she comes to... all right?"
  },
  {
   "id": "2B6754_09C4.0",
@@ -715,7 +715,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャ、だいぶ海水を飲んだみたいだね。",
-  "en": ""
+  "en": "Natasha, looks like you swallowed a lot of seawater."
  },
  {
   "id": "2B6754_09E9.0",
@@ -723,7 +723,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……。",
-  "en": ""
+  "en": "Mmm..."
  },
  {
   "id": "2B6754_09F2.0",
@@ -731,7 +731,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "苦しいのかなあ。",
-  "en": ""
+  "en": "I wonder if she's hurting."
  },
  {
   "id": "2B6754_0A00.0",
@@ -739,7 +739,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、背中をさすってあげたらどうだ？",
-  "en": ""
+  "en": "Kakeru, why don't you rub her back?"
  },
  {
   "id": "2B6754_0A19.0",
@@ -747,7 +747,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こ、こう？",
-  "en": ""
+  "en": "L-like this?"
  },
  {
   "id": "2B6754_0A24.0",
@@ -755,7 +755,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あのなカケル、そこは胸だろ？",
-  "en": ""
+  "en": "Look, Kakeru, that's her chest, isn't it?"
  },
  {
   "id": "2B6754_0A38.0",
@@ -763,7 +763,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううっ……んん。",
-  "en": ""
+  "en": "Nngh... mmm."
  },
  {
   "id": "2B6754_0A50.0",
@@ -771,7 +771,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う……ん。",
-  "en": ""
+  "en": "Mm... mm."
  },
  {
   "id": "2B6754_0A5F.0",
@@ -779,7 +779,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネ……平気か？",
-  "en": ""
+  "en": "Marlene... are you all right?"
  },
  {
   "id": "2B6754_0A6D.0",
@@ -787,7 +787,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘ、平気です……エトさんは大丈夫ですか？",
-  "en": ""
+  "en": "I-I'm fine... Are you all right, Eto?"
  },
  {
   "id": "2B6754_0A86.0",
@@ -795,7 +795,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……私は二度目だからな。",
-  "en": ""
+  "en": "Yes... this is my second time, after all."
  },
  {
   "id": "2B6754_0A99.0",
@@ -803,7 +803,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あなたの言ったとおり、船は沈みましたね…… / げほげほげほっ！！",
-  "en": ""
+  "en": "The ship sank, just as you said... *cough cough cough*!!"
  },
  {
   "id": "2B6754_0A99.1",
@@ -811,7 +811,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネ、その話はあとにしよう…… / 今はじっとしてた方がいい。",
-  "en": ""
+  "en": "Marlene, let's talk about that later... For now you'd better lie still."
  },
  {
   "id": "2B6754_0AE2.0",
@@ -828,7 +828,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネレイド……。",
-  "en": ""
+  "en": "Nereid..."
  },
  {
   "id": "2B6754_0B04.0",
@@ -836,7 +836,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……エトさぁん。",
-  "en": ""
+  "en": "Mmm... Etooo..."
  },
  {
   "id": "2B6754_0B12.0",
@@ -844,7 +844,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はい。",
-  "en": ""
+  "en": "Yes?"
  },
  {
   "id": "2B6754_0B1B.0",
@@ -852,7 +852,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うっ……ん。",
-  "en": ""
+  "en": "Ugh... mm."
  },
  {
   "id": "2B6754_0B27.0",
@@ -860,7 +860,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだ……まだ意識は戻ってないのか。",
-  "en": ""
+  "en": "What... she still hasn't come to?"
  },
  {
   "id": "2B6754_0B3D.0",
@@ -868,7 +868,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うっ……う。",
-  "en": ""
+  "en": "Ugh... ugh."
  },
  {
   "id": "2B6754_0B49.0",
@@ -876,7 +876,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カルタス……平気か？",
-  "en": ""
+  "en": "Cartas... are you all right?"
  },
  {
   "id": "2B6754_0B57.0",
@@ -884,7 +884,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だ、だめだあ……身体中が塩辛いぜ。",
-  "en": ""
+  "en": "N-no good... I'm salty all over."
  },
  {
   "id": "2B6754_0B70.0",
@@ -892,7 +892,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "それだけしゃべれれば平気だろう……うん。",
-  "en": ""
+  "en": "If you can talk that much, you're fine... yep."
  },
  {
   "id": "2B6754_0B8A.0",
@@ -900,7 +900,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……もう少し、横になってたい気分だぜ。",
-  "en": ""
+  "en": "...I feel like lying down a little longer."
  },
  {
   "id": "2B6754_0BA4.0",
@@ -908,7 +908,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、ううんっ……カ、カケル殿ぉ。",
-  "en": ""
+  "en": "Ugh, nnngh... M-Master Kakeruuu."
  },
  {
   "id": "2B6754_0BB9.0",
@@ -916,7 +916,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私はカケルではない。",
-  "en": ""
+  "en": "I am not Kakeru."
  },
  {
   "id": "2B6754_0BC8.0",
@@ -924,7 +924,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ、愛してるんだぁ……カケル殿ぉ。",
-  "en": ""
+  "en": "I-I love you... Master Kakeruuu."
  },
  {
   "id": "2B6754_0BDE.0",
@@ -950,7 +950,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネプチューン……平気か？",
-  "en": ""
+  "en": "Neptune... are you all right?"
  },
  {
   "id": "2B6754_0BFD.0",
@@ -958,7 +958,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うっ……ううんっ。",
-  "en": ""
+  "en": "Ugh... nnngh."
  },
  {
   "id": "2B6754_0C0C.0",
@@ -966,7 +966,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "大丈夫だ…… / 意識は戻ってないが、死んではいない。",
-  "en": ""
+  "en": "She's all right... She hasn't come to, but she's not dead."
  },
  {
   "id": "2B6754_0C2C.0",
@@ -974,7 +974,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううっ……く、苦しい。",
-  "en": ""
+  "en": "Ugh... I-it hurts."
  },
  {
   "id": "2B6754_0C3E.0",
@@ -982,7 +982,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私が楽にしてあげよう……ぱふぱふぱふ。",
-  "en": ""
+  "en": "Let me ease your pain... Puff puff puff."
  },
  {
   "id": "2B6754_0C58.0",
@@ -990,7 +990,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああっ……ん。",
-  "en": ""
+  "en": "Ahh... mm."
  },
  {
   "id": "2B6754_0C65.0",
@@ -998,7 +998,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "これなら、ネプチューンは平気だろう。",
-  "en": ""
+  "en": "That should do it. Neptune will be fine."
  },
  {
   "id": "2B6754_0C79.0",
@@ -1015,7 +1015,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ううーん……バ、バナナが海に流されるう。",
-  "en": ""
+  "en": "Nnngh... th-the bananas are washing out to sea..."
  },
  {
   "id": "2B6754_0C9E.0",
@@ -1023,7 +1023,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "安心しろ、ゴロンゴン……",
-  "en": ""
+  "en": "Relax, Gorongon..."
  },
  {
   "id": "2B6754_0CAE.0",
@@ -1031,7 +1031,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "この島には優良なバナナが / たっくさん生えてるぞ。",
-  "en": ""
+  "en": "This island has loads and loads of top-quality bananas growing on it."
  },
  {
   "id": "2B6754_0CCB.0",
@@ -1039,7 +1039,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "バ、バナナがあ……。",
-  "en": ""
+  "en": "B-bananas..."
  },
  {
   "id": "2B6754_0CD9.0",
@@ -1047,7 +1047,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "意識が戻ってから教えてあげるか……。",
-  "en": ""
+  "en": "I'll tell him once he comes to, I guess..."
  },
  {
   "id": "2B6754_0CF2.0",
@@ -1055,7 +1055,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うううっ……バ、バナナあ。",
-  "en": ""
+  "en": "Nnngh... b-bananas."
  },
  {
   "id": "2B6754_0D04.0",
@@ -1063,7 +1063,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "んんんっ……。",
-  "en": ""
+  "en": "Mmmnn..."
  },
  {
   "id": "2B6754_0D10.0",
@@ -1071,7 +1071,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パンドラも無事のようだな。",
-  "en": ""
+  "en": "Pandora seems to be safe too."
  },
  {
   "id": "2B6754_0D21.0",
@@ -1079,7 +1079,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "その声はエト……ぶ、無事だったのね。",
-  "en": ""
+  "en": "That voice... Eto... y-you're safe."
  },
  {
   "id": "2B6754_0D3A.0",
@@ -1087,7 +1087,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "平気か、パンドラ。",
-  "en": ""
+  "en": "Are you all right, Pandora?"
  },
  {
   "id": "2B6754_0D47.0",
@@ -1095,7 +1095,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "平気だけど……胸が苦しいの。",
-  "en": ""
+  "en": "I'm fine, but... my chest feels tight."
  },
  {
   "id": "2B6754_0D5D.0",
@@ -1103,7 +1103,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうか、私がなんとかしてあげよう…… / ぱふぱふぱふぱふ。",
-  "en": ""
+  "en": "I see. Let me take care of that for you... Puff puff puff puff."
  },
  {
   "id": "2B6754_0D5D.1",
@@ -1111,7 +1111,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あ、ああんっ……こんな時にふざけないでっ！！",
-  "en": ""
+  "en": "Ah, ahhn... Don't fool around at a time like this!!"
  },
  {
   "id": "2B6754_0D98.0",
@@ -1119,7 +1119,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……しばらくこのままでいたいの。",
-  "en": ""
+  "en": "Eto... I want to stay like this for a while."
  },
  {
   "id": "2B6754_0DB0.0",
@@ -1127,7 +1127,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "メイフェア……大丈夫か？",
-  "en": ""
+  "en": "Mayfair... are you all right?"
  },
  {
   "id": "2B6754_0DBE.0",
@@ -1135,7 +1135,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ、エト……げほげほっ。",
-  "en": ""
+  "en": "E-Eto... *cough cough*."
  },
  {
   "id": "2B6754_0DD1.0",
@@ -1143,7 +1143,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "メイフェア、背中をさすってあげよう。",
-  "en": ""
+  "en": "Mayfair, let me rub your back for you."
  },
  {
   "id": "2B6754_0DE7.0",
@@ -1151,7 +1151,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わ、私は平気ですから……。",
-  "en": ""
+  "en": "I-I'm fine, really..."
  },
  {
   "id": "2B6754_0DF9.0",
@@ -1159,7 +1159,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか……残念だな。",
-  "en": ""
+  "en": "I see... What a pity."
  },
  {
   "id": "2B6754_0E07.0",
@@ -1167,7 +1167,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん……まだ起き上がれません。",
-  "en": ""
+  "en": "Eto... I still can't get up."
  },
  {
   "id": "2B6754_0E1E.0",
@@ -1175,7 +1175,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "クラリス……無事か？",
-  "en": ""
+  "en": "Clarice... are you safe?"
  },
  {
   "id": "2B6754_0E2C.0",
@@ -1183,7 +1183,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……げほげほっ。",
-  "en": ""
+  "en": "Eto... *cough cough*."
  },
  {
   "id": "2B6754_0E3C.0",
@@ -1191,7 +1191,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "クラリス、私が背中をさすってあげよう。",
-  "en": ""
+  "en": "Clarice, let me rub your back for you."
  },
  {
   "id": "2B6754_0E54.0",
@@ -1199,7 +1199,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ヘ、平気だよ……それより、他のみんなは？",
-  "en": ""
+  "en": "I-I'm fine... More importantly, what about everyone else?"
  },
  {
   "id": "2B6754_0E6E.0",
@@ -1207,7 +1207,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "大丈夫だ、みんな海水を飲んでいるが / 命に別状はない。",
-  "en": ""
+  "en": "They're all right. Everyone swallowed some seawater, but their lives aren't in danger."
  },
  {
   "id": "2B6754_0E92.0",
@@ -1215,7 +1215,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "か、身体が動かないぜ……。",
-  "en": ""
+  "en": "I-I can't move my body..."
  },
  {
   "id": "2B6754_0EA4.0",
@@ -1223,7 +1223,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "サントス……大丈夫か？",
-  "en": ""
+  "en": "Santos... are you all right?"
  },
  {
   "id": "2B6754_0EB2.0",
@@ -1231,7 +1231,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ、エト……俺はどうしちまったんだ！？",
-  "en": ""
+  "en": "E-Eto... What the heck happened to me?!"
  },
  {
   "id": "2B6754_0ECC.0",
@@ -1239,7 +1239,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "船が沈没したんだよ……。",
-  "en": ""
+  "en": "The ship sank..."
  },
  {
   "id": "2B6754_0EDF.0",
@@ -1265,7 +1265,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "うん……そうみたいだ。 / みんなもここにいる。 / ……まだ身体が動かないみたいだけどな。",
-  "en": ""
+  "en": "Yeah... looks like it. Everyone else is here too. ...Though it seems they still can't move."
  },
  {
   "id": "2B6754_0F56.0",
@@ -1300,7 +1300,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ガリバン……無事だったんだな。",
-  "en": ""
+  "en": "Galivan... so you made it."
  },
  {
   "id": "2B6754_0FAE.0",
@@ -1308,7 +1308,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ、エト殿……ここはどこだぞい！？",
-  "en": ""
+  "en": "M-Master Eto... Where are we, I tell ye?!"
  },
  {
   "id": "2B6754_0FC6.0",
@@ -1325,7 +1325,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "そうだ、思い出したぞい…… / ドラゴンナイトが急襲してきたのだぞい。",
-  "en": ""
+  "en": "That's right, now I remember, I tell ye... The Dragon Knight launched a surprise attack!"
  },
  {
   "id": "2B6754_0FD9.1",
@@ -1333,7 +1333,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そう、それでこの島に流れ着いたみたいだ。",
-  "en": ""
+  "en": "Yes, and it seems we washed up on this island."
  },
  {
   "id": "2B6754_101B.0",
@@ -1341,7 +1341,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……俺たちは幸運だぞい。",
-  "en": ""
+  "en": "...We're a lucky bunch, I tell ye."
  },
  {
   "id": "2B6754_102F.0",
@@ -1358,7 +1358,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……エト……責任とってね。",
-  "en": ""
+  "en": "Mmm... Eto... you have to take responsibility."
  },
  {
   "id": "2B6754_105F.0",
@@ -1366,7 +1366,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ビアンカ……大丈夫か？",
-  "en": ""
+  "en": "Bianca... are you all right?"
  },
  {
   "id": "2B6754_106D.0",
@@ -1374,7 +1374,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エ、エトさん！？ / わ、私……どうしてしまったのかしら？",
-  "en": ""
+  "en": "E-Eto?! W-what... what happened to me?"
  },
  {
   "id": "2B6754_106D.1",
@@ -1382,7 +1382,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "船が沈没してこの島に流れ着いたんだ…… / みんなも無事だぞ。",
-  "en": ""
+  "en": "The ship sank and we washed up on this island... Everyone is safe."
  },
  {
   "id": "2B6754_106D.2",
@@ -1390,7 +1390,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトさん、責任とってくださいね。",
-  "en": ""
+  "en": "Eto, you will take responsibility, won't you?"
  },
  {
   "id": "2B6754_10CC.0",
@@ -1398,7 +1398,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ビアンカ、意識を失ってる時と / 同じことを言わないでくれるか？",
-  "en": ""
+  "en": "Bianca, would you mind not saying the same thing you said while you were unconscious?"
  },
  {
   "id": "2B6754_10F1.0",
@@ -1406,7 +1406,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ごほごほっ……まだ起き上がれませんわ。",
-  "en": ""
+  "en": "*Cough cough*... I still can't get up."
  },
  {
   "id": "2B6754_110A.0",
@@ -1414,7 +1414,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネクラマンサー……平気か？",
-  "en": ""
+  "en": "Necromancer... are you all right?"
  },
  {
   "id": "2B6754_1118.0",
@@ -1422,7 +1422,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "どーせ俺なんか…… / ずっと気を失ってればいいんだ。",
-  "en": ""
+  "en": "What's the point of me anyway... I should just stay unconscious forever."
  },
  {
   "id": "2B6754_1118.1",
@@ -1430,7 +1430,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "本気でそう思ってるなら、 / 私の剣で頭を叩いてあげよう。 / 一生気を失い続けるぐらい強烈にな。",
-  "en": ""
+  "en": "If you really think so, I'll give you a whack on the head with my sword. Hard enough that you stay unconscious for the rest of your life."
  },
  {
   "id": "2B6754_1172.0",
@@ -1438,7 +1438,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、私は平気だ……あっちに行ってくれ。",
-  "en": ""
+  "en": "Eto, I'm fine... Go away."
  },
  {
   "id": "2B6754_118C.0",
@@ -1455,7 +1455,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイラ……平気か？",
-  "en": ""
+  "en": "Sayla... are you all right?"
  },
  {
   "id": "2B6754_11A6.0",
@@ -1463,7 +1463,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ、エト……ここはいったい！？",
-  "en": ""
+  "en": "E-Eto... Where on earth is this?!"
  },
  {
   "id": "2B6754_11BC.0",
@@ -1471,7 +1471,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここは名前も知らない孤島だ…… / 船が沈んで、我々はこの島に流されたんだ。",
-  "en": ""
+  "en": "This is a lonely island whose name I don't even know... The ship sank, and we were washed up here."
  },
  {
   "id": "2B6754_11BC.1",
@@ -1479,7 +1479,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……なんてことなの。",
-  "en": ""
+  "en": "Oh... how terrible."
  },
  {
   "id": "2B6754_11F7.0",
@@ -1487,7 +1487,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロイドンはどうなっちゃったのかしら？",
-  "en": ""
+  "en": "What's happened to Roydon?"
  },
  {
   "id": "2B6754_1210.0",
@@ -1495,7 +1495,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まだ見つけてないが……たぶん無事だろう。",
-  "en": ""
+  "en": "I haven't found him yet... but he's probably fine."
  },
  {
   "id": "2B6754_1230.0",
@@ -1503,7 +1503,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト……お願い、 / ロイドンが無事かどうか確認してきて。",
-  "en": ""
+  "en": "Eto... please, go and make sure Roydon is safe."
  },
  {
   "id": "2B6754_1254.0",
@@ -1511,7 +1511,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ、エト……ロイドンは？",
-  "en": ""
+  "en": "E-Eto... What about Roydon?"
  },
  {
   "id": "2B6754_1265.0",
@@ -1519,7 +1519,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "安心しろ、ロイドンは無事だ。",
-  "en": ""
+  "en": "Don't worry, Roydon is safe."
  },
  {
   "id": "2B6754_1265.1",
@@ -1527,7 +1527,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よかった……。",
-  "en": ""
+  "en": "Thank goodness..."
  },
  {
   "id": "2B6754_1285.0",
@@ -1535,7 +1535,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ロイドンは無事だった…… / まだ起き上がれないみたいだけどな。",
-  "en": ""
+  "en": "Roydon was safe... Though it seems he still can't get up."
  },
  {
   "id": "2B6754_1285.1",
@@ -1552,7 +1552,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "すらりと伸びた脚が、 / いうことをきいてくれないの。",
-  "en": ""
+  "en": "My long, slender legs just won't do what I tell them."
  },
  {
   "id": "2B6754_12CD.0",
@@ -1560,7 +1560,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロザリンド……大丈夫かい？",
-  "en": ""
+  "en": "Rosalind... are you all right?"
  },
  {
   "id": "2B6754_12DC.0",
@@ -1568,7 +1568,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エ、エトさん……セイルは！？",
-  "en": ""
+  "en": "E-Eto... What about Seil?!"
  },
  {
   "id": "2B6754_12F6.0",
@@ -1576,7 +1576,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "セイルは無事だ…… / ちょっと海水を飲んだみたいだけどな。",
-  "en": ""
+  "en": "Seil is safe... Though it looks like he swallowed a bit of seawater."
  },
  {
   "id": "2B6754_12F6.1",
@@ -1593,7 +1593,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まだ見つけてないけど……きっと無事だろう。",
-  "en": ""
+  "en": "I haven't found them yet... but I'm sure they're fine."
  },
  {
   "id": "2B6754_1342.0",
@@ -1601,7 +1601,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……身体が動かないの。",
-  "en": ""
+  "en": "Eto... I can't move my body."
  },
  {
   "id": "2B6754_1355.0",
@@ -1609,7 +1609,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "大丈夫か、ピエール。",
-  "en": ""
+  "en": "Are you all right, Pierre?"
  },
  {
   "id": "2B6754_1362.0",
@@ -1617,7 +1617,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ケガはしてないが、身体が鉛のように重いぞ。",
-  "en": ""
+  "en": "I'm not hurt, but my body feels as heavy as lead."
  },
  {
   "id": "2B6754_1380.0",
@@ -1625,7 +1625,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "じっとしてた方がいい……。",
-  "en": ""
+  "en": "You'd better keep still..."
  },
  {
   "id": "2B6754_1392.0",
@@ -1642,7 +1642,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ジーナ、気がついたみたいだな。",
-  "en": ""
+  "en": "Gina, looks like you've come to."
  },
  {
   "id": "2B6754_13B0.0",
@@ -1650,7 +1650,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……私、起きられない。",
-  "en": ""
+  "en": "Eto... I can't get up."
  },
  {
   "id": "2B6754_13C3.0",
@@ -1658,7 +1658,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "横になっていた方がいい……。",
-  "en": ""
+  "en": "You'd better stay lying down..."
  },
  {
   "id": "2B6754_13D7.0",
@@ -1675,7 +1675,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ラビット……平気か？",
-  "en": ""
+  "en": "Rabbit... are you all right?"
  },
  {
   "id": "2B6754_1401.0",
@@ -1692,7 +1692,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "気がついたみたいだな……ケガはないか？",
-  "en": ""
+  "en": "Looks like you've come to... Are you hurt?"
  },
  {
   "id": "2B6754_142A.0",
@@ -1727,7 +1727,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パウエル、大丈夫か？",
-  "en": ""
+  "en": "Powell, are you all right?"
  },
  {
   "id": "2B6754_1488.0",
@@ -1753,7 +1753,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "レア……。",
-  "en": ""
+  "en": "Rhea..."
  },
  {
   "id": "2B6754_14CD.0",
@@ -1761,7 +1761,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……へレネ……へレネはどこですか？",
-  "en": ""
+  "en": "Mmm... Helene... Where is Helene?"
  },
  {
   "id": "2B6754_14E2.0",
@@ -1769,7 +1769,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "安心しろ、へレネはザム船長の乗った船に / 助けられてるはずだ……。",
-  "en": ""
+  "en": "Don't worry, Helene should have been rescued by the ship Captain Zam was on..."
  },
  {
   "id": "2B6754_150A.0",
@@ -1777,7 +1777,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まだ意識は戻ってないようだ……。",
-  "en": ""
+  "en": "She still hasn't regained consciousness..."
  },
  {
   "id": "2B6754_151F.0",
@@ -1785,7 +1785,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ウェンディ、無事だったか。",
-  "en": ""
+  "en": "Wendy, so you made it."
  },
  {
   "id": "2B6754_152F.0",
@@ -1820,7 +1820,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やあ、マリアン……元気そうだな。",
-  "en": ""
+  "en": "Hey, Marian... You look well."
  },
  {
   "id": "2B6754_1581.0",
@@ -1837,7 +1837,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なんでしょう……この感じは…… / なにか以前、こんなことが……？",
-  "en": ""
+  "en": "What is it... this feeling... Something like this, once before...?"
  },
  {
   "id": "2B6754_15DA.0",
@@ -1845,7 +1845,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロイドン、しっかりしろ……。",
-  "en": ""
+  "en": "Roydon, pull yourself together..."
  },
  {
   "id": "2B6754_15EB.0",
@@ -1871,7 +1871,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん、すさまじい小説家根性だ。",
-  "en": ""
+  "en": "Hmm, now that's some fierce novelist spirit."
  },
  {
   "id": "2B6754_163B.0",
