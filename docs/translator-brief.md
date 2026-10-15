@@ -61,7 +61,7 @@ Run `python -X utf8 tools/batches.py check <batch>` and fix every reported id un
   Spell ハリタ・ハリティ・ブラスティ = "Harita Haritee Blastee". 乙乙乙 = snoring "Zzz...".
   If the checker wants a name you dropped, rephrase with the Write tool (never sed).
 - 闇の世界 = the World of Darkness, 闇の扉 = the Door of Darkness. Speech tics: Galivan だぞい -> "I tell ye";
-  Linus baby talk -> w-for-r lisp. Puzzle passwords in kana (ちぬたたぬち) are romanized letter for letter.
+  Linus baby talk -> w-for-r lisp, ONLY in lines where the Japanese uses his fake baby talk (でちゅ etc.). Puzzle passwords in kana (ちぬたたぬち) are romanized letter for letter.
 - Six dots "......" only for a silent beat on its own; trailing dots in speech are "...".
 - 『』 -> single quotes.
 - Deliberate name mix-ups in the Japanese (e.g. Kakeru calling Torhes "Hortes") stay mix-ups.

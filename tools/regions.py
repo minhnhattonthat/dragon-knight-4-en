@@ -5,7 +5,28 @@ Each region gets a stable id '<blockoff>_<off>' (block = ROM offset of its len w
 Shared blocks (table entries pointing at the same ROM block) are listed once.
 """
 from dk4 import load_rom, load_glyphs, blocks, dict_entries
-from vm import parse_block
+from vm import parse_block, parse
+
+# VM text streams outside the block table: (pseudo block index, rom start, rom end, cpu bank).
+# The VM runs them in place (base = ROM address), so jump targets are CPU addresses in that bank.
+# 60 = ending epilogue (module $A2=$15, 81:D5AB -> 86:8000; entry table 86:821B, 4 bytes: cond, portrait, ptr16)
+EXTRA_STREAMS = [(60, 0x3028C, 0x320C7, 0x86)]
+
+
+def stream_ops(rom, glyphs, blk):
+    """(start, end, ops) with offsets relative to the body start (blk[2] + 2) and targets as body offsets."""
+    if blk[0] < 60:
+        return parse_block(rom, glyphs, blk)
+    idx, bank, start, end = blk[0], blk[1], blk[2] + 2, blk[2] + 2 + blk[3]
+    ops = parse(rom, glyphs, start, end)
+    out = []
+    for o in ops:
+        o = dict(o)
+        o['off'] -= start
+        if 'targets' in o:
+            o['targets'] = [(((bank & 0x7F) << 15) | (t & 0x7FFF)) - start for t in o['targets']]
+        out.append(o)
+    return 0, end - start, out
 
 
 def unique_blocks(rom):
@@ -15,6 +36,8 @@ def unique_blocks(rom):
             continue
         seen.add(b[2])
         out.append(b)
+    for idx, start, end, bank in EXTRA_STREAMS:   # pseudo block: (idx, bank, 'len word' offset, length)
+        out.append((idx, bank, start - 2, end - start))
     return out
 
 
@@ -27,7 +50,7 @@ def regions(rom=None, glyphs=None):
     rom = rom or load_rom()
     glyphs = glyphs or load_glyphs()
     for blk in unique_blocks(rom):
-        start, end, ops = parse_block(rom, glyphs, blk)
+        start, end, ops = stream_ops(rom, glyphs, blk)
         targets = set()
         for o in ops:
             targets.update(o.get('targets', []))

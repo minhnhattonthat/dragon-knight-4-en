@@ -5,7 +5,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "よーし、ここがマルクスの村だぞ！！",
-  "en": ""
+  "en": "All right, this is Marcus!!"
  },
  {
   "id": "2D60AE_0088.0",
@@ -13,7 +13,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルさん、見てください…… / ディノの港街よりもひどい荒れようです。",
-  "en": ""
+  "en": "Kakeru, look... It's even more ravaged than the port town of Dino."
  },
  {
   "id": "2D60AE_0088.1",
@@ -21,7 +21,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "たぶん……ルシフォン軍のしわざだろう。",
-  "en": ""
+  "en": "Probably... the work of Lushifon's army."
  },
  {
   "id": "2D60AE_00C1.0",
@@ -29,7 +29,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト、この村でも休息をとるの？",
-  "en": ""
+  "en": "Eto, are we resting in this village too?"
  },
  {
   "id": "2D60AE_00D6.0",
@@ -37,7 +37,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もちろんそうだ……",
-  "en": ""
+  "en": "Of course..."
  },
  {
   "id": "2D60AE_00E5.0",
@@ -45,7 +45,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "たとえ切株しかないような村でも、 / 休まないよりはましだろう。",
-  "en": ""
+  "en": "Even a village with nothing but tree stumps is better than no rest at all."
  },
  {
   "id": "2D60AE_010D.0",
@@ -53,7 +53,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……マルレーネさんの様子が変だよ。",
-  "en": ""
+  "en": "Kakeru... Marlene's been acting strange."
  },
  {
   "id": "2D60AE_0123.0",
@@ -61,7 +61,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "最近元気がないんだ……どうしたんだろう。",
-  "en": ""
+  "en": "She's been down lately... I wonder what's wrong."
  },
  {
   "id": "2D60AE_013D.0",
@@ -69,7 +69,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、マルレーネさんと話をしてきたら？",
-  "en": ""
+  "en": "Kakeru, why don't you go talk to Marlene?"
  },
  {
   "id": "2D60AE_0153.0",
@@ -77,7 +77,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "本当はセイルが行きたいんでしょ？",
-  "en": ""
+  "en": "You're the one who really wants to go, aren't you, Seil?"
  },
  {
   "id": "2D60AE_0166.0",
@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だめだよ、僕なんかじゃ……役不足だもの。",
-  "en": ""
+  "en": "No way, not someone like me... I'm not up to it."
  },
  {
   "id": "2D60AE_0181.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネさんが落ち込んでるとさ…… / 僕まで暗くなってきちゃうよ。",
-  "en": ""
+  "en": "When Marlene's feeling down... it makes me gloomy too."
  },
  {
   "id": "2D60AE_01A8.0",
@@ -119,7 +119,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイル……マルレーネがどうかしたの？",
-  "en": ""
+  "en": "Seil... is something wrong with Marlene?"
  },
  {
   "id": "2D60AE_01EC.0",
@@ -127,7 +127,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、ううん……なんでもないよ、ロザリンド。",
-  "en": ""
+  "en": "N-no... it's nothing, Rosalind."
  },
  {
   "id": "2D60AE_020A.0",
@@ -153,7 +153,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エト……。",
-  "en": ""
+  "en": "Eto..."
  },
  {
   "id": "2D60AE_0226.0",
@@ -161,7 +161,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（……キス……してる）",
-  "en": ""
+  "en": "(...They're... kissing.)"
  },
  {
   "id": "2D60AE_0236.0",
@@ -169,7 +169,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私は君をずっと愛していた…… / この言葉を忘れないで欲しい。",
-  "en": ""
+  "en": "I have always loved you... I want you never to forget these words."
  },
  {
   "id": "2D60AE_0236.1",
@@ -177,7 +177,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "でも……。",
-  "en": ""
+  "en": "But..."
  },
  {
   "id": "2D60AE_0265.0",
@@ -185,7 +185,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンを倒したら…… / カケルにもちゃんと話をするつもりだ。",
-  "en": ""
+  "en": "Once Lushifon is defeated... I intend to tell Kakeru properly as well."
  },
  {
   "id": "2D60AE_0265.1",
@@ -193,7 +193,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルに誤解されるのは……いや。",
-  "en": ""
+  "en": "I don't want Kakeru... to get the wrong idea."
  },
  {
   "id": "2D60AE_029A.0",
@@ -201,7 +201,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "わかっている。 / すべての責任は私にあるのだ。",
-  "en": ""
+  "en": "I know. All the responsibility lies with me."
  },
  {
   "id": "2D60AE_029A.1",
@@ -209,7 +209,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "さあ……みんながいるところに戻ろう。",
-  "en": ""
+  "en": "Now... let us return to the others."
  },
  {
   "id": "2D60AE_02D0.0",
@@ -217,7 +217,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "いや……。",
-  "en": ""
+  "en": "No..."
  },
  {
   "id": "2D60AE_02DA.0",
@@ -225,7 +225,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかった……もう少しここにいよう。",
-  "en": ""
+  "en": "Very well... I will stay here a little longer."
  },
  {
   "id": "2D60AE_02FB.0",
@@ -233,7 +233,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（まだ……やってる）",
-  "en": ""
+  "en": "(They're... still at it.)"
  },
  {
   "id": "2D60AE_030A.0",
@@ -241,7 +241,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もう少しだけ……こうしていたい。",
-  "en": ""
+  "en": "I want to stay like this... just a little longer."
  },
  {
   "id": "2D60AE_0320.0",
@@ -249,7 +249,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "安心して……きっとうまくいくわ。",
-  "en": ""
+  "en": "Don't worry... I'm sure it'll all work out."
  },
  {
   "id": "2D60AE_0337.0",
@@ -257,7 +257,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ああ……君たちの幸せを願っている。",
-  "en": ""
+  "en": "Yes... I wish happiness for all of you."
  },
  {
   "id": "2D60AE_034D.0",
@@ -265,7 +265,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "やだ……変な言い方。",
-  "en": ""
+  "en": "Geez... what a strange way to put it."
  },
  {
   "id": "2D60AE_035D.0",
@@ -273,7 +273,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "はははは……たしかに変だな。",
-  "en": ""
+  "en": "Hahahaha... it is strange, isn't it."
  },
  {
   "id": "2D60AE_0374.0",
@@ -308,7 +308,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトっ！！",
-  "en": ""
+  "en": "Eto!!"
  },
  {
   "id": "2D60AE_03A9.0",
@@ -316,7 +316,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "どわわわわわっ！！",
-  "en": ""
+  "en": "Gwaaaaah!!"
  },
  {
   "id": "2D60AE_03B8.0",
@@ -324,7 +324,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "こんなところで……なにやってるの？",
-  "en": ""
+  "en": "What are you... doing in a place like this?"
  },
  {
   "id": "2D60AE_03CF.0",
@@ -332,7 +332,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……。",
-  "en": ""
+  "en": "Kakeru..."
  },
  {
   "id": "2D60AE_03D9.0",
@@ -340,7 +340,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "エト、ここはライムリン大陸なんだよ…… / ルシフォンがいる大陸なんだからね。",
-  "en": ""
+  "en": "Eto, this is the Limerin Continent... It's the continent where Lushifon is, y'know."
  },
  {
   "id": "2D60AE_03D9.1",
@@ -348,7 +348,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕が言いたかったのは、それだけだよ…… / じゃあね、エト。",
-  "en": ""
+  "en": "That's all I wanted to say... See ya, Eto."
  },
  {
   "id": "2D60AE_0422.0",
@@ -356,7 +356,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "（ふーんだ……だれが話しかけてやるもんか）",
-  "en": ""
+  "en": "(Hmph... like I'm gonna talk to him.)"
  },
  {
   "id": "2D60AE_043B.0",
@@ -364,7 +364,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カ、カケル……いい天気だな。",
-  "en": ""
+  "en": "K-Kakeru... fine weather today, isn't it."
  },
  {
   "id": "2D60AE_0459.0",
@@ -444,7 +444,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "わかっている。すべての責任は私にあるのだ。",
-  "en": ""
+  "en": "I know. All of the blame lies with me."
  },
  {
   "id": "2D60AE_0506.0",
@@ -560,7 +560,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ナターシャ！！",
-  "en": ""
+  "en": "Natasha!!"
  },
  {
   "id": "2D60AE_05F6.0",
@@ -568,7 +568,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃあああっ！！",
-  "en": ""
+  "en": "Kyaaaah!!"
  },
  {
   "id": "2D60AE_0604.0",
@@ -594,7 +594,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なにもしてないわよ、エトと話をしてただけ。",
-  "en": ""
+  "en": "I wasn't doing anything, I was just talking with Eto."
  },
  {
   "id": "2D60AE_0643.0",
@@ -602,7 +602,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ここはライムリン大陸なんだよ…… / ルシフォンがいる大陸なんだからね。",
-  "en": ""
+  "en": "This is the Limerin Continent... It's the continent where Lushifon is, y'know."
  },
  {
   "id": "2D60AE_0643.1",
@@ -610,7 +610,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "僕が言いたかったのは、それだけだよ…… / じゃあね、ナターシャ。",
-  "en": ""
+  "en": "That's all I wanted to say... See ya, Natasha."
  },
  {
   "id": "2D60AE_0689.0",
@@ -627,7 +627,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……誤解しないでね。",
-  "en": ""
+  "en": "Kakeru... please don't get the wrong idea."
  },
  {
   "id": "2D60AE_06B5.0",
@@ -635,7 +635,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネ……ひとりで外に出たらだめだよ。",
-  "en": ""
+  "en": "Marlene... you mustn't go outside by yourself."
  },
  {
   "id": "2D60AE_06CA.0",
@@ -643,7 +643,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……ああ、カケルさん。 / 私のことを……心配してくれるんですか？",
-  "en": ""
+  "en": "...Oh, Kakeru. You're... worried about me?"
  },
  {
   "id": "2D60AE_06CA.1",
@@ -651,7 +651,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もちろん、マルレーネは大事な仲間だもの。",
-  "en": ""
+  "en": "Of course, Marlene, you're one of our precious friends."
  },
  {
   "id": "2D60AE_0704.0",
@@ -659,7 +659,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私にとっても、カケルさんは大事な人です。",
-  "en": ""
+  "en": "You're a precious person to me too, Kakeru."
  },
  {
   "id": "2D60AE_071D.0",
@@ -667,7 +667,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "大丈夫ですよ…… / ひとりで外に出たりしませんから。",
-  "en": ""
+  "en": "It's all right... I won't go outside by myself."
  },
  {
   "id": "2D60AE_071D.1",
@@ -675,7 +675,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みんな心配してるんだよ…… / 最近のマルレーネは元気がないって。",
-  "en": ""
+  "en": "Everyone's worried... they say you haven't been yourself lately, Marlene."
  },
  {
   "id": "2D60AE_071D.2",
@@ -692,7 +692,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "みんなに言っておいてください…… / 心配しなくても平気ですって。",
-  "en": ""
+  "en": "Please tell everyone... that I'm fine and they don't need to worry."
  },
  {
   "id": "2D60AE_078E.0",
@@ -700,7 +700,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……むにゃむにゃ。",
-  "en": ""
+  "en": "Mmm... mumble mumble."
  },
  {
   "id": "2D60AE_0799.0",
@@ -708,7 +708,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネレイドは……寝てるな。",
-  "en": ""
+  "en": "Nereid's... asleep."
  },
  {
   "id": "2D60AE_07A9.0",
@@ -716,7 +716,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うーん……エトぉ…… / どうして私を見てくれないのぉ？",
-  "en": ""
+  "en": "Mmm... Etooo... Why won't you look at meee?"
  },
  {
   "id": "2D60AE_07C7.0",
@@ -724,7 +724,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ようカケル……俺といっしょに寝るかい？",
-  "en": ""
+  "en": "Hey, Kakeru... wanna sleep with me?"
  },
  {
   "id": "2D60AE_07DF.0",
@@ -732,7 +732,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "冗談はやめてよ、カルタス。",
-  "en": ""
+  "en": "Quit joking around, Cartas."
  },
  {
   "id": "2D60AE_07F2.0",
@@ -740,7 +740,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ふあぁぁぁ…… / ベッドで寝られるなんて、ひさしぶりだぜ。",
-  "en": ""
+  "en": "Fwaaaah... Sleeping in a bed, it's been ages."
  },
  {
   "id": "2D60AE_0817.0",
@@ -748,7 +748,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "俺は寝るぞ……ベッドで寝るぞ。",
-  "en": ""
+  "en": "I'm gonna sleep... I'm gonna sleep in a bed."
  },
  {
   "id": "2D60AE_082E.0",
@@ -756,7 +756,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル殿……我々の軍隊の強さには、 / きっとルシフォンだって驚いてるぞ。",
-  "en": ""
+  "en": "Master Kakeru... I bet even Lushifon is amazed at how strong our army is."
  },
  {
   "id": "2D60AE_082E.1",
@@ -764,7 +764,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンが驚いているかはわからないけど / 今まで一度も負けたことがないよね。",
-  "en": ""
+  "en": "I dunno if Lushifon's amazed, but we haven't lost even once so far, have we?"
  },
  {
   "id": "2D60AE_082E.2",
@@ -772,7 +772,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル殿……ルシフォンと私と…… / どっちが好きだ？",
-  "en": ""
+  "en": "Master Kakeru... Lushifon or me... which do you like better?"
  },
  {
   "id": "2D60AE_082E.3",
@@ -780,7 +780,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "え！？　変なことを聞かないでよ…… / もちろん、ルシフォンの方が好きだよ。",
-  "en": ""
+  "en": "Huh?! Don't ask weird stuff like that... Lushifon, of course."
  },
  {
   "id": "2D60AE_082E.4",
@@ -788,7 +788,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "死んでやるぅ。",
-  "en": ""
+  "en": "Then I'll just die."
  },
  {
   "id": "2D60AE_08CC.0",
@@ -796,7 +796,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カロンの方が好きだよ、ルシフォンよりも。",
-  "en": ""
+  "en": "I like you better, Charon, more than Lushifon."
  },
  {
   "id": "2D60AE_08E2.0",
@@ -804,7 +804,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル殿……私は傷ついてしまったぞ。",
-  "en": ""
+  "en": "Master Kakeru... I have been deeply wounded."
  },
  {
   "id": "2D60AE_08FA.0",
@@ -812,7 +812,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォン軍ってひどいわねえ……",
-  "en": ""
+  "en": "Lushifon's army is just awful..."
  },
  {
   "id": "2D60AE_090A.0",
@@ -820,7 +820,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "なにもここまで破壊することは / ないんじゃないかしら？",
-  "en": ""
+  "en": "Did they really have to wreck the place this badly?"
  },
  {
   "id": "2D60AE_0927.0",
@@ -828,7 +828,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "すっごく腹が立つわ。",
-  "en": ""
+  "en": "It makes me sooo mad."
  },
  {
   "id": "2D60AE_0939.0",
@@ -836,7 +836,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "本当だ……顔が真っ黒だよ、ネプチューン。",
-  "en": ""
+  "en": "You're right... your face is all black, Neptune."
  },
  {
   "id": "2D60AE_0951.0",
@@ -844,7 +844,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、それを言うなら真っ赤でしょ？ / たしかに私は色黒だけど。",
-  "en": ""
+  "en": "Kakeru, don't you mean red? I do have dark skin, sure."
  },
  {
   "id": "2D60AE_0977.0",
@@ -852,7 +852,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル……男の人ってさ、 / 色黒の女の子なんか好きじゃないわよね。",
-  "en": ""
+  "en": "Kakeru... guys don't really like dark-skinned girls, do they."
  },
  {
   "id": "2D60AE_0977.1",
@@ -860,7 +860,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなことはないよ……。",
-  "en": ""
+  "en": "That's not true..."
  },
  {
   "id": "2D60AE_09A9.0",
@@ -868,7 +868,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ちくしょう…… / バナナが身近にないと、どうも落ち着かないな。",
-  "en": ""
+  "en": "Dammit... If I don't have bananas close at hand, I just can't settle down."
  },
  {
   "id": "2D60AE_09A9.1",
@@ -876,7 +876,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ゴロンゴンは、ルシフォンを倒したら…… / たしかバナナのチェーン店をやるんだよね。",
-  "en": ""
+  "en": "Gorongon, once we beat Lushifon... you're gonna open a chain of banana shops, right?"
  },
  {
   "id": "2D60AE_09A9.2",
@@ -884,7 +884,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "おうともさ……",
-  "en": ""
+  "en": "You bet I am..."
  },
  {
   "id": "2D60AE_0A00.0",
@@ -892,7 +892,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "しかしその前に、ライナスとかいうガキを / しばかないと気が収まらないぜ。",
-  "en": ""
+  "en": "But before that, I won't rest easy till I've given that Linus brat a good thrashing."
  },
  {
   "id": "2D60AE_0A29.0",
@@ -900,7 +900,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "とっととルシフォンを倒し、 / バナナと共に一生を送ろう。",
-  "en": ""
+  "en": "Let's hurry up and beat Lushifon, so I can spend the rest of my life with bananas."
  },
  {
   "id": "2D60AE_0A49.0",
@@ -908,7 +908,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ねえねえ……さっき、 / エトとナターシャがキスしてるの見ちゃった。",
-  "en": ""
+  "en": "Hey, hey... just now, I saw Eto and Natasha kissing."
  },
  {
   "id": "2D60AE_0A49.1",
@@ -916,7 +916,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "エトってなかなかやるわねえ……",
-  "en": ""
+  "en": "That Eto's quite the operator..."
  },
  {
   "id": "2D60AE_0A7B.0",
@@ -924,7 +924,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私の知ってるだけで、 / 何人の女の子としてるのか。",
-  "en": ""
+  "en": "Just counting the ones I know about, I wonder how many girls he's done it with."
  },
  {
   "id": "2D60AE_0A96.0",
@@ -932,7 +932,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、そんなにしてるの？",
-  "en": ""
+  "en": "H-he's done it that much?"
  },
  {
   "id": "2D60AE_0AA7.0",
@@ -940,7 +940,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あはははは、 / カケルほどじゃないかも知れないけどね。",
-  "en": ""
+  "en": "Ahahahaha, maybe not as much as you, Kakeru."
  },
  {
   "id": "2D60AE_0AA7.1",
@@ -948,7 +948,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "パンドラ…… / 僕が女の子とキスをしてるの……見たの？",
-  "en": ""
+  "en": "Pandora... did you... see me kissing a girl?"
  },
  {
   "id": "2D60AE_0AA7.2",
@@ -956,7 +956,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……気になる？",
-  "en": ""
+  "en": "...Curious?"
  },
  {
   "id": "2D60AE_0AEC.0",
@@ -964,7 +964,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "大丈夫よ、だれにも言わないから……",
-  "en": ""
+  "en": "Don't worry, I won't tell anyone..."
  },
  {
   "id": "2D60AE_0B02.0",
@@ -972,7 +972,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私は大人の女ですもの、 / そういうことには口がかたいのよ。",
-  "en": ""
+  "en": "I'm a grown woman, after all. My lips are sealed on that kind of thing."
  },
  {
   "id": "2D60AE_0B23.0",
@@ -980,7 +980,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルちゃん、がんばって闘いましょうね。",
-  "en": ""
+  "en": "Kakeru sweetie, let's fight our best, okay?"
  },
  {
   "id": "2D60AE_0B3C.0",
@@ -988,7 +988,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルちゃんはやめてよ、もう。",
-  "en": ""
+  "en": "Quit calling me \"Kakeru sweetie\", geez."
  },
  {
   "id": "2D60AE_0B50.0",
@@ -996,7 +996,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケルさん…… / ルシフォンと闘う夢もかないそうですね。",
-  "en": ""
+  "en": "Kakeru... it looks like my dream of fighting Lushifon might come true."
  },
  {
   "id": "2D60AE_0B50.1",
@@ -1013,7 +1013,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "仲間たちのことを考えると…… / 今でも眠れない時があるんです。",
-  "en": ""
+  "en": "When I think about my comrades... there are still times I can't sleep."
  },
  {
   "id": "2D60AE_0B73.1",
@@ -1021,7 +1021,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "メイフェア、あまり考えない方がいいよ……",
-  "en": ""
+  "en": "Mayfair, you'd better not think about it too much..."
  },
  {
   "id": "2D60AE_0BAF.0",
@@ -1029,7 +1029,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "残酷な言い方だけど、死んでいった仲間たちは / 二度と戻らないんだから。",
-  "en": ""
+  "en": "It's a cruel thing to say, but the comrades who died are never coming back."
  },
  {
   "id": "2D60AE_0BD5.0",
@@ -1037,7 +1037,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "時間が戻れば……助けてあげられるのに。",
-  "en": ""
+  "en": "If only I could turn back time... I could save them."
  },
  {
   "id": "2D60AE_0BEE.0",
@@ -1045,7 +1045,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "殺された仲間のためにも、 / そしてクラリスのためにも…… / 私は絶対にルシフォンを倒します。",
-  "en": ""
+  "en": "For the sake of my murdered comrades, and for Clarice too... I will defeat Lushifon, no matter what."
  },
  {
   "id": "2D60AE_0C1D.0",
@@ -1053,7 +1053,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル……ルシフォンと一戦を交えるのも、 / 夢物語じゃないようだな。",
-  "en": ""
+  "en": "Kakeru... looks like crossing swords with Lushifon isn't just a pipe dream anymore."
  },
  {
   "id": "2D60AE_0C1D.1",
@@ -1061,7 +1061,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "うん、僕たちはもうライムリン大陸にきてるんだ / ……夢なんかじゃないよ。",
-  "en": ""
+  "en": "Yeah, we're already on the Limerin Continent... it's no dream."
  },
  {
   "id": "2D60AE_0C1D.2",
@@ -1069,7 +1069,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "殺された仲間のことを考えるとさ…… / たまに眠れないことがあるんだ。",
-  "en": ""
+  "en": "When I think about my murdered comrades... sometimes I can't sleep."
  },
  {
   "id": "2D60AE_0C1D.3",
@@ -1077,7 +1077,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "気持ちはわかるけど、あまり考えない方がいいよ",
-  "en": ""
+  "en": "I know how you feel, but you'd better not think about it too much."
  },
  {
   "id": "2D60AE_0CA8.0",
@@ -1085,7 +1085,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "……残酷な言い方だけど、 / 死んでいった仲間たちは生き返らないんだし。",
-  "en": ""
+  "en": "...It's a cruel thing to say, but the comrades who died won't come back to life."
  },
  {
   "id": "2D60AE_0CD0.0",
@@ -1093,7 +1093,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんなことはわかってるよ……。",
-  "en": ""
+  "en": "I know that already..."
  },
  {
   "id": "2D60AE_0CE4.0",
@@ -1101,7 +1101,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "殺された仲間たちのためにも、 / メイフェアのためにも……がんばらないとな。",
-  "en": ""
+  "en": "For the sake of my murdered comrades, and for Mayfair too... I've gotta do my best."
  },
  {
   "id": "2D60AE_0D0C.0",
@@ -1127,7 +1127,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うーん……むにゃむにゃ。",
-  "en": ""
+  "en": "Mmm... mumble mumble."
  },
  {
   "id": "2D60AE_0D32.0",
@@ -1144,7 +1144,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ビアンカ……ここでなにをしてるの？",
-  "en": ""
+  "en": "Bianca... what are you doing here?"
  },
  {
   "id": "2D60AE_0D57.0",
@@ -1152,7 +1152,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ええ、窓から西の方を見ていましたの。",
-  "en": ""
+  "en": "Oh, I was looking out the window toward the west."
  },
  {
   "id": "2D60AE_0D70.0",
@@ -1160,7 +1160,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "西の景色はどうなんだろ？",
-  "en": ""
+  "en": "How's the view to the west?"
  },
  {
   "id": "2D60AE_0D82.0",
@@ -1168,7 +1168,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "黒い雲に覆われてますわ…… / 雨でも降ってるのかしら？",
-  "en": ""
+  "en": "It's covered in black clouds... I wonder if it's raining?"
  },
  {
   "id": "2D60AE_0D82.1",
@@ -1176,7 +1176,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そ、それって……黒い霧じゃない？",
-  "en": ""
+  "en": "Th-that's... isn't that the Black Mist?"
  },
  {
   "id": "2D60AE_0DB9.0",
@@ -1184,7 +1184,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "た、大変ですわ…… / また黒い霧が動き始めたのですね。",
-  "en": ""
+  "en": "Oh, how terrible... So the Black Mist has started moving again."
  },
  {
   "id": "2D60AE_0DD9.0",
@@ -1192,7 +1192,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルさん、早くここを出発しませんと……",
-  "en": ""
+  "en": "Kakeru, we must set out from here at once..."
  },
  {
   "id": "2D60AE_0DF2.0",
@@ -1200,7 +1200,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "せっかくライムリン大陸にきたことが / むだになってしまいますわ。",
-  "en": ""
+  "en": "Or else coming all the way to the Limerin Continent will have been for nothing."
  },
  {
   "id": "2D60AE_0E10.0",
@@ -1226,7 +1226,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……はっ！？",
-  "en": ""
+  "en": "...Huh?!"
  },
  {
   "id": "2D60AE_0E34.0",
@@ -1234,7 +1234,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "立ったまま寝てしまったようだ…… / ぶつぶつぶつぶつ。",
-  "en": ""
+  "en": "It seems I fell asleep standing up... Mutter mutter mutter mutter."
  },
  {
   "id": "2D60AE_0E34.1",
@@ -1242,7 +1242,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……いつからそこにいたんだ？",
-  "en": ""
+  "en": "Kakeru... how long have you been there?"
  },
  {
   "id": "2D60AE_0E67.0",
@@ -1250,7 +1250,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "たった今だよ、ネクラマンサー。",
-  "en": ""
+  "en": "I just got here, Necromancer."
  },
  {
   "id": "2D60AE_0E77.0",
@@ -1258,7 +1258,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私の寝顔を見なかっただろうな。",
-  "en": ""
+  "en": "You didn't see my sleeping face, did you?"
  },
  {
   "id": "2D60AE_0E8C.0",
@@ -1266,7 +1266,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "見たよ。",
-  "en": ""
+  "en": "I did."
  },
  {
   "id": "2D60AE_0E96.0",
@@ -1274,7 +1274,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "私の寝顔は……かわいかったか？",
-  "en": ""
+  "en": "Was my sleeping face... cute?"
  },
  {
   "id": "2D60AE_0EAB.0",
@@ -1282,7 +1282,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "う、うん……とっても。",
-  "en": ""
+  "en": "U-uh, yeah... super cute."
  },
  {
   "id": "2D60AE_0EBA.0",
@@ -1290,7 +1290,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか……安心したぞ。",
-  "en": ""
+  "en": "I see... what a relief."
  },
  {
   "id": "2D60AE_0EC9.0",
@@ -1307,7 +1307,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "らんらんらんっ……カケル、いやらしいわね。",
-  "en": ""
+  "en": "La la la... Kakeru, you're such a perv."
  },
  {
   "id": "2D60AE_0EEF.0",
@@ -1315,7 +1315,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "すらりと伸びた脚を / 休めるてるんだから……見ないでよ。",
-  "en": ""
+  "en": "I'm resting these long, slender legs of mine... so don't look."
  },
  {
   "id": "2D60AE_0F09.0",
@@ -1323,7 +1323,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、見ないでって言ってるでしょ？",
-  "en": ""
+  "en": "Kakeru, I told you not to look, didn't I?"
  },
  {
   "id": "2D60AE_0F1E.0",
@@ -1331,7 +1331,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、セイルにマルレーネの話をしないで。",
-  "en": ""
+  "en": "Kakeru, don't talk to Seil about Marlene."
  },
  {
   "id": "2D60AE_0F34.0",
@@ -1339,7 +1339,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "いいんだよ、カケル…… / 別にマルレーネさんの話をしたって。",
-  "en": ""
+  "en": "It's fine, Kakeru... You can talk about Marlene if you want."
  },
  {
   "id": "2D60AE_0F34.1",
@@ -1347,7 +1347,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "だーめっ！！　そんなことばかり言ってるから、 / うまくいかないのよ。ねえ、カケル？",
-  "en": ""
+  "en": "Nuh-uh!! It's because you keep saying stuff like that that things never work out. Right, Kakeru?"
  },
  {
   "id": "2D60AE_0F34.2",
@@ -1364,7 +1364,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "なんだいカケル、ロザリンドの味方なの？",
-  "en": ""
+  "en": "What, Kakeru, you're on Rosalind's side?"
  },
  {
   "id": "2D60AE_0FAA.0",
@@ -1372,7 +1372,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは私の味方よね！",
-  "en": ""
+  "en": "You're on my side, aren't you, Kakeru!"
  },
  {
   "id": "2D60AE_0FBA.0",
@@ -1389,7 +1389,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "聞いたでしょ？　カケルは私の味方なのよ。",
-  "en": ""
+  "en": "You heard him, right? Kakeru's on my side."
  },
  {
   "id": "2D60AE_0FDC.0",
@@ -1397,7 +1397,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "あーあ……いつになったら、 / マルレーネを忘れてくれるのかしら？",
-  "en": ""
+  "en": "Sigh... When is he ever going to forget about Marlene?"
  },
  {
   "id": "2D60AE_0FFC.0",
@@ -1405,7 +1405,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "まったく……",
-  "en": ""
+  "en": "Geez..."
  },
  {
   "id": "2D60AE_1008.0",
@@ -1413,7 +1413,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "街や村を解放してもだれに誉められる / 訳でもないし、張り合いがないよなあ。",
-  "en": ""
+  "en": "We free towns and villages and nobody even praises us for it. Where's the fun in that?"
  },
  {
   "id": "2D60AE_1032.0",
@@ -1421,7 +1421,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "がんばれば、きっとだれかが / ピエールの伝記を書くよ。",
-  "en": ""
+  "en": "If you do your best, I'm sure someone'll write your biography, Pierre."
  },
  {
   "id": "2D60AE_1032.1",
@@ -1429,7 +1429,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そうか……それがあったな。",
-  "en": ""
+  "en": "Right... there's always that."
  },
  {
   "id": "2D60AE_1062.0",
@@ -1437,7 +1437,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "『ピエール、栄光の伝説』か。 / ひっひっひっ、こりゃあいいや。",
-  "en": ""
+  "en": "'Pierre: A Legend of Glory', huh. Hee hee hee, now that's a good one."
  },
  {
   "id": "2D60AE_108A.0",
@@ -1445,7 +1445,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンにとどめを刺すのは俺だぜ…… / そうじゃないと、伝記の結末が格好悪いからな。",
-  "en": ""
+  "en": "I'll be the one to finish off Lushifon... Otherwise my biography'll have a lame ending."
  },
  {
   "id": "2D60AE_10C2.0",
@@ -1453,7 +1453,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "トルルって好きな女の子がいるのかな？",
-  "en": ""
+  "en": "I wonder if Torul has a girl he likes?"
  },
  {
   "id": "2D60AE_10D8.0",
@@ -1461,7 +1461,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "トルルが好きなのは、 / ドラゴンの砦にいるおじいちゃんだよ。",
-  "en": ""
+  "en": "The one Torul likes is the old guy at the Dragon Fortress."
  },
  {
   "id": "2D60AE_10D8.1",
@@ -1469,7 +1469,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "えーっ！？",
-  "en": ""
+  "en": "Whaaat?!"
  },
  {
   "id": "2D60AE_1101.0",
@@ -1477,7 +1477,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん、ドラゴンの長老。",
-  "en": ""
+  "en": "Yeah, the dragon elder."
  },
  {
   "id": "2D60AE_1111.0",
@@ -1485,7 +1485,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "……なーんだ、びっくりさせないでよ。",
-  "en": ""
+  "en": "...Oh, is that all. Don't scare me like that."
  },
  {
   "id": "2D60AE_1127.0",
@@ -1493,7 +1493,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "私もドラゴンに乗せてくれないかなあ…… / トルルの横に。",
-  "en": ""
+  "en": "I wish he'd let me ride on the dragon too... right next to Torul."
  },
  {
   "id": "2D60AE_1144.0",
@@ -1501,7 +1501,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル……私、ちょっとくたびれちゃった。",
-  "en": ""
+  "en": "Kakeru... I'm getting a little worn out."
  },
  {
   "id": "2D60AE_1159.0",
@@ -1509,7 +1509,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "せっかくライムリン大陸にこれたんだ…… / がんばろうよ、ジーナ。",
-  "en": ""
+  "en": "We finally made it to the Limerin Continent... C'mon, let's hang in there, Gina."
  },
  {
   "id": "2D60AE_1159.1",
@@ -1517,7 +1517,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ジーナががんばれば、エトが喜ぶと思うよ。",
-  "en": ""
+  "en": "If you hang in there, Gina, I bet Eto'll be happy."
  },
  {
   "id": "2D60AE_1192.0",
@@ -1525,7 +1525,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケルは……喜んでくれないの？",
-  "en": ""
+  "en": "And you, Kakeru... you won't be happy?"
  },
  {
   "id": "2D60AE_11A7.0",
@@ -1533,7 +1533,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もちろん僕だって大喜びだよ。",
-  "en": ""
+  "en": "Of course I'll be super happy too."
  },
  {
   "id": "2D60AE_11BC.0",
@@ -1541,7 +1541,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もうちょっと……がんばってみようかな。",
-  "en": ""
+  "en": "Then maybe... I'll try hanging in there a little longer."
  },
  {
   "id": "2D60AE_11D3.0",
@@ -1549,7 +1549,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ルシフォンを倒したら、デートしてくれる？",
-  "en": ""
+  "en": "Once we beat Lushifon, will you go on a date with me?"
  },
  {
   "id": "2D60AE_11E9.0",
@@ -1557,7 +1557,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "普通の女の子みたいに…… / 手をつないで、野原に行くの。",
-  "en": ""
+  "en": "Like a normal girl... We'll hold hands and go out to the fields."
  },
  {
   "id": "2D60AE_11E9.1",
@@ -1565,7 +1565,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "だったらジーナ、お弁当を作ってね。",
-  "en": ""
+  "en": "Then make us a packed lunch, Gina."
  },
  {
   "id": "2D60AE_1224.0",
@@ -1573,7 +1573,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もちろん作っちゃうわ……腕によりをかけて。",
-  "en": ""
+  "en": "Of course I will... I'll put my all into it."
  },
  {
   "id": "2D60AE_1240.0",
@@ -1581,7 +1581,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "そんな平和な日が……くるといいね。",
-  "en": ""
+  "en": "I hope a peaceful day like that... comes for real."
  },
  {
   "id": "2D60AE_1258.0",
@@ -1589,7 +1589,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "うん……。",
-  "en": ""
+  "en": "Yeah..."
  },
  {
   "id": "2D60AE_1261.0",
@@ -1597,7 +1597,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "野原ヘ……カケルとふたりでハイキングかあ。",
-  "en": ""
+  "en": "To the fields... a picnic with just me and Kakeru."
  },
  {
   "id": "2D60AE_127F.0",
@@ -1605,7 +1605,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル、本当にここはライムリン大陸かにょ？",
-  "en": ""
+  "en": "Kakeru, is this really the Limerin Continent, nyo?"
  },
  {
   "id": "2D60AE_1294.0",
@@ -1613,7 +1613,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ライムレン大陸とか、 / ライムリソ大陸とかじゃないにょ？",
-  "en": ""
+  "en": "It's not the Limeren Continent or the Limerim Continent, nyo?"
  },
  {
   "id": "2D60AE_12B6.0",
@@ -1621,7 +1621,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ルシフォンがいるのは、ライムリンだにょ。 / まちがえてたら大変だにょ。",
-  "en": ""
+  "en": "Lushifon is in Limerin, nyo. It'd be terrible if we got it wrong, nyo."
  },
  {
   "id": "2D60AE_12D9.0",
@@ -1629,7 +1629,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル殿……ホワイトドラゴンが言っておったが / 黒い霧が動き始めたとは本当でござるか？",
-  "en": ""
+  "en": "Master Kakeru... the White Dragon spoke of it, but is it true that the Black Mist has begun to move, pray tell?"
  },
  {
   "id": "2D60AE_12D9.1",
@@ -1637,7 +1637,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "もし本当だとしたら、大変でござるぞ……。",
-  "en": ""
+  "en": "If it be true, we are in grave peril, good sir..."
  },
  {
   "id": "2D60AE_131B.0",
@@ -1645,7 +1645,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カケル殿、早く東に出発するでござる。",
-  "en": ""
+  "en": "Master Kakeru, let us set forth to the east with all haste."
  },
  {
   "id": "2D60AE_1330.0",
@@ -1653,7 +1653,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "カケル、この村も荒らされてるにゃん…… / 村の住人がいないと、張り合いがないにゃん。",
-  "en": ""
+  "en": "Kakeru, this village got ransacked too, nya... With no villagers around, there's no fun in it, nya."
  },
  {
   "id": "2D60AE_1330.1",
@@ -1661,7 +1661,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "仲間から盗む訳にもいかないにゃん。",
-  "en": ""
+  "en": "And I can't exactly steal from my friends, nya."
  },
  {
   "id": "2D60AE_1375.0",
