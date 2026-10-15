@@ -41,6 +41,9 @@ org $80B169             ; menu string renderer: CMP #$06CC / BCC single glyph (e
 org $80B1B0             ; menu glyph draw: PHB / LDX #$8800
     JML b1b0_hook
 
+org $81F0E5             ; menu-string upload buffer 7E:B312: flush every 64 cells instead of 56 (the English
+    CPY #$C312          ; party-name pool is 60 cells; 7E:C112-C312 is unused, zero in every RAM dump)
+
 ; ===================== code =====================
 org $E0D000
 far_hook:               ; M=16 X=16, A = code, Y = offset after the 2-byte code, X = text ctx, carry set

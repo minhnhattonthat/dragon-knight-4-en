@@ -56,6 +56,21 @@ def render(text, mode):
     return cols
 
 
+def squeeze(cols):
+    """Drop up to 3 blank columns (letter gaps, from the right) so the width fits the cell below."""
+    over = len(cols) % 16
+    if not 0 < over <= 3:
+        return cols
+    cols = list(cols)
+    i = len(cols) - 2
+    while over and i > 0:
+        if cols[i] == 0 and cols[i - 1] != 0 and cols[i + 1] != 0:
+            del cols[i]
+            over -= 1
+        i -= 1
+    return cols
+
+
 def cells_from_cols(cols, n):
     """Split column bitmaps into n cells of 16 px -> list of 14-row tuples (bit 15 = leftmost)."""
     cells = []
@@ -320,6 +335,47 @@ def build_screen(e, rom, img, pre, reloc):
     img[pr:pr + 2] = (cpu & 0xFFFF).to_bytes(2, 'little')
 
 
+def build_namelist(e, rom, img, pre, reloc):
+    """Party-name list: pool string (pool_ref site) + table of 8-cell entries (top 8 words, bottom 8 words,
+    LE, at `table` file offset, `count` entries). Each English name gets its own pool cells (thin, squeezed)."""
+    names, codes, first = e['names'], [], {}
+    for n in names:
+        if n in first:
+            continue
+        cols = squeeze(render(n, e['mode']))
+        k = (len(cols) + 15) // 16
+        if k > 8:
+            raise ValueError('%s: %r too wide' % (e['id'], n))
+        first[n] = (len(codes), k)
+        codes += [pre.code(r) for r in cells_from_cols(cols, k)]
+    if len(codes) * 4 + 4 > e.get('max_tile', 0x100):
+        raise ValueError('%s: pool too big (%d cells)' % (e['id'], len(codes)))
+    # the upload buffer holds 64 cells (asm: 81:F0E5 patched from 56)
+    if len(codes) > 64:
+        raise ValueError('%s: %d cells > 64 (upload buffer)' % (e['id'], len(codes)))
+    data = encode_cells(codes) + b'\x00'
+    p = reloc[0]
+    img[p:p + len(data)] = data
+    reloc[0] += len(data)
+    cpu = to_cpu(p)
+    r = int(e['pool_ref'], 16)
+    assert img[r] == 0xA9 and img[r + 2] == 0x85 and img[r + 4] == 0xA0, (e['id'], hex(r))
+    img[r + 1] = cpu >> 16
+    img[r + 5:r + 7] = (cpu & 0xFFFF).to_bytes(2, 'little')
+    tab = int(e['table'], 16)
+    for i, n in enumerate(names):
+        k0, k = first[n]
+        b = tab + 32 * i
+        for j in range(8):
+            if j < k:
+                t = 4 * (k0 + j + 1)
+                img[b + 2 * j:b + 2 * j + 2] = t.to_bytes(2, 'little')
+                img[b + 16 + 2 * j:b + 18 + 2 * j] = (t + 2).to_bytes(2, 'little')
+            else:
+                img[b + 2 * j:b + 2 * j + 2] = b'\x00\x00'
+                img[b + 16 + 2 * j:b + 18 + 2 * j] = b'\x02\x00'
+
+
 def load():
     return json.load(open(os.path.join(ROOT, 'ui', 'ui.json'), encoding='utf-8'))
 
@@ -334,7 +390,7 @@ def apply(img, rom, pre_off):
     bank84_copy(img, rom)
     E2_ALLOC[0] = 0x317000
     for e in load():
-        if not e.get('en') and e['kind'] != 'screen':
+        if not e.get('en') and e['kind'] not in ('screen', 'namelist'):
             continue
         try:
             if e['kind'] == 'linear':
@@ -360,9 +416,9 @@ def apply(img, rom, pre_off):
                 build_table(e, rom, img, pre)
             elif e['kind'] == 'dict':
                 build_dict_names(e, rom, img, pre)
-            elif e['kind'] == 'screen':
+            elif e['kind'] in ('screen', 'namelist'):
                 rr = [reloc]
-                build_screen(e, rom, img, pre, rr)
+                (build_screen if e['kind'] == 'screen' else build_namelist)(e, rom, img, pre, rr)
                 reloc = rr[0]
                 if reloc > RELOC_END:
                     raise ValueError('UI relocation area full')
