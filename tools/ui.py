@@ -495,26 +495,36 @@ def apply(img, rom, pre_off):
     bank84_copy(img, rom)
     E2_ALLOC[0] = 0x317000
     for e in load():
-        if not e.get('en') and e['kind'] not in ('screen', 'namelist', 'strset', 'ptrtables'):
+        if not e.get('en') and not e.get('en_tsv') and e['kind'] not in ('screen', 'namelist', 'strset', 'ptrtables'):
             continue
         try:
             if e['kind'] == 'linear':
                 off, nbytes, data = build_linear(e, rom, pre)
-                if len(data) <= nbytes:
+                # bank_refs may be shared by several strings (one draw routine), so those always relocate
+                if len(data) <= nbytes and not e.get('bank_refs'):
                     img[off:off + nbytes] = data + b'\x00' * (nbytes - len(data))
                 else:
-                    # relocate: patch every `LDA #bank / STA $02 / LDY #ptr / STY $00` site listed in refs
-                    if not e.get('refs'):
+                    # relocate: patch every `LDA #bank / STA $02 / LDY #ptr / STY $00` site listed in refs,
+                    # or split sites: ptr_refs (LDY #imm16 operands) + bank_refs (LDA #bank operands)
+                    if not e.get('refs') and not e.get('ptr_refs'):
                         raise ValueError('%s: %d bytes > %d and no refs to relocate' % (e['id'], len(data), nbytes))
                     if reloc + len(data) > RELOC_END:
                         raise ValueError('UI relocation area full')
                     img[reloc:reloc + len(data)] = data
                     cpu = ((reloc >> 15) + 0x80) << 16 | 0x8000 | (reloc & 0x7FFF)
-                    for r in e['refs']:
+                    for r in e.get('refs', []):
                         r = int(r, 16)
                         assert img[r] == 0xA9 and img[r + 2] == 0x85 and img[r + 4] == 0xA0, (e['id'], hex(r))
                         img[r + 1] = cpu >> 16
                         img[r + 5:r + 7] = (cpu & 0xFFFF).to_bytes(2, 'little')
+                    for r in e.get('ptr_refs', []):
+                        r = int(r, 16)
+                        assert img[r - 1] == 0xA0, (e['id'], hex(r))
+                        img[r:r + 2] = (cpu & 0xFFFF).to_bytes(2, 'little')
+                    for r in e.get('bank_refs', []):
+                        r = int(r, 16)
+                        assert img[r - 1] == 0xA9 and img[r] in (rom[r], cpu >> 16), (e['id'], hex(r))
+                        img[r] = cpu >> 16
                     img[off:off + nbytes] = bytes([BLANK]) * (nbytes - 1) + b'\x00'
                     reloc += len(data)
             elif e['kind'] == 'table':

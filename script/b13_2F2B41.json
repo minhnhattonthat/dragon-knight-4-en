@@ -2269,7 +2269,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "あれれ、いっちゃったよ……わわわっ！？",
-  "en": "Huh, she's gone... Whoa whoa whoa!?"
+  "en": "Huh, she's gone... Whoa whoa whoa?!"
  },
  {
   "id": "2F2B41_1CEB.0",
@@ -2277,7 +2277,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "マルレーネさまあぁっ！ / どこですかああっ！？",
-  "en": "Lady Marleeene! Where are youuu!?"
+  "en": "Lady Marleeene! Where are youuu?!"
  },
  {
   "id": "2F2B41_1CEB.1",
@@ -2333,7 +2333,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "きゃあああああああああぁぁぁっ！？",
-  "en": "Kyaaaaaaaaaaaaah!?"
+  "en": "Kyaaaaaaaaaaaaah?!"
  },
  {
   "id": "2F2B41_1DA3.0",
@@ -2415,7 +2415,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "マルレーネさまあぁっ！　どこですーっ！？",
-  "en": "Lady Marleeene! Where are youuu!?"
+  "en": "Lady Marleeene! Where are youuu?!"
  },
  {
   "id": "2F2B41_1E9E.0",
@@ -2721,7 +2721,7 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "！？　哀しい……。マルレーネさん、 / あなたの心には母の愛が感じられません。 / それどころか……さびしく暗い、 / 荒涼とした闇が心をおおってしまっています！",
-  "en": "!? How sad... Marlene, I cannot feel a mother's love in your heart. Rather... a lonely, dark, desolate darkness has shrouded your heart!"
+  "en": "?! How sad... Marlene, I cannot feel a mother's love in your heart. Rather... a lonely, dark, desolate darkness has shrouded your heart!"
  },
  {
   "id": "2F2B41_239C.0",

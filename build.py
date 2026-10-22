@@ -6,11 +6,13 @@ python -X utf8 build.py identity  -> build/dk4_identity.sfc (no engine, no text:
 """
 import json
 import os
+import re
 import subprocess
 import sys
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(ROOT, 'tools'))
+import check_rom  # noqa: E402
 from dk4 import load_rom, load_glyphs  # noqa: E402
 from regions import regions, unique_blocks  # noqa: E402
 from segments import units, tokens, lines_of, choice_fields, is_choice  # noqa: E402
@@ -19,6 +21,7 @@ import font_en  # noqa: E402
 import ui  # noqa: E402
 import gfx_buttons  # noqa: E402
 import gfx_popups  # noqa: E402
+import gfx_plates  # noqa: E402
 
 ASAR = os.path.join(ROOT, 'tools', 'asar', 'asar.exe')
 SIZE = 0x400000
@@ -26,12 +29,16 @@ FARSHORT_OFF = 0x300000          # $E0:8000
 FONT_OFF = 0x304000              # $E0:C000
 FONTW_OFF = 0x304C00             # $E0:CC00
 PRE_OFF, PRE_FIRST, PRE_END = 0x308000, 0xB00, 0xE00   # $E1:8000: precomposed English UI cells
-TEXT_START, TEXT_END = 0x318000, 0x400000   # banks $E3-$FF ($E2 = UI copy of bank $84, see tools/ui.py)
+TEXT_START, TEXT_END = 0x318000, 0x3F8000   # banks $E3-$FE ($E2 = UI copy of bank $84, see tools/ui.py;
+                                             # $FF = combat name plates, tools/gfx_plates.py)
 SHORT_FIRST, SHORT_LAST = 0x833, 0xAFF
 PAGE_RESET_OPS = {0x01, 0x13, 0x15, 0x16, 0x0C, 0x3A}
 # conditional jumps between two text regions leave the box as it is (seen: 2D4417_0EBE drew its speaker name on the
 # last line of the previous page because its start line was assumed 0)
 FALLTHROUGH_OPS = {0x0A, 0x35}   # (0x12/0x14 take no condition: unconditional jump/call, nothing falls through)
+# op 31 prints a number at the cursor (battle text: "<Seeds found> 3 <Seeds of Power>"): the next region continues on
+# the same line after it; NUM_CELLS cells are left for the digits
+INLINE_OPS, NUM_CELLS = {0x31}, 2
 PANGRAM = 'The quick brown fox jumps over the lazy dog. Pack my box with five dozen liquor jugs. '
 
 
@@ -157,6 +164,7 @@ def build(mode):
     stats = {'regions': 0, 'english': 0, 'japanese': 0, 'errors': 0}
     errors = []
     prev_end = {}
+    prev_col = {}
     shared = {}
     midline = midline_targets(rom, g)
     for r in regions(rom, g):
@@ -199,10 +207,14 @@ def build(mode):
                 info, toks = region_seg_info(r, rom, g)
                 segs = []
                 for (sp, portrait), t in zip(info, texts):
-                    segs.append((names.get(sp, sp) if sp else '', portrait, t))
+                    # "{Name}" inside the English = a speaker tag the Japanese writes mid-unit (【name】)
+                    head, *tags = re.split(r'\s*\{([^}]+)\}\s*', t)
+                    segs.append((names.get(sp, sp) if sp else '', portrait, head))
+                    segs += [(nm, None, tx) for nm, tx in zip(tags[::2], tags[1::2])]
                 start_line = 0
                 key = (r['boff'], r['off'])
-                if (r['prev_op'] is None or r['prev_op'] in FALLTHROUGH_OPS) and r['off'] in prev_end.get(r['boff'], {}):
+                carried = r['off'] in prev_end.get(r['boff'], {})
+                if (r['prev_op'] is None or r['prev_op'] in FALLTHROUGH_OPS | INLINE_OPS) and carried:
                     start_line = prev_end[r['boff']][r['off']]
                 trailing = bool(toks) and toks[-1][0] == 'nl'
                 first = layout.CELLS
@@ -211,7 +223,13 @@ def build(mode):
                     # follow English text of unknown length on that line, so they start on the next line
                     t0 = next((t for t in texts if t), '')
                     first = layout.CELLS - MIDLINE_LEAD if t0[:1] in ',.!?;:' else 0
-                body, end_line = layout.dlg_region(segs, start_line, trailing, first)
+                attach = r['prev_op'] in INLINE_OPS and carried
+                if attach:
+                    first = max(0, layout.CELLS - prev_col[key] - NUM_CELLS)
+                room = NUM_CELLS if r['next_op'] in INLINE_OPS else 0
+                body, end_line, end_col = layout.dlg_region(segs, start_line, trailing, first, attach, room)
+                if end_col > layout.CELLS - room:
+                    raise layout.LayoutError('no room for the number after the last line (%d cells)' % end_col)
                 # the Japanese region filled its last page exactly (its last newline cleared the box): the next
                 # region may draw a speaker name assuming a fresh page, so the English must end on a page edge too
                 jp_end = (start_line + sum(1 for t in toks if t[0] == 'nl')) % layout.LINES
@@ -224,8 +242,9 @@ def build(mode):
             continue
         if r['next_op'] is None or r['next_op'] not in PAGE_RESET_OPS:
             prev_end.setdefault(r['boff'], {})[r['off'] + r['len']] = end_line
-        if r['next_op'] in FALLTHROUGH_OPS:   # conditional jump: the next region continues on the same page
+        if r['next_op'] in FALLTHROUGH_OPS | INLINE_OPS:   # the next region continues on the same page / line
             prev_end.setdefault(r['boff'], {})[r['off'] + r['len'] + len(r['next_raw'])] = end_line
+            prev_col[(r['boff'], r['off'] + r['len'] + len(r['next_raw']))] = end_col
         if r['len'] < 2:
             stats['japanese'] += 1
             continue
@@ -248,7 +267,7 @@ def build(mode):
     # assemble the engine last (it patches code only)
     if mode == 'build':
         img[gfx_buttons.OFF:gfx_buttons.OFF + gfx_buttons.NT * 32] = gfx_buttons.patch(rom)
-        for off, data in gfx_popups.patch(rom).items():
+        for off, data in list(gfx_popups.patch(rom).items()) + list(gfx_plates.patch(rom).items()):
             img[off:off + len(data)] = data
         ui_errs = ui.apply(img, rom, PRE_OFF)
         errors += ['UI ' + x for x in ui_errs]
@@ -263,6 +282,7 @@ def assemble(path):
 
 
 def main():
+    check_rom.check()
     mode = sys.argv[1] if len(sys.argv) > 1 else 'build'
     os.makedirs(os.path.join(ROOT, 'build'), exist_ok=True)
     out = os.path.join(ROOT, 'build', {'build': 'dk4_en.sfc', 'marker': 'dk4_marker.sfc',

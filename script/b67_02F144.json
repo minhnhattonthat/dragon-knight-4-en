@@ -1,0 +1,1078 @@
+[
+ {
+  "id": "02F144_0000.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "そ、そんな・・・僕が負けるなんて。",
+  "en": "N-no way... I can't believe I lost."
+ },
+ {
+  "id": "02F144_001B.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "だ、だから闘うのはいやだったんだあ。",
+  "en": "Th-this is why I didn't wanna fight!"
+ },
+ {
+  "id": "02F144_0033.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "こ、この私が負けるとは・・・。",
+  "en": "T-to think that I would be defeated..."
+ },
+ {
+  "id": "02F144_004C.0",
+  "speaker": "ナターシャ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カ、カケル、私はもうだめだわ。",
+  "en": "K-Kakeru, I can't go on..."
+ },
+ {
+  "id": "02F144_0060.0",
+  "speaker": "マルレーネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "エ、エトさん・・・。",
+  "en": "E-Eto..."
+ },
+ {
+  "id": "02F144_0074.0",
+  "speaker": "カルタス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ぐふうっ！！ / 負けてしまったあ！！",
+  "en": "Gwahh!! I lost!!"
+ },
+ {
+  "id": "02F144_008D.0",
+  "speaker": "ネレイド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "エトさぁん・・・。",
+  "en": "Etoooo..."
+ },
+ {
+  "id": "02F144_009F.0",
+  "speaker": "カロン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02F144_00A8.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "むむむっ！！ / カケル殿ぉ！！",
+  "en": "Hmmm!! Master Kakeruuu!!"
+ },
+ {
+  "id": "02F144_00B9.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ぐわあああぁぁっ！！　む、無念！！ / ハーディス殿ぉぉぉぉっ！",
+  "en": "Gwaaaahh!! C-curses!! Master Hardiiiis!"
+ },
+ {
+  "id": "02F144_00B9.1",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "カ、カロン！？ / 私を残して逝くつもりか！？",
+  "en": "C-Charon?! You mean to die and leave me behind?!"
+ },
+ {
+  "id": "02F144_00F4.0",
+  "speaker": "ゴロンゴン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "バ、バナナの夢が消えるぅ！！",
+  "en": "M-my banana dreams are fading!!"
+ },
+ {
+  "id": "02F144_010A.0",
+  "speaker": "ネプチューン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "み、みんな、後の事は頼んだわ！！",
+  "en": "E-everyone, I leave the rest to you!!"
+ },
+ {
+  "id": "02F144_0121.0",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "クラリス・・・ごめんなさい。",
+  "en": "Clarice... I'm sorry."
+ },
+ {
+  "id": "02F144_0132.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "メ、メイフェア・・・がくっ。",
+  "en": "M-Mayfair... (thud)"
+ },
+ {
+  "id": "02F144_0147.0",
+  "speaker": "パンドラ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カケル、エト、後の事は頼んだわ！！",
+  "en": "Kakeru, Eto, I leave the rest to you!!"
+ },
+ {
+  "id": "02F144_015E.0",
+  "speaker": "サントス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ち、ちくしょうっ！！ / 後の事は頼んだぞ！！",
+  "en": "Bl-blast it!! I'm counting on you for the rest!!"
+ },
+ {
+  "id": "02F144_0178.0",
+  "speaker": "ガリバン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "し、死んでしまう・・・ぞい。",
+  "en": "I-I'm gonna die... I tell ye."
+ },
+ {
+  "id": "02F144_018F.0",
+  "speaker": "ビアンカ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "お、お父様ぁ！！",
+  "en": "F-Fatherrr!!"
+ },
+ {
+  "id": "02F144_019C.0",
+  "speaker": "ネクラマンサー",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ぶつぶつぶつ・・・がくっ。",
+  "en": "Mutter mutter mutter... (thud)"
+ },
+ {
+  "id": "02F144_01AE.0",
+  "speaker": "セイラ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "わ、私のすらりと伸びた脚が / 負けるなんて・・・。",
+  "en": "To think my long, slender legs would lose..."
+ },
+ {
+  "id": "02F144_01CB.0",
+  "speaker": "ロザリンド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "セ、セイルぅ・・・助けて。",
+  "en": "S-Seil... help me."
+ },
+ {
+  "id": "02F144_01E2.0",
+  "speaker": "ピエール",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "お、俺様の伝記が書かれなくなるぅ！！",
+  "en": "N-now no one will ever write my biography!!"
+ },
+ {
+  "id": "02F144_01FD.0",
+  "speaker": "ジーナ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "あーん！！ / 負けちゃった！！",
+  "en": "Waaah!! I lost!!"
+ },
+ {
+  "id": "02F144_0211.0",
+  "speaker": "ラビット",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "にょにょにょにょ・・・にょ。",
+  "en": "Nyo nyo nyo nyo... nyo."
+ },
+ {
+  "id": "02F144_0228.0",
+  "speaker": "パウエル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "む、無念でござる・・・。",
+  "en": "A-alas, I have failed, good sir..."
+ },
+ {
+  "id": "02F144_023E.0",
+  "speaker": "レア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "へレネ・・・。",
+  "en": "Helene..."
+ },
+ {
+  "id": "02F144_024D.0",
+  "speaker": "ターニャン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "にゃあああんっ！！ / もうだめだにゃん！！",
+  "en": "Nyaaaaan!! I can't go on, nya!!"
+ },
+ {
+  "id": "02F144_0267.0",
+  "speaker": "バルカン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "わ、私がやられるなんて・・・。",
+  "en": "T-to think I'd be beaten..."
+ },
+ {
+  "id": "02F144_027F.0",
+  "speaker": "トルル",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "おじいちゃーんっ！！ / 負けちゃったあ！！",
+  "en": "Grandpaaaa!! I lost!!"
+ },
+ {
+  "id": "02F144_0299.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "パパぁ！！ / 負けちゃったよう！！",
+  "en": "Papaaa!! I lost!!"
+ },
+ {
+  "id": "02F144_02AF.0",
+  "speaker": "ロイドン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ぼ、僕がいなくなると・・・がくっ。",
+  "en": "I-if I'm gone... (thud)"
+ },
+ {
+  "id": "02F144_02C9.0",
+  "speaker": "へレネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "レア・・・ごめんなさい。",
+  "en": "Rhea... I'm sorry."
+ },
+ {
+  "id": "02F144_02DA.0",
+  "speaker": "ウェンディ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "そ、そんな・・・私が負けるなんて。",
+  "en": "N-no way... I can't believe I lost."
+ },
+ {
+  "id": "02F144_02F5.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ぐ、あああああぁぁっ！？ / む、無念！　カロン……マノォォォォォ！！",
+  "en": "Gh, aaaaaargh?! C-curses! Charon... Manoooooo!!"
+ },
+ {
+  "id": "02F144_0328.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ハーディス殿！？ / わ、私をおいて先に逝くのか！？",
+  "en": "Master Hardis?! Y-you would go on ahead and leave me behind?!"
+ },
+ {
+  "id": "02F144_0346.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "待ち伏せか！？",
+  "en": "An ambush?!"
+ },
+ {
+  "id": "02F144_0354.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……エ、エト！",
+  "en": "...E-Eto!"
+ },
+ {
+  "id": "02F144_0362.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "こいついくら斬っても / 傷がどんどん治っていくよ！？",
+  "en": "No matter how many times I cut this guy, his wounds keep healing?!"
+ },
+ {
+  "id": "02F144_0382.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ばかな！？",
+  "en": "Impossible?!"
+ },
+ {
+  "id": "02F144_038D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "魔界には剣では殺せない / 魔物がいるというが……！！",
+  "en": "They say there are monsters in the Demon World that swords can't kill...!!"
+ },
+ {
+  "id": "02F144_03AA.0",
+  "speaker": "ナターシャ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "だめ！！ / ま、魔法でも倒せないの！！",
+  "en": "It's no use!! E-even magic can't beat them!!"
+ },
+ {
+  "id": "02F144_03AA.1",
+  "speaker": "リディア",
+  "form": "dlg",
+  "nlines": 4,
+  "jp": "フフフ、それは私が魔界に伝わる / 特殊な呪法で生み出したもの…… / お前たち人間風情に / この呪法を打ち破ることなぞ……。",
+  "en": "Heh heh, that is a creature I created with a special curse handed down in the Demon World... Lowly humans like you could never hope to break this curse..."
+ },
+ {
+  "id": "02F144_0413.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "【謎の声】 / “人間にならば”な！！",
+  "en": "{Mysterious Voice} ...If you're \"human,\" that is!!"
+ },
+ {
+  "id": "02F144_042D.0",
+  "speaker": "リディア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "なに！？",
+  "en": "What?!"
+ },
+ {
+  "id": "02F144_0437.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ハーディス！？",
+  "en": "Hardis?!"
+ },
+ {
+  "id": "02F144_0441.0",
+  "speaker": "リディア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ハーディス、裏切ったか！！",
+  "en": "Hardis, you've betrayed us!!"
+ },
+ {
+  "id": "02F144_0453.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ハ！　そのセリフ、 / おまえにそのまま返してやるさ！",
+  "en": "Ha! I'll throw those words right back at you!"
+ },
+ {
+  "id": "02F144_0453.1",
+  "speaker": "リディア",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "フフ、魔族ともあろうものが、 / 人間ごときに荷担するなど…… / 堕ちたものですね。",
+  "en": "Heh heh, for one of the demon race to side with mere humans... How far you have fallen."
+ },
+ {
+  "id": "02F144_04A8.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "マノ様もきっとお嘆きにちがいない。",
+  "en": "Lady Mano must surely be grieving as well."
+ },
+ {
+  "id": "02F144_04BD.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "だ、だまれ！ / 人間に荷担するのではない！ / 私がこいつらを利用してやるのさ！",
+  "en": "S-silence! I'm not siding with the humans! I'm the one using these fools!"
+ },
+ {
+  "id": "02F144_04EE.0",
+  "speaker": "リディア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "たわごとを……。",
+  "en": "Such drivel..."
+ },
+ {
+  "id": "02F144_0501.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "だまれ魔族の女！",
+  "en": "Silence, demon woman!"
+ },
+ {
+  "id": "02F144_0510.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カ、カロン！",
+  "en": "Ch-Charon!"
+ },
+ {
+  "id": "02F144_051B.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ハーディス殿は、今、新しい愛にめざめたのだ！",
+  "en": "Master Hardis has now awakened to a new love!"
+ },
+ {
+  "id": "02F144_0535.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "それがわからぬようなやつに、 / 彼のことを非難することはこのカロンが許さん！",
+  "en": "I, Charon, will not allow anyone who cannot understand that to condemn him!"
+ },
+ {
+  "id": "02F144_0561.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "さあ、ハーディス殿、 / 私と共に愛の世界に旅立とうではないか！ / そしてルシフォンの野望を打ち砕くのだ！",
+  "en": "Come, Master Hardis, let us set forth together into the world of love! And then we shall shatter Lushifon's ambitions!"
+ },
+ {
+  "id": "02F144_0561.1",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カ、カロン……。",
+  "en": "Ch-Charon..."
+ },
+ {
+  "id": "02F144_05A3.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……。",
+  "en": "",
+  "dup": "2F7891_0097.0"
+ },
+ {
+  "id": "02F144_05AB.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "（……ぽっ）",
+  "en": "(...*blush*)"
+ },
+ {
+  "id": "02F144_05B7.0",
+  "speaker": "リディア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "お、おのれこのあやしい雰囲気……！！",
+  "en": "Wh-why you... What is this strange air between you two...!!"
+ },
+ {
+  "id": "02F144_05D1.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "そのようなセリフは / すべての軍勢を打ち倒してからしてみせい！",
+  "en": "Save such lines until you have defeated my entire army!"
+ },
+ {
+  "id": "02F144_05F6.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "いくぞ、ハーディス殿！",
+  "en": "Here we go, Master Hardis!"
+ },
+ {
+  "id": "02F144_0604.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "おお！",
+  "en": "Right!"
+ },
+ {
+  "id": "02F144_060D.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ふん、それに……私はこの人間どもに / 借りがひとつあるのでな！",
+  "en": "Hmph, besides... I owe these humans a debt!"
+ },
+ {
+  "id": "02F144_060D.1",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ゆくぞ、リディア！",
+  "en": "Here I come, Lydia!"
+ },
+ {
+  "id": "02F144_064A.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ハーディス、よく来たな。 / 我々はキミを歓迎する！",
+  "en": "Hardis, you came. We welcome you!"
+ },
+ {
+  "id": "02F144_064A.1",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "フン、さっきもいったように、 / 私は貴様ら虫ケラを利用するために……！！",
+  "en": "Hmph, as I said before, I am only here to make use of you insects...!!"
+ },
+ {
+  "id": "02F144_064A.2",
+  "speaker": "ナターシャ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "くすっ。",
+  "en": "Tee hee."
+ },
+ {
+  "id": "02F144_069F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "本当にそのつもりなら、 / 本音なんて言わないものよ、ハーディスさん！",
+  "en": "If you really meant that, you wouldn't go announcing it, Hardis!"
+ },
+ {
+  "id": "02F144_06C2.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ぐ……。",
+  "en": "Ngh..."
+ },
+ {
+  "id": "02F144_06CB.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "そのとおりだ、ハーディス殿。 / 愛は実に尊きものなのだ。",
+  "en": "Just so, Master Hardis. Love is a truly precious thing."
+ },
+ {
+  "id": "02F144_06CB.1",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……なんの脈絡もないよ、カロン……。",
+  "en": "...That came out of nowhere, Charon..."
+ },
+ {
+  "id": "02F144_0702.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ハーディス、よく来たな。 / 我々はキミを歓迎する！",
+  "en": "",
+  "dup": "02F144_064A.0"
+ },
+ {
+  "id": "02F144_0702.1",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……。",
+  "en": "",
+  "dup": "2F7891_0097.0"
+ },
+ {
+  "id": "02F144_0728.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "フン、まちがえるな。 / 借りを返しにきた、と言ったはずだ。 / これで貸し借りはないな。",
+  "en": "Hmph, don't misunderstand. I told you I came to repay a debt. Now we are even."
+ },
+ {
+  "id": "02F144_075D.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "さらばだ。 / 機会があればまた会おう。",
+  "en": "Farewell. If the chance arises, we shall meet again."
+ },
+ {
+  "id": "02F144_075D.1",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "行ってしまった……。",
+  "en": "",
+  "dup": "2B8D15_2203.0"
+ },
+ {
+  "id": "02F144_0788.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……。",
+  "en": "",
+  "dup": "2F7891_0097.0"
+ },
+ {
+  "id": "02F144_0790.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "どうした、ハーディス？",
+  "en": "What is it, Hardis?"
+ },
+ {
+  "id": "02F144_079E.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……。",
+  "en": "",
+  "dup": "2F7891_0097.0"
+ },
+ {
+  "id": "02F144_07A6.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やはり私は貴様らと行動を共にすることはできん。 / ここから去らせてもらう。",
+  "en": "I cannot travel with you after all. I will take my leave of you here."
+ },
+ {
+  "id": "02F144_07A6.1",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "なに！？",
+  "en": "What?!"
+ },
+ {
+  "id": "02F144_07DD.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "私が、貴様らと共にあることに / 疑問を抱いてないとでも思ったか？",
+  "en": "Did you think I had no doubts about standing alongside the likes of you?"
+ },
+ {
+  "id": "02F144_07DD.1",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 4,
+  "jp": "そしてこの想いをさとしてくれていた男…… / それがカロンだ。 / 彼がいなくなった今、 / 私は貴様らのもとにい続けることはできん！",
+  "en": "And the man who helped me make sense of these feelings... that was Charon. Now that he is gone, I cannot remain with you any longer!"
+ },
+ {
+  "id": "02F144_084F.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ハ、ハーディス……。",
+  "en": "",
+  "dup": "2EF59B_044A.0"
+ },
+ {
+  "id": "02F144_085C.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "さらばだ、機会があらばまた会おう！",
+  "en": "Farewell! If the chance arises, we shall meet again!"
+ },
+ {
+  "id": "02F144_0877.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……ハーディス殿……。",
+  "en": "",
+  "dup": "2CF0C2_078F.0"
+ },
+ {
+  "id": "02F144_0884.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……。",
+  "en": "",
+  "dup": "2E8000_0139.1"
+ },
+ {
+  "id": "02F144_088C.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "エ、エト……！　こいつら、意外と強いよ！",
+  "en": "E-Eto...! These guys are tougher than they look!"
+ },
+ {
+  "id": "02F144_08A8.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ひるむな！　気をぬくとやられるぞ！",
+  "en": "Don't flinch! Let your guard down and you're finished!"
+ },
+ {
+  "id": "02F144_08C3.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "【謎の声】 / カケルさん、ずいぶん手こずっていますね！",
+  "en": "{Mysterious Voice} Kakeru, you seem to be having quite a hard time!"
+ },
+ {
+  "id": "02F144_08E3.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……え？",
+  "en": "",
+  "dup": "2F2B41_1FD8.0"
+ },
+ {
+  "id": "02F144_08ED.0",
+  "speaker": "マリアン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "おひさしぶりです、カケルさん。 / 母の愛のお告げによって、援軍にきたのです！",
+  "en": "It's been so long, Kakeru. A mother's love revealed I should come help you!"
+ },
+ {
+  "id": "02F144_08ED.1",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "マリアン！？",
+  "en": "Marian?!"
+ },
+ {
+  "id": "02F144_0924.0",
+  "speaker": "マリアン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "私だけではありませんわ。 / ……さあ、みなさん！！",
+  "en": "And I'm not the only one. ...Now, everyone!!"
+ },
+ {
+  "id": "02F144_094F.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ど、どうして……みんな！！",
+  "en": "H-how... everyone!!"
+ },
+ {
+  "id": "02F144_0962.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "へレネを迎えにいって / やられちゃったんじゃ……！！",
+  "en": "I thought you all got beaten when you went to get Helene...!!"
+ },
+ {
+  "id": "02F144_097D.0",
+  "speaker": "マリアン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ほほほ、すべては母の愛のお力です。",
+  "en": "Ohoho, it is all by the power of a mother's love."
+ },
+ {
+  "id": "02F144_0993.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "くわしい話はのちほどにして…… / 今は目の前の敵を倒しましょう！",
+  "en": "We can save the details for later... For now, let's defeat the enemies before us!"
+ },
+ {
+  "id": "02F144_09B7.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "よーし、いくぞおっ！",
+  "en": "All riiight, let's gooo!"
+ },
+ {
+  "id": "02F144_09C7.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "エ、エト……！　こいつら、意外と強いよ！",
+  "en": "",
+  "dup": "02F144_088C.0"
+ },
+ {
+  "id": "02F144_09E3.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ひるむな！　気をぬくとやられるぞ！",
+  "en": "",
+  "dup": "02F144_08A8.0"
+ },
+ {
+  "id": "02F144_09FE.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "【謎の声】 / カケル、ずいぶん手こずっているな！",
+  "en": "{Mysterious Voice} Having a rough time, Kakeru?"
+ },
+ {
+  "id": "02F144_0A1B.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……え！？",
+  "en": "...Huh?!"
+ },
+ {
+  "id": "02F144_0A26.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "……みんな！！　修行が終わったんだね！",
+  "en": "...Everyone!! You finished your training!"
+ },
+ {
+  "id": "02F144_0A49.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "さあ、反撃開始だ！",
+  "en": "Now, the counterattack begins!"
+ },
+ {
+  "id": "02F144_0A6A.0",
+  "speaker": "カルタス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "よぉ！ / 俺の実力を今こそ見せてやるぜ、マルレーネ！",
+  "en": "Yo! Now I'll show you what I'm really made of, Marlene!"
+ },
+ {
+  "id": "02F144_0A95.0",
+  "speaker": "ネレイド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "エトさん！　強くなった私を見てください！",
+  "en": "Eto! Please look at how much stronger I've become!"
+ },
+ {
+  "id": "02F144_0ABD.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カケル殿ぉ！　お待たせしましたな！",
+  "en": "Master Kakeruuu! Sorry to keep you waiting!"
+ },
+ {
+  "id": "02F144_0AE0.0",
+  "speaker": "ゴロンゴン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "バナナ――――っ！",
+  "en": "BANANAAAAAA!!"
+ },
+ {
+  "id": "02F144_0AEE.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "修行中は愛しのバナナを口にせず / がんばったのだ――――っ！",
+  "en": "I didn't eat a single one of my beloved bananas the whole time I was training! I tried soooo hard!!"
+ },
+ {
+  "id": "02F144_0B1E.0",
+  "speaker": "ネプチューン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "今までの私だと思わないでよぉ！",
+  "en": "Don't think I'm the same as I was before!"
+ },
+ {
+  "id": "02F144_0B3F.0",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "みなさん、遅くなってごめんなさい！",
+  "en": "Everyone, I'm sorry I'm late!"
+ },
+ {
+  "id": "02F144_0B61.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "待たせたな、みんな！",
+  "en": "Sorry to keep you waiting, everyone!"
+ },
+ {
+  "id": "02F144_0B7F.0",
+  "speaker": "パンドラ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ふふ、もうお荷物なんていわせないわよ！",
+  "en": "Heh, nobody gets to call me dead weight anymore!"
+ },
+ {
+  "id": "02F144_0BA5.0",
+  "speaker": "サントス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "さらに鍛えられた俺の技、 / とくと味わわせてやる！",
+  "en": "Have a taste of my skills, honed even sharper!"
+ },
+ {
+  "id": "02F144_0BD4.0",
+  "speaker": "ガリバン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "このパワーアップした大砲の力、 / 見せてやるぞい！",
+  "en": "I'll show ye the might of my powered-up cannon, I tell ye!"
+ },
+ {
+  "id": "02F144_0C04.0",
+  "speaker": "ビアンカ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "もうエトさんにだって、 / 剣の腕では負けませんわ！",
+  "en": "When it comes to swordplay, I won't lose even to Eto now!"
+ },
+ {
+  "id": "02F144_0C32.0",
+  "speaker": "ネクラマンサー",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ぶつぶつぶつ……どうせだれもわからないんだ。 / 私がパワーアップしたことに……ぶつぶつぶつ。",
+  "en": "Mutter mutter mutter... Nobody's going to notice anyway. That I've gotten stronger... mutter mutter mutter."
+ },
+ {
+  "id": "02F144_0C6E.0",
+  "speaker": "セイラ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "さらに磨きのかかった / 私の脚をおがませてあげるわ！",
+  "en": "I'll let you feast your eyes on my legs, more polished than ever!"
+ },
+ {
+  "id": "02F144_0C9D.0",
+  "speaker": "ロザリンド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "セイル～～おまたせぇ～～！",
+  "en": "Seeeil! Sorry I'm laaate!"
+ },
+ {
+  "id": "02F144_0CC2.0",
+  "speaker": "ピエール",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ふっふっふ、俺の伝説のはじまりだぜぃ！",
+  "en": "Heh heh heh, this is where my legend begins!"
+ },
+ {
+  "id": "02F144_0CEB.0",
+  "speaker": "ジーナ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "カケル！ / ちょっとは爆弾作りの腕前、あがったわよ！",
+  "en": "Kakeru! My bomb-making skills have gotten a little better!"
+ },
+ {
+  "id": "02F144_0D18.0",
+  "speaker": "ラビット",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "にょにょにょにょにょ～～～っ！",
+  "en": "Nyonyonyonyonyooo!!"
+ },
+ {
+  "id": "02F144_0D3E.0",
+  "speaker": "パウエル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "生まれ変わった拙者に勝てるでござるかな。",
+  "en": "Pray tell, good sir, can you defeat me, reborn as I am?"
+ },
+ {
+  "id": "02F144_0D67.0",
+  "speaker": "レア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "もうだれも私の弓を逃れることはかないません！",
+  "en": "No one can escape my arrows anymore!"
+ },
+ {
+  "id": "02F144_0D92.0",
+  "speaker": "ターニャン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "にゃあああぁぁん！　ただいまだにゃん！",
+  "en": "Nyaaaaaan! I'm back, nya!"
+ },
+ {
+  "id": "02F144_0DB8.0",
+  "speaker": "バルカン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "マルレーネ殿、おまたせしましたな！",
+  "en": "Lady Marlene, I apologize for the wait!"
+ },
+ {
+  "id": "02F144_0DD9.0",
+  "speaker": "トルル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あはは、セイルーっ！　まだ生きてるかぁ！",
+  "en": "Ahaha, Seeeil! You still alive?!"
+ },
+ {
+  "id": "02F144_0E00.0",
+  "speaker": "ウェンディ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ああっ、きたわ！",
+  "en": "Ahh, it's finally here!"
+ },
+ {
+  "id": "02F144_0E0E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "このパワーアップしたあたしに / ルシフォンがひざまずく日がっっ！！",
+  "en": "The day Lushifon kneels before the powered-up me!!"
+ },
+ {
+  "id": "02F144_0E40.0",
+  "speaker": "へレネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "みなさん、おまたせしました。",
+  "en": "Everyone, I'm sorry to keep you waiting."
+ }
+]

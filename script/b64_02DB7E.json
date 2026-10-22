@@ -1,0 +1,993 @@
+[
+ {
+  "id": "02DB7E_0000.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれ、守りの種が",
+  "en": "Huh? There's Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_000F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてるぞ。",
+  "en": "",
+  "dup": "02D48A_0116.0"
+ },
+ {
+  "id": "02DB7E_0019.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カケルの防御力が、",
+  "en": "Kakeru's Defense +"
+ },
+ {
+  "id": "02DB7E_0028.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0035.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれえ、守りの種が",
+  "en": "Huh? Hey, there's Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0045.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてる。",
+  "en": "",
+  "dup": "02D48A_0466.0"
+ },
+ {
+  "id": "02DB7E_004E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "セイルの防御力が、",
+  "en": "Seil's Defense +"
+ },
+ {
+  "id": "02DB7E_005D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_006A.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "おお、守りの種を",
+  "en": "Oho, I have found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0079.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけてしまったぞ。",
+  "en": "",
+  "dup": "02D48A_057C.0"
+ },
+ {
+  "id": "02DB7E_0086.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "エトの防御力が、",
+  "en": "Eto's Defense +"
+ },
+ {
+  "id": "02DB7E_0095.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_00A2.0",
+  "speaker": "ナターシャ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あら、守りの種を",
+  "en": "Oh, I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_00B1.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたわ。",
+  "en": "",
+  "dup": "02D48A_00AE.0"
+ },
+ {
+  "id": "02DB7E_00BA.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ナターシャの防御力が、",
+  "en": "Natasha's Defense +"
+ },
+ {
+  "id": "02DB7E_00C9.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_00D6.0",
+  "speaker": "マルレーネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カケルさん、守りの種を",
+  "en": "Kakeru, I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_00E7.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけました！！",
+  "en": "!!"
+ },
+ {
+  "id": "02DB7E_00F1.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "マルレーネの防御力が、",
+  "en": "Marlene's Defense +"
+ },
+ {
+  "id": "02DB7E_0100.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_010D.0",
+  "speaker": "カルタス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あ、守りの種を",
+  "en": "Ah, I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_011B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞ。",
+  "en": "",
+  "dup": "02D48A_000D.0"
+ },
+ {
+  "id": "02DB7E_0124.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カルタスの防御力が、",
+  "en": "Cartas's Defense +"
+ },
+ {
+  "id": "02DB7E_0133.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0140.0",
+  "speaker": "ネレイド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれえ、守りの種を",
+  "en": "Huh? I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0150.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけちゃった。",
+  "en": "",
+  "dup": "02D48A_003F.0"
+ },
+ {
+  "id": "02DB7E_0159.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ネレイドの防御力が、",
+  "en": "Nereid's Defense +"
+ },
+ {
+  "id": "02DB7E_0168.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0175.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むうっ、守りの種を",
+  "en": "Mmph! I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0185.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞっ。",
+  "en": "!"
+ },
+ {
+  "id": "02DB7E_018F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カロンの防御力が、",
+  "en": "Charon's Defense +"
+ },
+ {
+  "id": "02DB7E_019E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_01AB.0",
+  "speaker": "ゴロンゴン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ふふふっ、守りの種を",
+  "en": "Heh heh! I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_01BC.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけてしまったぞ。",
+  "en": "",
+  "dup": "02D48A_057C.0"
+ },
+ {
+  "id": "02DB7E_01C9.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ゴロンゴンの防御力が、",
+  "en": "Gorongon's Defense +"
+ },
+ {
+  "id": "02DB7E_01D8.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_01E5.0",
+  "speaker": "ネプチューン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "守りの種を",
+  "en": "I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_01F1.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたわ！！",
+  "en": "!!"
+ },
+ {
+  "id": "02DB7E_01FB.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ネプチューンの防御力が、",
+  "en": "Neptune's Defense +"
+ },
+ {
+  "id": "02DB7E_020A.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0217.0",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "エトさん、守りの種を",
+  "en": "Eto, I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0228.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけました！！",
+  "en": "",
+  "dup": "02DB7E_00E7.0"
+ },
+ {
+  "id": "02DB7E_0232.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "メイフェアの防御力が、",
+  "en": "Mayfair's Defense +"
+ },
+ {
+  "id": "02DB7E_0241.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_024E.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "やったぞ、守りの種を",
+  "en": "All right, I went and found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_025F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけちまった！！",
+  "en": "!!"
+ },
+ {
+  "id": "02DB7E_026B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "クラリスの防御力が、",
+  "en": "Clarice's Defense +"
+ },
+ {
+  "id": "02DB7E_027A.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0287.0",
+  "speaker": "パンドラ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あら、こんな所に守りの種が",
+  "en": "My, of all places, there's Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_029C.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてるわ。",
+  "en": " lying around."
+ },
+ {
+  "id": "02DB7E_02A6.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "パンドラの防御力が、",
+  "en": "Pandora's Defense +"
+ },
+ {
+  "id": "02DB7E_02B5.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_02C2.0",
+  "speaker": "サントス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ま、守りの種を",
+  "en": "I-I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_02D0.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞ！！",
+  "en": "!!"
+ },
+ {
+  "id": "02DB7E_02DA.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "サントスの防御力が、",
+  "en": "Santos's Defense +"
+ },
+ {
+  "id": "02DB7E_02E9.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_02F6.0",
+  "speaker": "ガリバン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ううむ、守りの種を",
+  "en": "Hmmm, I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0306.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞ！！",
+  "en": "",
+  "dup": "02DB7E_02D0.0"
+ },
+ {
+  "id": "02DB7E_0310.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ガリバンの防御力が、",
+  "en": "Galivan's Defense +"
+ },
+ {
+  "id": "02DB7E_031F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_032C.0",
+  "speaker": "ビアンカ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "まあ、私の為の守りの種が",
+  "en": "Oh my, there's Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0340.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてますわ。",
+  "en": " lying here, meant just for me."
+ },
+ {
+  "id": "02DB7E_034B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ビアンカの防御力が、",
+  "en": "Bianca's Defense +"
+ },
+ {
+  "id": "02DB7E_035A.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0367.0",
+  "speaker": "ネクラマンサー",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ぶつぶつぶつ、内緒だけど / 守りの種を",
+  "en": "Mutter mutter mutter... Don't tell anyone, but I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_037F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ見つけてしまったぞ。 / ネクラマンサーの防御力が、",
+  "en": ". Necromancer's Defense +"
+ },
+ {
+  "id": "02DB7E_039A.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_03A7.0",
+  "speaker": "セイラ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "さすがすらりと伸びた脚ね、 / 守りの種を",
+  "en": "That's my long, slender legs for you. I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_03BC.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ見つけたわよ。 / セイラの防御力が、",
+  "en": ". Sayla's Defense +"
+ },
+ {
+  "id": "02DB7E_03D4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_03E1.0",
+  "speaker": "ロザリンド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "やったあ、守りの種を",
+  "en": "Yay, I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_03F2.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけちゃった！！",
+  "en": "!!"
+ },
+ {
+  "id": "02DB7E_03FC.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ロザリンドの防御力が、",
+  "en": "Rosalind's Defense +"
+ },
+ {
+  "id": "02DB7E_040B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0418.0",
+  "speaker": "ピエール",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "さすが俺様だ、 / 守りの種を",
+  "en": "As expected of yours truly. I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_042D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ見つけてしまったぞ。 / ピエールの防御力が、",
+  "en": ". Pierre's Defense +"
+ },
+ {
+  "id": "02DB7E_0448.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0455.0",
+  "speaker": "ジーナ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれえ、こんな所に守りの種が",
+  "en": "Huh? Of all places, there's Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_046B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてる。",
+  "en": "",
+  "dup": "02D48A_0466.0"
+ },
+ {
+  "id": "02DB7E_0474.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ジーナの防御力が、",
+  "en": "Gina's Defense +"
+ },
+ {
+  "id": "02DB7E_0483.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0490.0",
+  "speaker": "ラビット",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "にょにょっ、 / 守りの種が",
+  "en": "Nyo nyo! There's Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_04A4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ落ちてるにょ！！ / ラビットの防御力が、",
+  "en": " lying here, nyo!! Rabbit's Defense +"
+ },
+ {
+  "id": "02DB7E_04BE.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_04CB.0",
+  "speaker": "パウエル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "拙者、守りの種を",
+  "en": "I have found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_04DB.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたでござる！！",
+  "en": ", good sir!!"
+ },
+ {
+  "id": "02DB7E_04E8.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "パウエルの防御力が、",
+  "en": "Powell's Defense +"
+ },
+ {
+  "id": "02DB7E_04F7.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0504.0",
+  "speaker": "レア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "私、守りの種を",
+  "en": "I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0512.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけました！！",
+  "en": "",
+  "dup": "02DB7E_00E7.0"
+ },
+ {
+  "id": "02DB7E_051C.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "レアの防御力が、",
+  "en": "Rhea's Defense +"
+ },
+ {
+  "id": "02DB7E_052B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0538.0",
+  "speaker": "ターニャン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "にゃんっ、 / 守りの種を",
+  "en": "Nyan! I stole Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_054A.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ地面から盗んだにゃん！！ / ターニャンの防御力が、",
+  "en": " from the ground, nya!! Tanyan's Defense +"
+ },
+ {
+  "id": "02DB7E_0569.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0576.0",
+  "speaker": "バルカン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むむむ、守りの種を",
+  "en": "Hmmm, I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0586.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞ！！",
+  "en": "",
+  "dup": "02DB7E_02D0.0"
+ },
+ {
+  "id": "02DB7E_0590.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "バルカンの防御力が、",
+  "en": "Vulcan's Defense +"
+ },
+ {
+  "id": "02DB7E_059F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_05AC.0",
+  "speaker": "トルル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "やったあ、守りの種を",
+  "en": "Yay, I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_05BD.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけちゃった！！",
+  "en": "",
+  "dup": "02DB7E_03F2.0"
+ },
+ {
+  "id": "02DB7E_05C7.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "トルルの防御力が、",
+  "en": "Torul's Defense +"
+ },
+ {
+  "id": "02DB7E_05D6.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_05E3.0",
+  "speaker": "ロイドン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれれ、地面に守りの種が",
+  "en": "Huh? Look, there's Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_05F7.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてる。",
+  "en": "",
+  "dup": "02D48A_0466.0"
+ },
+ {
+  "id": "02DB7E_0600.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ロイドンの防御力が、",
+  "en": "Roydon's Defense +"
+ },
+ {
+  "id": "02DB7E_060F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_061C.0",
+  "speaker": "へレネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あの・・・守りの種を",
+  "en": "Um... I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_0630.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけました。",
+  "en": "",
+  "dup": "02D48A_00E3.0"
+ },
+ {
+  "id": "02DB7E_0639.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "へレネの防御力が、",
+  "en": "Helene's Defense +"
+ },
+ {
+  "id": "02DB7E_0648.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0655.0",
+  "speaker": "ウェンディ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ふん、ふん……♥ / 守りの種を",
+  "en": "Hm hm hmm~ I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_066C.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ見つけたわ！！ / ウェンディの防御力が、",
+  "en": "!! Wendy's Defense +"
+ },
+ {
+  "id": "02DB7E_0684.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02DB7E_0691.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "！？、守りの種を",
+  "en": "?!... I found Seed of Defense x"
+ },
+ {
+  "id": "02DB7E_06A0.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞ。",
+  "en": "",
+  "dup": "02D48A_000D.0"
+ },
+ {
+  "id": "02DB7E_06A9.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ハーディスの防御力が、",
+  "en": "Hardis's Defense +"
+ },
+ {
+  "id": "02DB7E_06B8.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ }
+]

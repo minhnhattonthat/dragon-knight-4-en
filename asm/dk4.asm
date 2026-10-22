@@ -52,6 +52,16 @@ org $80C253             ; unit-info box: LDY #defense_label / STY $00 right afte
 org $81F0E5             ; menu-string upload buffer 7E:B312: flush every 64 cells instead of 56 (the English
     CPY #$C312          ; party-name pool is 60 cells; 7E:C112-C312 is unused, zero in every RAM dump)
 
+org $8280BD             ; combat screen setup: JSL lz (font block 82:CCD3 -> 7F:D800); names: tools/gfx_plates.py
+    JSL plate_font
+
+org $8287DA             ; combat name plate: LDY $C6BD,x / STY $0F / LDY $C6BB,x (packed kana string bounds)
+    JSL plate_ptrs
+    NOP
+    NOP
+    NOP
+    NOP
+
 ; ===================== code =====================
 org $E0D000
 far_hook:               ; M=16 X=16, A = code, Y = offset after the 2-byte code, X = text ctx, carry set
@@ -392,4 +402,88 @@ draw:
     ADC !V_X
     STA !V_X
     PLX
+    RTS
+
+; ---------------------------------------------------------------------------------
+; combat name plates: precomposed names at $FF:8000 (128 bytes per packed name index, tools/gfx_plates.py)
+!PLATES     = $FF8000
+
+org $FFF000
+plate_ptrs:             ; M=16 X=16, A = plate tilemap address - $20: 82:87D0 draws the fixed codes at 82:C85B
+    CMP #$3C28          ; player plate (82:8726); the enemy plate is $3EF0
+    BNE .enemy
+    LDY #$C863
+    STY $0F
+    LDY #$C85B          ; $C0-$C7 -> font tiles $60-$67
+    RTL
+.enemy:
+    LDY #$C86B
+    STY $0F
+    LDY #$C863          ; $C8-$CF -> font tiles $68-$6F
+    RTL
+
+plate_font:             ; M=16 X=16: decompress the font, then the two names into its tiles $60-$6F (7F:E400)
+    JSL $80CE0E
+    PHP
+    PHB
+    REP #$30
+    LDA.l $0014B0       ; player unit
+    AND #$00FF
+    LDY #$E400
+    JSR plate_draw
+    LDA.l $0014B1       ; enemy unit: packed index + $20, none from $B0 up (82:8730)
+    AND #$00FF
+    CMP #$00B0
+    BCS +
+    ADC #$0020
+    LDY #$E500
+    JSR plate_draw
++   PLB
+    PLP
+    RTL
+
+plate_draw:             ; M=16 X=16, A = packed name index, Y = destination in bank $7F (8 tiles, 4bpp)
+    CMP #$00D0
+    BCC +
+    LDA #$0000
++   XBA
+    LSR A               ; * 128
+    TAX
+    SEP #$20
+    LDA #$7F
+    PHA
+    PLB
+.row:                   ; body $D, shadow $E, background $6 (rows 0-3) / $7 (rows 4-7)
+    LDA.l !PLATES+1,x
+    ORA.l !PLATES,x
+    STA $0011,y         ; plane 3: body | shadow
+    LDA #$FF
+    STA $0010,y         ; plane 2
+    LDA.l !PLATES,x
+    EOR #$FF
+    STA $0001,y         ; plane 1: not body
+    TXA
+    AND #$08
+    BEQ +
+    LDA.l !PLATES+1,x
+    EOR #$FF            ; plane 0, rows 4-7: not shadow
+    BRA ++
++   LDA.l !PLATES,x     ; plane 0, rows 0-3: body
+++  STA $0000,y
+    INX
+    INX
+    INY
+    INY
+    TXA
+    AND #$0F
+    BNE .row
+    REP #$21            ; next tile: skip planes 2-3
+    TYA
+    ADC #$0010
+    TAY
+    SEP #$20
+    TXA
+    AND #$7F
+    BNE .row
+    REP #$30
     RTS

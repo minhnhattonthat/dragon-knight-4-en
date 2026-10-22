@@ -3,7 +3,7 @@
 Binding for every translator and reviewer. Agents propose additions in reports; only the controller edits this file.
 Speaker name tags come from `tbl/names_en.tsv` (also binding: use the same spellings in dialogue).
 
-## Rulings (user, pre-approved 2026-10-16)
+## Rulings (user, pre-approved 2026-10-16; options and reasons in docs/decisions.md)
 - Honorifics: dropped, conveyed through register (様 -> "Lord/Lady X" only where it is a real title or a servant
   addressing a master; otherwise just the name). Name order: given name first.
 - Romanisation: no official English localisation of DK4 exists; Western spellings for obviously Western names,
@@ -14,9 +14,11 @@ Speaker name tags come from `tbl/names_en.tsv` (also binding: use the same spell
 
 ## Style rules
 - Punctuation: 「」 -> "...", 『』 -> '...', …… / ・・・ -> "...", ！！ -> "!!" (keep doubled ! for shouting),
-  ！？ -> "?!", ～ -> "~" only for sing-song speech, （ ） (thoughts) -> ( ).
-- ASCII only. Never use { } | or a tab. Use straight quotes.
+  ！？ -> "?!" (also alone; never "!?"), ～ -> "~" only for sing-song speech, （ ） (thoughts) -> ( ).
+- ASCII only. Never use { } | or a tab, except "{Name}" where the Japanese writes a speaker tag 【name】 inline in
+  the text (battle text: 【ドウム】 -> {Doum}). Use straight quotes.
 - Stutters keep the hyphen form: "W-wait!". Laughs and sound effects in English: "Ahahaha!", "Munch munch".
+  ククク (villain chuckle) -> "Heh heh heh" (not "Ku ku ku").
 - Speech tics: 〜じょ / baby talk etc. -> render in English voice, don't transliterate.
 
 ## Characters (see tbl/names_en.tsv for every speaker tag)
@@ -74,6 +76,8 @@ Speaker name tags come from `tbl/names_en.tsv` (also binding: use the same spell
 | 部隊 | unit / troops | SRPG squads |
 | 〜隊 | the X Squad | e.g. カルタス隊 = Cartas's Squad |
 | 力の種 / 守りの種 | Seed of Power / Seed of Defense | |
+| すばやさの種 | Seed of Speed | raises Move Range (battle text) |
+| 攻撃力 / 防御力 / 移動力 / 攻撃範囲 | Attack / Defense / Move Range / Range | stat names as in the unit info box |
 | 訓練所 | the training ground | |
 | ホワイトドラゴン | the White Dragon | |
 | エルフ(一族) | elf / the elves | |

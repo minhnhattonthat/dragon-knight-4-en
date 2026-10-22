@@ -1,0 +1,1145 @@
+[
+ {
+  "id": "02C459_0000.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "よーし、敵を全滅させたぞ！！",
+  "en": "All right, we've wiped out the enemy!!"
+ },
+ {
+  "id": "02C459_0016.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "おーい、誰か助けてくれいっ！！",
+  "en": "Heyyy, somebody help meee!!"
+ },
+ {
+  "id": "02C459_002A.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あ、さっきのおじさん。",
+  "en": "Oh, it's that mister from before."
+ },
+ {
+  "id": "02C459_003B.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "こ、こんなに敵がいると思わなかったぞ。",
+  "en": "I-I never expected there'd be this many enemies."
+ },
+ {
+  "id": "02C459_005B.0",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "た、助けて！！",
+  "en": "H-help me!!"
+ },
+ {
+  "id": "02C459_006B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 5,
+  "jp": "【ドウム】 / だ、誰だお前は！？ / 確か表には部隊がいたはずだが・・・ / 全滅させただとぉ！！ / 逃げろっ！！",
+  "en": "{Doum} W-who are you?! I'm sure there were troops posted out front... You wiped them out?! Run for it!!"
+ },
+ {
+  "id": "02C459_00AE.0",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "あ、ありがとうございました・・・ / このご恩は忘れません。",
+  "en": "Th-thank you so much... I will never forget this kindness."
+ },
+ {
+  "id": "02C459_00AE.1",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "私はどこか安全な場所に隠れる事にします。 / 本当にありがとうございました。",
+  "en": "I'll go and hide somewhere safe. Thank you, truly."
+ },
+ {
+  "id": "02C459_0108.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "た、助けろっ！！",
+  "en": "H-hey, help me out here!!"
+ },
+ {
+  "id": "02C459_0119.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "【ドウム】 / ん！？・・・誰だお前は！？",
+  "en": "{Doum} Hm?! ...Who are you?!"
+ },
+ {
+  "id": "02C459_0136.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "【ドウム】 / おいお前、遊ぶ相手は他にもいるだろ？",
+  "en": "{Doum} Hey you, haven't you got anyone else to play with?"
+ },
+ {
+  "id": "02C459_0187.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "その汚い耳でよーく聞けよ、 / お前の仲間はみんな倒しちゃったんだぞ！！",
+  "en": "Listen good with those dirty ears: we beat all your buddies!!"
+ },
+ {
+  "id": "02C459_01B2.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "お、お前の仲間なんか、 / もういないんだからね。",
+  "en": "Y-your friends... they're all gone now, so there."
+ },
+ {
+  "id": "02C459_01D2.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "いいかげんにしろ、 / お前の仲間はもう誰もいないぜ。",
+  "en": "Enough of this. Not one of your comrades is left."
+ },
+ {
+  "id": "02C459_01F5.0",
+  "speaker": "カルタス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "お前の仲間なんか、 / もう誰もいないぞ。",
+  "en": "Your pals? There's none of 'em left."
+ },
+ {
+  "id": "02C459_0212.0",
+  "speaker": "ネプチューン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あなたの仲間なんかもう誰もいないわよ。",
+  "en": "Your friends are all gone, you know."
+ },
+ {
+  "id": "02C459_022C.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "お前の仲間など、もう誰もいないぞ。",
+  "en": "Your comrades are no more."
+ },
+ {
+  "id": "02C459_0246.0",
+  "speaker": "ゴロンゴン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "お前の仲間なんか、 / みんな私達がやっつけてしまったぞ。",
+  "en": "We've already beaten every one of your friends!"
+ },
+ {
+  "id": "02C459_026B.0",
+  "speaker": "ナターシャ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "あなたの仲間なんか、 / もう誰もいないんだからっ！！",
+  "en": "Your friends are all gone, so there!!"
+ },
+ {
+  "id": "02C459_028E.0",
+  "speaker": "ネレイド",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "あなたの仲間なんか、 / みんな私達がやっつけちゃったんだから！！",
+  "en": "We beat up all your friends, so there!!"
+ },
+ {
+  "id": "02C459_02B5.0",
+  "speaker": "マルレーネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あなたの仲間はもう誰一人いませんよ。",
+  "en": "Not a single one of your allies remains."
+ },
+ {
+  "id": "02C459_02D1.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "【ドウム】 / ・・・。",
+  "en": "{Doum} ......"
+ },
+ {
+  "id": "02C459_02E4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "【ドウム】 / や、やばい、俺一人取り残されたのか！？ / ・・・逃げろっ！！",
+  "en": "{Doum} Uh-oh, am I the only one left?! ...Run for it!!"
+ },
+ {
+  "id": "02C459_02E4.1",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ふう、助かったぜ。",
+  "en": "Phew, you saved my hide."
+ },
+ {
+  "id": "02C459_034D.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ううん、それよりここにいると危ないよ。",
+  "en": "Don't mention it. Anyway, it's dangerous to stay here."
+ },
+ {
+  "id": "02C459_0368.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "う、ううん、 / それよりこんな所にいると危ないよ。",
+  "en": "N-no, it's nothing... But it's dangerous to be in a place like this."
+ },
+ {
+  "id": "02C459_038A.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "お礼を言う暇があったら、 / 逃げた方がいいな。",
+  "en": "If you've got time to thank us, you'd better run."
+ },
+ {
+  "id": "02C459_03AB.0",
+  "speaker": "カルタス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "お礼なんかいいからよ、 / 早く逃げたほうがいいぜ。",
+  "en": "Forget the thanks, you'd better get outta here quick."
+ },
+ {
+  "id": "02C459_03CD.0",
+  "speaker": "ネプチューン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_03D3.0",
+  "speaker": "ナターシャ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_03D5.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "お礼なんかいいから、 / 早く逃げたほうがいいわ。",
+  "en": "Never mind the thanks, you'd better hurry and run."
+ },
+ {
+  "id": "02C459_03F4.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "私は女には興味がない、 / とっとと逃げろ。",
+  "en": "I have no interest in women. Now be off with you."
+ },
+ {
+  "id": "02C459_0412.0",
+  "speaker": "ゴロンゴン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "このバナナをお土産にあげるから、 / 早く逃げたほうがいいぞ。",
+  "en": "Here, take this banana as a parting gift. Now you'd better run, quick."
+ },
+ {
+  "id": "02C459_0439.0",
+  "speaker": "ネレイド",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "お礼なんていいですから、 / 早く逃げたほうがいいと思います。",
+  "en": "There's no need to thank us. I think you'd better hurry and run."
+ },
+ {
+  "id": "02C459_0460.0",
+  "speaker": "マルレーネ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "お礼なんていいですから、 / 早く逃げたほうがいいです。",
+  "en": "There's no need for thanks. Please hurry and get away."
+ },
+ {
+  "id": "02C459_0482.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "言われなくたってわかってるよ、 / じゃあな、あばよ！！",
+  "en": "Like I need you to tell me! See ya, so long!!"
+ },
+ {
+  "id": "02C459_04AE.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "【オベロン】 / 私に逆らっていいのか？ / おまえの妹がどうなっても知らないぞ。",
+  "en": "{Oberon} Are you sure you want to defy me? I can't promise what will become of your sister."
+ },
+ {
+  "id": "02C459_04AE.1",
+  "speaker": "レア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "くっ・・・。",
+  "en": "Ngh..."
+ },
+ {
+  "id": "02C459_0537.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "みんな、ここにも敵がいるよ！！",
+  "en": "Everyone, there are enemies here too!!"
+ },
+ {
+  "id": "02C459_054F.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "み、みんな！！ / ここにも敵がいたよ。",
+  "en": "E-everyone!! There were enemies here too."
+ },
+ {
+  "id": "02C459_056B.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "みんな、こんな所にも敵がひそんでいたぞ！！",
+  "en": "Everyone, enemies were lurking even in a place like this!!"
+ },
+ {
+  "id": "02C459_058A.0",
+  "speaker": "カルタス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "みんな集まれっ、ここにも敵がいるぞ！！",
+  "en": "Everybody, gather 'round, there's enemies here too!!"
+ },
+ {
+  "id": "02C459_05A7.0",
+  "speaker": "ネレイド",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "きゃっ！！ / ここにも敵がいたわッ！！",
+  "en": "Eek!! There were enemies here too!!"
+ },
+ {
+  "id": "02C459_05C4.0",
+  "speaker": "ナターシャ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "きゃあっ！！ / ここにも敵がいたわよ！！",
+  "en": "Kyaaah!! There were enemies here too!!"
+ },
+ {
+  "id": "02C459_05E1.0",
+  "speaker": "パンドラ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "みんな、ここに敵がいるわ！！",
+  "en": "Everyone, there's an enemy here!!"
+ },
+ {
+  "id": "02C459_05F8.0",
+  "speaker": "ネプチューン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "みんな、ここに敵がいるわ！！",
+  "en": "Everyone, an enemy's over here!!"
+ },
+ {
+  "id": "02C459_060F.0",
+  "speaker": "ゴロンゴン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "みんな、ここにも敵がいるぞ！！",
+  "en": "Everybody, there's enemies here too!!"
+ },
+ {
+  "id": "02C459_0627.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "仲間達よ、ここにも敵がいるぞ！！",
+  "en": "Comrades, there are foes here as well!!"
+ },
+ {
+  "id": "02C459_0641.0",
+  "speaker": "マルレーネ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "みなさんっ！！ / ここにも敵がいます。",
+  "en": "Everyone!! There are enemies here too."
+ },
+ {
+  "id": "02C459_065D.0",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "み、みなさん！！ / ここにも敵がいます。",
+  "en": "E-everyone!! There are enemies here as well."
+ },
+ {
+  "id": "02C459_067A.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "げっ、敵がいるぞ！！ / みんな来てくれっ！！",
+  "en": "Yikes, enemies!! Somebody get over here!!"
+ },
+ {
+  "id": "02C459_0699.0",
+  "speaker": "ビアンカ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "みなさーん！！ / ここにも敵がいますわよっ！！",
+  "en": "Everyone!! There are enemies here too, you know!!"
+ },
+ {
+  "id": "02C459_06B9.0",
+  "speaker": "サントス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "うわっと・・・ / ここにも敵がいたぞ！！",
+  "en": "Whoa there... there were enemies here too!!"
+ },
+ {
+  "id": "02C459_06D9.0",
+  "speaker": "ガリバン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ここにも敵がいるぞい！！",
+  "en": "There's enemies here too, I tell ye!!"
+ },
+ {
+  "id": "02C459_06EF.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "【オベロン】 / う、うひゃあ！！ / 大きな声を出して仲間を呼ぶなっ！！",
+  "en": "{Oberon} Y-yikes!! Don't shout for your friends like that!!"
+ },
+ {
+  "id": "02C459_06EF.1",
+  "speaker": "レア",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "あっ・・・ / へレネの居場所を言ってから逃げてっ！！",
+  "en": "Ah... Tell me where Helene is before you run!!"
+ },
+ {
+  "id": "02C459_06EF.2",
+  "speaker": "レア",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "も、もう少しでへレネの居場所を / 聞きだせそうだったのに！！ / あいつ、どこに逃げたのかしら！？",
+  "en": "I-I almost got him to tell me where Helene is!! Where did he run off to?!"
+ },
+ {
+  "id": "02C459_07BE.0",
+  "speaker": "カケル",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07C4.0",
+  "speaker": "セイル",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07CA.0",
+  "speaker": "エト",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07D0.0",
+  "speaker": "カルタス",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07D6.0",
+  "speaker": "ネレイド",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07DC.0",
+  "speaker": "ナターシャ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07E2.0",
+  "speaker": "ネプチューン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07E8.0",
+  "speaker": "ゴロンゴン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07EE.0",
+  "speaker": "カロン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07F4.0",
+  "speaker": "マルレーネ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_07FA.0",
+  "speaker": "メイフェア",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0800.0",
+  "speaker": "クラリス",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0806.0",
+  "speaker": "ビアンカ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_080C.0",
+  "speaker": "サントス",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0812.0",
+  "speaker": "パンドラ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0818.0",
+  "speaker": "ガリバン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_081E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あ・・・ま、待って！！",
+  "en": "Ah... w-wait!!"
+ },
+ {
+  "id": "02C459_0830.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あ・・・ま、待て！！",
+  "en": "Ah... h-hold it!!"
+ },
+ {
+  "id": "02C459_0845.0",
+  "speaker": "へレネ",
+  "form": "dlg",
+  "nlines": 4,
+  "jp": "あ、あなた達は！？ / お願い、助けて下さい！！ / ルシフォン軍の人達って / ひどい事ばかりするんです！！",
+  "en": "Wh-who are you people?! Please, help me!! The people of Lushifon's army are so cruel... they do nothing but terrible things!!"
+ },
+ {
+  "id": "02C459_08EC.0",
+  "speaker": "カケル",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_08F2.0",
+  "speaker": "セイル",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_08F4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいよ。",
+  "en": "Once we untie the rope, you'd better get away fast."
+ },
+ {
+  "id": "02C459_0913.0",
+  "speaker": "エト",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0919.0",
+  "speaker": "ウェンディ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_091F.0",
+  "speaker": "ナターシャ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0921.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいわね。",
+  "en": "Once we untie the rope, you'd better run right away."
+ },
+ {
+  "id": "02C459_0941.0",
+  "speaker": "マルレーネ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0947.0",
+  "speaker": "ネレイド",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0949.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいと思います。",
+  "en": "Once the rope's untied, I think you should run right away."
+ },
+ {
+  "id": "02C459_096C.0",
+  "speaker": "カルタス",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_096E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいい。",
+  "en": "Once you're untied, run at once."
+ },
+ {
+  "id": "02C459_098C.0",
+  "speaker": "カロン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_098E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいぞ。",
+  "en": "Once we untie this rope, you'd better run off right away."
+ },
+ {
+  "id": "02C459_09AD.0",
+  "speaker": "ネプチューン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_09B3.0",
+  "speaker": "ゴロンゴン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_09B9.0",
+  "speaker": "メイフェア",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_09BF.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいな。",
+  "en": "Once the rope's off, you'd best run right away."
+ },
+ {
+  "id": "02C459_09E0.0",
+  "speaker": "パンドラ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_09E6.0",
+  "speaker": "サントス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいぜ。",
+  "en": "Once the rope's off, you'd better beat it fast."
+ },
+ {
+  "id": "02C459_0A07.0",
+  "speaker": "ガリバン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいぞい。",
+  "en": "Once the rope's untied, ye'd best run off right quick, I tell ye."
+ },
+ {
+  "id": "02C459_0A29.0",
+  "speaker": "ロザリンド",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0A2B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいと思う。",
+  "en": "I think you should run as soon as the rope is off."
+ },
+ {
+  "id": "02C459_0A4C.0",
+  "speaker": "セイラ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げなさい。",
+  "en": "When the rope is untied, run away immediately."
+ },
+ {
+  "id": "02C459_0A69.0",
+  "speaker": "ネクラマンサー",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0A6F.0",
+  "speaker": "ジーナ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0A75.0",
+  "speaker": "ビアンカ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいですわ。",
+  "en": "Once the rope is undone, you had best flee at once, my dear."
+ },
+ {
+  "id": "02C459_0A97.0",
+  "speaker": "ピエール",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ロープを解いたらすぐに / 逃げたほうがいいと思うぜ。",
+  "en": "Once that rope's off, I'd say you better get running."
+ },
+ {
+  "id": "02C459_0B27.0",
+  "speaker": "カケル",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B2D.0",
+  "speaker": "セイル",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B33.0",
+  "speaker": "エト",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B39.0",
+  "speaker": "ナターシャ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B3F.0",
+  "speaker": "マルレーネ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B45.0",
+  "speaker": "ネレイド",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B4B.0",
+  "speaker": "カルタス",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B51.0",
+  "speaker": "ネプチューン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B57.0",
+  "speaker": "ゴロンゴン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B5D.0",
+  "speaker": "パンドラ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B63.0",
+  "speaker": "カロン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B69.0",
+  "speaker": "メイフェア",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B6F.0",
+  "speaker": "クラリス",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B75.0",
+  "speaker": "ビアンカ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B7B.0",
+  "speaker": "サントス",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B81.0",
+  "speaker": "ガリバン",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B87.0",
+  "speaker": "ロザリンド",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B8D.0",
+  "speaker": "セイラ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B93.0",
+  "speaker": "ネクラマンサー",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B99.0",
+  "speaker": "ジーナ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0B9F.0",
+  "speaker": "ピエール",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0BA5.0",
+  "speaker": "ウェンディ",
+  "form": "empty",
+  "nlines": 0,
+  "jp": "",
+  "en": ""
+ },
+ {
+  "id": "02C459_0BAB.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "・・・。",
+  "en": "......"
+ },
+ {
+  "id": "02C459_0BB6.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれれ、もう逃げちゃったの？",
+  "en": "Huh? She already ran away?"
+ },
+ {
+  "id": "02C459_0BC4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "・・・。",
+  "en": "",
+  "dup": "02C459_0BAB.0"
+ },
+ {
+  "id": "02C459_0BCF.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれれ、もう逃げてしまったのか？",
+  "en": "Huh? She's already gone?"
+ },
+ {
+  "id": "02C459_0BE1.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "・・・。",
+  "en": "",
+  "dup": "02C459_0BAB.0"
+ },
+ {
+  "id": "02C459_0BEC.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "もう・・・逃げちゃったの？",
+  "en": "She... already ran off?"
+ },
+ {
+  "id": "02C459_0BFD.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "・・・。",
+  "en": "",
+  "dup": "02C459_0BAB.0"
+ },
+ {
+  "id": "02C459_0C08.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "逃げ足の速い女だな。",
+  "en": "Quick to run, that woman."
+ },
+ {
+  "id": "02C459_0C17.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "・・・。",
+  "en": "",
+  "dup": "02C459_0BAB.0"
+ },
+ {
+  "id": "02C459_0C22.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "逃げ足の速い女の子なんですね。",
+  "en": "She's quite a fast runner, that girl."
+ },
+ {
+  "id": "02C459_0C35.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "・・・。",
+  "en": "",
+  "dup": "02C459_0BAB.0"
+ },
+ {
+  "id": "02C459_0C40.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "なんだ、もう逃げちまったのか？",
+  "en": "What, she ran off already?"
+ },
+ {
+  "id": "02C459_0C52.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "・・・。",
+  "en": "",
+  "dup": "02C459_0BAB.0"
+ },
+ {
+  "id": "02C459_0C5D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ぶつぶつ・・・もう逃げてしまったのか？",
+  "en": "Mutter mutter... has she fled already?"
+ },
+ {
+  "id": "02C459_0C76.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "・・・。",
+  "en": "",
+  "dup": "02C459_0BAB.0"
+ },
+ {
+  "id": "02C459_0C81.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "もう逃げてしまったぞい、 / 逃げ足の速い女の子だぞい。",
+  "en": "She's run off already, I tell ye. Quick on her feet, that girl, I tell ye."
+ }
+]

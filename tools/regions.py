@@ -10,7 +10,13 @@ from vm import parse_block, parse
 # VM text streams outside the block table: (pseudo block index, rom start, rom end, cpu bank).
 # The VM runs them in place (base = ROM address), so jump targets are CPU addresses in that bank.
 # 60 = ending epilogue (module $A2=$15, 81:D5AB -> 86:8000; entry table 86:821B, 4 bytes: cond, portrait, ptr16)
-EXTRA_STREAMS = [(60, 0x3028C, 0x320C7, 0x86)]
+# 61-67 = battle event text in bank $85 (victory, rescues, taunts, stat-ups). Direct loaders `LDA #$85 / STA $02 /
+# LDY #ptr / STY $00 / JSR $D81D` (84:826F ...) and 32-entry pointer tables (one word per party member, read by
+# 84:DEDE and friends) at 85:D0FB, D44C, DB40, E245, E985, F106; each span runs from the end of a table to the next.
+EXTRA_STREAMS = [(60, 0x3028C, 0x320C7, 0x86),
+                 (61, 0x2C45B, 0x2D0FB, 0x85), (62, 0x2D13B, 0x2D44C, 0x85), (63, 0x2D48C, 0x2DB40, 0x85),
+                 (64, 0x2DB80, 0x2E245, 0x85), (65, 0x2E285, 0x2E985, 0x85), (66, 0x2E9C5, 0x2F106, 0x85),
+                 (67, 0x2F146, 0x2FFA3, 0x85)]
 
 
 def stream_ops(rom, glyphs, blk):

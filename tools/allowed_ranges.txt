@@ -9,7 +9,11 @@ D600-DDFF     81: party name pools, name table, menu pools (ui.json party_list, 
 DEAF-DEB5     81:DEAF item count string
 E130-E135     81:E12F party pool ref
 E426-E42B     options pool ref
+E504-E505     options sound submenu pointer ref
+E50C-E50D     options mouse-speed submenu pointer ref
+E540          options submenu draw routine bank byte (81:E53F LDA #$81)
 E54B-E559     options strings
+E55E-E58F     options submenu strings (relocated, old slots blanked)
 E740-E774     item names: bank + pointer refs
 EB03-EB08     main menu pool ref
 ECEC-ECF1     main menu pool ref
@@ -29,6 +33,7 @@ F47D          bank-84 string table bank byte -> $E2
 2A47B-2A48B   no-save / blank-notebook refs
 2A53C-2A599   notebook/title strings
 290000-2FFFFF script blocks (patched in place with far-call tokens)
+2C459-2FFA3   battle event text streams (85:C459, regions.py blocks 61-67)
 3028C-320C7   ending epilogue stream (86:828C)
 4DABC-4E2BB   battle command button graphics
 210D9-210DF   battle popup graphics loader: block moved to $E0:E000 (tools/gfx_popups.py)
@@ -37,4 +42,8 @@ F47D          bank-84 string table bank byte -> $E2
 2A5A3-2A5E0   notebook place-name pointer table (ui.json notebook_places)
 2A68A-2A6C7   notebook route pointer table
 2A8C5-2ACC4   battle popup tilemaps (save / end turn / yield / saved)
+2ACC5-2AD44   battle popup YES / NO highlighted button rows (re-tiled with the popups)
+100BD-100C0   combat setup font decompress JSL -> plate_font (tools/gfx_plates.py)
+107DA-107E1   combat name plate string bounds -> JSL plate_ptrs
+1485B-1486A   combat name plates: fixed codes $A0-$AF (old packed kana names)
 300000-3FFFFF expansion banks E0-FF (engine, font, English text)

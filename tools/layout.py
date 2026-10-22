@@ -6,6 +6,7 @@ Bytes: 0x20-0x7E letters, 0x7F flush, 0x00 newline (line+1; the 3rd newline of a
 0x11 blank cell, 2-byte JP glyph codes (01-0F xx), 10 05 pp portrait, 0E FF end of far text.
 """
 import os
+import re
 from dk4 import ROOT
 from font_en import widths
 
@@ -69,27 +70,57 @@ def line_px(s):
     return sum(W[c] for c in s)
 
 
-def wrap(text, first_budget=CELLS, budget=CELLS, indent=INDENT):
-    """Greedy word wrap by cells. Returns list of line strings (each including the indent)."""
+def wrap(text, first_budget=CELLS, budget=CELLS, indent=INDENT, first_indent=None):
+    """Greedy word wrap by cells. Returns list of line strings (each including the indent).
+    first_indent: prefix of the first line instead of indent (a mid-line continuation); if the first word
+    does not fit there, the first line is just that prefix and the text starts on the next line."""
     words = text.split(' ')
-    lines, cur = [], indent
+    lines, cur = [], indent if first_indent is None else first_indent
+    empty = True
     for w in words:
         if w == '':
             continue
-        cand = cur + (w if cur == indent else ' ' + w)
+        cand = cur + (w if empty else ' ' + w)
         lim = first_budget if not lines else budget
         if line_cells(cand) <= lim and (lim < CELLS or line_px(cand) <= MAX_PX):
-            cur = cand
+            cur, empty = cand, False
         else:
-            if cur == indent:
+            if empty and (lines or first_indent is None):
                 raise LayoutError('word too long: %r' % w)
             lines.append(cur)
-            cur = indent + w
+            cur, empty = indent + w, False
             if line_cells(cur) > budget:
                 raise LayoutError('word too long: %r' % w)
-    if cur != indent:
+    if not empty:
         lines.append(cur)
     return lines
+
+
+SENT_END = re.compile(r'(?<=[.!?])\s+|(?<=[.!?]["\')])\s+')
+
+
+def pages_of(text, per_page):
+    """Wrap text into pages of per_page lines, breaking pages at sentence ends when that costs no extra page;
+    a sentence longer than a page is broken inside it and the following sentences continue after its last line."""
+    pages, cur = [], ''
+    for s in SENT_END.split(text):
+        cand = (cur + ' ' + s).strip()
+        if len(wrap(cand)) <= per_page:
+            cur = cand
+            continue
+        if cur:
+            pages.append(wrap(cur))
+        ls = wrap(s)
+        while len(ls) > per_page:
+            pages.append(ls[:per_page])
+            ls = ls[per_page:]
+        cur = ' '.join(x.strip() for x in ls)
+    if cur:
+        pages.append(wrap(cur))
+    lines = wrap(text)
+    if len(pages) > -(-len(lines) // per_page):   # sentence breaks would cost a page: fill pages instead
+        pages = [lines[i:i + per_page] for i in range(0, len(lines), per_page)]
+    return pages
 
 
 def _name(name_en, portrait):
@@ -110,6 +141,7 @@ class Box:
         self.b = bytearray()
         self.line = line
         self.col_used = False   # something drawn on the current line
+        self.col = 0            # cells drawn on the current line by text_line
 
     def nl(self):
         if not self.col_used:
@@ -117,6 +149,7 @@ class Box:
         self.b.append(NL)
         self.line = (self.line + 1) % LINES
         self.col_used = False
+        self.col = 0
 
     def new_page(self):
         if self.line != 0 or self.col_used:
@@ -131,15 +164,17 @@ class Box:
             raise LayoutError('line over %d cells / %d px (%d): %r' % (CELLS, MAX_PX, c, s))
         self.b += b
         self.col_used = True
+        self.col += c
 
     def raw(self, b, used=True):
         self.b += b
         self.col_used = self.col_used or used
 
 
-def dlg_region(segs, start_line=0, trailing_nl=False, first_budget=CELLS):
-    """segs: [(speaker_en or '', portrait or None, english text)]. Returns (bytes, end_line).
-    first_budget: cells for the very first line when the region starts mid-line (after an inserted name)."""
+def dlg_region(segs, start_line=0, trailing_nl=False, first_budget=CELLS, attach=False, last_room=0):
+    """segs: [(speaker_en or '', portrait or None, english text)]. Returns (bytes, end_line, end_col).
+    first_budget: cells for the very first line when the region starts mid-line (after an inserted name or number).
+    end_col: text cells on the last line (0 after a trailing newline)."""
     box = Box(start_line)
     for si, (name, portrait, text) in enumerate(segs):
         if name:
@@ -152,7 +187,27 @@ def dlg_region(segs, start_line=0, trailing_nl=False, first_budget=CELLS):
         if fb == 0 and text:   # mid-line with unknown room left: continue on the next line
             box.nl()
             fb = CELLS
-        lines = wrap(text, fb) if text else []
+        # after an inline number the text attaches directly: its own leading space (" points") or none ("!!")
+        fi = (' ' if text[:1] == ' ' else '') if attach and si == 0 and not name else None
+        lines = wrap(text, fb, first_indent=fi) if text else []
+        if last_room and si == len(segs) - 1 and len(lines[-1:]) and line_cells(lines[-1]) > CELLS - last_room:
+            head, _, w = lines[-1].rpartition(' ')   # the number after this region would not fit: move a word down
+            if not head.strip():
+                raise LayoutError('no room for the number after %r' % lines[-1])
+            lines[-1:] = [head, INDENT + w]
+        if name and len(lines) > LINES - 1:
+            # overflow pages repeat the speaker; break them at sentence ends, not mid-sentence
+            pages = pages_of(text, LINES - 1)
+            for pi, pg in enumerate(pages):
+                if pi:
+                    box.new_page()
+                    box.raw(_name(name, portrait))
+                    box.nl()
+                for j, ln in enumerate(pg):
+                    box.text_line(ln)
+                    if j != len(pg) - 1 or pi != len(pages) - 1:
+                        box.nl()
+            lines = []
         for j, ln in enumerate(lines):
             if box.line == 0 and not box.col_used and name and j > 0:
                 box.raw(_name(name, portrait))  # repeat the speaker on continuation pages
@@ -166,7 +221,7 @@ def dlg_region(segs, start_line=0, trailing_nl=False, first_budget=CELLS):
             box.nl()
     if trailing_nl:
         box.nl()
-    return bytes(box.b), box.line
+    return bytes(box.b), box.line, box.col
 
 
 def choice_region(lines_fields, jp_layout):

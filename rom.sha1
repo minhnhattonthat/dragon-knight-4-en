@@ -1,0 +1,2 @@
+# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
+cfb5d2ce3eab576dae49f570284b75c1a8c0465d  rom/Dragon Knight 4 (Japan).sfc

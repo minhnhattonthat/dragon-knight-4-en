@@ -13,7 +13,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-SK = r'H:\translation\batch\.claude\skills\translate-retro-game\scripts'
+SK = os.path.join(os.environ.get('SKILL', os.path.expanduser('~/.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game')), 'scripts')
 
 
 def starts(per):

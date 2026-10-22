@@ -132,8 +132,14 @@ def check_text(row, en, names_en, rows):
     bad = sorted({c for c in en if ord(c) > 126 or ord(c) < 32})
     if bad:
         errs.append('non-ASCII %r' % ''.join(bad))
-    if '{' in en or '}' in en:
-        errs.append('{ } not allowed')
+    # 【name】 written inline in the Japanese -> "{Name}" (names_en spelling) at the same place in the English
+    want = [names_en.get(n, n) for n in re.findall('【([^】]*)】', row['jp'])]
+    got = re.findall(r'\{([^}]*)\}', en)
+    if got != want or en.count('{') != len(want) or en.count('}') != len(want):
+        errs.append('{ } only for the inline name tags %s' % ['{%s}' % w for w in want] if want else '{ } not allowed')
+    if want:
+        en = re.sub(r'\s*\{[^}]*\}\s*', ' ', en).strip()
+        row = dict(row, speaker='-', jp=re.sub('【[^】]*】', '', row['jp']))   # tag checked above, not a name use
     if ORD_RE.search(en) and False:
         errs.append('ordinal')
     if row['form'] == 'choice':

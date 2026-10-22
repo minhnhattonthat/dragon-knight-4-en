@@ -5,7 +5,7 @@ RPG with lots of comedy: Kakeru (a cheeky, girl-crazy 15-year-old, son of the le
 sorceress Luna) and Eto (a proud, gruff masked swordsman) fight the demon Lushifon's army with a growing band of
 allies. The SNES version is all-ages; keep innuendo as innuendo.
 Work only on the batch named in your dispatch. Do all translation yourself; do not dispatch subagents.
-Repo root: H:\translation\batch\projects\dragon-knight-4 (run commands from there).
+Repo root: H:\translation\dragon-knight-4 (run commands from there).
 
 ## Read first
 1. `docs/style-reference.md` - character voices and approved example pairs. Match this voice.
@@ -37,8 +37,8 @@ Run `python -X utf8 tools/batches.py check <batch>` and fix every reported id un
 - Names and terms exactly as in the glossary. Never abbreviate. Honorifics are dropped (様 on a lord/master ->
   "Lord X"/"Lady X"; さん/ちゃん/君 -> nothing, convey closeness through tone). Given name first.
 - Punctuation: 「」 -> "...", …… -> "...", ！！ -> "!!", ！？ -> "?!", （ ） -> ( ) for thoughts/asides.
-- Stutters: "W-wait!". Sound effects and laughs in English ("Wahaha!", "Ku ku ku...", "Munch munch").
-- `……。` alone -> "......"; `！？` alone -> "!?".
+- Stutters: "W-wait!". Sound effects and laughs in English ("Wahaha!", "Heh heh heh...", "Munch munch").
+- `……。` alone -> "......"; `！？` alone -> "?!" (never "!?").
 - Numbers in text are literal (no variables); write "7 Seeds of Power" style naturally.
 - Kakeru: casual, cheeky boy ("Dad", "Yay!", "c'mon"). Eto: commanding, curt, a bit pompous ("Hmph."). Lushifon
   and Minax: formal, archaic villain register. Children talk like children.
@@ -68,6 +68,18 @@ Run `python -X utf8 tools/batches.py check <batch>` and fix every reported id un
 - Deliberate name mix-ups in the Japanese (e.g. Kakeru calling Torhes "Hortes") stay mix-ups.
 - 殿 from guards/servants to Kakeru -> "Master Kakeru". おじさん to a stranger -> "mister" (keep jokes about
   おじさん vs おにいさん as "mister" vs "big brother"/"old man" vs "young man").
+
+- Battle event text (ids 02C459_... to 02F144_...): short lines shown on the battle map. Victory lines, villagers
+  rescued from enemy squads, taunts when the enemy has no allies left, enemies fleeing, Seed pickups and stat-ups.
+  Many entries are the same situation said by each party member in turn (one entry per character, in party
+  order): give each its own voice, don't copy one sentence 30 times. A Japanese speaker tag written inline as
+  【name】 (【ドウム】, 【謎の声】, 【オベロン】) becomes "{Name}" at that spot in the English (the checker names the exact
+  tags): "【ドウム】 / だ、誰だお前は！？" -> "{Doum} W-who are you?!". No other { }.
+- Seed and stat-up lines are split around a number the game draws (あ、力の種を [N] つ見つけたぞ。). The piece after the
+  number is shared by several characters, so: the piece before ends "... I found Seed of Power x" / "There's Seed of
+  Power x"; the piece after starts with punctuation or its own space ("!", ", nyo.", " lying here."); stat lines are
+  "Kakeru's Attack +" [N] "!!" (shared ポイント上がった！！ = "!!"). Result: "Oh, I found Seed of Power x2!" / "Kakeru's
+  Attack +2!!".
 
 ## Consistency
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.

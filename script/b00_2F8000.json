@@ -383,7 +383,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "四天王のひとりである私ならば、 / さぞや強大な魔力を持つ子孫が / 生まれるでしょう。",
-  "en": "As one of the Four Heavenly Kings, I would surely bear children of great power."
+  "en": "As one of the Four Heavenly Kings, I would surely father children of great power."
  },
  {
   "id": "2F8000_052E.0",
@@ -455,7 +455,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "闇界の王、ディードを忘れたのか！！",
-  "en": "Have you forgotten Deed, King of the Dark World?!"
+  "en": "Have you forgotten Deed, King of the Dark Realm?!"
  },
  {
   "id": "2F8000_062C.0",
@@ -832,7 +832,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "闇界の王・ディードを倒した伝説の剣士、 / ヤマト・タケルのみです。",
-  "en": "The legendary swordsman who defeated Deed, King of the Dark World... Yamato Takeru."
+  "en": "The legendary swordsman who defeated Deed, King of the Dark Realm... Yamato Takeru."
  },
  {
   "id": "2F8000_0B45.0",
@@ -938,7 +938,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "くっくっくっ…… / ルシフォンよ、手をひらくがよい。",
-  "en": "Ku ku ku... Lushifon, open your hand."
+  "en": "Heh heh heh... Lushifon, open your hand."
  },
  {
   "id": "2F8000_0DAB.0",
@@ -978,7 +978,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "くっくっくっ……",
-  "en": "Ku ku ku..."
+  "en": "Heh heh heh..."
  },
  {
   "id": "2F8000_0E2D.0",
@@ -1018,7 +1018,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "！？",
-  "en": "!?"
+  "en": "?!"
  },
  {
   "id": "2F8000_0ED5.0",
@@ -1090,7 +1090,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "ミナクス様、相手は人間一匹です…… / 遊びながらでも殺すことができるでしょう。",
-  "en": "Lord Minax, my opponent is a single human... I could kill him while playing."
+  "en": "Lord Minax, my opponent is a single human... I could kill him without even trying."
  },
  {
   "id": "2F8000_101E.1",
@@ -1162,7 +1162,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "くっくっくっ…… / 次元を超え、まずはタケルを捜し出すのだ。",
-  "en": "Ku ku ku... Cross the dimensions, and first find Takeru."
+  "en": "Heh heh heh... Cross the dimensions, and first find Takeru."
  },
  {
   "id": "2F8000_114D.0",
@@ -1242,7 +1242,7 @@
   "form": "dlg",
   "nlines": 3,
   "jp": "くっくっくっ、お前が戻ってきた時、 / 人間界は我が魔族が支配しているだろう…… / 楽しみにしているぞ、ルシフォン。",
-  "en": "Ku ku ku... When you return, the human world shall be ruled by our demon race... I look forward to it, Lushifon."
+  "en": "Heh heh heh... When you return, the human world shall be ruled by our demon race... I look forward to it, Lushifon."
  },
  {
   "id": "2F8000_1304.0",
@@ -1322,7 +1322,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "悪いやつが「ドラゴンナイト一族」だと名乗り、 / 街を占領し、悪事の限りをつくしているそうだ。",
-  "en": "It says some bad guy calling himself \"the Dragon Knight clan\" has taken over a town and is doing every kind of evil there is."
+  "en": "It says some bad guy claiming to be of \"the Dragon Knight clan\" has taken over a town and is doing every kind of evil there is."
  },
  {
   "id": "2F8000_1420.0",
@@ -1450,7 +1450,7 @@
   "form": "dlg",
   "nlines": 5,
   "jp": "わくわく、わくわく……お父さん、 / 冒険に出かける時ってなにを持って行けばいい？ / そうだ、お願いがあるんだ…… / お父さんが使っていた剣を / 持っていってもいいでしょ？",
-  "en": "So exciting, so exciting... Dad, what should I take when I go on an adventure? Oh yeah, I've got a favor to ask... Can I take the sword you used to use?"
+  "en": "So exciting, so exciting... Dad, what should I take when I go on an adventure? Oh yeah, I've got a favor to ask... Can I take your old sword?"
  },
  {
   "id": "2F8000_15BF.2",
@@ -1842,7 +1842,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "リディアか……うむ。",
-  "en": "Lydia, is it... Indeed."
+  "en": "Lydia... Yes, it has."
  },
  {
   "id": "2F8000_1B45.0",
@@ -1930,6 +1930,6 @@
   "form": "dlg",
   "nlines": 4,
   "jp": "相手はたかだか人間１匹。 / お前たちのやりたいようにやるがよい。 / 【リディア＆ハーディス】 / はっ！！",
-  "en": "He is a mere human, nothing more. Do as you please. Lydia & Hardis: Yes, my lord!!"
+  "en": "He is a mere human, nothing more. Do as you please. {Lydia & Hardis} Yes, my lord!!"
  }
 ]

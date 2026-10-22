@@ -6,6 +6,7 @@ jp_left.py is not a gate here: every byte 0x12-0xFF is a glyph code, so a byte s
 region classifier (stats 'japanese', tests/test_build.py) and the runtime draw scan (tools/jpdraw.py) replace it.
 """
 import hashlib
+import os
 import subprocess
 import sys
 import zipfile
@@ -13,7 +14,7 @@ import zlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SKILL = Path(r'H:\translation\batch\.claude\skills\translate-retro-game')
+SKILL = Path(os.environ.get('SKILL', Path.home() / '.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game'))
 ROM = ROOT / 'rom' / 'Dragon Knight 4 (Japan).sfc'
 VERSION = '1.0'
 SLUG = 'dragon-knight-4'

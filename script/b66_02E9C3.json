@@ -1,0 +1,657 @@
+[
+ {
+  "id": "02E9C3_0000.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれれ、身体が白い光に包まれる！？",
+  "en": "Huh? My body's wrapped in white light?!"
+ },
+ {
+  "id": "02E9C3_0019.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カケルの攻撃範囲が、",
+  "en": "Kakeru's Range +"
+ },
+ {
+  "id": "02E9C3_002B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0038.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれれ、身体が白い光に包まれる！？",
+  "en": "Huh? My body's glowing with white light?!"
+ },
+ {
+  "id": "02E9C3_0051.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "セイルの攻撃範囲が、",
+  "en": "Seil's Range +"
+ },
+ {
+  "id": "02E9C3_0063.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0070.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むむっ、身体が白い光に包まれたぞ！？",
+  "en": "Hm?! My body is wrapped in white light?!"
+ },
+ {
+  "id": "02E9C3_008B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "エトの攻撃範囲が、",
+  "en": "Eto's Range +"
+ },
+ {
+  "id": "02E9C3_009D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_00AA.0",
+  "speaker": "ナターシャ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "きゃっ、身体が白い光に包まれたわ！！",
+  "en": "Eek, my body's wrapped in white light!!"
+ },
+ {
+  "id": "02E9C3_00C5.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ナターシャの攻撃範囲が、",
+  "en": "Natasha's Range +"
+ },
+ {
+  "id": "02E9C3_00D7.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_00E4.0",
+  "speaker": "マルレーネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "く、苦しい、身体が白い光に包まれます！？",
+  "en": "I-I can't breathe... My body is being wrapped in white light?!"
+ },
+ {
+  "id": "02E9C3_0102.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "マルレーネの攻撃範囲が、",
+  "en": "Marlene's Range +"
+ },
+ {
+  "id": "02E9C3_0114.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0121.0",
+  "speaker": "カルタス",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "な、なんだ！？ / 身体が白い光に包まれたぞ！？ / カルタスの攻撃範囲が、",
+  "en": "Wh-what?! My body's wrapped in white light?! Cartas's Range +"
+ },
+ {
+  "id": "02E9C3_0152.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_015F.0",
+  "speaker": "ネレイド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれえ、身体が白い光に包まれちゃった！？",
+  "en": "Huh? I'm all wrapped up in white light?!"
+ },
+ {
+  "id": "02E9C3_017A.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ネレイドの攻撃範囲が、",
+  "en": "Nereid's Range +"
+ },
+ {
+  "id": "02E9C3_018C.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0199.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むむむ、身体が白い光に包まれるぞ！？",
+  "en": "Hmmm! My body is being wrapped in white light?!"
+ },
+ {
+  "id": "02E9C3_01B4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カロンの攻撃範囲が、",
+  "en": "Charon's Range +"
+ },
+ {
+  "id": "02E9C3_01C6.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_01D3.0",
+  "speaker": "ゴロンゴン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むうぅ、身体が白い光に包まれたぞ！？",
+  "en": "Mmmh! My body's wrapped in white light?!"
+ },
+ {
+  "id": "02E9C3_01EF.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ゴロンゴンの攻撃範囲が、",
+  "en": "Gorongon's Range +"
+ },
+ {
+  "id": "02E9C3_0201.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_020E.0",
+  "speaker": "ネプチューン",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "な、なに！？ / 身体が白い光に包まれたわ！？ / ネプチューンの攻撃範囲が、",
+  "en": "Wh-what?! My body's wrapped in white light?! Neptune's Range +"
+ },
+ {
+  "id": "02E9C3_023E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_024B.0",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "きゃっ！！ / 身体が白い光に包まれます！！ / メイフェアの攻撃範囲が、",
+  "en": "Eek!! My body is being wrapped in white light!! Mayfair's Range +"
+ },
+ {
+  "id": "02E9C3_027A.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0287.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "な、なに！？ / 身体が白い光に包まれるぜ！！ / クラリスの攻撃範囲が、",
+  "en": "Wh-what?! I'm gettin' wrapped in white light!! Clarice's Range +"
+ },
+ {
+  "id": "02E9C3_02B7.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_02C4.0",
+  "speaker": "パンドラ",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "な、なに！？ / 身体が白い光に包まれるわ！！ / パンドラの攻撃範囲が、",
+  "en": "Wh-what?! My body's being wrapped in white light!! Pandora's Range +"
+ },
+ {
+  "id": "02E9C3_02F4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0301.0",
+  "speaker": "サントス",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "う、うわっ！！ / 身体が白い光に包まれたぞ！！ / サントスの攻撃範囲が、",
+  "en": "Wh-whoa!! My body's wrapped in white light!! Santos's Range +"
+ },
+ {
+  "id": "02E9C3_0332.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_033F.0",
+  "speaker": "ガリバン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むむむっ、身体が白い光に包まれたぞいっ！！",
+  "en": "Hmmm! My body's wrapped in white light, I tell ye!!"
+ },
+ {
+  "id": "02E9C3_035D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ガリバンの攻撃範囲が、",
+  "en": "Galivan's Range +"
+ },
+ {
+  "id": "02E9C3_036F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_037C.0",
+  "speaker": "ビアンカ",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "い、いやですわ！！ / 身体が白い光に包まれます！？ / ビアンカの攻撃範囲が、",
+  "en": "N-no, how dreadful!! My body is being wrapped in white light?! Bianca's Range +"
+ },
+ {
+  "id": "02E9C3_03AE.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_03BB.0",
+  "speaker": "ネクラマンサー",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ぶつぶつ、この白い光は何だ！？",
+  "en": "Mutter mutter... What is this white light?!"
+ },
+ {
+  "id": "02E9C3_03D2.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ネクラマンサーの攻撃範囲が、",
+  "en": "Necromancer's Range +"
+ },
+ {
+  "id": "02E9C3_03E4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_03F1.0",
+  "speaker": "セイラ",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "きゃっ！！ / 身体が白い光に包まれたわ！！ / セイラの攻撃範囲が、",
+  "en": "Eek!! My body's wrapped in white light!! Sayla's Range +"
+ },
+ {
+  "id": "02E9C3_0420.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_042D.0",
+  "speaker": "ロザリンド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "い、いやあ、身体が白い光に包まれちゃった！？",
+  "en": "N-no! I'm all wrapped up in white light?!"
+ },
+ {
+  "id": "02E9C3_0449.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ロザリンドの攻撃範囲が、",
+  "en": "Rosalind's Range +"
+ },
+ {
+  "id": "02E9C3_045B.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0468.0",
+  "speaker": "ピエール",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "な、なんだ！？ / 身体が白い光に包まれたぞ！？ / ピエールの攻撃範囲が、",
+  "en": "Wh-what?! My body's wrapped in white light?! Pierre's Range +"
+ },
+ {
+  "id": "02E9C3_0499.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_04A6.0",
+  "speaker": "ジーナ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "や、やだ・・・身体が白い光に包まれちゃった。",
+  "en": "Oh n-no... I'm all wrapped up in white light."
+ },
+ {
+  "id": "02E9C3_04C6.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ジーナの攻撃範囲が、",
+  "en": "Gina's Range +"
+ },
+ {
+  "id": "02E9C3_04D8.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_04E5.0",
+  "speaker": "ラビット",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "な、なんだにょ！？ / 身体が白い光に包まれたにょ！？ / ラビットの攻撃範囲が、",
+  "en": "Wh-what, nyo?! My body's wrapped in white light, nyo?! Rabbit's Range +"
+ },
+ {
+  "id": "02E9C3_0519.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0526.0",
+  "speaker": "パウエル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "せ、拙者の身体が白い光に包まれたでござる！？",
+  "en": "M-my body is wrapped in white light, good sir?!"
+ },
+ {
+  "id": "02E9C3_0546.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "パウエルの攻撃範囲が、",
+  "en": "Powell's Range +"
+ },
+ {
+  "id": "02E9C3_0558.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0565.0",
+  "speaker": "レア",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "きゃっ！？ / 身体が白い光に包まれます。 / レアの攻撃範囲が、",
+  "en": "Eek?! My body is being wrapped in white light. Rhea's Range +"
+ },
+ {
+  "id": "02E9C3_0593.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_05A0.0",
+  "speaker": "ターニャン",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "にゃにゃっ！？ / 身体が白い光に包まれたにゃ！？ / ターニャンの攻撃範囲が、",
+  "en": "Nya-nya?! My body's wrapped in white light, nya?! Tanyan's Range +"
+ },
+ {
+  "id": "02E9C3_05D2.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_05DF.0",
+  "speaker": "バルカン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むむむっ、身体が白い光に包まれたぞ！？",
+  "en": "Hmmm! My body is wrapped in white light?!"
+ },
+ {
+  "id": "02E9C3_05FB.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "バルカンの攻撃範囲が、",
+  "en": "Vulcan's Range +"
+ },
+ {
+  "id": "02E9C3_060D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_061A.0",
+  "speaker": "トルル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれれ、身体が白い光に包まれる！？",
+  "en": "Huh? I'm getting wrapped in white light?!"
+ },
+ {
+  "id": "02E9C3_0633.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "トルルの攻撃範囲が、",
+  "en": "Torul's Range +"
+ },
+ {
+  "id": "02E9C3_0645.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0652.0",
+  "speaker": "ロイドン",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "な、なんだ！？ / 身体が白い光に包まれる！？ / ロイドンの攻撃範囲が、",
+  "en": "Wh-what?! I'm being wrapped in white light?! Roydon's Range +"
+ },
+ {
+  "id": "02E9C3_0682.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_068F.0",
+  "speaker": "へレネ",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "きゃっ！？ / 身体が白い光に包まれます。 / へレネの攻撃範囲が、",
+  "en": "Eek?! My body is being wrapped in white light. Helene's Range +"
+ },
+ {
+  "id": "02E9C3_06BD.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_06CA.0",
+  "speaker": "ウェンディ",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "え、なに！？ / 身体が白い光に包まれるわ！！ / ウェンディの攻撃範囲が、",
+  "en": "Huh, what?! I'm getting wrapped in white light!! Wendy's Range +"
+ },
+ {
+  "id": "02E9C3_06FA.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02E9C3_0707.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むむむ、身体が白い光に包まれるぞ！？",
+  "en": "Hmm... My body is being wrapped in white light?!"
+ },
+ {
+  "id": "02E9C3_0722.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ハーディスの攻撃範囲が、",
+  "en": "Hardis's Range +"
+ },
+ {
+  "id": "02E9C3_0734.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ }
+]

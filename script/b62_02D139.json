@@ -1,0 +1,258 @@
+[
+ {
+  "id": "02D139_0000.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やったあ！！ / ルシフォン軍をやっつけたんだ！！",
+  "en": "Yay!! We beat Lushifon's army!!"
+ },
+ {
+  "id": "02D139_001A.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ぼ、僕が一番乗りだい！！",
+  "en": "I-I got here first!!"
+ },
+ {
+  "id": "02D139_002D.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "よーし、 / ルシフォン軍をやっつけてやったぞ！！",
+  "en": "All right, we've crushed Lushifon's army!!"
+ },
+ {
+  "id": "02D139_0047.0",
+  "speaker": "ナターシャ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やったわ、 / ルシフォン軍が逃げていくわよ！！",
+  "en": "We did it, Lushifon's army is running away!!"
+ },
+ {
+  "id": "02D139_0060.0",
+  "speaker": "マルレーネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ルシフォン軍は逃げて行ったようです。",
+  "en": "It seems Lushifon's army has retreated."
+ },
+ {
+  "id": "02D139_0074.0",
+  "speaker": "カルタス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やったあ！！ / 街を解放したぞ！！",
+  "en": "Yeah!! We've freed the town!!"
+ },
+ {
+  "id": "02D139_008C.0",
+  "speaker": "ネレイド",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "見てください、 / ルシフォン軍が逃げて行きます！！",
+  "en": "Look, Lushifon's army is running away!!"
+ },
+ {
+  "id": "02D139_00A7.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "わっはっはっ！！ / 私が一番乗りだ！！",
+  "en": "Wahahaha!! I am the first to arrive!!"
+ },
+ {
+  "id": "02D139_00C1.0",
+  "speaker": "ゴロンゴン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やったあ、街を解放したぞ！！ / これでまた、バナナが食べられるぞっ。",
+  "en": "Yay, we freed the town!! Now I can eat bananas again!"
+ },
+ {
+  "id": "02D139_00E9.0",
+  "speaker": "ネプチューン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "やったわ、街を取り返したわよ！！",
+  "en": "We did it, we took the town back!!"
+ },
+ {
+  "id": "02D139_0101.0",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やりました！！ / ルシフォン軍が逃げて行きます！！",
+  "en": "We did it!! Lushifon's army is retreating!!"
+ },
+ {
+  "id": "02D139_011B.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やったぜ！！ / ルシフォン軍の馬鹿野郎っ！！",
+  "en": "Yeah!! Take that, you idiots of Lushifon's army!!"
+ },
+ {
+  "id": "02D139_0137.0",
+  "speaker": "パンドラ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "やったわ、街を奪い返したわよ！！",
+  "en": "We did it, we've won the town back!!"
+ },
+ {
+  "id": "02D139_014F.0",
+  "speaker": "サントス",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やったぞ、 / ルシフォン軍が逃げていきやがった！！",
+  "en": "We did it, Lushifon's army is turnin' tail!!"
+ },
+ {
+  "id": "02D139_016A.0",
+  "speaker": "ガリバン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "やったぞい、ルシフォン軍の負けだぞい！！",
+  "en": "We did it, I tell ye! Lushifon's army has lost, I tell ye!!"
+ },
+ {
+  "id": "02D139_0181.0",
+  "speaker": "ビアンカ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ほほほっ、私が一番乗りですわ。",
+  "en": "Ohohoho, I'm the first to arrive."
+ },
+ {
+  "id": "02D139_0196.0",
+  "speaker": "ネクラマンサー",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ぶつぶつぶつ、 / ルシフォン軍がいなくなったぞ。",
+  "en": "Mutter mutter mutter... Lushifon's army is gone."
+ },
+ {
+  "id": "02D139_01AC.0",
+  "speaker": "セイラ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やったわ、 / ルシフォン軍って案外だらしないのね。",
+  "en": "We did it. Lushifon's army is surprisingly pathetic, isn't it?"
+ },
+ {
+  "id": "02D139_01C9.0",
+  "speaker": "ロザリンド",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やったー！！ / 私達の勝ちなんだから！！",
+  "en": "Yaaay!! We win, so there!!"
+ },
+ {
+  "id": "02D139_01E4.0",
+  "speaker": "ピエール",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ふっふっ、俺様が一番乗りだぜ。",
+  "en": "Heh heh, yours truly got here first."
+ },
+ {
+  "id": "02D139_01FA.0",
+  "speaker": "ジーナ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "やったあ！！ / 街を取り返したんだから！！",
+  "en": "Yay!! We took the town back, so there!!"
+ },
+ {
+  "id": "02D139_0217.0",
+  "speaker": "ラビット",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "僕達の勝ちだにょっ！！",
+  "en": "We win, nyo!!"
+ },
+ {
+  "id": "02D139_0229.0",
+  "speaker": "パウエル",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "勝ったでござる、 / ルシフォン軍が逃げていくでござるぞ。",
+  "en": "Victory is ours, good sir! Lushifon's army doth flee!"
+ },
+ {
+  "id": "02D139_0247.0",
+  "speaker": "レア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "みなさん、ルシフォン軍に勝ちました！！",
+  "en": "Everyone, we've defeated Lushifon's army!!"
+ },
+ {
+  "id": "02D139_025B.0",
+  "speaker": "ターニャン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ルシフォン軍に勝ったにゃんっ！！",
+  "en": "We beat Lushifon's army, nya!!"
+ },
+ {
+  "id": "02D139_026C.0",
+  "speaker": "バルカン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ふふふ、私の活躍で街を取り返したぞ！！",
+  "en": "Heh heh heh, thanks to my heroics, we took the town back!!"
+ },
+ {
+  "id": "02D139_0289.0",
+  "speaker": "トルル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "僕達の勝ちだよ、サイレス！！",
+  "en": "We won, Cyres!!"
+ },
+ {
+  "id": "02D139_02A0.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ぼ、僕とラスカスが一番乗りだい！！",
+  "en": "L-Lascus and I got here first!!"
+ },
+ {
+  "id": "02D139_02B8.0",
+  "speaker": "ロイドン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ふうふう、 / ルシフォン軍が逃げていったぁ！！",
+  "en": "Huff, puff... Lushifon's army ran awaaay!!"
+ },
+ {
+  "id": "02D139_02CF.0",
+  "speaker": "へレネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ふう、私達の勝ちですね。",
+  "en": "Phew, looks like we've won."
+ },
+ {
+  "id": "02D139_02E2.0",
+  "speaker": "ウェンディ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "やったあ！！私が１番乗りね！！",
+  "en": "Yay!! I got here first!!"
+ },
+ {
+  "id": "02D139_02F9.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "この街は私達が取り返したぞ！！",
+  "en": "We have taken this town back!!"
+ }
+]

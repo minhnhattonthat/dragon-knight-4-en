@@ -16,6 +16,8 @@ from gfx_buttons import text_cols  # noqa: E402
 
 BLOCK, LZ_AT = 0x203E65, 0x203E85
 MAPS = [0x2A8C5 + 0x100 * k for k in range(4)]
+# YES / NO highlighted button rows (16x2), drawn over popup rows 4-5 when the cursor moves (descriptors 85:A8B7)
+BUTTONS = [0x2ACC5, 0x2AD05]
 TILE0 = 0x380
 NEW_AT, NEW_CPU = 0x306000, 0xE0E000          # $E0:E000-FFFF, free (engine code ends below $E0:E000)
 LOADER = 0x210D8                              # LDA #$C0 / STA $47 / LDY #$BE65
@@ -43,13 +45,13 @@ def tile_bytes(px):
     return bytes(out)
 
 
-def render_popup(rom, tiles, k):
-    """-> (pixels [64][128], attrs [8][16] = palette/priority bits)"""
-    px = [[0] * 128 for _ in range(64)]
-    attrs = [[0] * 16 for _ in range(8)]
-    for r in range(8):
+def render_popup(rom, tiles, base, nrows=8):
+    """16 x nrows tilemap at base -> (pixels [8*nrows][128], attrs [nrows][16] = palette/priority bits)"""
+    px = [[0] * 128 for _ in range(8 * nrows)]
+    attrs = [[0] * 16 for _ in range(nrows)]
+    for r in range(nrows):
         for c in range(16):
-            o = MAPS[k] + 2 * (r * 16 + c)
+            o = base + 2 * (r * 16 + c)
             w = rom[o] | rom[o + 1] << 8
             # tiles outside the block (blank/system tiles) keep their word; block tiles are re-tiled unflipped
             attrs[r][c] = ('raw', w) if (w & 0x3FF) < TILE0 else ('blk', w & 0x3C00)
@@ -65,7 +67,7 @@ def render_popup(rom, tiles, k):
 def patch(rom):
     """-> {file_off: bytes} writes."""
     tiles, _ = lz.decompress(rom, LZ_AT)
-    pops = [render_popup(rom, tiles, k) for k in range(4)]
+    pops = [render_popup(rom, tiles, m) for m in MAPS] + [render_popup(rom, tiles, m, 2) for m in BUTTONS]
     for k, rows, text in TEXT:
         px = pops[k][0]
         y0, y1, x0, x1 = rows[0] * 8, rows[1] * 8 + 8, 2, 126
@@ -87,9 +89,9 @@ def patch(rom):
                     px[top + r][sx + i] = dark
     # re-tile with dedup
     new_tiles, index, maps = [], {}, {}
-    for k, (px, attrs) in enumerate(pops):
+    for base, (px, attrs) in zip(MAPS + BUTTONS, pops):
         m = bytearray()
-        for r in range(8):
+        for r in range(len(attrs)):
             for c in range(16):
                 kind, a = attrs[r][c]
                 if kind == 'blk':
@@ -107,7 +109,7 @@ def patch(rom):
                 else:
                     w = a
                 m += w.to_bytes(2, 'little')
-        maps[MAPS[k]] = bytes(m)
+        maps[base] = bytes(m)
     if len(new_tiles) > 0x400 - TILE0:
         raise SystemExit('popups: %d tiles > %d' % (len(new_tiles), 0x400 - TILE0))
     raw = b''.join(new_tiles)
@@ -132,7 +134,7 @@ if __name__ == '__main__':
     tiles, _ = lz.decompress(rom, NEW_AT + 0x20)
     img = Image.new('L', (128 * 4 + 12, 64))
     for k in range(4):
-        px, _ = render_popup(rom, tiles, k)
+        px, _ = render_popup(rom, tiles, MAPS[k])
         for y in range(64):
             for x in range(128):
                 img.putpixel((k * 131 + x, y), px[y][x] * 16)

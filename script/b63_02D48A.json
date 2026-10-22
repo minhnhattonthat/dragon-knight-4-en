@@ -1,0 +1,984 @@
+[
+ {
+  "id": "02D48A_0000.0",
+  "speaker": "カケル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あ、力の種を",
+  "en": "Oh, I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_000D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞ。",
+  "en": "!"
+ },
+ {
+  "id": "02D48A_0016.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カケルの攻撃力が、",
+  "en": "Kakeru's Attack +"
+ },
+ {
+  "id": "02D48A_0025.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "!!"
+ },
+ {
+  "id": "02D48A_0032.0",
+  "speaker": "セイル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あ、力の種を",
+  "en": "Oh, I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_003F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけちゃった。",
+  "en": ", just like that!"
+ },
+ {
+  "id": "02D48A_0048.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "セイルの攻撃力が、",
+  "en": "Seil's Attack +"
+ },
+ {
+  "id": "02D48A_0057.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0064.0",
+  "speaker": "エト",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "私は運がいい、力の種を",
+  "en": "I'm a lucky man. I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_0077.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞ。",
+  "en": "",
+  "dup": "02D48A_000D.0"
+ },
+ {
+  "id": "02D48A_0080.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "エトの攻撃力が、",
+  "en": "Eto's Attack +"
+ },
+ {
+  "id": "02D48A_008F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_009C.0",
+  "speaker": "ナターシャ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あ・・・力の種を",
+  "en": "Oh... I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_00AE.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたわ。",
+  "en": ", look!"
+ },
+ {
+  "id": "02D48A_00B7.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ナターシャの攻撃力が、",
+  "en": "Natasha's Attack +"
+ },
+ {
+  "id": "02D48A_00C6.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_00D3.0",
+  "speaker": "マルレーネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カケルさん、力の種を",
+  "en": "Kakeru, I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_00E3.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけました。",
+  "en": "."
+ },
+ {
+  "id": "02D48A_00EC.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "マルレーネの攻撃力が、",
+  "en": "Marlene's Attack +"
+ },
+ {
+  "id": "02D48A_00FB.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0108.0",
+  "speaker": "カルタス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれれ、力の種が",
+  "en": "Huh? There's Seed of Power x"
+ },
+ {
+  "id": "02D48A_0116.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてるぞ。",
+  "en": " lying here."
+ },
+ {
+  "id": "02D48A_0120.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カルタスの攻撃力が、",
+  "en": "Cartas's Attack +"
+ },
+ {
+  "id": "02D48A_012F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_013C.0",
+  "speaker": "ネレイド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれ、力の種を",
+  "en": "Huh, I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_014A.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけちゃった。",
+  "en": "",
+  "dup": "02D48A_003F.0"
+ },
+ {
+  "id": "02D48A_0153.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ネレイドの攻撃力が、",
+  "en": "Nereid's Attack +"
+ },
+ {
+  "id": "02D48A_0162.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_016F.0",
+  "speaker": "カロン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むむむ、力の種を",
+  "en": "Hmmm... I have found Seed of Power x"
+ },
+ {
+  "id": "02D48A_017E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞ。",
+  "en": "",
+  "dup": "02D48A_000D.0"
+ },
+ {
+  "id": "02D48A_0187.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カロンの攻撃力が、",
+  "en": "Charon's Attack +"
+ },
+ {
+  "id": "02D48A_0196.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_01A3.0",
+  "speaker": "ゴロンゴン",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "むう、バナナの種じゃなくて / 力の種が",
+  "en": "Hmm! Not banana seeds... it's Seed of Power x"
+ },
+ {
+  "id": "02D48A_01BD.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ落ちているではないか。 / ゴロンゴンの攻撃力が、",
+  "en": " lying right here! Gorongon's Attack +"
+ },
+ {
+  "id": "02D48A_01DA.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_01E7.0",
+  "speaker": "ネプチューン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あ、力の種が",
+  "en": "Oh, there's Seed of Power x"
+ },
+ {
+  "id": "02D48A_01F4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてるじゃない。",
+  "en": " lying here, look!"
+ },
+ {
+  "id": "02D48A_01FF.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ネプチューンの攻撃力が、",
+  "en": "Neptune's Attack +"
+ },
+ {
+  "id": "02D48A_020E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_021B.0",
+  "speaker": "メイフェア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あら、こんな所に力の種が",
+  "en": "Oh my, there's Seed of Power x"
+ },
+ {
+  "id": "02D48A_022F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてます。",
+  "en": " lying here."
+ },
+ {
+  "id": "02D48A_0239.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "メイフェアの攻撃力が、",
+  "en": "Mayfair's Attack +"
+ },
+ {
+  "id": "02D48A_0248.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0255.0",
+  "speaker": "クラリス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "おっ！！力の種を",
+  "en": "Whoa!! I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_0264.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぜ！！",
+  "en": "!!"
+ },
+ {
+  "id": "02D48A_026E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "クラリスの攻撃力が、",
+  "en": "Clarice's Attack +"
+ },
+ {
+  "id": "02D48A_027D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_028A.0",
+  "speaker": "パンドラ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "力の種を",
+  "en": "I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_0295.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 3,
+  "jp": "つ見つけたわ、 / お酒のつまみにでもしようかしら。 / パンドラの攻撃力が、",
+  "en": ". Might make a nice snack with my drinks. Pandora's Attack +"
+ },
+ {
+  "id": "02D48A_02BE.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_02CB.0",
+  "speaker": "サントス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "おっ、力の種が",
+  "en": "Whoa, there's Seed of Power x"
+ },
+ {
+  "id": "02D48A_02D9.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてるぞ！！",
+  "en": " lying around!!"
+ },
+ {
+  "id": "02D48A_02E4.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "サントスの攻撃力が、",
+  "en": "Santos's Attack +"
+ },
+ {
+  "id": "02D48A_02F3.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0300.0",
+  "speaker": "ガリバン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カケル殿、力の種を",
+  "en": "Master Kakeru, I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_030F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞい。",
+  "en": ", I tell ye."
+ },
+ {
+  "id": "02D48A_0319.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ガリバンの攻撃力が、",
+  "en": "Galivan's Attack +"
+ },
+ {
+  "id": "02D48A_0328.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0335.0",
+  "speaker": "ビアンカ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あら、こんな所に力の種が",
+  "en": "Oh my, there's Seed of Power x"
+ },
+ {
+  "id": "02D48A_0349.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つありますわ。",
+  "en": " in a place like this."
+ },
+ {
+  "id": "02D48A_0352.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ビアンカの攻撃力が、",
+  "en": "Bianca's Attack +"
+ },
+ {
+  "id": "02D48A_0361.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_036E.0",
+  "speaker": "ネクラマンサー",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ぶつぶつぶつ、 / 内緒だけど力の種を",
+  "en": "Mutter mutter mutter... Don't tell anyone, but I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_0385.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ見つけたぞ。 / ネクラマンサーの攻撃力が、",
+  "en": ". Necromancer's Attack +"
+ },
+ {
+  "id": "02D48A_039C.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_03A9.0",
+  "speaker": "セイラ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "さすがすらりと伸びた脚ね、 / 力の種を",
+  "en": "That's my long, slender legs for you. I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_03BD.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ見つけちゃったわ。 / セイラの攻撃力が、",
+  "en": "! Sayla's Attack +"
+ },
+ {
+  "id": "02D48A_03D5.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_03E2.0",
+  "speaker": "ロザリンド",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あっ、力の種を",
+  "en": "Ah, I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_03F0.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけちゃった。",
+  "en": "",
+  "dup": "02D48A_003F.0"
+ },
+ {
+  "id": "02D48A_03F9.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ロザリンドの攻撃力が、",
+  "en": "Rosalind's Attack +"
+ },
+ {
+  "id": "02D48A_0408.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0415.0",
+  "speaker": "ピエール",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "さすが俺様だ、 / 力の種を",
+  "en": "As expected of yours truly. I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_0429.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ見つけてしまったぞ。 / ピエールの攻撃力が、",
+  "en": ". Pierre's Attack +"
+ },
+ {
+  "id": "02D48A_0444.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0451.0",
+  "speaker": "ジーナ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれえ、こんな所に力の種が",
+  "en": "Huh? Of all places, there's Seed of Power x"
+ },
+ {
+  "id": "02D48A_0466.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてる。",
+  "en": " lying here."
+ },
+ {
+  "id": "02D48A_046F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ジーナの攻撃力が、",
+  "en": "Gina's Attack +"
+ },
+ {
+  "id": "02D48A_047E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_048B.0",
+  "speaker": "ラビット",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ち、力の種を",
+  "en": "I-I went and picked up Seed of Power x"
+ },
+ {
+  "id": "02D48A_0498.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ拾ってしまったにょ。",
+  "en": ", nyo."
+ },
+ {
+  "id": "02D48A_04A6.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ラビットの攻撃力が、",
+  "en": "Rabbit's Attack +"
+ },
+ {
+  "id": "02D48A_04B5.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_04C2.0",
+  "speaker": "パウエル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "むむむ、拙者は力の種を",
+  "en": "Hmmm. I have picked up Seed of Power x"
+ },
+ {
+  "id": "02D48A_04D5.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ拾ったでござる。",
+  "en": ", good sir."
+ },
+ {
+  "id": "02D48A_04E1.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "パウエルの攻撃力が、",
+  "en": "Powell's Attack +"
+ },
+ {
+  "id": "02D48A_04F0.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_04FD.0",
+  "speaker": "レア",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "カケルさん、力の種を",
+  "en": "Kakeru, I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_050D.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけました。",
+  "en": "",
+  "dup": "02D48A_00E3.0"
+ },
+ {
+  "id": "02D48A_0516.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "レアの攻撃力が、",
+  "en": "Rhea's Attack +"
+ },
+ {
+  "id": "02D48A_0525.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0532.0",
+  "speaker": "ターニャン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "にゃん、力の種を地面から",
+  "en": "Nyan! I stole Seed of Power x"
+ },
+ {
+  "id": "02D48A_0546.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ盗んだにゃん。",
+  "en": " from the ground, nya."
+ },
+ {
+  "id": "02D48A_054F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ターニャンの攻撃力が、",
+  "en": "Tanyan's Attack +"
+ },
+ {
+  "id": "02D48A_055E.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_056B.0",
+  "speaker": "バルカン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "さすが私だ、力の種を",
+  "en": "As expected of me. I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_057C.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけてしまったぞ。",
+  "en": "."
+ },
+ {
+  "id": "02D48A_0589.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "バルカンの攻撃力が、",
+  "en": "Vulcan's Attack +"
+ },
+ {
+  "id": "02D48A_0598.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_05A5.0",
+  "speaker": "トルル",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "やったあ、力の種を",
+  "en": "Yay, I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_05B5.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたよ！！",
+  "en": "!!"
+ },
+ {
+  "id": "02D48A_05BF.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "トルルの攻撃力が、",
+  "en": "Torul's Attack +"
+ },
+ {
+  "id": "02D48A_05CE.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_05DB.0",
+  "speaker": "ロイドン",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あれれ、力の種が",
+  "en": "Huh? There's Seed of Power x"
+ },
+ {
+  "id": "02D48A_05E9.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ落ちてる。",
+  "en": "",
+  "dup": "02D48A_0466.0"
+ },
+ {
+  "id": "02D48A_05F2.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ロイドンの攻撃力が、",
+  "en": "Roydon's Attack +"
+ },
+ {
+  "id": "02D48A_0601.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_060E.0",
+  "speaker": "へレネ",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "あの・・・力の種を",
+  "en": "Um... I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_0621.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけました。",
+  "en": "",
+  "dup": "02D48A_00E3.0"
+ },
+ {
+  "id": "02D48A_062A.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "へレネの攻撃力が、",
+  "en": "Helene's Attack +"
+ },
+ {
+  "id": "02D48A_0639.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0646.0",
+  "speaker": "ウェンディ",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "ふん、ふん……♥ / 力の種を",
+  "en": "Hm hm hmm~ I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_065C.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "つ見つけたわ！！ / ウェンディの攻撃力が、",
+  "en": "!! Wendy's Attack +"
+ },
+ {
+  "id": "02D48A_0674.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ },
+ {
+  "id": "02D48A_0681.0",
+  "speaker": "ハーディス",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "！？、力の種を",
+  "en": "?!... I found Seed of Power x"
+ },
+ {
+  "id": "02D48A_068F.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "つ見つけたぞ。",
+  "en": "",
+  "dup": "02D48A_000D.0"
+ },
+ {
+  "id": "02D48A_0698.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ハーディスの攻撃力が、",
+  "en": "Hardis's Attack +"
+ },
+ {
+  "id": "02D48A_06A7.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 1,
+  "jp": "ポイント上がった！！",
+  "en": "",
+  "dup": "02D48A_0025.0"
+ }
+]

@@ -6,7 +6,8 @@ Approved pilot: the prologue (batch b000, booted and checked in-game). Match the
 | Character | Voice | Example |
 |---|---|---|
 | Lushifon | formal, proud demon noble; "Lord Minax" | "With respect, Lord Minax, would Mano and I not have come to this sooner or later?" |
-| Minax | archaic, menacing demon lord; "Ku ku ku..." | "Hold your tongue..." / "Listen well, Lushifon..." |
+| Minax | archaic, menacing demon lord; "Heh heh heh..." | "Hold your tongue..." / "Listen well, Lushifon..." |
+| Powell | samurai-stiff; でござる = ", good sir" (decisions D7) | "I have picked up Seed of Power x2, good sir." |
 | Mano | gentle, devoted | "Lushifon. Kiss me once more... And then... hold me..." |
 | Kakeru (child) | cheeky brat | "Yaaay!! I saw 'em, I saw 'em!!" / "If your mommy comes, I'll put a frog down her back!!" |
 | Kakeru (teen) | casual, upbeat boy; calls his father "Dad" | "Yeah, Dad... and I won again today." |
