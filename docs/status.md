@@ -6,7 +6,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Done:** recon, debug warp (tools/debug/warp.lua, regen.py), extract (script/*.json, 85 batches in work/tl),
   engine (asm/dk4.asm: far calls + VWF), 12103/12103 units translated + reviewed, UI (ui/ui.json) seen in-game,
   graphics (docs/re/graphics.md), QA tours, release/dragon-knight-4_en.zip (v1.1, 2026-10-22 from c9d35d5:
-  Dragon_Knight_4_EN_v1.1.bps, patch SHA-1 b7564a7ef318a44d2ef728ff19b0d9dec511efe7, patched CRC32 27F76018; not published). Repo restructured to fan-translation-template.
+  Dragon_Knight_4_EN_v1.1.bps, patch SHA-1 b7564a7ef318a44d2ef728ff19b0d9dec511efe7, patched CRC32 27F76018). Published 2026-10-22: github.com/minhnhattonthat/dragon-knight-4-en, release v1.1
+  (remote is HTTPS: the local SSH key is another account; push with gh's credential helper). Repo restructured to fan-translation-template.
 - **2026-10-22 agent playtest** (4 playtesters, docs/playtester-brief.md: prologue, Sonia, Limerin/throne room):
   fixed Options submenus (Slow/Normal/Fast, Stereo/Mono; relocated via ui.json ptr_refs/bank_refs), overflow pages
   of a named speaker now break at sentence ends when that costs no page (layout.pages_of), "{Name}" in English =
@@ -27,7 +28,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   read the relocated place names with bank $85 (stale bytes, some with 10 xx ops, runs up to 71 bytes; Ulysses
   drew "長…") and drew the notebook names 81:E30E in Japanese. Fixed: notebook_places bank_refs 0xE2F1/0xE38D,
   ui.json notebooks_field. Save red + field Load + title Continue verified in Mesen (Ulysses). Fixed in v1.1.
-- **Next:** publishing v1.1 is the user's call. Never publish.
+- **Next:** player bug reports (`gh issue list --label bug`). Never publish without the user.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on
   a real save). Region 2C0000_0BC1 (lone 。, 1 byte) stays Japanese.
