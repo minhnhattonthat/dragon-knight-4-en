@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SKILL = Path(os.environ.get('SKILL', Path.home() / '.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game'))
 ROM = ROOT / 'rom' / 'Dragon Knight 4 (Japan).sfc'
-VERSION = '1.0'
+VERSION = '1.1'
 SLUG = 'dragon-knight-4'
 PATCH = 'Dragon_Knight_4_EN_v%s.bps' % VERSION
 PY = [sys.executable, '-X', 'utf8']

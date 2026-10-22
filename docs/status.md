@@ -23,6 +23,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   across it (INLINE_OPS, layout attach/last_room), convention in docs/translator-brief.md. Seed tables per character:
   85:D44C power, DB40 defense, E245 speed, E985 range (caller 84:DF68..DFEF). In-game check: tools/debug/battletext.lua
   (--var PTR=0xD8DD NUM=2, state bat23.mss, --mash 40, then tools/debug/pages.py RUN 3200). Seen OK: Gina power, Mayfair speed, Pandora range.
+- **2026-10-22 field menu Load (user report: black screen on load):** the field Load screen (81:E2E8, 81:E384)
+  read the relocated place names with bank $85 (stale bytes, some with 10 xx ops, runs up to 71 bytes; Ulysses
+  drew "長…") and drew the notebook names 81:E30E in Japanese. Fixed: notebook_places bank_refs 0xE2F1/0xE38D,
+  ui.json notebooks_field. Save red + field Load + title Continue verified in Mesen (Ulysses). The current zip has the bug.
 - **Next:** rebuild the release after the user's OK. Never publish.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on

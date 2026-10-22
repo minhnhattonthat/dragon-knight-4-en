@@ -14,6 +14,9 @@ E50C-E50D     options mouse-speed submenu pointer ref
 E540          options submenu draw routine bank byte (81:E53F LDA #$81)
 E54B-E559     options strings
 E55E-E58F     options submenu strings (relocated, old slots blanked)
+E23E-E273     field Load notebook names: bank + pointer refs (ui.json notebooks_field)
+E2F1          field Load place name bank byte -> $E1 (ui.json notebook_places)
+E38D          field Load place name bank byte -> $E1 (ui.json notebook_places)
 E740-E774     item names: bank + pointer refs
 EB03-EB08     main menu pool ref
 ECEC-ECF1     main menu pool ref
