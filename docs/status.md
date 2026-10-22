@@ -5,8 +5,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase:** 9 done. Last build: b22c7b0 Release v1.0 (local) (2026-10-21).
 - **Done:** recon, debug warp (tools/debug/warp.lua, regen.py), extract (script/*.json, 85 batches in work/tl),
   engine (asm/dk4.asm: far calls + VWF), 12103/12103 units translated + reviewed, UI (ui/ui.json) seen in-game,
-  graphics (docs/re/graphics.md), QA tours, release/dragon-knight-4_en.zip (rebuilt 2026-10-22 from 3ce3b67, still named
-  Dragon_Knight_4_EN_v1.0.bps: patch SHA-1 2e1d676cb4c400700911caff3623d118fe4fcf9a, patched CRC32 C3F5D6DF). Repo restructured to fan-translation-template.
+  graphics (docs/re/graphics.md), QA tours, release/dragon-knight-4_en.zip (v1.1, 2026-10-22 from c9d35d5:
+  Dragon_Knight_4_EN_v1.1.bps, patch SHA-1 b7564a7ef318a44d2ef728ff19b0d9dec511efe7, patched CRC32 27F76018; not published). Repo restructured to fan-translation-template.
 - **2026-10-22 agent playtest** (4 playtesters, docs/playtester-brief.md: prologue, Sonia, Limerin/throne room):
   fixed Options submenus (Slow/Normal/Fast, Stereo/Mono; relocated via ui.json ptr_refs/bank_refs), overflow pages
   of a named speaker now break at sentence ends when that costs no page (layout.pages_of), "{Name}" in English =
@@ -26,8 +26,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **2026-10-22 field menu Load (user report: black screen on load):** the field Load screen (81:E2E8, 81:E384)
   read the relocated place names with bank $85 (stale bytes, some with 10 xx ops, runs up to 71 bytes; Ulysses
   drew "長…") and drew the notebook names 81:E30E in Japanese. Fixed: notebook_places bank_refs 0xE2F1/0xE38D,
-  ui.json notebooks_field. Save red + field Load + title Continue verified in Mesen (Ulysses). The current zip has the bug.
-- **Next:** rebuild the release after the user's OK. Never publish.
+  ui.json notebooks_field. Save red + field Load + title Continue verified in Mesen (Ulysses). Fixed in v1.1.
+- **Next:** publishing v1.1 is the user's call. Never publish.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on
   a real save). Region 2C0000_0BC1 (lone 。, 1 byte) stays Japanese.
