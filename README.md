@@ -9,6 +9,20 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue: story, towns, battles, ending | Translated |
+| Menus, notebooks (save/load), status, party, items, battle panel, unit info, names, combat screen | Translated |
+| Battle command buttons | Translated |
+| Title screen | Partly translated (logo already English; copyright lines ©エルフ / ©バンプレ企画 still Japanese) |
+| "Player Phase" banners, staff roll | English in the original |
+| Battle animation screen | Not checked in play |
+
+Known issues: the battle panel shows "Gnd" (Ground) and the surrender popup "Yield?" (no room for more); a name
+inserted into a sentence can leave a small gap before a comma ("Rabbit , I want you to...").
+
 ## What's here
 
 | Path | What it is |
