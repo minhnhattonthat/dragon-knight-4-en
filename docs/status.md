@@ -46,7 +46,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **2026-11-20 v1.2 (issue #3 hotfix):** release/dragon-knight-4_en.zip from 719a6f7 + VERSION bump:
   Dragon_Knight_4_EN_v1.2.bps, patch SHA-1 98007d70d247554bda128ac70c19372212ad89b8, patched CRC32 6D8C1F3C
   (SHA-1 0b29bb00bb3891e5273588e46bd6619ef65e6c40). Tour work/qa/tour: 60 scenes rc=0, jpdraw 0 Japanese;
-  work/qa/manifest.tsv has 360 sheets with no visual-QA verdicts (waiver recorded; the user publishes by hand).
+  work/qa/manifest.tsv has 360 sheets with no visual-QA verdicts (waiver recorded). Published by the user
+  2026-11-20: github.com/minhnhattonthat/dragon-knight-4-en/releases/tag/v1.2.
 - **Next:** player bug reports (`gh issue list --label bug`). Never publish without the user.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on
