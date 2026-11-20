@@ -40,6 +40,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   column (choice region pads to the JP trailing blanks, 40 menus). Verified by warp (+ $07F4 flag Lua) for Marian,
   Gant, Rank, Kakeru, notebook. Not reproduced: Linus "...iiiiife" (shot shows no blank line). Not checked in
   game: Charon battle quote, save popup (preview only). Backward jump targets (28, loops) still start at line 0.
+  PR #4 follow-up: Linus 2FB86E_2470 "...iiiiiife" -> "Waaaaaaaah......" (player found it confusing); town-exit
+  refusals 2F0269_1DA4/1E4C, 2F9C88_10C0 (reported blank line after 【Kakeru】, v1.1 shots) already fixed by the
+  name-only trailing-nl fix: verified by warp (START=0x1D9B / 0x10B7, $07F4 cleared to fall through).
 - **Next:** player bug reports (`gh issue list --label bug`). Never publish without the user.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on
