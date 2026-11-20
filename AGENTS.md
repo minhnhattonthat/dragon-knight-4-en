@@ -1,13 +1,14 @@
 # Dragon Knight 4 (SNES, Banpresto 1996) English translation
 
-Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.json; other agents: `<SKILL_DIR>/SKILL.md`; `$SKILL` = the directory holding its SKILL.md). Read it before ROM, text or QA work.
+Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.json; other agents: `<SKILL_DIR>/SKILL.md`; `$SKILL` = the directory holding its SKILL.md). Read it before ROM, text or QA work. Repo scripts find it via `tools/skill.py` (`python tools/skill.py` prints it; env `TRANSLATE_SKILL` overrides).
+Once per clone: `git config core.hooksPath tools/hooks` (pre-commit runs the check).
 
 ## Commands (run from repo root)
 - Build:    `python -X utf8 build.py build`        -> build/dk4_en.sfc (checks the dump against `rom.sha1` first; `build.py marker` = marker build)
 - Check:    `python -X utf8 tools/check.py`  (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/dk4_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 $SKILL/scripts/emu.py build/dk4_en.sfc --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.lua`; never ask the user to play to a scene)
-- Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user; `$SKILL` env var overrides the plugin path)
+- Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 - Tour:     `python -X utf8 tools/debug/regen.py build/dk4_en.sfc --frames 18000 --no-state --out work/qa/tour
   --script tools/lua/jpdraw.lua` then `python -X utf8 tools/jpdraw.py work/qa/tour`.
@@ -21,6 +22,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 
 ## Rulings
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.
+- Subagents: dispatch the agent types (translator, reviewer, visual-qa, playtester, graphics) shipped by the plugin as `translate-retro-game:<type>` (Claude Code), `.codex/agents/` (Codex) or `.opencode/agents/` (opencode), never general-purpose: their short tool list cuts each agent's start-up context from ~43k to ~9k tokens.
 - The user's decisions, with the options and reasons: `docs/decisions.md`. Read it before asking the user anything; add each new ruling there the same session.
 - Player bug reports: GitHub issues (`gh issue list --label bug`). Copy the attached save into `work/states/`, reproduce in the emulator, fix, commit with `Fixes #N`, and update `docs/status.md`.
 - Script blocks are patched IN PLACE (far-call tokens), so unknown pointers in headers/object tables stay valid. Never move bytes inside a block.

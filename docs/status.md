@@ -8,6 +8,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   graphics (docs/re/graphics.md), QA tours, release/dragon-knight-4_en.zip (v1.1, 2026-10-22 from c9d35d5:
   Dragon_Knight_4_EN_v1.1.bps, patch SHA-1 b7564a7ef318a44d2ef728ff19b0d9dec511efe7, patched CRC32 27F76018). Published 2026-10-22: github.com/minhnhattonthat/dragon-knight-4-en, release v1.1
   (remote is HTTPS: the local SSH key is another account; push with gh's credential helper). Repo restructured to fan-translation-template.
+- **2026-11-20 template sync:** .codex/.opencode agent types, docs/{graphics,story-reviewer,visual-qa}-brief.md,
+  docs/screenshots/, tools/skill.py (skill path), tools/{bps,romdiff}.py local copies, tools/hooks/pre-commit
+  (core.hooksPath), new clean.py (keeps QA records); local guard hook dropped (plugin ships it).
+  No work/qa/**/manifest.tsv exists now: the plugin guard blocks `gh release create` until a QA tour + qa_gate run.
 - **2026-10-22 agent playtest** (4 playtesters, docs/playtester-brief.md: prologue, Sonia, Limerin/throne room):
   fixed Options submenus (Slow/Normal/Fast, Stereo/Mono; relocated via ui.json ptr_refs/bank_refs), overflow pages
   of a named speaker now break at sentence ends when that costs no page (layout.pages_of), "{Name}" in English =

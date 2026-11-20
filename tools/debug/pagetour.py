@@ -13,7 +13,8 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-SK = os.path.join(os.environ.get('SKILL', os.path.expanduser('~/.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game')), 'scripts')
+sys.path.insert(0, os.path.join(ROOT, 'tools'))
+from skill import SCRIPTS as SK  # noqa: E402
 
 
 def starts(per):

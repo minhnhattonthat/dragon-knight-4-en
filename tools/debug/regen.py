@@ -10,7 +10,9 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-EMU = os.path.join(os.environ.get('SKILL', os.path.expanduser('~/.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game')), 'scripts', 'emu.py')
+sys.path.insert(0, os.path.join(ROOT, 'tools'))
+from skill import SCRIPTS  # noqa: E402
+EMU = os.path.join(SCRIPTS, 'emu.py')
 
 
 def run(rom, sc, frames, out, mash, extra=(), state=True):

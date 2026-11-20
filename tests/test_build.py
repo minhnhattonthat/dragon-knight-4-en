@@ -13,8 +13,7 @@ sys.path.insert(0, os.path.join(ROOT, 'tools'))
 from dk4 import ROM_PATH  # noqa: E402
 
 pytestmark = pytest.mark.skipif(not os.path.exists(ROM_PATH), reason='original ROM not present')
-SKILL = os.environ.get('SKILL', os.path.expanduser('~/.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game'))
-ROMDIFF = os.path.join(SKILL, 'scripts', 'romdiff.py')
+ROMDIFF = os.path.join(ROOT, 'tools', 'romdiff.py')
 JP = re.compile('[\u3040-\u30ff\u4e00-\u9fff]')
 
 

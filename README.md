@@ -37,6 +37,7 @@ inserted into a sentence can leave a small gap before a comma ("Rabbit , I want 
 | `docs/decisions.md`, `docs/status.md` | Rulings with their reasons; current progress and open bugs. |
 | `docs/fonts.md` | Fonts used and their licences. |
 | `AGENTS.md` | Instructions for coding agents (`CLAUDE.md` points to it). |
+| `.codex/agents/`, `.opencode/agents/` | Subagent types (translator, reviewer, visual QA, playtester, graphics) for Codex and opencode; Claude Code gets them from the plugin. |
 
 ## Build your own patched ROM
 

@@ -6,15 +6,15 @@ jp_left.py is not a gate here: every byte 0x12-0xFF is a glyph code, so a byte s
 region classifier (stats 'japanese', tests/test_build.py) and the runtime draw scan (tools/jpdraw.py) replace it.
 """
 import hashlib
-import os
 import subprocess
 import sys
 import zipfile
 import zlib
 from pathlib import Path
 
+from skill import SCRIPTS  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
-SKILL = Path(os.environ.get('SKILL', Path.home() / '.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game'))
 ROM = ROOT / 'rom' / 'Dragon Knight 4 (Japan).sfc'
 VERSION = '1.1'
 SLUG = 'dragon-knight-4'
@@ -37,18 +37,19 @@ def main():
     run(PY + ['-m', 'pytest', '-q', 'tests'], 'tests')
     run(PY + ['build.py', 'build'], 'build')
     built = ROOT / 'build' / 'dk4_en.sfc'
-    run(PY + [SKILL / 'scripts' / 'emu.py', built, '--out', 'work/qa/release_smoke', '--route', 'tools/routes/boot.txt',
+    run(PY + [Path(SCRIPTS) / 'emu.py', built, '--out', 'work/qa/release_smoke', '--route', 'tools/routes/boot.txt',
               '--smoke'], 'smoke')
     if '--no-tour' not in sys.argv:
         run(PY + ['tools/jpdraw.py', 'work/qa/tour'], 'runtime Japanese draw scan (work/qa/tour)')
     rel = ROOT / 'release'
     rel.mkdir(exist_ok=True)
     final = ROOT / 'work' / 'dk4_en_release.sfc'
-    run(PY + [SKILL / 'scripts' / 'bps.py', 'snes-checksum', built, '--out', final], 'snes checksum')
+    bps = ROOT / 'tools' / 'bps.py'
+    run(PY + [bps, 'snes-checksum', built, '--out', final], 'snes checksum')
     patch = rel / PATCH
-    run(PY + [SKILL / 'scripts' / 'bps.py', 'make', ROM, final, patch], 'bps make')
+    run(PY + [bps, 'make', ROM, final, patch], 'bps make')
     check = ROOT / 'work' / 'reapplied.sfc'
-    run(PY + [SKILL / 'scripts' / 'bps.py', 'apply', ROM, patch, check], 'bps apply')
+    run(PY + [bps, 'apply', ROM, patch, check], 'bps apply')
     if check.read_bytes() != final.read_bytes():
         sys.exit('re-applied patch differs from the build')
     o, b = ROM.read_bytes(), final.read_bytes()
