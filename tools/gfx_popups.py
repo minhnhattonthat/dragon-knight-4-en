@@ -78,7 +78,7 @@ def patch(rom):
         for y in range(y0, y1):
             for x in range(x0, x1):
                 px[y][x] = px[y][1 + (x - 1) % 2]
-        cols = text_cols(text)
+        cols = text_cols(text, widen=True)
         if len(cols) > x1 - x0:
             raise SystemExit('popup text too wide: %r' % text)
         sx = x0 + (x1 - x0 - len(cols)) // 2

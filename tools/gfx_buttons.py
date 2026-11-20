@@ -44,16 +44,22 @@ def encode(px):
     return bytes(out)
 
 
-def text_cols(text):
+def text_cols(text, widen=False):
     cols = []
     for ch in text:
         body, desc = font_en.G[ch]
+        g = []
         for cx in range(len(body[0])):
             col = 0
             for r, line in enumerate(body + (desc or [])):
                 if line[cx] == '#':
                     col |= 1 << r
+            g.append(col)
+        for cx, col in enumerate(g):
             cols.append(col)
+            # a 1-px gap (m, w) would be filled by the bold pass: widen it to 2 px first (issue #3: "game" blob)
+            if widen and 0 < cx < len(g) - 1 and g[cx - 1] & g[cx + 1] & ~col:
+                cols.append(col)
         cols.append(0)
     while cols and cols[-1] == 0:
         cols.pop()
