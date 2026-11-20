@@ -32,6 +32,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
   read the relocated place names with bank $85 (stale bytes, some with 10 xx ops, runs up to 71 bytes; Ulysses
   drew "長…") and drew the notebook names 81:E30E in Japanese. Fixed: notebook_places bank_refs 0xE2F1/0xE38D,
   ui.json notebooks_field. Save red + field Load + title Continue verified in Mesen (Ulysses). Fixed in v1.1.
+- **2026-11-20 issue #3 (player report, screenshots only):** fixed Marian's House sign (talk script before the
+  block's first header word, vm.parse_block now starts at the lowest header entry that parses), blank line after a
+  name-only region (layout trailing nl), name tag pushed to the bottom line after a name + conditional jump (build
+  carries the line into jump targets, through command-only chains: regions.next_targets; op 40 is a cond jump),
+  Hardis "Huh?", save popup "game" (bold closed m's gaps: popups widen 1-px gaps), notebook choice "Red notebook"
+  column (choice region pads to the JP trailing blanks, 40 menus). Verified by warp (+ $07F4 flag Lua) for Marian,
+  Gant, Rank, Kakeru, notebook. Not reproduced: Linus "...iiiiife" (shot shows no blank line). Not checked in
+  game: Charon battle quote, save popup (preview only). Backward jump targets (28, loops) still start at line 0.
+  PR #4 follow-up: Linus 2FB86E_2470 "...iiiiiife" -> "Waaaaaaaah......" (player found it confusing); town-exit
+  refusals 2F0269_1DA4/1E4C, 2F9C88_10C0 (reported blank line after 【Kakeru】, v1.1 shots) already fixed by the
+  name-only trailing-nl fix: verified by warp (START=0x1D9B / 0x10B7, $07F4 cleared to fall through).
 - **Next:** player bug reports (`gh issue list --label bug`). Never publish without the user.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on

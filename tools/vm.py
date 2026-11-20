@@ -84,6 +84,17 @@ def parse_block(rom, glyphs, blk):
         ln = nxt - off - 2
     data = rom[off + 2:off + 2 + ln]
     start = block_start(data)
+    # some talk scripts sit before the first header word (block 1: Marian's House sign at 0x91, issue #3):
+    # start at the lowest header entry that parses as script exactly up to the first word
+    for w in sorted({data[2 * k] | data[2 * k + 1] << 8 for k in range(start // 2)}):
+        if 2 <= w < start and data[w] == 0x10:
+            try:
+                pre = parse(data, glyphs, w, start)
+            except ParseError:
+                continue
+            if pre[-1]['off'] + len(pre[-1]['raw']) == start:
+                start = w
+                break
     try:
         ops = parse(data, glyphs, start)
         return start, len(data), ops

@@ -219,14 +219,16 @@ def dlg_region(segs, start_line=0, trailing_nl=False, first_budget=CELLS, attach
         # an unnamed segment after this one continues on the next line; a named one starts a new page
         if si != len(segs) - 1 and not segs[si + 1][0]:
             box.nl()
-    if trailing_nl:
+    # a region that is only a name tag ("【name】" + 00): its newline is the one box.nl() above already drew (issue #3)
+    if trailing_nl and not (segs and segs[-1][0] and not segs[-1][2]):
         box.nl()
     return bytes(box.b), box.line, box.col
 
 
-def choice_region(lines_fields, jp_layout):
+def choice_region(lines_fields, jp_layout, pad_to=0):
     """lines_fields: English [[field, ...] per line]; jp_layout: [[(start_cell, jp_cells_until_next)] per line]
-    plus leading blank counts. Each English field starts at the JP field's cell."""
+    plus leading blank counts. Each English field starts at the JP field's cell. pad_to: blank-fill the last line
+    to this cell (the JP region ends mid-line and the next region's fields continue on it)."""
     out = bytearray()
     for li, (fields, lay) in enumerate(zip(lines_fields, jp_layout)):
         cell = 0
@@ -244,6 +246,10 @@ def choice_region(lines_fields, jp_layout):
             raise LayoutError('choice line over width')
         if li != len(lines_fields) - 1:
             out.append(NL)
+        elif pad_to:
+            if cell > pad_to:
+                raise LayoutError('choice line needs %d cells, the next region starts at %d' % (cell, pad_to))
+            out += bytes([BLANK]) * (pad_to - cell)
     return bytes(out)
 
 

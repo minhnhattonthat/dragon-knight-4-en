@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(ROOT, 'tools'))
 import check_rom  # noqa: E402
 from dk4 import load_rom, load_glyphs  # noqa: E402
-from regions import regions, unique_blocks  # noqa: E402
+from regions import regions, unique_blocks, COND_JUMPS  # noqa: E402
 from segments import units, tokens, lines_of, choice_fields, is_choice  # noqa: E402
 import layout  # noqa: E402
 import font_en  # noqa: E402
@@ -35,7 +35,7 @@ SHORT_FIRST, SHORT_LAST = 0x833, 0xAFF
 PAGE_RESET_OPS = {0x01, 0x13, 0x15, 0x16, 0x0C, 0x3A}
 # conditional jumps between two text regions leave the box as it is (seen: 2D4417_0EBE drew its speaker name on the
 # last line of the previous page because its start line was assumed 0)
-FALLTHROUGH_OPS = {0x0A, 0x35}   # (0x12/0x14 take no condition: unconditional jump/call, nothing falls through)
+FALLTHROUGH_OPS = COND_JUMPS   # 40: battle death quote 02F144_00A8 (issue #3); (0x12/0x14 take no condition: unconditional jump/call, nothing falls through)
 # op 31 prints a number at the cursor (battle text: "<Seeds found> 3 <Seeds of Power>"): the next region continues on
 # the same line after it; NUM_CELLS cells are left for the digits
 INLINE_OPS, NUM_CELLS = {0x31}, 2
@@ -165,6 +165,7 @@ def build(mode):
     errors = []
     prev_end = {}
     prev_col = {}
+    jump_end = {}
     shared = {}
     midline = midline_targets(rom, g)
     for r in regions(rom, g):
@@ -201,7 +202,10 @@ def build(mode):
                 fields = [next(it) if x else [] for x in lay]
                 if any(len(a) != len(b) for a, b in zip(fields, lay)):
                     raise layout.LayoutError('choice needs %s fields per line' % [len(x) for x in lay if x])
-                body = layout.choice_region(fields, lay)
+                # JP ends mid-line on blanks: the next region's field (2FB86E_07FF "Red notebook") starts after them
+                last = lines_of(toks)[-1]
+                pad = len(last) if last and last[-1][0] == 'blank' else 0
+                body = layout.choice_region(fields, lay, pad)
                 end_line = 0
             else:
                 info, toks = region_seg_info(r, rom, g)
@@ -216,6 +220,11 @@ def build(mode):
                 carried = r['off'] in prev_end.get(r['boff'], {})
                 if (r['prev_op'] is None or r['prev_op'] in FALLTHROUGH_OPS | INLINE_OPS) and carried:
                     start_line = prev_end[r['boff']][r['off']]
+                jumped = jump_end.get(r['boff'], {}).get(r['off'], set())
+                if jumped:
+                    if len(jumped | ({start_line} if carried else set())) > 1:
+                        raise layout.LayoutError('entered at lines %s' % sorted(jumped | {start_line}))
+                    start_line = min(jumped)
                 trailing = bool(toks) and toks[-1][0] == 'nl'
                 first = layout.CELLS
                 if (r['boff'], r['off']) in midline:
@@ -245,6 +254,8 @@ def build(mode):
         if r['next_op'] in FALLTHROUGH_OPS | INLINE_OPS:   # the next region continues on the same page / line
             prev_end.setdefault(r['boff'], {})[r['off'] + r['len'] + len(r['next_raw'])] = end_line
             prev_col[(r['boff'], r['off'] + r['len'] + len(r['next_raw']))] = end_col
+            for t in r['next_targets']:   # taken jumps land on the same page too (2F0269_134D name -> 1647)
+                jump_end.setdefault(r['boff'], {}).setdefault(t, set()).add(end_line)
         if r['len'] < 2:
             stats['japanese'] += 1
             continue

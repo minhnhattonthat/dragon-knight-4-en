@@ -17,6 +17,8 @@ EXTRA_STREAMS = [(60, 0x3028C, 0x320C7, 0x86),
                  (61, 0x2C45B, 0x2D0FB, 0x85), (62, 0x2D13B, 0x2D44C, 0x85), (63, 0x2D48C, 0x2DB40, 0x85),
                  (64, 0x2DB80, 0x2E245, 0x85), (65, 0x2E285, 0x2E985, 0x85), (66, 0x2E9C5, 0x2F106, 0x85),
                  (67, 0x2F146, 0x2FFA3, 0x85)]
+# conditional jumps: the box stays as it is on both paths (taken and fall-through)
+COND_JUMPS = {0x0A, 0x35, 0x40}
 
 
 def stream_ops(rom, glyphs, blk):
@@ -60,6 +62,22 @@ def regions(rom=None, glyphs=None):
         targets = set()
         for o in ops:
             targets.update(o.get('targets', []))
+        at = {o['off']: o for o in ops}
+
+        def landings(ts, seen=()):
+            """Text offsets a jump reaches, through command-only chains (2F0269_1EAA name -> 1EC3 jump -> 1EE8/1EC9)."""
+            out = []
+            for t in ts:
+                o = at.get(t)
+                if o is None or t in seen:
+                    continue
+                if o['kind'] == 'text':
+                    out.append(t)
+                elif o['op'] in COND_JUMPS:
+                    out += landings(o['targets'] + [t + len(o['raw'])], seen + (t,))
+                elif o['op'] == 0x12:
+                    out += landings(o['targets'], seen + (t,))
+            return out
         for k, o in enumerate(ops):
             if o['kind'] != 'text':
                 continue
@@ -83,6 +101,7 @@ def regions(rom=None, glyphs=None):
                     'prev_op': prev_op['op'] if (n == 0 and prev_op and prev_op['kind'] == 'cmd') else None,
                     'next_op': next_op['op'] if (n == len(pieces) - 1 and next_op and next_op['kind'] == 'cmd') else None,
                     'next_raw': next_op['raw'] if (n == len(pieces) - 1 and next_op) else None,
+                    'next_targets': landings(next_op.get('targets', [])) if (n == len(pieces) - 1 and next_op) else [],
                     'target': off in targets,
                 }
 

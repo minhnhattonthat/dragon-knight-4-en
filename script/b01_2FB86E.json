@@ -1,5 +1,13 @@
 [
  {
+  "id": "2FB86E_0097.0",
+  "speaker": "",
+  "form": "dlg",
+  "nlines": 2,
+  "jp": "「マリアンの家」 / ただいま、外出中です。",
+  "en": "\"Marian's House\" Sorry, we're out right now."
+ },
+ {
   "id": "2FB86E_00DF.0",
   "speaker": "カケル",
   "form": "dlg",
@@ -2225,7 +2233,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ぁぁぁぁぁ……。",
-  "en": "...iiiiiife......"
+  "en": "Waaaaaaaah......"
  },
  {
   "id": "2FB86E_2487.0",
