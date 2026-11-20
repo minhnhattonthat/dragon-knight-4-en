@@ -43,6 +43,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   PR #4 follow-up: Linus 2FB86E_2470 "...iiiiiife" -> "Waaaaaaaah......" (player found it confusing); town-exit
   refusals 2F0269_1DA4/1E4C, 2F9C88_10C0 (reported blank line after 【Kakeru】, v1.1 shots) already fixed by the
   name-only trailing-nl fix: verified by warp (START=0x1D9B / 0x10B7, $07F4 cleared to fall through).
+- **2026-11-20 v1.2 (issue #3 hotfix):** release/dragon-knight-4_en.zip from 719a6f7 + VERSION bump:
+  Dragon_Knight_4_EN_v1.2.bps, patch SHA-1 98007d70d247554bda128ac70c19372212ad89b8, patched CRC32 6D8C1F3C
+  (SHA-1 0b29bb00bb3891e5273588e46bd6619ef65e6c40). Tour work/qa/tour: 60 scenes rc=0, jpdraw 0 Japanese;
+  work/qa/manifest.tsv has 360 sheets with no visual-QA verdicts (waiver recorded; the user publishes by hand).
 - **Next:** player bug reports (`gh issue list --label bug`). Never publish without the user.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on
