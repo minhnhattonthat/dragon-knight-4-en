@@ -56,6 +56,11 @@ org $80C976
 org $80C984
     LDA.b #choice_hi>>16
 
+org $80CA44             ; choice layout 1 (unused in JP): option tilemap offsets $0040,$0080 (rows 1-2, part of
+    dw $CA54            ; layout 2's list at 80:CA52) = a 1-line question and its 2 options in one box (build.py)
+org $80CA79             ; choice layout 1 option count (80:CA78)
+    db $02
+
 org $80B169             ; menu string renderer: CMP #$06CC / BCC single glyph (else dictionary)
     JML b160_hook
     NOP

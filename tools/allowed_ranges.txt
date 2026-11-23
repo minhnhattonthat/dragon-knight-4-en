@@ -6,7 +6,9 @@
 496C-496D     choice cursor row source bank -> $E0
 4976-497C     choice cursor row length -> JSL choice_w
 4984-4985     choice cursor row source bank -> $E0
-2EAE-2EB1     hook 80:AEAE glyph routine -> vwf_hook
+4A44-4A45     choice layout 1 option list -> 80:CA54 (rows 1-2: question and options in one box)
+4A79          choice layout 1 option count -> 2
+2EAE-2EB1    hook 80:AEAE glyph routine -> vwf_hook
 3169-316D     hook 80:B169 menu string renderer
 31B0-31B3     hook 80:B1B0 menu glyph draw
 3318-331B     hook 80:B318 dictionary call -> far_hook
