@@ -6,6 +6,8 @@
 | 80:AEAE | glyph routine entry | vwf_hook | in far (English) text: compose one 16-px cell from ASCII letters (VWF with carry into the next cell; 0x7F flushes the carry); precomposed cells from $E1:8000 |
 | 80:ACDF | text cursor advance `INC $06,x / LDA $06,x` (col $06, width $05=24, line $08; col = width wraps, line 3 = page full) | adv_hook | far text, glyph-loop advance (JSR from 80:AB23/AB2D, checked on the stack): col = width stays pending, the next 00 wraps. A 24-cell last line otherwise cleared the page and the wait op after it showed an empty box (issue #5) |
 | 80:C93C-C985 | choice cursor: 10 attribute bytes (80:CA64 $20 / 80:CA6E $24) per option row | choice_w | 13 cells at column 0, 24 - column at column 13, tables in bank $E0 (English options are wider) |
+| 80:CA44, CA79 | choice layout 1 (unused in JP): ptr 0, count 0 | `dw $CA54` / `db 2` | options at tilemap +$40/+$80 (rows 1-2): build.py same_box_choices skips the 01 after a 1-line unnamed question and sets the 0C layout byte to 1 |
+| 85:852A, 8445, 82A1, 8323, 8340, 8356, 830A, 8313, 82FC/8304 | unit pick lists (op 30 02 / 08): one name per row, 3 rows shown; index $23, top row $24, count $1F, pad $AB (02 up, 0A down, 06 right, 0E left) | list_draw / list_tag / list_name / list_rowdiff / list_fwd / list_back | 2 columns (index i at row i/2, column i&1, +12 words), 6 names shown |
 | 80:B169 | menu renderer `CMP #$06CC` | b160_hook | precomposed codes take the single-glyph path |
 | 80:B1B0 | menu glyph draw | b1b0_hook | precomposed codes read their cell from $E1:8000 |
 | 80:C3F0 | op 21 unit-info printer `CMP #$06CC` | c3f0_hook | precomposed codes are glyphs, not dictionary entries |

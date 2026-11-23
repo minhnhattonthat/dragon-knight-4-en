@@ -53,8 +53,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   choice highlight width (Necromancer's Squad "d"; choice_w), Eto seed pickup "!" alone on a line (room for the number +1
   cell; multi-page last_room bug fixed in layout), "Mayfair   ," (blank-only lead-in is not a midline continuation;
   comma moved into the 16 name regions of 2DA01B; no speaker tag there in JP either), stray leading ?/?!/! in 10 lines,
-  Eto/Natasha same line (JP nearly identical; Eto reworded). Verified by warp / bat23 battletext. Not done: party-split
-  select window size (UI request), choice prompts on the same page (QoL request), Animation toggle clearing Air/Gnd
+  Eto/Natasha same line (JP nearly identical; Eto reworded). Verified by warp / bat23 battletext. Then (same day): 2-option
+  choices after a 1-line unnamed question stay in its box (43 of 119; choice layout 1 = rows 1-2, build.py
+  same_box_choices), unit pick lists (party split op 30 02, training op 30 08) in 2 columns / 6 visible (asm list_*).
+  Verified by warp + WRAM injected from the reporter's state7 (tools/debug/ra_inject.lua: 7E:0200-06FF, 0740-1DFF,
+  2000-FFFF; full WRAM hangs). Not done: Animation toggle clearing Air/Gnd
   ---% (not reproduced: pad cursor did not reach the button bar; HUD code untouched by the patch).
 - **Next:** player bug reports (`gh issue list --label bug`). Never publish without the user.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese

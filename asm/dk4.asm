@@ -61,6 +61,37 @@ org $80CA44             ; choice layout 1 (unused in JP): option tilemap offsets
 org $80CA79             ; choice layout 1 option count (80:CA78)
     db $02
 
+; unit pick lists (op 30 02 party split "choose up to 5 besides Rhea", op 30 08): 2 columns, 6 names in the box
+; instead of 1 column of 3 (issue #5). Index i sits at row i/2, column i&1 (see list_pos).
+org $85852A             ; draw (op 30 02): REP #$20 / ASL x5 / ADC #$D9E7 / STA $03 (name tiles), then JSR $8572
+    JSL list_draw
+    NOP #8
+org $858445             ; draw (op 30 08): same sequence, then JSR $848D
+    JSL list_draw
+    NOP #8
+org $8582A1             ; "picked" tag: XBA / LSR / LSR / ADC #$1807 (VRAM word address of index $23)
+    JSL list_tag
+    NOP #2
+org $858323             ; highlight off (old index $25): XBA / LSR / LSR / ADC #$1809
+    JSL list_name
+    NOP #2
+org $858340             ; highlight on (index $23)
+    JSL list_name
+    NOP #2
+org $858356             ; scroll: LDA $23 / SEC / SBC $24 ($24 = top row, 3 rows shown)
+    JSL list_rowdiff
+    NOP
+org $8582FC             ; pad table (JSR ($82F6,x), x = $AB): right ($06) -> forward, left ($0E) -> back
+    dw $830A
+org $858304
+    dw $8313
+org $85830A             ; forward (down $0A: +2, right: +1 from the left column)
+    JSL list_fwd
+    RTS
+org $858313             ; back (up $02: -2, left: -1 from the right column)
+    JSL list_back
+    RTS
+
 org $80B169             ; menu string renderer: CMP #$06CC / BCC single glyph (else dictionary)
     JML b160_hook
     NOP
@@ -478,6 +509,92 @@ choice_hi:
     db $20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20
 choice_lo:
     db $24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24
+
+; ---------------------------------------------------------------------------------
+; unit pick lists (85:81A7 / 85:8148, shared input loop 85:8204): 2 columns. Tilemap: 32 words per tile row,
+; 2 tile rows per entry; column 0 = tag at word 7, name (8 tiles) at word 9; column 1 is 12 words to the right.
+list_pos:               ; M=16, A = index (high byte 0) -> A = row * $40 + column * $0C, carry clear
+    LSR A
+    BCS +
+    XBA
+    LSR A
+    LSR A
+    RTS
++   XBA
+    LSR A
+    LSR A               ; low bits shifted out are 0: carry clear
+    ADC.w #$000C
+    RTS
+list_tag:
+    JSR list_pos
+    ADC.w #$1807
+    RTL
+list_name:
+    JSR list_pos
+    ADC.w #$1809
+    RTL
+list_draw:              ; M=8 -> 16: $03 = name tiles of unit A (as the original), $00 = buffer slot of index $1F
+    REP #$20
+    ASL A
+    ASL A
+    ASL A
+    ASL A
+    ASL A
+    ADC.w #$D9E7
+    STA $03
+    LDA $1F
+    AND.w #$00FF
+    JSR list_pos
+    ASL A
+    ADC.w #$E012        ; 7F:E012 = row 0, word 9
+    STA $00
+    RTL
+list_rowdiff:           ; M=8: A = row of $23 - top row $24, flags for the BMI / CMP #$03 after it
+    LDA $23
+    LSR A
+    SEC
+    SBC $24
+    RTL
+list_fwd:               ; M=8: carry set = no move
+    LDA $AB
+    CMP.b #$06
+    BNE +
+    LDA $23
+    BIT.b #$01
+    BNE .no             ; right from the right column
+    INC A
+    BRA ++
++   LDA $23
+    INC A
+    INC A
+++  CMP $1F
+    BCS .no
+    STA $23
+    CLC
+    RTL
+.no:
+    SEC
+    RTL
+list_back:
+    LDA $AB
+    CMP.b #$0E
+    BNE +
+    LDA $23
+    BIT.b #$01
+    BEQ .no             ; left from the left column
+    DEC A
+    BRA ++
++   LDA $23
+    SEC
+    SBC.b #$02
+    BMI .no
+++  STA $23
+    CLC
+    RTL
+.no:
+    SEC
+    RTL
+warnpc $E0E000
 
 ; ---------------------------------------------------------------------------------
 ; combat name plates: precomposed names at $FF:8000 (128 bytes per packed name index, tools/gfx_plates.py)
