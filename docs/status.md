@@ -48,6 +48,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (SHA-1 0b29bb00bb3891e5273588e46bd6619ef65e6c40). Tour work/qa/tour: 60 scenes rc=0, jpdraw 0 Japanese;
   work/qa/manifest.tsv has 360 sheets with no visual-QA verdicts (waiver recorded). Published by the user
   2026-11-20: github.com/minhnhattonthat/dragon-knight-4-en/releases/tag/v1.2.
+- **2026-11-23 issue #5 (v1.2 report; RetroArch Mesen-S states: raw, WRAM at file offset 0xA5, 7F:0000 = loaded block):**
+  fixed blank box after a 24-cell last line (Torul 2D8000_15E0, Santos 2DAE44_0F4C; engine adv_hook, docs/re/hooks.md),
+  choice highlight width (Necromancer's Squad "d"; choice_w), Eto seed pickup "!" alone on a line (room for the number +1
+  cell; multi-page last_room bug fixed in layout), "Mayfair   ," (blank-only lead-in is not a midline continuation;
+  comma moved into the 16 name regions of 2DA01B; no speaker tag there in JP either), stray leading ?/?!/! in 10 lines,
+  Eto/Natasha same line (JP nearly identical; Eto reworded). Verified by warp / bat23 battletext. Not done: party-split
+  select window size (UI request), choice prompts on the same page (QoL request), Animation toggle clearing Air/Gnd
+  ---% (not reproduced: pad cursor did not reach the button bar; HUD code untouched by the patch).
 - **Next:** player bug reports (`gh issue list --label bug`). Never publish without the user.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on

@@ -136,7 +136,9 @@ MIDLINE_LEAD = 8   # cells kept free on the first line of a mid-line region (an 
 
 def midline_targets(rom, g):
     """{(block file offset, body offset)} of jump targets reached from a jump that follows text with no newline,
-    e.g. "<leader name>" JUMP -> "、 / I want you to...": the English continues on a line that already holds a name."""
+    e.g. "<leader name>" JUMP -> "、 / I want you to...": the English continues on a line that already holds a name.
+    Text that is only JP blank cells (0x11, an indent kept in place) is not a continuation: the target starts the
+    line as usual (2DA01B_01FF "Mayfair" had an empty line above it, issue #5)."""
     from vm import parse_block
     out = set()
     for blk in unique_blocks(rom):
@@ -145,7 +147,8 @@ def midline_targets(rom, g):
         except Exception:   # pseudo blocks (epilogue stream) have no jump-into-midline cases
             continue
         for prev, o in zip(ops, ops[1:]):
-            if o.get('targets') and prev['kind'] == 'text' and prev['raw'][-1:] != b'\x00':
+            if o.get('targets') and prev['kind'] == 'text' and prev['raw'][-1:] != b'\x00' \
+                    and set(prev['raw']) != {0x11}:
                 out.update((blk[2], t) for t in o['targets'])
     return out
 
@@ -235,7 +238,8 @@ def build(mode):
                 attach = r['prev_op'] in INLINE_OPS and carried
                 if attach:
                     first = max(0, layout.CELLS - prev_col[key] - NUM_CELLS)
-                room = NUM_CELLS if r['next_op'] in INLINE_OPS else 0
+                # +1: the "!" / "!!" after the number stays on its line (Eto "Seed of Power x 2" + "!", issue #5)
+                room = NUM_CELLS + 1 if r['next_op'] in INLINE_OPS else 0
                 body, end_line, end_col = layout.dlg_region(segs, start_line, trailing, first, attach, room)
                 if end_col > layout.CELLS - room:
                     raise layout.LayoutError('no room for the number after the last line (%d cells)' % end_col)

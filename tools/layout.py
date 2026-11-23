@@ -198,6 +198,13 @@ def dlg_region(segs, start_line=0, trailing_nl=False, first_budget=CELLS, attach
         if name and len(lines) > LINES - 1:
             # overflow pages repeat the speaker; break them at sentence ends, not mid-sentence
             pages = pages_of(text, LINES - 1)
+            last = pages[-1]
+            if last_room and si == len(segs) - 1 and line_cells(last[-1]) > CELLS - last_room:
+                head, _, w = last[-1].rpartition(' ')   # as above: the number after this region needs the room
+                if not head.strip():
+                    raise LayoutError('no room for the number after %r' % last[-1])
+                last[-1:] = [head, INDENT + w]
+                pages[-1:] = [last[i:i + LINES - 1] for i in range(0, len(last), LINES - 1)]
             for pi, pg in enumerate(pages):
                 if pi:
                     box.new_page()

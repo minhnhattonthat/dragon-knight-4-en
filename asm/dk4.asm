@@ -34,6 +34,28 @@ org $80B318             ; dictionary call path (code >= $6CC): STY $30,x / SBC #
 org $80AEAE             ; glyph routine entry: PHB / REP #$21 / LDY #$8800
     JML vwf_hook
 
+org $80ACDF             ; text cursor advance: INC $06,x / LDA $06,x (col; wraps at width $05, line $08)
+    JML adv_hook
+
+org $80C93C             ; choice cursor: attribute rows for the new / old option (see choice_w)
+    LDY.w #choice_hi
+org $80C945
+    LDY.w #choice_lo
+org $80C95D
+    JSL choice_w
+    NOP
+    NOP
+    NOP
+org $80C96C
+    LDA.b #choice_hi>>16
+org $80C976
+    JSL choice_w
+    NOP
+    NOP
+    NOP
+org $80C984
+    LDA.b #choice_hi>>16
+
 org $80B169             ; menu string renderer: CMP #$06CC / BCC single glyph (else dictionary)
     JML b160_hook
     NOP
@@ -151,6 +173,30 @@ far_hook:               ; M=16 X=16, A = code, Y = offset after the 2-byte code,
     JML $80B2B6
 
 ; ---------------------------------------------------------------------------------
+; M=8 X=16, X = ctx. English lines may use all 24 cells (JP lines use 23). Drawing cell 24 wrapped the line at
+; once; on a page's last line that flagged page-full, so a wait op after the text showed an empty page (issue #5).
+; In far text, a glyph-loop advance (JSR from 80:AB23 / 80:AB2D) that reaches the width leaves col = width
+; pending; the next 00 newline (80:B302: col != 0, col = width - 1, advance) wraps as usual.
+adv_hook:
+    INC $06,x
+    LDA.l !V_EN
+    BEQ .orig
+    REP #$20
+    LDA $01,s           ; JSR return address - 1
+    CMP #$AB25
+    BEQ .glyph
+    CMP #$AB2F
+    BEQ .glyph
+    SEP #$20
+.orig:
+    LDA $06,x
+    JML $80ACE3         ; CMP $05,x ...
+.glyph:
+    SEP #$20
+    LDA $06,x
+    CMP $05,x
+    BNE .orig
+    JML $80ACF8         ; no wrap: only recompute the cell address
 vwf_hook:               ; M=8 X=16, C = code, X = ctx, $00-$02 = text base, ctx $0C = next offset
     PHB
     REP #$21
@@ -403,6 +449,30 @@ draw:
     STA !V_X
     PLX
     RTS
+
+; ---------------------------------------------------------------------------------
+; choice cursor (80:C92F): the moved-to / moved-from option gets attribute bytes $20 (white) / $24 (grey) over 10
+; cells from 80:CA64 / 80:CA6E. English options run longer ("Necromancer's Squad" kept a white "d", issue #5):
+; recolor 13 cells at column 0 (up to the second column) or up to the box edge (24 - column), from these tables.
+choice_w:               ; M=8 X=16, replaces TDC / LDA #$0A / JSL $809731 (A = DMA length), $17 = option's
+    REP #$20            ; tilemap address, $03 = box origin
+    LDA $17
+    SEC
+    SBC $03
+    AND #$001F          ; column (0 or 13)
+    BNE +
+    LDA #$000D
+    BRA ++
++   EOR #$FFFF
+    SEC
+    ADC #$0018          ; 24 - column
+++  SEP #$20
+    JSL $809731
+    RTL
+choice_hi:
+    db $20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20
+choice_lo:
+    db $24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24
 
 ; ---------------------------------------------------------------------------------
 ; combat name plates: precomposed names at $FF:8000 (128 bytes per packed name index, tools/gfx_plates.py)

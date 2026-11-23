@@ -4,6 +4,8 @@
 |---|---|---|---|
 | 80:B318 | `STY $30,x / SBC #$06CC` (dictionary call) | far_hook | codes 0x833-0xAFF: short far text call via FARSHORT ($E0:8000, 4 bytes: ptr24 + skip8); 0x0F b0 b1 b2 s0 s1: long far call (skip16); 0xEFF: far return; 0xB00-0xDFF: precomposed cell drawn as a glyph |
 | 80:AEAE | glyph routine entry | vwf_hook | in far (English) text: compose one 16-px cell from ASCII letters (VWF with carry into the next cell; 0x7F flushes the carry); precomposed cells from $E1:8000 |
+| 80:ACDF | text cursor advance `INC $06,x / LDA $06,x` (col $06, width $05=24, line $08; col = width wraps, line 3 = page full) | adv_hook | far text, glyph-loop advance (JSR from 80:AB23/AB2D, checked on the stack): col = width stays pending, the next 00 wraps. A 24-cell last line otherwise cleared the page and the wait op after it showed an empty box (issue #5) |
+| 80:C93C-C985 | choice cursor: 10 attribute bytes (80:CA64 $20 / 80:CA6E $24) per option row | choice_w | 13 cells at column 0, 24 - column at column 13, tables in bank $E0 (English options are wider) |
 | 80:B169 | menu renderer `CMP #$06CC` | b160_hook | precomposed codes take the single-glyph path |
 | 80:B1B0 | menu glyph draw | b1b0_hook | precomposed codes read their cell from $E1:8000 |
 | 80:C3F0 | op 21 unit-info printer `CMP #$06CC` | c3f0_hook | precomposed codes are glyphs, not dictionary entries |

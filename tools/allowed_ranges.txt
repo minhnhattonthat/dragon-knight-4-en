@@ -1,4 +1,11 @@
 # romdiff allowed ranges (file offsets, inclusive). Anything the build writes outside these fails tests/test_build.py.
+2CDF-2CE2     hook 80:ACDF text cursor advance -> adv_hook (24-cell English lines, issue #5)
+493C-493E     choice cursor highlight row source -> choice_hi (issue #5)
+4945-4947     choice cursor dim row source -> choice_lo
+495D-4963     choice cursor row length -> JSL choice_w
+496C-496D     choice cursor row source bank -> $E0
+4976-497C     choice cursor row length -> JSL choice_w
+4984-4985     choice cursor row source bank -> $E0
 2EAE-2EB1     hook 80:AEAE glyph routine -> vwf_hook
 3169-316D     hook 80:B169 menu string renderer
 31B0-31B3     hook 80:B1B0 menu glyph draw
