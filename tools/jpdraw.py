@@ -23,7 +23,7 @@ def main(root):
                 continue
             tag, code, en, ret, frame = ln.split()[1:6]
             code, en = int(code, 16), int(en)
-            if (tag == 'dlg' and en and 0x20 <= code < 0x80) or 0xB00 <= code < 0xE00:
+            if (tag == 'dlg' and en and 0x20 <= code < 0x80) or 0xB00 <= code < 0xE60:
                 continue   # English VWF letter / precomposed English cell
             ch = g.get(code, '').rstrip('*')
             if JP.search(ch):

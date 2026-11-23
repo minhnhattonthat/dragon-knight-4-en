@@ -17,7 +17,7 @@ import os
 from dk4 import ROOT, load_glyphs
 import font_en
 
-PRE_FIRST, PRE_END = 0xB00, 0xE00
+PRE_FIRST, PRE_END = 0xB00, 0xE60   # cells at $E1:8000 + 28 * n must end before $E1:E000 (UI strings)
 BLANK = 0x11
 
 
@@ -350,6 +350,8 @@ def build_namelist(e, rom, img, pre, reloc):
     """Party-name list: pool string (pool_ref site) + table of 8-cell entries (top 8 words, bottom 8 words,
     LE, at `table` file offset, `count` entries). Each English name gets its own pool cells (thin, squeezed)."""
     names, codes, first = e['names'], [], {}
+    # JP cells the menus draw by fixed tile number (pick lists: arrows at cells 43-44, the "picked" star at 45)
+    fixed = {int(k): int(v, 16) for k, v in e.get('fixed', {}).items()}
     for n in names:
         if n in first:
             continue
@@ -357,13 +359,17 @@ def build_namelist(e, rom, img, pre, reloc):
         k = (len(cols) + 15) // 16
         if k > 8:
             raise ValueError('%s: %r too wide' % (e['id'], n))
+        while any(len(codes) <= c < len(codes) + k for c in fixed):   # a name's cells stay contiguous
+            codes.append(fixed.get(len(codes), BLANK))
         first[n] = (len(codes), k)
         codes += [pre.code(r) for r in cells_from_cols(cols, k)]
+    while any(c >= len(codes) for c in fixed):
+        codes.append(fixed.get(len(codes), BLANK))
     if len(codes) * 4 + 4 > e.get('max_tile', 0x100):
         raise ValueError('%s: pool too big (%d cells)' % (e['id'], len(codes)))
-    # the upload buffer holds 64 cells (asm: 81:F0E5 patched from 56)
-    if len(codes) > 64:
-        raise ValueError('%s: %d cells > 64 (upload buffer)' % (e['id'], len(codes)))
+    # the upload buffer holds 64 cells (asm: 81:F0E5 patched from 56), then 81:F0B5 flushes it and goes on
+    if len(codes) > e.get('max_cells', 64):
+        raise ValueError('%s: %d cells > %d' % (e['id'], len(codes), e.get('max_cells', 64)))
     data = encode_cells(codes) + b'\x00'
     p = reloc[0]
     img[p:p + len(data)] = data

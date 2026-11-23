@@ -85,7 +85,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "メイフェア",
-  "en": "Mayfair"
+  "en": "Mayfair,"
  },
  {
   "id": "2DA01B_0205.0",
@@ -93,7 +93,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "クラリス",
-  "en": "Clarice"
+  "en": "Clarice,"
  },
  {
   "id": "2DA01B_020B.0",
@@ -101,7 +101,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パンドラ",
-  "en": "Pandora"
+  "en": "Pandora,"
  },
  {
   "id": "2DA01B_0211.0",
@@ -109,7 +109,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "セイラ",
-  "en": "Sayla"
+  "en": "Sayla,"
  },
  {
   "id": "2DA01B_0217.0",
@@ -117,7 +117,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ロザリンド",
-  "en": "Rosalind"
+  "en": "Rosalind,"
  },
  {
   "id": "2DA01B_021D.0",
@@ -125,7 +125,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ターニャン",
-  "en": "Tanyan"
+  "en": "Tanyan,"
  },
  {
   "id": "2DA01B_0223.0",
@@ -133,7 +133,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カロン",
-  "en": "Charon"
+  "en": "Charon,"
  },
  {
   "id": "2DA01B_0229.0",
@@ -141,7 +141,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "カルタス",
-  "en": "Cartas"
+  "en": "Cartas,"
  },
  {
   "id": "2DA01B_022F.0",
@@ -149,7 +149,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ゴロンゴン",
-  "en": "Gorongon"
+  "en": "Gorongon,"
  },
  {
   "id": "2DA01B_0235.0",
@@ -157,7 +157,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "サントス",
-  "en": "Santos"
+  "en": "Santos,"
  },
  {
   "id": "2DA01B_023B.0",
@@ -165,7 +165,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ガリバン",
-  "en": "Galivan"
+  "en": "Galivan,"
  },
  {
   "id": "2DA01B_0241.0",
@@ -173,7 +173,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ネクラマンサー",
-  "en": "Necromancer"
+  "en": "Necromancer,"
  },
  {
   "id": "2DA01B_0247.0",
@@ -181,7 +181,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ピエール",
-  "en": "Pierre"
+  "en": "Pierre,"
  },
  {
   "id": "2DA01B_024D.0",
@@ -189,7 +189,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "ラビット",
-  "en": "Rabbit"
+  "en": "Rabbit,"
  },
  {
   "id": "2DA01B_0253.0",
@@ -197,7 +197,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "パウエル",
-  "en": "Powell"
+  "en": "Powell,"
  },
  {
   "id": "2DA01B_0259.0",
@@ -205,7 +205,7 @@
   "form": "dlg",
   "nlines": 1,
   "jp": "バルカン",
-  "en": "Vulcan"
+  "en": "Vulcan,"
  },
  {
   "id": "2DA01B_025B.0",
@@ -213,7 +213,7 @@
   "form": "dlg",
   "nlines": 2,
   "jp": "、 / 君は外の捜索の指揮をとってくれ。",
-  "en": ", I want you to lead the search outside."
+  "en": "I want you to lead the search outside."
  },
  {
   "id": "2DA01B_02D5.0",

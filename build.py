@@ -28,7 +28,7 @@ SIZE = 0x400000
 FARSHORT_OFF = 0x300000          # $E0:8000
 FONT_OFF = 0x304000              # $E0:C000
 FONTW_OFF = 0x304C00             # $E0:CC00
-PRE_OFF, PRE_FIRST, PRE_END = 0x308000, 0xB00, 0xE00   # $E1:8000: precomposed English UI cells
+PRE_OFF, PRE_FIRST, PRE_END = 0x308000, 0xB00, ui.PRE_END   # $E1:8000: precomposed English UI cells
 TEXT_START, TEXT_END = 0x318000, 0x3F8000   # banks $E3-$FE ($E2 = UI copy of bank $84, see tools/ui.py;
                                              # $FF = combat name plates, tools/gfx_plates.py)
 SHORT_FIRST, SHORT_LAST = 0x833, 0xAFF
@@ -136,7 +136,9 @@ MIDLINE_LEAD = 8   # cells kept free on the first line of a mid-line region (an 
 
 def midline_targets(rom, g):
     """{(block file offset, body offset)} of jump targets reached from a jump that follows text with no newline,
-    e.g. "<leader name>" JUMP -> "、 / I want you to...": the English continues on a line that already holds a name."""
+    e.g. "<leader name>" JUMP -> "、 / I want you to...": the English continues on a line that already holds a name.
+    Text that is only JP blank cells (0x11, an indent kept in place) is not a continuation: the target starts the
+    line as usual (2DA01B_01FF "Mayfair" had an empty line above it, issue #5)."""
     from vm import parse_block
     out = set()
     for blk in unique_blocks(rom):
@@ -145,9 +147,39 @@ def midline_targets(rom, g):
         except Exception:   # pseudo blocks (epilogue stream) have no jump-into-midline cases
             continue
         for prev, o in zip(ops, ops[1:]):
-            if o.get('targets') and prev['kind'] == 'text' and prev['raw'][-1:] != b'\x00':
+            if o.get('targets') and prev['kind'] == 'text' and prev['raw'][-1:] != b'\x00' \
+                    and set(prev['raw']) != {0x11}:
                 out.update((blk[2], t) for t in o['targets'])
     return out
+
+
+def same_box_choices(rom, g):
+    """{(block file offset, question end): (last option offset, choice op offset)} for the JP pattern
+    question, 01 (wait + clear), [05 00], option, 03, option, 03, 0C 02 (2 options on a fresh page), with no jump
+    landing between the 01 and the choice. A 1-line English question keeps its options in the same box (issue #5)."""
+    from vm import parse_block
+    out = {}
+    for blk in unique_blocks(rom):
+        try:
+            _, _, ops = parse_block(rom, g, blk)
+        except Exception:   # pseudo blocks (battle streams) have no choices
+            continue
+        landed = {t for o in ops for t in o.get('targets', [])}
+        sig = lambda o: 'T' if o['kind'] == 'text' else '%02X' % o['op']   # noqa: E731
+        for k, o in enumerate(ops):
+            if o['kind'] != 'text' or k + 1 >= len(ops) or sig(ops[k + 1]) != '01':
+                continue
+            j = k + 2 + (k + 2 < len(ops) and ops[k + 2]['raw'] == b'\x10\x05\x00')
+            seq = ops[j:j + 5]
+            if [sig(x) for x in seq] != ['T', '03', 'T', '03', '0C'] or seq[4]['raw'][2] != 2:
+                continue
+            if any(ops[k + 1]['off'] <= t <= seq[4]['off'] for t in landed):
+                continue
+            out[(blk[2], ops[k + 1]['off'])] = (seq[2]['off'], seq[4]['off'])
+    return out
+
+
+SAME_BOX_LAYOUT = 1   # choice layout 1: 2 options on rows 1-2 (asm/dk4.asm 80:CA44)
 
 
 def build(mode):
@@ -168,7 +200,10 @@ def build(mode):
     jump_end = {}
     shared = {}
     midline = midline_targets(rom, g)
+    same_box = same_box_choices(rom, g) if mode == 'build' else {}
+    last_options = set()
     for r in regions(rom, g):
+        skip_extra = 0
         stats['regions'] += 1
         us = units(r, rom, g)
         ids = ['%s.%d' % (r['id'], u['sid']) for u in us]
@@ -206,6 +241,8 @@ def build(mode):
                 last = lines_of(toks)[-1]
                 pad = len(last) if last and last[-1][0] == 'blank' else 0
                 body = layout.choice_region(fields, lay, pad)
+                if (r['boff'], r['off']) in last_options and body[-1:] == bytes([layout.NL]):
+                    body = body[:-1]   # on row 2 a newline would fill the page and clear it before the choice op
                 end_line = 0
             else:
                 info, toks = region_seg_info(r, rom, g)
@@ -235,7 +272,8 @@ def build(mode):
                 attach = r['prev_op'] in INLINE_OPS and carried
                 if attach:
                     first = max(0, layout.CELLS - prev_col[key] - NUM_CELLS)
-                room = NUM_CELLS if r['next_op'] in INLINE_OPS else 0
+                # +1: the "!" / "!!" after the number stays on its line (Eto "Seed of Power x 2" + "!", issue #5)
+                room = NUM_CELLS + 1 if r['next_op'] in INLINE_OPS else 0
                 body, end_line, end_col = layout.dlg_region(segs, start_line, trailing, first, attach, room)
                 if end_col > layout.CELLS - room:
                     raise layout.LayoutError('no room for the number after the last line (%d cells)' % end_col)
@@ -245,6 +283,13 @@ def build(mode):
                 if trailing and jp_end == 0 and end_line != 0:
                     body += bytes([layout.BLANK, layout.NL]) * (layout.LINES - end_line)
                     end_line = 0
+                sb = same_box.get((r['boff'], r['off'] + r['len']))
+                if sb and end_line == 0 and end_col > 0 and r['len'] >= 2:
+                    # the question is alone on row 0: skip the 01 (wait + clear) and draw the options on rows 1-2
+                    body += bytes([layout.NL])
+                    skip_extra = len(r['next_raw'])
+                    img[r['boff'] + 2 + sb[1] + 2] = SAME_BOX_LAYOUT
+                    last_options.add((r['boff'], sb[0]))
         except layout.LayoutError as ex:
             stats['errors'] += 1
             errors.append('%s: %s' % (r['id'], ex))
@@ -264,12 +309,12 @@ def build(mode):
             shared[far] = file_to_cpu(alloc.put(far))
         cpu = shared[far]
         if r['len'] >= 6:   # 0F ptr24 skip16
-            tok = bytes([0x0F, cpu & 0xFF, cpu >> 8 & 0xFF, cpu >> 16]) + (r['len'] - 4).to_bytes(2, 'little')
+            tok = bytes([0x0F, cpu & 0xFF, cpu >> 8 & 0xFF, cpu >> 16]) + (r['len'] - 4 + skip_extra).to_bytes(2, 'little')
         else:               # short code -> FARSHORT entry: ptr24, skip8
             if short_next > SHORT_LAST:
                 raise SystemExit('out of short codes')
             k = short_next - SHORT_FIRST
-            img[FARSHORT_OFF + 4 * k:FARSHORT_OFF + 4 * k + 4] = cpu.to_bytes(3, 'little') + bytes([r['len'] - 2])
+            img[FARSHORT_OFF + 4 * k:FARSHORT_OFF + 4 * k + 4] = cpu.to_bytes(3, 'little') + bytes([r['len'] - 2 + skip_extra])
             tok = bytes([short_next >> 8, short_next & 0xFF])
             short_next += 1
         at = r['boff'] + 2 + r['off']

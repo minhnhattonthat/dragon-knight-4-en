@@ -48,6 +48,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (SHA-1 0b29bb00bb3891e5273588e46bd6619ef65e6c40). Tour work/qa/tour: 60 scenes rc=0, jpdraw 0 Japanese;
   work/qa/manifest.tsv has 360 sheets with no visual-QA verdicts (waiver recorded). Published by the user
   2026-11-20: github.com/minhnhattonthat/dragon-knight-4-en/releases/tag/v1.2.
+- **2026-11-23 issue #5 (v1.2 report; RetroArch Mesen-S states: raw, WRAM at file offset 0xA5, 7F:0000 = loaded block):**
+  fixed blank box after a 24-cell last line (Torul 2D8000_15E0, Santos 2DAE44_0F4C; engine adv_hook, docs/re/hooks.md),
+  choice highlight width (Necromancer's Squad "d"; choice_w), Eto seed pickup "!" alone on a line (room for the number +1
+  cell; multi-page last_room bug fixed in layout), "Mayfair   ," (blank-only lead-in is not a midline continuation;
+  comma moved into the 16 name regions of 2DA01B; no speaker tag there in JP either), stray leading ?/?!/! in 10 lines,
+  Eto/Natasha same line (JP nearly identical; Eto reworded). Verified by warp / bat23 battletext. Then (same day): 2-option
+  choices after a 1-line unnamed question stay in its box (43 of 119; choice layout 1 = rows 1-2, build.py
+  same_box_choices), unit pick lists (party split op 30 02, training op 30 08) in 2 columns / 6 visible (asm list_*).
+  Party names full-width (ui.json party_list mode hires: 124 pool cells, tiles $04-$1F3 of BG2; $200+ = box frame):
+  JP pool cells 43-45 ($14E/$230/$261 = list arrows + "picked" star, fixed tiles $B0-$BB) kept in place (the thin
+  pool had overwritten them: the star showed "Rhea"); precomposed UI codes now $B00-$E5F. Seen: pick list, field
+  Status list. Not seen: Items -> unit list (81:E12F; no state with items), training list (block 49).
+  Verified by warp + WRAM injected from the reporter's state7 (tools/debug/ra_inject.lua: 7E:0200-06FF, 0740-1DFF,
+  2000-FFFF; full WRAM hangs). Not done: Animation toggle clearing Air/Gnd
+  ---% (not reproduced: pad cursor did not reach the button bar; HUD code untouched by the patch).
+- **2026-11-23 v1.3 (issue #5):** release/dragon-knight-4_en.zip from fix/issue-5 (PR #6): Dragon_Knight_4_EN_v1.3.bps,
+  patch SHA-1 d2b9b4dcffb4faf644782076d5e63fcc09ec63db, patched CRC32 3C0082A8 (SHA-1
+  72271dcf61f4cbc220b8930633fd7d34acece77e). Tour work/qa/tour: 60 scenes rc=0, jpdraw 0 Japanese; manifest 360 sheets,
+  waiver recorded (as v1.2). Not yet merged / published (merge was blocked by the permission classifier).
 - **Next:** player bug reports (`gh issue list --label bug`). Never publish without the user.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on

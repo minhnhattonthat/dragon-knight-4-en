@@ -28,7 +28,8 @@ ARGS = {
     0x3C: 1, 0x3D: 2, 0x3E: 0, 0x3F: 1, 0x40: 4, 0x41: 4, 0x42: 2, 0x43: 0,
 }
 # op 0C (choice) layout byte -> option count (80:CA78); followed by count+1 jump targets (last = cancel)
-CHOICE_N = [0, 0, 2, 3, 4, 5, 6, 4, 8]
+# layout 1 is unused in the JP script; the English build makes it 2 options on rows 1-2 (asm/dk4.asm, SAME_BOX_LAYOUT)
+CHOICE_N = [0, 2, 2, 3, 4, 5, 6, 4, 8]
 # ops whose last two arg bytes are a 16-bit jump target (7F:xxxx = block offset)
 JUMP_ARG = {0x0A: 2, 0x12: 0, 0x14: 0, 0x32: 1, 0x35: 2, 0x40: 2, 0x41: 2}
 

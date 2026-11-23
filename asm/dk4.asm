@@ -23,8 +23,8 @@ lorom
 !FARSHORT   = $E08000   ; short-call table: (code - $833) * 3 -> 24-bit ptr; written by build.py
 !FONT       = $E0C000   ; 96 glyphs (codes $20-$7F) x 14 little-endian row words; written by build.py
 !FONTW      = $E0CC00   ; 96 advance widths (hi-res px); written by build.py
-!PRE_FIRST  = $0B00     ; precomposed English UI cells: codes $0B00-$0DFF -> 28-byte cells at $E1:8000
-!PRE_END    = $0E00
+!PRE_FIRST  = $0B00     ; precomposed English UI cells: codes $0B00-$0E5F -> 28-byte cells at $E1:8000-$DFFF
+!PRE_END    = $0E60     ; tools/ui.py PRE_END
 !PRE_BANK   = $E1
 
 ; ===================== hooks =====================
@@ -33,6 +33,74 @@ org $80B318             ; dictionary call path (code >= $6CC): STY $30,x / SBC #
 
 org $80AEAE             ; glyph routine entry: PHB / REP #$21 / LDY #$8800
     JML vwf_hook
+
+org $80ACDF             ; text cursor advance: INC $06,x / LDA $06,x (col; wraps at width $05, line $08)
+    JML adv_hook
+
+org $80C93C             ; choice cursor: attribute rows for the new / old option (see choice_w)
+    LDY.w #choice_hi
+org $80C945
+    LDY.w #choice_lo
+org $80C95D
+    JSL choice_w
+    NOP
+    NOP
+    NOP
+org $80C96C
+    LDA.b #choice_hi>>16
+org $80C976
+    JSL choice_w
+    NOP
+    NOP
+    NOP
+org $80C984
+    LDA.b #choice_hi>>16
+
+org $80CA44             ; choice layout 1 (unused in JP): option tilemap offsets $0040,$0080 (rows 1-2, part of
+    dw $CA54            ; layout 2's list at 80:CA52) = a 1-line question and its 2 options in one box (build.py)
+org $80CA79             ; choice layout 1 option count (80:CA78)
+    db $02
+
+; unit pick lists (op 30 02 party split "choose up to 5 besides Rhea", op 30 08): 2 columns, 6 names in the box
+; instead of 1 column of 3 (issue #5). Index i sits at row i/2, column i&1 (see list_pos).
+org $85852A             ; draw (op 30 02): REP #$20 / ASL x5 / ADC #$D9E7 / STA $03 (name tiles), then JSR $8572
+    JSL list_draw
+    NOP #8
+org $858445             ; draw (op 30 08): same sequence, then JSR $848D
+    JSL list_draw
+    NOP #8
+org $8582A1             ; "picked" tag: XBA / LSR / LSR / ADC #$1807 (VRAM word address of index $23)
+    JSL list_tag
+    NOP #2
+org $858323             ; highlight off (old index $25): XBA / LSR / LSR / ADC #$1809
+    JSL list_name
+    NOP #2
+org $858340             ; highlight on (index $23)
+    JSL list_name
+    NOP #2
+org $85832F             ; highlight off: LDA #$83CB / STA $0F (8 attribute bytes $24, bank $85)
+    JSL list_attr_off
+    NOP
+org $85834C             ; highlight on: LDA #$83C3 / STA $0F (8 x $20)
+    JSL list_attr_on
+    NOP
+org $85839A             ; highlight DMA source bank (85:838E, both rows) -> the attribute bytes built in WRAM
+    db $7E
+org $8583B7
+    db $7E
+org $858356             ; scroll: LDA $23 / SEC / SBC $24 ($24 = top row, 3 rows shown)
+    JSL list_rowdiff
+    NOP
+org $8582FC             ; pad table (JSR ($82F6,x), x = $AB): right ($06) -> forward, left ($0E) -> back
+    dw $830A
+org $858304
+    dw $8313
+org $85830A             ; forward (down $0A: +2, right: +1 from the left column)
+    JSL list_fwd
+    RTS
+org $858313             ; back (up $02: -2, left: -1 from the right column)
+    JSL list_back
+    RTS
 
 org $80B169             ; menu string renderer: CMP #$06CC / BCC single glyph (else dictionary)
     JML b160_hook
@@ -48,6 +116,9 @@ org $80C3F0             ; unit-info box string printer (op 21): CMP #$06CC / BCS
 org $80C253             ; unit-info box: LDY #defense_label / STY $00 right after a digit print left $02 = #$80
     JSL c253_fix
     NOP
+
+org $81F0FC             ; menu-string buffer flush (JSR from 81:F0B5): a second flush lost the string index $1F
+    JML pool_flush      ; during its frame wait (full-width party names = 2 flushes); see pool_flush
 
 org $81F0E5             ; menu-string upload buffer 7E:B312: flush every 64 cells instead of 56 (the English
     CPY #$C312          ; party-name pool is 60 cells; 7E:C112-C312 is unused, zero in every RAM dump)
@@ -151,6 +222,30 @@ far_hook:               ; M=16 X=16, A = code, Y = offset after the 2-byte code,
     JML $80B2B6
 
 ; ---------------------------------------------------------------------------------
+; M=8 X=16, X = ctx. English lines may use all 24 cells (JP lines use 23). Drawing cell 24 wrapped the line at
+; once; on a page's last line that flagged page-full, so a wait op after the text showed an empty page (issue #5).
+; In far text, a glyph-loop advance (JSR from 80:AB23 / 80:AB2D) that reaches the width leaves col = width
+; pending; the next 00 newline (80:B302: col != 0, col = width - 1, advance) wraps as usual.
+adv_hook:
+    INC $06,x
+    LDA.l !V_EN
+    BEQ .orig
+    REP #$20
+    LDA $01,s           ; JSR return address - 1
+    CMP #$AB25
+    BEQ .glyph
+    CMP #$AB2F
+    BEQ .glyph
+    SEP #$20
+.orig:
+    LDA $06,x
+    JML $80ACE3         ; CMP $05,x ...
+.glyph:
+    SEP #$20
+    LDA $06,x
+    CMP $05,x
+    BNE .orig
+    JML $80ACF8         ; no wrap: only recompute the cell address
 vwf_hook:               ; M=8 X=16, C = code, X = ctx, $00-$02 = text base, ctx $0C = next offset
     PHB
     REP #$21
@@ -403,6 +498,209 @@ draw:
     STA !V_X
     PLX
     RTS
+
+; ---------------------------------------------------------------------------------
+; choice cursor (80:C92F): the moved-to / moved-from option gets attribute bytes $20 (white) / $24 (grey) over 10
+; cells from 80:CA64 / 80:CA6E. English options run longer ("Necromancer's Squad" kept a white "d", issue #5):
+; recolor 13 cells at column 0 (up to the second column) or up to the box edge (24 - column), from these tables.
+choice_w:               ; M=8 X=16, replaces TDC / LDA #$0A / JSL $809731 (A = DMA length), $17 = option's
+    REP #$20            ; tilemap address, $03 = box origin
+    LDA $17
+    SEC
+    SBC $03
+    AND #$001F          ; column (0 or 13)
+    BNE +
+    LDA #$000D
+    BRA ++
++   EOR #$FFFF
+    SEC
+    ADC #$0018          ; 24 - column
+++  SEP #$20
+    JSL $809731
+    RTL
+choice_hi:
+    db $20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20,$20
+choice_lo:
+    db $24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24,$24
+
+; ---------------------------------------------------------------------------------
+; unit pick lists (85:81A7 / 85:8148, shared input loop 85:8204): 2 columns. Tilemap: 32 words per tile row,
+; 2 tile rows per entry; column 0 = tag at word 7, name (8 tiles) at word 9; column 1 is 12 words to the right.
+list_pos:               ; M=16, A = index (high byte 0) -> A = row * $40 + column * $0C, carry clear
+    LSR A
+    BCS +
+    XBA
+    LSR A
+    LSR A
+    RTS
++   XBA
+    LSR A
+    LSR A               ; low bits shifted out are 0: carry clear
+    ADC.w #$000C
+    RTS
+list_tag:
+    JSR list_pos
+    ADC.w #$1807
+    RTL
+list_name:
+    JSR list_pos
+    ADC.w #$1809
+    RTL
+list_draw:              ; M=8 -> 16: $03 = name tiles of unit A (as the original), $00 = buffer slot of index $1F
+    REP #$20
+    ASL A
+    ASL A
+    ASL A
+    ASL A
+    ASL A
+    ADC.w #$D9E7
+    STA $03
+    LDA $1F
+    AND.w #$00FF
+    JSR list_pos
+    ASL A
+    ADC.w #$E012        ; 7F:E012 = row 0, word 9
+    STA $00
+    RTL
+; highlight attribute bytes (tilemap high bytes): the original wrote a flat $20 / $24 over the 8 name tiles, which
+; zeroed tile-number bits 8-9; full-width names reach tile $1F3. Keep each tile's bits 8-9 from the list tilemap
+; copy at 7F:E000 (= VRAM $1800). M=16 X=16, $11 = VRAM word address of the name's top row.
+!LIST_ATTR = $1E20      ; 8 bytes in 7E:1E20 (V_ROWS: VWF scratch, idle while a list is open)
+list_attr_off:
+    LDA.w #$0024
+    BRA list_attr
+list_attr_on:
+    LDA.w #$0020
+list_attr:
+    PHX
+    PHY
+    PHA
+    LDA $11
+    SEC
+    SBC.w #$1800
+    ASL A
+    TAX
+    LDY.w #$0000
+-   LDA $7FE001,x       ; low byte = high byte of the tile word
+    AND.w #$0003
+    ORA $01,s
+    SEP #$20
+    STA.w !LIST_ATTR,y  ; DB = $7E (85:800E)
+    REP #$20
+    INX
+    INX
+    INY
+    CPY.w #$0008
+    BNE -
+    PLA
+    LDA.w #!LIST_ATTR
+    STA $0F
+    PLY
+    PLX
+    RTL
+list_rowdiff:           ; M=8: A = row of $23 - top row $24, flags for the BMI / CMP #$03 after it
+    LDA $23
+    LSR A
+    SEC
+    SBC $24
+    RTL
+list_fwd:               ; M=8: carry set = no move
+    LDA $AB
+    CMP.b #$06
+    BNE +
+    LDA $23
+    BIT.b #$01
+    BNE .no             ; right from the right column
+    INC A
+    BRA ++
++   LDA $23
+    INC A
+    INC A
+++  CMP $1F
+    BCS .no
+    STA $23
+    CLC
+    RTL
+.no:
+    SEC
+    RTL
+list_back:
+    LDA $AB
+    CMP.b #$0E
+    BNE +
+    LDA $23
+    BIT.b #$01
+    BEQ .no             ; left from the left column
+    DEC A
+    BRA ++
++   LDA $23
+    SEC
+    SBC.b #$02
+    BMI .no
+++  STA $23
+    CLC
+    RTL
+.no:
+    SEC
+    RTL
+
+; 81:F0FC copied (M=8 X=16, Y = buffer end): upload 7E:B312..Y to VRAM $21, $21 += words. The JP pool fit one
+; flush; a second one refilled the buffer before the first upload ran (both VRAM halves got the second batch):
+; wait a frame after queueing it. Keeps the string index $1F too. Returns through 81:F154 (RTS) into bank 81.
+pool_flush:
+    PEI ($1F)
+    LDA $6F
+    BPL .now
+    REP #$20            ; queued (NMI) upload
+    TYA
+    SEC
+    SBC.w #$B312
+    TAY
+    PHA
+    SEP #$20
+    LDX.w #$B312
+    STX $45
+    LDA.b #$7E
+    STA $47
+    LDX $21
+    LDA.b #$80
+    JSL $80986D
+    BRA .done
+.now:
+    PHY
+    LDX $21
+    STX $45
+    LDA.b #$7E
+    STA $4A
+    LDX.w #$B312
+    STX $48
+    REP #$20
+    LDA $01,s
+    SEC
+    SBC.w #$B312
+    STA $01,s
+    TAY
+    SEP #$20
+    JSL $80911B
+    LDA.b #$80
+    TSB $AF
+    TDC
+    JSL $809769
+    LDA.b #$80
+    TRB $AF
+.done:
+    JSL $80911B         ; the upload runs at the next NMI: let it read the buffer before it is refilled
+    REP #$20
+    PLA
+    LSR A
+    CLC
+    ADC $21
+    STA $21
+    PLA
+    STA $1F
+    SEP #$20
+    JML $81F154         ; RTS
+assert pc() <= $E0E000
 
 ; ---------------------------------------------------------------------------------
 ; combat name plates: precomposed names at $FF:8000 (128 bytes per packed name index, tools/gfx_plates.py)
