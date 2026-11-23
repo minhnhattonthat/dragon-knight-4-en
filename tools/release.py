@@ -16,7 +16,7 @@ from skill import SCRIPTS  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 ROM = ROOT / 'rom' / 'Dragon Knight 4 (Japan).sfc'
-VERSION = '1.2'
+VERSION = '1.3'
 SLUG = 'dragon-knight-4'
 PATCH = 'Dragon_Knight_4_EN_v%s.bps' % VERSION
 PY = [sys.executable, '-X', 'utf8']

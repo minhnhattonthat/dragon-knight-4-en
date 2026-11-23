@@ -63,6 +63,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Verified by warp + WRAM injected from the reporter's state7 (tools/debug/ra_inject.lua: 7E:0200-06FF, 0740-1DFF,
   2000-FFFF; full WRAM hangs). Not done: Animation toggle clearing Air/Gnd
   ---% (not reproduced: pad cursor did not reach the button bar; HUD code untouched by the patch).
+- **2026-11-23 v1.3 (issue #5):** release/dragon-knight-4_en.zip from fix/issue-5 (PR #6): Dragon_Knight_4_EN_v1.3.bps,
+  patch SHA-1 d2b9b4dcffb4faf644782076d5e63fcc09ec63db, patched CRC32 3C0082A8 (SHA-1
+  72271dcf61f4cbc220b8930633fd7d34acece77e). Tour work/qa/tour: 60 scenes rc=0, jpdraw 0 Japanese; manifest 360 sheets,
+  waiver recorded (as v1.2). Not yet merged / published (merge was blocked by the permission classifier).
 - **Next:** player bug reports (`gh issue list --label bug`). Never publish without the user.
 - **Open bugs:** Title copyright lines ©エルフ / ©バンプレ企画 still Japanese
   (docs/re/graphics.md row: packed tile format, not yet decoded). Field Status list in warp states shows "Pierre" x5 + garbage (warp artifact? recheck on
