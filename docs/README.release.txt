@@ -46,3 +46,4 @@ Credits
   Anthropic) and automated emulator QA. Original game (c) 1996 elf / Banpresto.
 - No earlier English patch for the SNES version was found (fan patches exist for the PC-98/DOS
   versions; none of their text was used).
+- Bug reports and testing: IvanFerrel (issues #3 and #5).
