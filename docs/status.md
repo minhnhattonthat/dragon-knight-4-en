@@ -56,6 +56,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Eto/Natasha same line (JP nearly identical; Eto reworded). Verified by warp / bat23 battletext. Then (same day): 2-option
   choices after a 1-line unnamed question stay in its box (43 of 119; choice layout 1 = rows 1-2, build.py
   same_box_choices), unit pick lists (party split op 30 02, training op 30 08) in 2 columns / 6 visible (asm list_*).
+  Party names full-width (ui.json party_list mode hires: 124 pool cells, tiles $04-$1F3 of BG2; $200+ = box frame):
+  JP pool cells 43-45 ($14E/$230/$261 = list arrows + "picked" star, fixed tiles $B0-$BB) kept in place (the thin
+  pool had overwritten them: the star showed "Rhea"); precomposed UI codes now $B00-$E5F. Seen: pick list, field
+  Status list. Not seen: Items -> unit list (81:E12F; no state with items), training list (block 49).
   Verified by warp + WRAM injected from the reporter's state7 (tools/debug/ra_inject.lua: 7E:0200-06FF, 0740-1DFF,
   2000-FFFF; full WRAM hangs). Not done: Animation toggle clearing Air/Gnd
   ---% (not reproduced: pad cursor did not reach the button bar; HUD code untouched by the patch).

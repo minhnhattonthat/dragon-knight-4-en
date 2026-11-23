@@ -28,7 +28,7 @@ SIZE = 0x400000
 FARSHORT_OFF = 0x300000          # $E0:8000
 FONT_OFF = 0x304000              # $E0:C000
 FONTW_OFF = 0x304C00             # $E0:CC00
-PRE_OFF, PRE_FIRST, PRE_END = 0x308000, 0xB00, 0xE00   # $E1:8000: precomposed English UI cells
+PRE_OFF, PRE_FIRST, PRE_END = 0x308000, 0xB00, ui.PRE_END   # $E1:8000: precomposed English UI cells
 TEXT_START, TEXT_END = 0x318000, 0x3F8000   # banks $E3-$FE ($E2 = UI copy of bank $84, see tools/ui.py;
                                              # $FF = combat name plates, tools/gfx_plates.py)
 SHORT_FIRST, SHORT_LAST = 0x833, 0xAFF

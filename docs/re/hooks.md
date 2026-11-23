@@ -8,6 +8,8 @@
 | 80:C93C-C985 | choice cursor: 10 attribute bytes (80:CA64 $20 / 80:CA6E $24) per option row | choice_w | 13 cells at column 0, 24 - column at column 13, tables in bank $E0 (English options are wider) |
 | 80:CA44, CA79 | choice layout 1 (unused in JP): ptr 0, count 0 | `dw $CA54` / `db 2` | options at tilemap +$40/+$80 (rows 1-2): build.py same_box_choices skips the 01 after a 1-line unnamed question and sets the 0C layout byte to 1 |
 | 85:852A, 8445, 82A1, 8323, 8340, 8356, 830A, 8313, 82FC/8304 | unit pick lists (op 30 02 / 08): one name per row, 3 rows shown; index $23, top row $24, count $1F, pad $AB (02 up, 0A down, 06 right, 0E left) | list_draw / list_tag / list_name / list_rowdiff / list_fwd / list_back | 2 columns (index i at row i/2, column i&1, +12 words), 6 names shown |
+| 85:832F, 834C, 839A, 83B7 | pick-list highlight: 8 flat attribute bytes $20/$24 from bank $85 | list_attr_on / list_attr_off | attribute bytes built per tile in 7E:1E20 from the list tilemap copy 7F:E000, keeping tile bits 8-9 (full-width names reach tile $1F3) |
+| 81:F0FC | party-name pool buffer flush (81:F0B5) | JML pool_flush | waits a frame after queueing the upload (a second flush refilled the buffer first) and keeps the string index $1F; the JP 46-cell pool never flushed twice |
 | 80:B169 | menu renderer `CMP #$06CC` | b160_hook | precomposed codes take the single-glyph path |
 | 80:B1B0 | menu glyph draw | b1b0_hook | precomposed codes read their cell from $E1:8000 |
 | 80:C3F0 | op 21 unit-info printer `CMP #$06CC` | c3f0_hook | precomposed codes are glyphs, not dictionary entries |

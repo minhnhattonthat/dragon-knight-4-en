@@ -23,8 +23,8 @@ lorom
 !FARSHORT   = $E08000   ; short-call table: (code - $833) * 3 -> 24-bit ptr; written by build.py
 !FONT       = $E0C000   ; 96 glyphs (codes $20-$7F) x 14 little-endian row words; written by build.py
 !FONTW      = $E0CC00   ; 96 advance widths (hi-res px); written by build.py
-!PRE_FIRST  = $0B00     ; precomposed English UI cells: codes $0B00-$0DFF -> 28-byte cells at $E1:8000
-!PRE_END    = $0E00
+!PRE_FIRST  = $0B00     ; precomposed English UI cells: codes $0B00-$0E5F -> 28-byte cells at $E1:8000-$DFFF
+!PRE_END    = $0E60     ; tools/ui.py PRE_END
 !PRE_BANK   = $E1
 
 ; ===================== hooks =====================
@@ -78,6 +78,16 @@ org $858323             ; highlight off (old index $25): XBA / LSR / LSR / ADC #
 org $858340             ; highlight on (index $23)
     JSL list_name
     NOP #2
+org $85832F             ; highlight off: LDA #$83CB / STA $0F (8 attribute bytes $24, bank $85)
+    JSL list_attr_off
+    NOP
+org $85834C             ; highlight on: LDA #$83C3 / STA $0F (8 x $20)
+    JSL list_attr_on
+    NOP
+org $85839A             ; highlight DMA source bank (85:838E, both rows) -> the attribute bytes built in WRAM
+    db $7E
+org $8583B7
+    db $7E
 org $858356             ; scroll: LDA $23 / SEC / SBC $24 ($24 = top row, 3 rows shown)
     JSL list_rowdiff
     NOP
@@ -106,6 +116,9 @@ org $80C3F0             ; unit-info box string printer (op 21): CMP #$06CC / BCS
 org $80C253             ; unit-info box: LDY #defense_label / STY $00 right after a digit print left $02 = #$80
     JSL c253_fix
     NOP
+
+org $81F0FC             ; menu-string buffer flush (JSR from 81:F0B5): a second flush lost the string index $1F
+    JML pool_flush      ; during its frame wait (full-width party names = 2 flushes); see pool_flush
 
 org $81F0E5             ; menu-string upload buffer 7E:B312: flush every 64 cells instead of 56 (the English
     CPY #$C312          ; party-name pool is 60 cells; 7E:C112-C312 is unused, zero in every RAM dump)
@@ -549,6 +562,42 @@ list_draw:              ; M=8 -> 16: $03 = name tiles of unit A (as the original
     ADC.w #$E012        ; 7F:E012 = row 0, word 9
     STA $00
     RTL
+; highlight attribute bytes (tilemap high bytes): the original wrote a flat $20 / $24 over the 8 name tiles, which
+; zeroed tile-number bits 8-9; full-width names reach tile $1F3. Keep each tile's bits 8-9 from the list tilemap
+; copy at 7F:E000 (= VRAM $1800). M=16 X=16, $11 = VRAM word address of the name's top row.
+!LIST_ATTR = $1E20      ; 8 bytes in 7E:1E20 (V_ROWS: VWF scratch, idle while a list is open)
+list_attr_off:
+    LDA.w #$0024
+    BRA list_attr
+list_attr_on:
+    LDA.w #$0020
+list_attr:
+    PHX
+    PHY
+    PHA
+    LDA $11
+    SEC
+    SBC.w #$1800
+    ASL A
+    TAX
+    LDY.w #$0000
+-   LDA $7FE001,x       ; low byte = high byte of the tile word
+    AND.w #$0003
+    ORA $01,s
+    SEP #$20
+    STA.w !LIST_ATTR,y  ; DB = $7E (85:800E)
+    REP #$20
+    INX
+    INX
+    INY
+    CPY.w #$0008
+    BNE -
+    PLA
+    LDA.w #!LIST_ATTR
+    STA $0F
+    PLY
+    PLX
+    RTL
 list_rowdiff:           ; M=8: A = row of $23 - top row $24, flags for the BMI / CMP #$03 after it
     LDA $23
     LSR A
@@ -594,7 +643,64 @@ list_back:
 .no:
     SEC
     RTL
-warnpc $E0E000
+
+; 81:F0FC copied (M=8 X=16, Y = buffer end): upload 7E:B312..Y to VRAM $21, $21 += words. The JP pool fit one
+; flush; a second one refilled the buffer before the first upload ran (both VRAM halves got the second batch):
+; wait a frame after queueing it. Keeps the string index $1F too. Returns through 81:F154 (RTS) into bank 81.
+pool_flush:
+    PEI ($1F)
+    LDA $6F
+    BPL .now
+    REP #$20            ; queued (NMI) upload
+    TYA
+    SEC
+    SBC.w #$B312
+    TAY
+    PHA
+    SEP #$20
+    LDX.w #$B312
+    STX $45
+    LDA.b #$7E
+    STA $47
+    LDX $21
+    LDA.b #$80
+    JSL $80986D
+    BRA .done
+.now:
+    PHY
+    LDX $21
+    STX $45
+    LDA.b #$7E
+    STA $4A
+    LDX.w #$B312
+    STX $48
+    REP #$20
+    LDA $01,s
+    SEC
+    SBC.w #$B312
+    STA $01,s
+    TAY
+    SEP #$20
+    JSL $80911B
+    LDA.b #$80
+    TSB $AF
+    TDC
+    JSL $809769
+    LDA.b #$80
+    TRB $AF
+.done:
+    JSL $80911B         ; the upload runs at the next NMI: let it read the buffer before it is refilled
+    REP #$20
+    PLA
+    LSR A
+    CLC
+    ADC $21
+    STA $21
+    PLA
+    STA $1F
+    SEP #$20
+    JML $81F154         ; RTS
+assert pc() <= $E0E000
 
 ; ---------------------------------------------------------------------------------
 ; combat name plates: precomposed names at $FF:8000 (128 bytes per packed name index, tools/gfx_plates.py)

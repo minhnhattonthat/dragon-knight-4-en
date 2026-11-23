@@ -15,7 +15,11 @@
 28313-28317   unit pick list: back -> JSL list_back
 28323-28328   unit pick list: highlight off position -> JSL list_name
 28340-28345   unit pick list: highlight on position -> JSL list_name
-28356-2835A   unit pick list: scroll row -> JSL list_rowdiff
+2832F-28333   unit pick list: highlight-off attribute source -> JSL list_attr_off (keeps tile bits 8-9)
+2834C-28350   unit pick list: highlight-on attribute source -> JSL list_attr_on
+2839A         unit pick list: highlight DMA source bank -> $7E
+283B7         unit pick list: highlight DMA source bank -> $7E
+28356-2835A  unit pick list: scroll row -> JSL list_rowdiff
 28445-28450   unit pick list (op 30 08) draw slot -> JSL list_draw
 2852A-28535   unit pick list (op 30 02) draw slot -> JSL list_draw
 2EAE-2EB1   hook 80:AEAE glyph routine -> vwf_hook
@@ -41,6 +45,7 @@ EB03-EB08     main menu pool ref
 ECEC-ECF1     main menu pool ref
 EE86-EEB6     main menu strings
 F0E7          menu upload buffer limit (81:F0E5 CPY)
+F0FC-F0FF     menu upload buffer flush -> JML pool_flush (keeps $1F; full-width party names, issue #5)
 F2B6-F2BB     status tilemap bank/pointer refs
 F322-F327     status label pool ref
 F47D          bank-84 string table bank byte -> $E2
