@@ -8,7 +8,7 @@
   },
   "extraKnownMarketplaces": {
     "retro-translation": {
-      "source": { "source": "github", "repo": "minhnhattonthat/translate-retro-game" },
+      "source": { "source": "github", "repo": "mtlgames/translate-retro-game" },
       "autoUpdate": true
     }
   },
